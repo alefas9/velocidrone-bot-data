@@ -1,0 +1,593 @@
+{
+  "generated_at": "2026-11-03T22:05:02.745306",
+  "season": 2026,
+  "current_track": "SimRushWeek-5",
+  "current_leaderboard": {
+    "5inch": [
+      {
+        "pilot": "anthunder",
+        "time": 37.39,
+        "quad": "Bahamut"
+      },
+      {
+        "pilot": "TettixPro",
+        "time": 38.623,
+        "quad": "Carbix Zero"
+      },
+      {
+        "pilot": "DedalosFPV",
+        "time": 39.183,
+        "quad": "Bahamut"
+      },
+      {
+        "pilot": "tomahok",
+        "time": 49.423,
+        "quad": "Five33 Switchback"
+      },
+      {
+        "pilot": "Cbeikos",
+        "time": 50.665,
+        "quad": "Five33 Switchback"
+      },
+      {
+        "pilot": "Agorastos",
+        "time": 54.528,
+        "quad": "Carbix Zero"
+      },
+      {
+        "pilot": "Liapos",
+        "time": 58.134,
+        "quad": "Bahamut"
+      },
+      {
+        "pilot": "Torque72",
+        "time": 70.324,
+        "quad": "Bahamut"
+      },
+      {
+        "pilot": "Bakarim",
+        "time": 120.871,
+        "quad": "TBS Oblivion"
+      }
+    ]
+  },
+  "season_standings": {
+    "5inch": [
+      {
+        "pilot": "Exo_FPV",
+        "points": 86,
+        "wins": 2,
+        "podiums": 4,
+        "best": 38.31
+      },
+      {
+        "pilot": "ZOUP",
+        "points": 83,
+        "wins": 2,
+        "podiums": 4,
+        "best": 40.165
+      },
+      {
+        "pilot": "TettixPro",
+        "points": 57,
+        "wins": 0,
+        "podiums": 3,
+        "best": 42.241
+      },
+      {
+        "pilot": "DedalosFPV",
+        "points": 46,
+        "wins": 0,
+        "podiums": 0,
+        "best": 48.537
+      },
+      {
+        "pilot": "Cbeikos",
+        "points": 28,
+        "wins": 0,
+        "podiums": 0,
+        "best": 56.123
+      },
+      {
+        "pilot": "tomahok",
+        "points": 26,
+        "wins": 0,
+        "podiums": 0,
+        "best": 63.578
+      },
+      {
+        "pilot": "dimbazus",
+        "points": 20,
+        "wins": 0,
+        "podiums": 0,
+        "best": 65.008
+      },
+      {
+        "pilot": "anthunder",
+        "points": 18,
+        "wins": 0,
+        "podiums": 1,
+        "best": 38.87
+      },
+      {
+        "pilot": "Liapos",
+        "points": 18,
+        "wins": 0,
+        "podiums": 0,
+        "best": 70.629
+      },
+      {
+        "pilot": "Agorastos",
+        "points": 16,
+        "wins": 0,
+        "podiums": 0,
+        "best": 67.587
+      },
+      {
+        "pilot": "Torque72",
+        "points": 3,
+        "wins": 0,
+        "podiums": 0,
+        "best": 110.281
+      },
+      {
+        "pilot": "fpvchucky",
+        "points": 2,
+        "wins": 0,
+        "podiums": 0,
+        "best": 149.462
+      },
+      {
+        "pilot": "Pontikos",
+        "points": 1,
+        "wins": 0,
+        "podiums": 0,
+        "best": null
+      },
+      {
+        "pilot": "gkfpv13",
+        "points": 0,
+        "wins": 0,
+        "podiums": 0,
+        "best": null
+      },
+      {
+        "pilot": "Bakarim",
+        "points": 0,
+        "wins": 0,
+        "podiums": 0,
+        "best": 272.859
+      },
+      {
+        "pilot": "Gaston_FPV",
+        "points": 0,
+        "wins": 0,
+        "podiums": 0,
+        "best": 314.214
+      }
+    ]
+  },
+  "history": [
+    {
+      "date": "2026-10-11T00:07:15.960303",
+      "track": "SimRush Week1",
+      "class": "5inch",
+      "results": [
+        {
+          "pilot": "Exo_FPV",
+          "time": 38.31,
+          "points": 25
+        },
+        {
+          "pilot": "anthunder",
+          "time": 38.87,
+          "points": 18
+        },
+        {
+          "pilot": "ZOUP",
+          "time": 41.353,
+          "points": 15
+        },
+        {
+          "pilot": "TettixPro",
+          "time": 44.709,
+          "points": 12
+        },
+        {
+          "pilot": "DedalosFPV",
+          "time": 50.564,
+          "points": 10
+        },
+        {
+          "pilot": "tomahok",
+          "time": 66.467,
+          "points": 8
+        },
+        {
+          "pilot": "Liapos",
+          "time": 70.629,
+          "points": 6
+        },
+        {
+          "pilot": "dimbazus",
+          "time": 71.886,
+          "points": 4
+        },
+        {
+          "pilot": "Agorastos",
+          "time": 77.166,
+          "points": 2
+        },
+        {
+          "pilot": "fpvchucky",
+          "time": 160.283,
+          "points": 1
+        }
+      ],
+      "winner": "Exo_FPV",
+      "best_time": 38.31,
+      "pilots_count": 10,
+      "records_broken": 67,
+      "quads": {
+        "Exo_FPV": "Bahamut",
+        "anthunder": "Bahamut",
+        "ZOUP": "Five33 Switchback",
+        "TettixPro": "Bahamut",
+        "DedalosFPV": "Bahamut",
+        "tomahok": "Five33 Switchback",
+        "Liapos": "Bahamut",
+        "dimbazus": "SniperX",
+        "Agorastos": "Bahamut",
+        "fpvchucky": "Bahamut"
+      }
+    },
+    {
+      "date": "2026-10-17T20:41:59.014846",
+      "track": "SimRushWeek2",
+      "class": "5inch",
+      "results": [
+        {
+          "pilot": "ZOUP",
+          "time": 78.055,
+          "points": 25
+        },
+        {
+          "pilot": "Exo_FPV",
+          "time": 78.546,
+          "points": 18
+        },
+        {
+          "pilot": "TettixPro",
+          "time": 85.841,
+          "points": 15
+        },
+        {
+          "pilot": "DedalosFPV",
+          "time": 102.158,
+          "points": 12
+        },
+        {
+          "pilot": "tomahok",
+          "time": 128.807,
+          "points": 10
+        },
+        {
+          "pilot": "Cbeikos",
+          "time": 132.451,
+          "points": 8
+        },
+        {
+          "pilot": "Agorastos",
+          "time": 134.332,
+          "points": 6
+        },
+        {
+          "pilot": "Liapos",
+          "time": 140.24,
+          "points": 4
+        },
+        {
+          "pilot": "dimbazus",
+          "time": 141.878,
+          "points": 2
+        },
+        {
+          "pilot": "fpvchucky",
+          "time": 377.356,
+          "points": 1
+        }
+      ],
+      "winner": "ZOUP",
+      "best_time": 78.055,
+      "pilots_count": 10,
+      "records_broken": 87,
+      "quads": {
+        "ZOUP": "Bahamut",
+        "Exo_FPV": "Bahamut",
+        "TettixPro": "Five33 Switchback",
+        "DedalosFPV": "Bahamut",
+        "tomahok": "Five33 Switchback",
+        "Cbeikos": "Five33 Switchback",
+        "Agorastos": "BetaFPV 75x",
+        "Liapos": "Bahamut",
+        "dimbazus": "Bahamut",
+        "fpvchucky": "Bahamut"
+      }
+    },
+    {
+      "date": "2026-10-24T18:06:02.064241",
+      "track": "SimRushWeek3",
+      "class": "5inch",
+      "results": [
+        {
+          "pilot": "Exo_FPV",
+          "time": 39.312,
+          "points": 25
+        },
+        {
+          "pilot": "ZOUP",
+          "time": 40.165,
+          "points": 18
+        },
+        {
+          "pilot": "TettixPro",
+          "time": 42.241,
+          "points": 15
+        },
+        {
+          "pilot": "DedalosFPV",
+          "time": 48.537,
+          "points": 12
+        },
+        {
+          "pilot": "Cbeikos",
+          "time": 56.123,
+          "points": 10
+        },
+        {
+          "pilot": "tomahok",
+          "time": 63.578,
+          "points": 8
+        },
+        {
+          "pilot": "dimbazus",
+          "time": 65.008,
+          "points": 6
+        },
+        {
+          "pilot": "Agorastos",
+          "time": 67.587,
+          "points": 4
+        },
+        {
+          "pilot": "Liapos",
+          "time": 73.075,
+          "points": 2
+        },
+        {
+          "pilot": "Torque72",
+          "time": 110.281,
+          "points": 1
+        },
+        {
+          "pilot": "gkfpv13",
+          "time": 129.287,
+          "points": 0
+        },
+        {
+          "pilot": "fpvchucky",
+          "time": 149.462,
+          "points": 0
+        },
+        {
+          "pilot": "Bakarim",
+          "time": 272.859,
+          "points": 0
+        }
+      ],
+      "winner": "Exo_FPV",
+      "best_time": 39.312,
+      "pilots_count": 13,
+      "records_broken": 71,
+      "quads": {
+        "Exo_FPV": "Bahamut",
+        "ZOUP": "Bahamut",
+        "TettixPro": "Carbix Zero",
+        "DedalosFPV": "Bahamut",
+        "Cbeikos": "Five33 Switchback",
+        "tomahok": "Five33 Switchback",
+        "dimbazus": "Bahamut",
+        "Agorastos": "Carbix Zero",
+        "Liapos": "Bahamut",
+        "Torque72": "Five33 Switchback",
+        "fpvchucky": "Carbix Zero",
+        "Bakarim": "TBS Oblivion"
+      }
+    },
+    {
+      "date": "2026-10-31T18:06:03.392199",
+      "track": "SimRushWeek-4",
+      "class": "5inch",
+      "results": [
+        {
+          "pilot": "ZOUP",
+          "time": 76.192,
+          "points": 25
+        },
+        {
+          "pilot": "Exo_FPV",
+          "time": 77.595,
+          "points": 18
+        },
+        {
+          "pilot": "TettixPro",
+          "time": 90.149,
+          "points": 15
+        },
+        {
+          "pilot": "DedalosFPV",
+          "time": 93.657,
+          "points": 12
+        },
+        {
+          "pilot": "Cbeikos",
+          "time": 115.225,
+          "points": 10
+        },
+        {
+          "pilot": "dimbazus",
+          "time": 134.78,
+          "points": 8
+        },
+        {
+          "pilot": "Liapos",
+          "time": 150.967,
+          "points": 6
+        },
+        {
+          "pilot": "Agorastos",
+          "time": 188.394,
+          "points": 4
+        },
+        {
+          "pilot": "Torque72",
+          "time": 214.556,
+          "points": 2
+        },
+        {
+          "pilot": "Pontikos",
+          "time": 221.562,
+          "points": 1
+        },
+        {
+          "pilot": "Gaston_FPV",
+          "time": 314.214,
+          "points": 0
+        }
+      ],
+      "winner": "ZOUP",
+      "best_time": 76.192,
+      "pilots_count": 11,
+      "records_broken": 71,
+      "quads": {
+        "ZOUP": "Bahamut",
+        "Exo_FPV": "Bahamut",
+        "TettixPro": "Five33 Switchback",
+        "DedalosFPV": "Bahamut",
+        "Cbeikos": "Five33 Switchback",
+        "dimbazus": "Bahamut",
+        "Liapos": "Bahamut",
+        "Agorastos": "Carbix Zero",
+        "Torque72": "Five33 Switchback",
+        "Gaston_FPV": "Five33 Switchback"
+      }
+    }
+  ],
+  "season_chart": {
+    "weeks": [
+      "SimRush Week1",
+      "SimRushWeek2",
+      "SimRushWeek3",
+      "SimRushWeek-4"
+    ],
+    "series": {
+      "Agorastos": [
+        2,
+        8,
+        12,
+        16
+      ],
+      "Bakarim": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "Cbeikos": [
+        0,
+        8,
+        18,
+        28
+      ],
+      "DedalosFPV": [
+        10,
+        22,
+        34,
+        46
+      ],
+      "Exo_FPV": [
+        25,
+        43,
+        68,
+        86
+      ],
+      "Gaston_FPV": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "Liapos": [
+        6,
+        10,
+        12,
+        18
+      ],
+      "Pontikos": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "TettixPro": [
+        12,
+        27,
+        42,
+        57
+      ],
+      "Torque72": [
+        0,
+        0,
+        1,
+        3
+      ],
+      "ZOUP": [
+        15,
+        40,
+        58,
+        83
+      ],
+      "anthunder": [
+        18,
+        18,
+        18,
+        18
+      ],
+      "dimbazus": [
+        4,
+        6,
+        12,
+        20
+      ],
+      "fpvchucky": [
+        1,
+        2,
+        2,
+        2
+      ],
+      "gkfpv13": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "tomahok": [
+        8,
+        18,
+        26,
+        26
+      ]
+    }
+  },
+  "duels": []
+}

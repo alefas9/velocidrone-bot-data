@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T23:35:03.165085",
+  "generated_at": "2026-11-03T23:40:03.601134",
   "season": 2026,
   "current_track": "SimRushWeek-5",
   "current_leaderboard": {
@@ -589,5 +589,180 @@
       ]
     }
   },
-  "duels": []
+  "insights": {
+    "pilots": [
+      {
+        "pilot": "anthunder",
+        "class": "5inch",
+        "pos": 1,
+        "time": 37.39,
+        "first_time": 63.988,
+        "prev_time": null,
+        "improvements": 4,
+        "user_id": null,
+        "pos_24h": null,
+        "pos_change_24h": null
+      },
+      {
+        "pilot": "TettixPro",
+        "class": "5inch",
+        "pos": 2,
+        "time": 38.623,
+        "first_time": 39.853,
+        "prev_time": null,
+        "improvements": 2,
+        "user_id": null,
+        "pos_24h": null,
+        "pos_change_24h": null
+      },
+      {
+        "pilot": "DedalosFPV",
+        "class": "5inch",
+        "pos": 3,
+        "time": 39.183,
+        "first_time": 79.509,
+        "prev_time": null,
+        "improvements": 5,
+        "user_id": null,
+        "pos_24h": 1,
+        "pos_change_24h": -2
+      },
+      {
+        "pilot": "tomahok",
+        "class": "5inch",
+        "pos": 4,
+        "time": 49.423,
+        "first_time": 57.844,
+        "prev_time": null,
+        "improvements": 3,
+        "user_id": null,
+        "pos_24h": 2,
+        "pos_change_24h": -2
+      },
+      {
+        "pilot": "Cbeikos",
+        "class": "5inch",
+        "pos": 5,
+        "time": 50.665,
+        "first_time": 64.173,
+        "prev_time": null,
+        "improvements": 8,
+        "user_id": null,
+        "pos_24h": null,
+        "pos_change_24h": null
+      },
+      {
+        "pilot": "Agorastos",
+        "class": "5inch",
+        "pos": 6,
+        "time": 54.528,
+        "first_time": 78.831,
+        "prev_time": null,
+        "improvements": 10,
+        "user_id": null,
+        "pos_24h": 3,
+        "pos_change_24h": -3
+      },
+      {
+        "pilot": "Liapos",
+        "class": "5inch",
+        "pos": 7,
+        "time": 58.134,
+        "first_time": 65.848,
+        "prev_time": null,
+        "improvements": 3,
+        "user_id": null,
+        "pos_24h": 4,
+        "pos_change_24h": -3
+      },
+      {
+        "pilot": "Torque72",
+        "class": "5inch",
+        "pos": 8,
+        "time": 70.324,
+        "first_time": 72.86,
+        "prev_time": null,
+        "improvements": 3,
+        "user_id": null,
+        "pos_24h": null,
+        "pos_change_24h": null
+      },
+      {
+        "pilot": "Bakarim",
+        "class": "5inch",
+        "pos": 9,
+        "time": 120.871,
+        "first_time": 126.726,
+        "prev_time": null,
+        "improvements": 4,
+        "user_id": null,
+        "pos_24h": 5,
+        "pos_change_24h": -4
+      }
+    ],
+    "hours_at_top": {},
+    "race_to_top": [
+      {
+        "pilot": "Agorastos",
+        "improvements": 10
+      },
+      {
+        "pilot": "Cbeikos",
+        "improvements": 8
+      },
+      {
+        "pilot": "DedalosFPV",
+        "improvements": 5
+      },
+      {
+        "pilot": "anthunder",
+        "improvements": 4
+      },
+      {
+        "pilot": "Bakarim",
+        "improvements": 4
+      },
+      {
+        "pilot": "tomahok",
+        "improvements": 3
+      },
+      {
+        "pilot": "Liapos",
+        "improvements": 3
+      },
+      {
+        "pilot": "Torque72",
+        "improvements": 3
+      },
+      {
+        "pilot": "TettixPro",
+        "improvements": 2
+      }
+    ]
+  },
+  "duels": {
+    "active": [],
+    "recent_resolved": [
+      {
+        "pilot_a": "Exo_FPV",
+        "pilot_b": "TettixPro",
+        "track": "SimRushWeek3",
+        "created_at": "2026-10-23T14:50:04.221342",
+        "deadline": "2026-10-24T14:50:04.221380",
+        "best_time_a": 39.312,
+        "best_time_b": null,
+        "resolved": true
+      },
+      {
+        "pilot_a": "Agorastos",
+        "pilot_b": "dimbazus",
+        "track": "SimRushWeek3",
+        "created_at": "2026-10-23T14:50:02.563674",
+        "deadline": "2026-10-24T14:50:02.563713",
+        "best_time_a": null,
+        "best_time_b": 65.008,
+        "resolved": true
+      }
+    ]
+  }
 }

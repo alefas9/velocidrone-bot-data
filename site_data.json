@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T23:40:02.898237",
+  "generated_at": "2026-11-04T23:45:02.875707",
   "season": 2026,
   "current_track": "SimRushWeek-5",
   "current_leaderboard": {
@@ -45,14 +45,14 @@
         "quad": "Bahamut"
       },
       {
+        "pilot": "fpvchucky",
+        "time": 119.864,
+        "quad": "Carbix Zero"
+      },
+      {
         "pilot": "Bakarim",
         "time": 120.871,
         "quad": "TBS Oblivion"
-      },
-      {
-        "pilot": "fpvchucky",
-        "time": 132.217,
-        "quad": "Carbix Zero"
       }
     ]
   },
@@ -693,32 +693,32 @@
         "pos_change_24h": 0
       },
       {
-        "pilot": "Bakarim",
+        "pilot": "fpvchucky",
         "class": "5inch",
         "pos": 9,
+        "time": 119.864,
+        "first_time": 135.25,
+        "prev_time": 132.217,
+        "improvements": 3,
+        "user_id": 451407,
+        "pos_24h": null,
+        "pos_change_24h": null
+      },
+      {
+        "pilot": "Bakarim",
+        "class": "5inch",
+        "pos": 10,
         "time": 120.871,
         "first_time": 126.726,
         "prev_time": null,
         "improvements": 4,
         "user_id": null,
         "pos_24h": 9,
-        "pos_change_24h": 0
-      },
-      {
-        "pilot": "fpvchucky",
-        "class": "5inch",
-        "pos": 10,
-        "time": 132.217,
-        "first_time": 135.25,
-        "prev_time": 135.25,
-        "improvements": 2,
-        "user_id": 451407,
-        "pos_24h": null,
-        "pos_change_24h": null
+        "pos_change_24h": -1
       }
     ],
     "hours_at_top": {
-      "TettixPro": 3.5
+      "TettixPro": 3.58
     },
     "race_to_top": [
       {
@@ -759,7 +759,7 @@
       },
       {
         "pilot": "fpvchucky",
-        "improvements": 2
+        "improvements": 3
       }
     ]
   },
@@ -789,6 +789,13 @@
     ]
   },
   "improvements": [
+    {
+      "pilot": "fpvchucky",
+      "track": "SimRushWeek-5",
+      "time": 119.864,
+      "delta": 12.353,
+      "date": "2026-11-04T23:40:02"
+    },
     {
       "pilot": "fpvchucky",
       "track": "SimRushWeek-5",
@@ -2881,13 +2888,6 @@
       "time": 162.171,
       "delta": 10.516,
       "date": "2026-10-11"
-    },
-    {
-      "pilot": "dimbazus",
-      "track": "SimRushWeek2",
-      "time": 160.438,
-      "delta": 1.733,
-      "date": "2026-10-11"
     }
   ],
   "pilot_stats": {
@@ -2927,9 +2927,9 @@
       "best_improvement_pct": 0.0
     },
     "fpvchucky": {
-      "pbs": 14,
+      "pbs": 15,
       "tracks_improved": 4,
-      "best_improvement_pct": 2.24
+      "best_improvement_pct": 9.34
     },
     "Exo_FPV": {
       "pbs": 23,
@@ -2968,13 +2968,21 @@
     }
   },
   "pilot_of_the_week": {
-    "pilot": "TettixPro",
+    "pilot": "fpvchucky",
     "track": "SimRushWeek-5",
-    "first_time": 36.671,
-    "best_time": 34.337,
-    "improvement_pct": 6.36
+    "first_time": 135.25,
+    "best_time": 119.864,
+    "improvement_pct": 11.38
   },
   "hot_battles": [
+    {
+      "leader": "fpvchucky",
+      "chaser": "Bakarim",
+      "gap": 1.007,
+      "days": 0,
+      "class": "5inch",
+      "opened": false
+    },
     {
       "leader": "tomahok",
       "chaser": "Cbeikos",

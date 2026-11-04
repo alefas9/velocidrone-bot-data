@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T20:45:03.339946",
+  "generated_at": "2026-11-04T20:50:03.186920",
   "season": 2026,
   "current_track": "SimRushWeek-5",
   "current_leaderboard": {
@@ -701,7 +701,7 @@
       }
     ],
     "hours_at_top": {
-      "TettixPro": 0.58
+      "TettixPro": 0.67
     },
     "race_to_top": [
       {
@@ -767,7 +767,11 @@
       }
     ]
   },
-  "track_reveal": null,
+  "track_reveal": {
+    "youtube": "https://www.youtube.com/watch?v=tSQ9KLjBtf0",
+    "track": "SimRushWeek-5",
+    "title": "TRACK REVEAL · SimRushWeek-5"
+  },
   "race_director_messages": [],
   "improvements": [
     {

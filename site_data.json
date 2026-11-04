@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T21:30:02.380375",
+  "generated_at": "2026-11-04T21:35:02.445218",
   "season": 2026,
   "current_track": "SimRushWeek-5",
   "current_leaderboard": {
@@ -701,7 +701,7 @@
       }
     ],
     "hours_at_top": {
-      "TettixPro": 1.33
+      "TettixPro": 1.42
     },
     "race_to_top": [
       {
@@ -767,18 +767,6 @@
       }
     ]
   },
-  "track_reveal": {
-    "youtube": "https://www.youtube.com/watch?v=tSQ9KLjBtf0",
-    "track": "SimRushWeek-5",
-    "title": "TRACK REVEAL · SimRushWeek-5"
-  },
-  "race_director_messages": [
-    {
-      "date": "2026-11-04T21:20:04",
-      "text": "[5inch] «SimRushWeek-5»\n🏆 Το τρόπαιο σηκώθηκε: **TettixPro** με 34.337s - οι φωτογράφοι έτοιμοι!",
-      "tag": "announcement"
-    }
-  ],
   "improvements": [
     {
       "pilot": "TettixPro",
@@ -2971,7 +2959,16 @@
       "chaser": "Cbeikos",
       "gap": 1.242,
       "days": 0,
-      "class": "5inch"
+      "class": "5inch",
+      "opened": false
+    },
+    {
+      "leader": "anthunder",
+      "chaser": "DedalosFPV",
+      "gap": 1.793,
+      "days": 0,
+      "class": "5inch",
+      "opened": false
     }
   ]
 }

@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-04T21:20:03.282994",
+  "generated_at": "2026-11-04T21:25:02.333315",
   "season": 2026,
   "current_track": "SimRushWeek-5",
   "current_leaderboard": {
     "5inch": [
       {
         "pilot": "TettixPro",
-        "time": 34.893,
+        "time": 34.337,
         "quad": "Bahamut"
       },
       {
@@ -595,10 +595,10 @@
         "pilot": "TettixPro",
         "class": "5inch",
         "pos": 1,
-        "time": 34.893,
+        "time": 34.337,
         "first_time": 36.671,
-        "prev_time": 36.117,
-        "improvements": 5,
+        "prev_time": 34.893,
+        "improvements": 6,
         "user_id": 372096,
         "pos_24h": 2,
         "pos_change_24h": 1
@@ -701,7 +701,7 @@
       }
     ],
     "hours_at_top": {
-      "TettixPro": 1.17
+      "TettixPro": 1.25
     },
     "race_to_top": [
       {
@@ -714,7 +714,7 @@
       },
       {
         "pilot": "TettixPro",
-        "improvements": 5
+        "improvements": 6
       },
       {
         "pilot": "DedalosFPV",
@@ -772,8 +772,21 @@
     "track": "SimRushWeek-5",
     "title": "TRACK REVEAL · SimRushWeek-5"
   },
-  "race_director_messages": [],
+  "race_director_messages": [
+    {
+      "date": "2026-11-04T21:20:04",
+      "text": "[5inch] «SimRushWeek-5»\n🏆 Το τρόπαιο σηκώθηκε: **TettixPro** με 34.337s - οι φωτογράφοι έτοιμοι!",
+      "tag": "announcement"
+    }
+  ],
   "improvements": [
+    {
+      "pilot": "TettixPro",
+      "track": "SimRushWeek-5",
+      "time": 34.337,
+      "delta": 0.556,
+      "date": "2026-11-04T21:20:02"
+    },
     {
       "pilot": "TettixPro",
       "track": "SimRushWeek-5",
@@ -2866,13 +2879,6 @@
       "time": 128.62,
       "delta": 20.463,
       "date": "2026-10-11"
-    },
-    {
-      "pilot": "DedalosFPV",
-      "track": "SimRushWeek2",
-      "time": 119.133,
-      "delta": 9.487,
-      "date": "2026-10-11"
     }
   ],
   "pilot_stats": {
@@ -2887,7 +2893,7 @@
       "best_improvement_pct": 0.0
     },
     "TettixPro": {
-      "pbs": 25,
+      "pbs": 26,
       "tracks_improved": 6,
       "best_improvement_pct": 3.39
     },
@@ -2956,8 +2962,8 @@
     "pilot": "TettixPro",
     "track": "SimRushWeek-5",
     "first_time": 36.671,
-    "best_time": 34.893,
-    "improvement_pct": 4.85
+    "best_time": 34.337,
+    "improvement_pct": 6.36
   },
   "hot_battles": [
     {

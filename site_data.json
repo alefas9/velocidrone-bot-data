@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-04T20:10:03.088030",
+  "generated_at": "2026-11-04T20:15:03.045050",
   "season": 2026,
   "current_track": "SimRushWeek-5",
   "current_leaderboard": {
     "5inch": [
       {
-        "pilot": "anthunder",
-        "time": 37.39,
+        "pilot": "TettixPro",
+        "time": 36.671,
         "quad": "Bahamut"
       },
       {
-        "pilot": "TettixPro",
-        "time": 38.623,
-        "quad": "Carbix Zero"
+        "pilot": "anthunder",
+        "time": 37.39,
+        "quad": "Bahamut"
       },
       {
         "pilot": "DedalosFPV",
@@ -592,28 +592,28 @@
   "insights": {
     "pilots": [
       {
-        "pilot": "anthunder",
+        "pilot": "TettixPro",
         "class": "5inch",
         "pos": 1,
+        "time": 36.671,
+        "first_time": 36.671,
+        "prev_time": null,
+        "improvements": 3,
+        "user_id": 372096,
+        "pos_24h": 2,
+        "pos_change_24h": 1
+      },
+      {
+        "pilot": "anthunder",
+        "class": "5inch",
+        "pos": 2,
         "time": 37.39,
         "first_time": 63.988,
         "prev_time": null,
         "improvements": 4,
         "user_id": null,
         "pos_24h": 1,
-        "pos_change_24h": 0
-      },
-      {
-        "pilot": "TettixPro",
-        "class": "5inch",
-        "pos": 2,
-        "time": 38.623,
-        "first_time": 39.853,
-        "prev_time": null,
-        "improvements": 2,
-        "user_id": null,
-        "pos_24h": 2,
-        "pos_change_24h": 0
+        "pos_change_24h": -1
       },
       {
         "pilot": "DedalosFPV",
@@ -700,7 +700,9 @@
         "pos_change_24h": 0
       }
     ],
-    "hours_at_top": {},
+    "hours_at_top": {
+      "TettixPro": 0.08
+    },
     "race_to_top": [
       {
         "pilot": "Agorastos",
@@ -723,6 +725,10 @@
         "improvements": 4
       },
       {
+        "pilot": "TettixPro",
+        "improvements": 3
+      },
+      {
         "pilot": "tomahok",
         "improvements": 3
       },
@@ -733,10 +739,6 @@
       {
         "pilot": "Torque72",
         "improvements": 3
-      },
-      {
-        "pilot": "TettixPro",
-        "improvements": 2
       }
     ]
   },
@@ -766,6 +768,13 @@
     ]
   },
   "improvements": [
+    {
+      "pilot": "TettixPro",
+      "track": "SimRushWeek-5",
+      "time": 36.671,
+      "delta": 1.952,
+      "date": "2026-11-04T20:10:02"
+    },
     {
       "pilot": "Liapos",
       "track": "SimRushWeek-5",
@@ -2858,13 +2867,6 @@
       "time": 148.402,
       "delta": null,
       "date": "2026-10-11"
-    },
-    {
-      "pilot": "ZOUP",
-      "track": "SimRushWeek2",
-      "time": 113.271,
-      "delta": 35.131,
-      "date": "2026-10-11"
     }
   ],
   "pilot_stats": {
@@ -2879,7 +2881,7 @@
       "best_improvement_pct": 0.0
     },
     "TettixPro": {
-      "pbs": 22,
+      "pbs": 23,
       "tracks_improved": 6,
       "best_improvement_pct": 0.0
     },
@@ -2944,25 +2946,12 @@
       "best_improvement_pct": 0.0
     }
   },
-  "pilot_of_the_week": {
-    "pilot": "DedalosFPV",
-    "track": "SimRushWeek-5",
-    "first_time": 79.509,
-    "best_time": 39.183,
-    "improvement_pct": 50.72
-  },
+  "pilot_of_the_week": null,
   "hot_battles": [
     {
       "leader": "TettixPro",
-      "chaser": "DedalosFPV",
-      "gap": 0.56,
-      "days": 0,
-      "class": "5inch"
-    },
-    {
-      "leader": "anthunder",
-      "chaser": "TettixPro",
-      "gap": 1.233,
+      "chaser": "anthunder",
+      "gap": 0.719,
       "days": 0,
       "class": "5inch"
     },

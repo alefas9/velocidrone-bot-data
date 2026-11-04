@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T00:35:03.025405",
+  "generated_at": "2026-11-05T00:40:03.166969",
   "season": 2026,
   "current_track": "SimRushWeek-5",
   "current_leaderboard": {
@@ -41,7 +41,7 @@
       },
       {
         "pilot": "dimbazus",
-        "time": 69.205,
+        "time": 68.445,
         "quad": "Bahamut"
       },
       {
@@ -689,10 +689,10 @@
         "pilot": "dimbazus",
         "class": "5inch",
         "pos": 8,
-        "time": 69.205,
+        "time": 68.445,
         "first_time": 69.205,
-        "prev_time": null,
-        "improvements": 1,
+        "prev_time": 69.205,
+        "improvements": 2,
         "user_id": 309918,
         "pos_24h": null,
         "pos_change_24h": null
@@ -735,7 +735,7 @@
       }
     ],
     "hours_at_top": {
-      "TettixPro": 4.42
+      "TettixPro": 4.5
     },
     "race_to_top": [
       {
@@ -780,7 +780,7 @@
       },
       {
         "pilot": "dimbazus",
-        "improvements": 1
+        "improvements": 2
       }
     ]
   },
@@ -810,6 +810,13 @@
     ]
   },
   "improvements": [
+    {
+      "pilot": "dimbazus",
+      "track": "SimRushWeek-5",
+      "time": 68.445,
+      "delta": 0.76,
+      "date": "2026-11-05T00:35:02"
+    },
     {
       "pilot": "dimbazus",
       "track": "SimRushWeek-5",
@@ -2902,13 +2909,6 @@
       "time": 191.737,
       "delta": 63.628,
       "date": "2026-10-11"
-    },
-    {
-      "pilot": "dimbazus",
-      "track": "SimRushWeek2",
-      "time": 179.988,
-      "delta": 11.749,
-      "date": "2026-10-11"
     }
   ],
   "pilot_stats": {
@@ -2918,9 +2918,9 @@
       "best_improvement_pct": 0.0
     },
     "dimbazus": {
-      "pbs": 58,
+      "pbs": 59,
       "tracks_improved": 6,
-      "best_improvement_pct": 0.0
+      "best_improvement_pct": 1.1
     },
     "TettixPro": {
       "pbs": 26,
@@ -2997,14 +2997,6 @@
   },
   "hot_battles": [
     {
-      "leader": "dimbazus",
-      "chaser": "Torque72",
-      "gap": 1.119,
-      "days": 0,
-      "class": "5inch",
-      "opened": false
-    },
-    {
       "leader": "tomahok",
       "chaser": "Cbeikos",
       "gap": 1.242,
@@ -3016,6 +3008,14 @@
       "leader": "anthunder",
       "chaser": "DedalosFPV",
       "gap": 1.793,
+      "days": 0,
+      "class": "5inch",
+      "opened": false
+    },
+    {
+      "leader": "dimbazus",
+      "chaser": "Torque72",
+      "gap": 1.879,
       "days": 0,
       "class": "5inch",
       "opened": false

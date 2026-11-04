@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T01:35:03.277955",
+  "generated_at": "2026-11-05T01:40:02.720876",
   "season": 2026,
   "current_track": "SimRushWeek-5",
   "current_leaderboard": {
@@ -735,7 +735,7 @@
       }
     ],
     "hours_at_top": {
-      "TettixPro": 5.42
+      "TettixPro": 5.5
     },
     "race_to_top": [
       {
@@ -3050,6 +3050,11 @@
     {
       "date": "2026-11-04T23:20:04",
       "text": "[5inch] «SimRushWeek-5»\n🧯 Άσβηστε φωτιές αλλού: εδώ ο **fpvchucky** ανάβει ρεκόρ - 135.250s!",
+      "tag": "announcement"
+    },
+    {
+      "date": "2026-11-05T01:38:07",
+      "text": "🧪 ΤΕΣΤ ΩΡΑΣ — αγνοήστε",
       "tag": "announcement"
     }
   ]

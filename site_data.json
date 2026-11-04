@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T23:25:03.581441",
+  "generated_at": "2026-11-04T23:30:02.890585",
   "season": 2026,
   "current_track": "SimRushWeek-5",
   "current_leaderboard": {
@@ -51,7 +51,7 @@
       },
       {
         "pilot": "fpvchucky",
-        "time": 135.25,
+        "time": 132.217,
         "quad": "Carbix Zero"
       }
     ]
@@ -708,17 +708,17 @@
         "pilot": "fpvchucky",
         "class": "5inch",
         "pos": 10,
-        "time": 135.25,
+        "time": 132.217,
         "first_time": 135.25,
-        "prev_time": null,
-        "improvements": 1,
+        "prev_time": 135.25,
+        "improvements": 2,
         "user_id": 451407,
         "pos_24h": null,
         "pos_change_24h": null
       }
     ],
     "hours_at_top": {
-      "TettixPro": 3.25
+      "TettixPro": 3.33
     },
     "race_to_top": [
       {
@@ -759,7 +759,7 @@
       },
       {
         "pilot": "fpvchucky",
-        "improvements": 1
+        "improvements": 2
       }
     ]
   },
@@ -789,6 +789,13 @@
     ]
   },
   "improvements": [
+    {
+      "pilot": "fpvchucky",
+      "track": "SimRushWeek-5",
+      "time": 132.217,
+      "delta": 3.033,
+      "date": "2026-11-04T23:25:02"
+    },
     {
       "pilot": "fpvchucky",
       "track": "SimRushWeek-5",
@@ -2881,13 +2888,6 @@
       "time": 160.438,
       "delta": 1.733,
       "date": "2026-10-11"
-    },
-    {
-      "pilot": "DedalosFPV",
-      "track": "SimRushWeek2",
-      "time": 149.083,
-      "delta": null,
-      "date": "2026-10-11"
     }
   ],
   "pilot_stats": {
@@ -2927,9 +2927,9 @@
       "best_improvement_pct": 0.0
     },
     "fpvchucky": {
-      "pbs": 13,
+      "pbs": 14,
       "tracks_improved": 4,
-      "best_improvement_pct": 0.0
+      "best_improvement_pct": 2.24
     },
     "Exo_FPV": {
       "pbs": 23,

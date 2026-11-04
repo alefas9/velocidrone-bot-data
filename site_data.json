@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T23:20:02.825482",
+  "generated_at": "2026-11-04T23:25:03.581441",
   "season": 2026,
   "current_track": "SimRushWeek-5",
   "current_leaderboard": {
@@ -48,6 +48,11 @@
         "pilot": "Bakarim",
         "time": 120.871,
         "quad": "TBS Oblivion"
+      },
+      {
+        "pilot": "fpvchucky",
+        "time": 135.25,
+        "quad": "Carbix Zero"
       }
     ]
   },
@@ -698,10 +703,22 @@
         "user_id": null,
         "pos_24h": 9,
         "pos_change_24h": 0
+      },
+      {
+        "pilot": "fpvchucky",
+        "class": "5inch",
+        "pos": 10,
+        "time": 135.25,
+        "first_time": 135.25,
+        "prev_time": null,
+        "improvements": 1,
+        "user_id": 451407,
+        "pos_24h": null,
+        "pos_change_24h": null
       }
     ],
     "hours_at_top": {
-      "TettixPro": 3.17
+      "TettixPro": 3.25
     },
     "race_to_top": [
       {
@@ -739,6 +756,10 @@
       {
         "pilot": "Torque72",
         "improvements": 3
+      },
+      {
+        "pilot": "fpvchucky",
+        "improvements": 1
       }
     ]
   },
@@ -768,6 +789,13 @@
     ]
   },
   "improvements": [
+    {
+      "pilot": "fpvchucky",
+      "track": "SimRushWeek-5",
+      "time": 135.25,
+      "delta": null,
+      "date": "2026-11-04T23:20:02"
+    },
     {
       "pilot": "TettixPro",
       "track": "SimRushWeek-5",
@@ -2860,13 +2888,6 @@
       "time": 149.083,
       "delta": null,
       "date": "2026-10-11"
-    },
-    {
-      "pilot": "DedalosFPV",
-      "track": "SimRushWeek2",
-      "time": 128.62,
-      "delta": 20.463,
-      "date": "2026-10-11"
     }
   ],
   "pilot_stats": {
@@ -2906,8 +2927,8 @@
       "best_improvement_pct": 0.0
     },
     "fpvchucky": {
-      "pbs": 12,
-      "tracks_improved": 3,
+      "pbs": 13,
+      "tracks_improved": 4,
       "best_improvement_pct": 0.0
     },
     "Exo_FPV": {
@@ -2969,6 +2990,28 @@
       "days": 0,
       "class": "5inch",
       "opened": false
+    }
+  ],
+  "race_director_messages": [
+    {
+      "date": "2026-11-04T21:20:04",
+      "text": "[5inch] «SimRushWeek-5»\n🏆 Το τρόπαιο σηκώθηκε: **TettixPro** με 34.337s - οι φωτογράφοι έτοιμοι!",
+      "tag": "announcement"
+    },
+    {
+      "date": "2026-11-04T22:00:02",
+      "text": "📊 ΑΝΑΣΚΟΠΗΣΗ ΕΒΔΟΜΑΔΑΣ — «SimRushWeek-5»\n🥇 **TettixPro**  34.337s\n🥈 **anthunder**  37.390s  (+3.053s)\n🥉 **DedalosFPV**  39.183s  (+4.846s)\n**4.** **tomahok**  49.423s  (+15.086s)\n**5.** **Cbeikos**  50.665s  (+16.328s)\n**6.** **Agorastos**  54.528s  (+20.191s)\n**7.** **Liapos**  58.134s  (+23.797s)\n**8.** **Torque72**  70.324s  (+35.987s)\n**9.** **Bakarim**  120.871s  (+86.534s)\n\n📈 **Εβδομαδιαία στατιστικά:** 57 νέα ρεκόρ συνολικά - πιο ενεργός ο **dimbazus** (57).",
+      "tag": "announcement"
+    },
+    {
+      "date": "2026-11-04T22:00:03",
+      "text": "🏆 Βαθμολογία σεζόν [5inch]\n🥇 Exo_FPV — **86** πόντοι\n🥈 ZOUP — **83** πόντοι\n🥉 TettixPro — **57** πόντοι\n**4.** DedalosFPV — **46** πόντοι\n**5.** Cbeikos — **28** πόντοι\n**6.** tomahok — **26** πόντοι\n**7.** dimbazus — **20** πόντοι\n**8.** anthunder — **18** πόντοι\n**9.** Liapos — **18** πόντοι\n**10.** Agorastos — **16** πόντοι",
+      "tag": "announcement"
+    },
+    {
+      "date": "2026-11-04T23:20:04",
+      "text": "[5inch] «SimRushWeek-5»\n🧯 Άσβηστε φωτιές αλλού: εδώ ο **fpvchucky** ανάβει ρεκόρ - 135.250s!",
+      "tag": "announcement"
     }
   ]
 }

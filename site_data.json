@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T10:40:02.748024",
+  "generated_at": "2026-11-04T10:45:02.745703",
   "season": 2026,
   "current_track": "SimRushWeek-5",
   "current_leaderboard": {
@@ -770,7 +770,7 @@
       "pilot": "Liapos",
       "track": "SimRushWeek-5",
       "time": 58.134,
-      "delta": null,
+      "delta": 4.777,
       "date": "2026-11-03"
     },
     {
@@ -784,14 +784,14 @@
       "pilot": "Torque72",
       "track": "SimRushWeek-5",
       "time": 72.602,
-      "delta": null,
+      "delta": 0.258,
       "date": "2026-11-03"
     },
     {
       "pilot": "Torque72",
       "track": "SimRushWeek-5",
       "time": 70.324,
-      "delta": null,
+      "delta": 2.278,
       "date": "2026-11-03"
     },
     {
@@ -805,42 +805,42 @@
       "pilot": "Cbeikos",
       "track": "SimRushWeek-5",
       "time": 61.393,
-      "delta": null,
+      "delta": 2.78,
       "date": "2026-11-03"
     },
     {
       "pilot": "Cbeikos",
       "track": "SimRushWeek-5",
       "time": 56.575,
-      "delta": null,
+      "delta": 4.818,
       "date": "2026-11-03"
     },
     {
       "pilot": "Cbeikos",
       "track": "SimRushWeek-5",
       "time": 56.437,
-      "delta": null,
+      "delta": 0.138,
       "date": "2026-11-03"
     },
     {
       "pilot": "Cbeikos",
       "track": "SimRushWeek-5",
       "time": 51.418,
-      "delta": null,
+      "delta": 5.019,
       "date": "2026-11-03"
     },
     {
       "pilot": "Cbeikos",
       "track": "SimRushWeek-5",
       "time": 51.182,
-      "delta": null,
+      "delta": 0.236,
       "date": "2026-11-03"
     },
     {
       "pilot": "Cbeikos",
       "track": "SimRushWeek-5",
       "time": 50.783,
-      "delta": null,
+      "delta": 0.399,
       "date": "2026-11-03"
     },
     {
@@ -854,14 +854,14 @@
       "pilot": "TettixPro",
       "track": "SimRushWeek-5",
       "time": 38.623,
-      "delta": null,
+      "delta": 1.23,
       "date": "2026-11-03"
     },
     {
       "pilot": "tomahok",
       "track": "SimRushWeek-5",
       "time": 49.423,
-      "delta": null,
+      "delta": 2.87,
       "date": "2026-11-03"
     },
     {
@@ -875,70 +875,70 @@
       "pilot": "anthunder",
       "track": "SimRushWeek-5",
       "time": 38.592,
-      "delta": null,
+      "delta": 25.396,
       "date": "2026-11-03"
     },
     {
       "pilot": "anthunder",
       "track": "SimRushWeek-5",
       "time": 38.096,
-      "delta": null,
+      "delta": 0.496,
       "date": "2026-11-03"
     },
     {
       "pilot": "anthunder",
       "track": "SimRushWeek-5",
       "time": 37.39,
-      "delta": null,
+      "delta": 0.706,
       "date": "2026-11-03"
     },
     {
       "pilot": "Cbeikos",
       "track": "SimRushWeek-5",
       "time": 50.665,
-      "delta": null,
+      "delta": 0.118,
       "date": "2026-11-03"
     },
     {
       "pilot": "Agorastos",
       "track": "SimRushWeek-5",
       "time": 56.738,
-      "delta": null,
+      "delta": 1.185,
       "date": "2026-11-03"
     },
     {
       "pilot": "Agorastos",
       "track": "SimRushWeek-5",
       "time": 54.528,
-      "delta": null,
+      "delta": 2.21,
       "date": "2026-11-03"
     },
     {
       "pilot": "dimbazus",
       "track": "SimRush-Week5",
       "time": 61.894,
-      "delta": null,
+      "delta": 4.882,
       "date": "2026-11-02"
     },
     {
       "pilot": "dimbazus",
       "track": "SimRush-Week5",
       "time": 58.703,
-      "delta": null,
+      "delta": 3.191,
       "date": "2026-11-02"
     },
     {
       "pilot": "dimbazus",
       "track": "SimRush-Week5",
       "time": 56.759,
-      "delta": null,
+      "delta": 1.944,
       "date": "2026-11-02"
     },
     {
       "pilot": "Torque72",
       "track": "SimRush-Week5",
       "time": 64.615,
-      "delta": null,
+      "delta": 3.001,
       "date": "2026-11-02"
     },
     {
@@ -952,42 +952,42 @@
       "pilot": "Pontikos",
       "track": "SimRush-Week5",
       "time": 89.389,
-      "delta": null,
+      "delta": 4.803,
       "date": "2026-11-02"
     },
     {
       "pilot": "Pontikos",
       "track": "SimRush-Week5",
       "time": 86.118,
-      "delta": null,
+      "delta": 3.271,
       "date": "2026-11-02"
     },
     {
       "pilot": "Torque72",
       "track": "SimRush-Week5",
       "time": 63.878,
-      "delta": null,
+      "delta": 0.737,
       "date": "2026-11-02"
     },
     {
       "pilot": "Pontikos",
       "track": "SimRush-Week5",
       "time": 79.125,
-      "delta": null,
+      "delta": 6.993,
       "date": "2026-11-02"
     },
     {
       "pilot": "Torque72",
       "track": "SimRush-Week5",
       "time": 62.629,
-      "delta": null,
+      "delta": 1.249,
       "date": "2026-11-02"
     },
     {
       "pilot": "Torque72",
       "track": "SimRush-Week5",
       "time": 60.142,
-      "delta": null,
+      "delta": 2.487,
       "date": "2026-11-02"
     },
     {
@@ -1001,7 +1001,7 @@
       "pilot": "Bakarim",
       "track": "SimRushWeek-5",
       "time": 124.883,
-      "delta": null,
+      "delta": 1.843,
       "date": "2026-11-02"
     },
     {
@@ -1015,7 +1015,7 @@
       "pilot": "tomahok",
       "track": "SimRushWeek-5",
       "time": 52.293,
-      "delta": null,
+      "delta": 5.551,
       "date": "2026-11-02"
     },
     {
@@ -1029,42 +1029,42 @@
       "pilot": "DedalosFPV",
       "track": "SimRushWeek-5",
       "time": 65.226,
-      "delta": null,
+      "delta": 14.283,
       "date": "2026-11-02"
     },
     {
       "pilot": "Bakarim",
       "track": "SimRushWeek-5",
       "time": 122.189,
-      "delta": null,
+      "delta": 2.694,
       "date": "2026-11-02"
     },
     {
       "pilot": "DedalosFPV",
       "track": "SimRushWeek-5",
       "time": 47.925,
-      "delta": null,
+      "delta": 17.301,
       "date": "2026-11-02"
     },
     {
       "pilot": "Bakarim",
       "track": "SimRushWeek-5",
       "time": 120.871,
-      "delta": null,
+      "delta": 1.318,
       "date": "2026-11-02"
     },
     {
       "pilot": "DedalosFPV",
       "track": "SimRushWeek-5",
       "time": 40.455,
-      "delta": null,
+      "delta": 7.47,
       "date": "2026-11-02"
     },
     {
       "pilot": "DedalosFPV",
       "track": "SimRushWeek-5",
       "time": 39.183,
-      "delta": null,
+      "delta": 1.272,
       "date": "2026-11-02"
     },
     {
@@ -1078,49 +1078,49 @@
       "pilot": "Agorastos",
       "track": "SimRushWeek-5",
       "time": 68.537,
-      "delta": null,
+      "delta": 10.294,
       "date": "2026-11-02"
     },
     {
       "pilot": "Agorastos",
       "track": "SimRushWeek-5",
       "time": 62.687,
-      "delta": null,
+      "delta": 5.85,
       "date": "2026-11-02"
     },
     {
       "pilot": "Agorastos",
       "track": "SimRushWeek-5",
       "time": 62.622,
-      "delta": null,
+      "delta": 0.065,
       "date": "2026-11-02"
     },
     {
       "pilot": "Agorastos",
       "track": "SimRushWeek-5",
       "time": 62.604,
-      "delta": null,
+      "delta": 0.018,
       "date": "2026-11-02"
     },
     {
       "pilot": "Agorastos",
       "track": "SimRushWeek-5",
       "time": 61.167,
-      "delta": null,
+      "delta": 1.437,
       "date": "2026-11-02"
     },
     {
       "pilot": "Agorastos",
       "track": "SimRushWeek-5",
       "time": 60.411,
-      "delta": null,
+      "delta": 0.756,
       "date": "2026-11-02"
     },
     {
       "pilot": "Agorastos",
       "track": "SimRushWeek-5",
       "time": 57.923,
-      "delta": null,
+      "delta": 2.488,
       "date": "2026-11-02"
     },
     {
@@ -1134,7 +1134,7 @@
       "pilot": "Liapos",
       "track": "SimRushWeek-5",
       "time": 62.911,
-      "delta": null,
+      "delta": 2.937,
       "date": "2026-11-02"
     },
     {
@@ -1148,63 +1148,63 @@
       "pilot": "DedalosFPV",
       "track": "SimRush-Week5",
       "time": 58.118,
-      "delta": null,
+      "delta": 19.888,
       "date": "2026-11-01"
     },
     {
       "pilot": "DedalosFPV",
       "track": "SimRush-Week5",
       "time": 50.916,
-      "delta": null,
+      "delta": 7.202,
       "date": "2026-11-01"
     },
     {
       "pilot": "DedalosFPV",
       "track": "SimRush-Week5",
       "time": 49.622,
-      "delta": null,
+      "delta": 1.294,
       "date": "2026-11-01"
     },
     {
       "pilot": "DedalosFPV",
       "track": "SimRush-Week5",
       "time": 46.45,
-      "delta": null,
+      "delta": 3.172,
       "date": "2026-11-01"
     },
     {
       "pilot": "DedalosFPV",
       "track": "SimRush-Week5",
       "time": 44.394,
-      "delta": null,
+      "delta": 2.056,
       "date": "2026-11-01"
     },
     {
       "pilot": "DedalosFPV",
       "track": "SimRush-Week5",
       "time": 42.776,
-      "delta": null,
+      "delta": 1.618,
       "date": "2026-11-01"
     },
     {
       "pilot": "DedalosFPV",
       "track": "SimRush-Week5",
       "time": 41.047,
-      "delta": null,
+      "delta": 1.729,
       "date": "2026-11-01"
     },
     {
       "pilot": "Bakarim",
       "track": "SimRush-Week5",
       "time": 143.136,
-      "delta": null,
+      "delta": 2.163,
       "date": "2026-11-01"
     },
     {
       "pilot": "TettixPro",
       "track": "SimRush-Week5",
       "time": 37.279,
-      "delta": null,
+      "delta": 2.504,
       "date": "2026-11-01"
     },
     {
@@ -1218,14 +1218,14 @@
       "pilot": "tomahok",
       "track": "SimRush-Week5",
       "time": 63.526,
-      "delta": null,
+      "delta": 78.715,
       "date": "2026-11-01"
     },
     {
       "pilot": "tomahok",
       "track": "SimRush-Week5",
       "time": 60.855,
-      "delta": null,
+      "delta": 2.671,
       "date": "2026-11-01"
     },
     {
@@ -1239,14 +1239,14 @@
       "pilot": "Torque72",
       "track": "SimRush-Week5",
       "time": 73.5,
-      "delta": null,
+      "delta": 9.604,
       "date": "2026-11-01"
     },
     {
       "pilot": "Torque72",
       "track": "SimRush-Week5",
       "time": 67.616,
-      "delta": null,
+      "delta": 5.884,
       "date": "2026-11-01"
     },
     {
@@ -1260,21 +1260,21 @@
       "pilot": "DedalosFPV",
       "track": "SimRush-Week5",
       "time": 40.209,
-      "delta": null,
+      "delta": 0.838,
       "date": "2026-11-01"
     },
     {
       "pilot": "DedalosFPV",
       "track": "SimRush-Week5",
       "time": 37.517,
-      "delta": null,
+      "delta": 2.692,
       "date": "2026-11-01"
     },
     {
       "pilot": "Liapos",
       "track": "SimRush-Week5",
       "time": 62.545,
-      "delta": null,
+      "delta": 5.101,
       "date": "2026-11-01"
     },
     {
@@ -1288,21 +1288,21 @@
       "pilot": "dimbazus",
       "track": "SimRush-Week5",
       "time": 74.724,
-      "delta": null,
+      "delta": 51.925,
       "date": "2026-11-01"
     },
     {
       "pilot": "dimbazus",
       "track": "SimRush-Week5",
       "time": 69.19,
-      "delta": null,
+      "delta": 5.534,
       "date": "2026-11-01"
     },
     {
       "pilot": "dimbazus",
       "track": "SimRush-Week5",
       "time": 66.776,
-      "delta": null,
+      "delta": 2.414,
       "date": "2026-11-01"
     },
     {
@@ -1330,49 +1330,49 @@
       "pilot": "Agorastos",
       "track": "SimRush-Week5",
       "time": 78.915,
-      "delta": null,
+      "delta": 2.286,
       "date": "2026-10-31"
     },
     {
       "pilot": "TettixPro",
       "track": "SimRush-Week5",
       "time": 39.86,
-      "delta": null,
+      "delta": 13.004,
       "date": "2026-10-31"
     },
     {
       "pilot": "TettixPro",
       "track": "SimRush-Week5",
       "time": 39.783,
-      "delta": null,
+      "delta": 0.077,
       "date": "2026-10-31"
     },
     {
       "pilot": "Agorastos",
       "track": "SimRushWeek-4",
       "time": 192.57,
-      "delta": null,
+      "delta": 7.505,
       "date": "2026-10-30"
     },
     {
       "pilot": "Agorastos",
       "track": "SimRushWeek-4",
       "time": 188.394,
-      "delta": null,
+      "delta": 4.176,
       "date": "2026-10-30"
     },
     {
       "pilot": "ZOUP",
       "track": "SimRushWeek-4",
       "time": 76.192,
-      "delta": null,
+      "delta": 0.084,
       "date": "2026-10-30"
     },
     {
       "pilot": "DedalosFPV",
       "track": "SimRushWeek-4",
       "time": 93.657,
-      "delta": null,
+      "delta": 3.496,
       "date": "2026-10-29"
     },
     {
@@ -1386,35 +1386,35 @@
       "pilot": "Agorastos",
       "track": "SimRushWeek-4",
       "time": 268.545,
-      "delta": null,
+      "delta": 20.622,
       "date": "2026-10-29"
     },
     {
       "pilot": "Agorastos",
       "track": "SimRushWeek-4",
       "time": 264.611,
-      "delta": null,
+      "delta": 3.934,
       "date": "2026-10-29"
     },
     {
       "pilot": "Agorastos",
       "track": "SimRushWeek-4",
       "time": 245.132,
-      "delta": null,
+      "delta": 19.479,
       "date": "2026-10-29"
     },
     {
       "pilot": "Agorastos",
       "track": "SimRushWeek-4",
       "time": 222.813,
-      "delta": null,
+      "delta": 22.319,
       "date": "2026-10-29"
     },
     {
       "pilot": "Agorastos",
       "track": "SimRushWeek-4",
       "time": 200.075,
-      "delta": null,
+      "delta": 22.738,
       "date": "2026-10-29"
     },
     {
@@ -1428,105 +1428,105 @@
       "pilot": "Gaston_FPV",
       "track": "SimRushWeek-4",
       "time": 413.692,
-      "delta": null,
+      "delta": 9.624,
       "date": "2026-10-28"
     },
     {
       "pilot": "Gaston_FPV",
       "track": "SimRushWeek-4",
       "time": 372.476,
-      "delta": null,
+      "delta": 41.216,
       "date": "2026-10-28"
     },
     {
       "pilot": "Gaston_FPV",
       "track": "SimRushWeek-4",
       "time": 318.935,
-      "delta": null,
+      "delta": 53.541,
       "date": "2026-10-28"
     },
     {
       "pilot": "Gaston_FPV",
       "track": "SimRushWeek-4",
       "time": 314.214,
-      "delta": null,
+      "delta": 4.721,
       "date": "2026-10-28"
     },
     {
       "pilot": "Torque72",
       "track": "SimRushWeek-4",
       "time": 239.327,
-      "delta": null,
+      "delta": 0.159,
       "date": "2026-10-27"
     },
     {
       "pilot": "Torque72",
       "track": "SimRushWeek-4",
       "time": 218.621,
-      "delta": null,
+      "delta": 20.706,
       "date": "2026-10-27"
     },
     {
       "pilot": "Torque72",
       "track": "SimRushWeek-4",
       "time": 214.556,
-      "delta": null,
+      "delta": 4.065,
       "date": "2026-10-27"
     },
     {
       "pilot": "dimbazus",
       "track": "SimRushWeek-4",
       "time": 138.769,
-      "delta": null,
+      "delta": 4.617,
       "date": "2026-10-27"
     },
     {
       "pilot": "DedalosFPV",
       "track": "SimRushWeek-4",
       "time": 97.153,
-      "delta": null,
+      "delta": 4.795,
       "date": "2026-10-27"
     },
     {
       "pilot": "dimbazus",
       "track": "SimRushWeek-4",
       "time": 134.78,
-      "delta": null,
+      "delta": 3.989,
       "date": "2026-10-27"
     },
     {
       "pilot": "DedalosFPV",
       "track": "SimRushWeek-4",
       "time": 120.021,
-      "delta": null,
+      "delta": 3.276,
       "date": "2026-10-26"
     },
     {
       "pilot": "DedalosFPV",
       "track": "SimRushWeek-4",
       "time": 116.869,
-      "delta": null,
+      "delta": 3.152,
       "date": "2026-10-26"
     },
     {
       "pilot": "ZOUP",
       "track": "SimRushWeek-4",
       "time": 84.187,
-      "delta": null,
+      "delta": 1.14,
       "date": "2026-10-26"
     },
     {
       "pilot": "ZOUP",
       "track": "SimRushWeek-4",
       "time": 82.198,
-      "delta": null,
+      "delta": 1.989,
       "date": "2026-10-26"
     },
     {
       "pilot": "ZOUP",
       "track": "SimRushWeek-4",
       "time": 82.191,
-      "delta": null,
+      "delta": 0.007,
       "date": "2026-10-26"
     },
     {
@@ -1540,70 +1540,70 @@
       "pilot": "Torque72",
       "track": "SimRushWeek-4",
       "time": 266.231,
-      "delta": null,
+      "delta": 31.44,
       "date": "2026-10-26"
     },
     {
       "pilot": "Torque72",
       "track": "SimRushWeek-4",
       "time": 239.486,
-      "delta": null,
+      "delta": 26.745,
       "date": "2026-10-26"
     },
     {
       "pilot": "ZOUP",
       "track": "SimRushWeek-4",
       "time": 77.986,
-      "delta": null,
+      "delta": 4.205,
       "date": "2026-10-26"
     },
     {
       "pilot": "ZOUP",
       "track": "SimRushWeek-4",
       "time": 76.276,
-      "delta": null,
+      "delta": 1.71,
       "date": "2026-10-26"
     },
     {
       "pilot": "DedalosFPV",
       "track": "SimRushWeek-4",
       "time": 110.5,
-      "delta": null,
+      "delta": 6.369,
       "date": "2026-10-26"
     },
     {
       "pilot": "DedalosFPV",
       "track": "SimRushWeek-4",
       "time": 101.948,
-      "delta": null,
+      "delta": 8.552,
       "date": "2026-10-26"
     },
     {
       "pilot": "Cbeikos",
       "track": "SimRushWeek-4",
       "time": 122.972,
-      "delta": null,
+      "delta": 0.333,
       "date": "2026-10-26"
     },
     {
       "pilot": "Cbeikos",
       "track": "SimRushWeek-4",
       "time": 116.27,
-      "delta": null,
+      "delta": 6.702,
       "date": "2026-10-26"
     },
     {
       "pilot": "Cbeikos",
       "track": "SimRushWeek-4",
       "time": 115.225,
-      "delta": null,
+      "delta": 1.045,
       "date": "2026-10-26"
     },
     {
       "pilot": "Liapos",
       "track": "SimRushWeek-4",
       "time": 150.967,
-      "delta": null,
+      "delta": 2.185,
       "date": "2026-10-26"
     },
     {
@@ -1617,35 +1617,35 @@
       "pilot": "Cbeikos",
       "track": "SimRushWeek-4",
       "time": 206.298,
-      "delta": null,
+      "delta": 87.654,
       "date": "2026-10-25"
     },
     {
       "pilot": "Cbeikos",
       "track": "SimRushWeek-4",
       "time": 170.475,
-      "delta": null,
+      "delta": 35.823,
       "date": "2026-10-25"
     },
     {
       "pilot": "Cbeikos",
       "track": "SimRushWeek-4",
       "time": 141.835,
-      "delta": null,
+      "delta": 28.64,
       "date": "2026-10-25"
     },
     {
       "pilot": "Cbeikos",
       "track": "SimRushWeek-4",
       "time": 130.852,
-      "delta": null,
+      "delta": 10.983,
       "date": "2026-10-25"
     },
     {
       "pilot": "Cbeikos",
       "track": "SimRushWeek-4",
       "time": 130.844,
-      "delta": null,
+      "delta": 0.008,
       "date": "2026-10-25"
     },
     {
@@ -1659,7 +1659,7 @@
       "pilot": "ZOUP",
       "track": "SimRushWeek-4",
       "time": 95.538,
-      "delta": null,
+      "delta": 25.337,
       "date": "2026-10-25"
     },
     {
@@ -1673,14 +1673,14 @@
       "pilot": "Cbeikos",
       "track": "SimRushWeek-4",
       "time": 124.665,
-      "delta": null,
+      "delta": 6.179,
       "date": "2026-10-25"
     },
     {
       "pilot": "TettixPro",
       "track": "SimRushWeek-4",
       "time": 103.202,
-      "delta": null,
+      "delta": 8.879,
       "date": "2026-10-25"
     },
     {
@@ -1694,70 +1694,70 @@
       "pilot": "TettixPro",
       "track": "SimRushWeek-4",
       "time": 99.296,
-      "delta": null,
+      "delta": 3.906,
       "date": "2026-10-25"
     },
     {
       "pilot": "dimbazus",
       "track": "SimRushWeek-4",
       "time": 212.237,
-      "delta": null,
+      "delta": 28.916,
       "date": "2026-10-25"
     },
     {
       "pilot": "ZOUP",
       "track": "SimRushWeek-4",
       "time": 89.978,
-      "delta": null,
+      "delta": 5.56,
       "date": "2026-10-25"
     },
     {
       "pilot": "dimbazus",
       "track": "SimRushWeek-4",
       "time": 210.42,
-      "delta": null,
+      "delta": 1.817,
       "date": "2026-10-25"
     },
     {
       "pilot": "dimbazus",
       "track": "SimRushWeek-4",
       "time": 190.177,
-      "delta": null,
+      "delta": 20.243,
       "date": "2026-10-25"
     },
     {
       "pilot": "dimbazus",
       "track": "SimRushWeek-4",
       "time": 177.71,
-      "delta": null,
+      "delta": 12.467,
       "date": "2026-10-25"
     },
     {
       "pilot": "dimbazus",
       "track": "SimRushWeek-4",
       "time": 164.272,
-      "delta": null,
+      "delta": 13.438,
       "date": "2026-10-25"
     },
     {
       "pilot": "dimbazus",
       "track": "SimRushWeek-4",
       "time": 156.768,
-      "delta": null,
+      "delta": 7.504,
       "date": "2026-10-25"
     },
     {
       "pilot": "Cbeikos",
       "track": "SimRushWeek-4",
       "time": 123.305,
-      "delta": null,
+      "delta": 1.36,
       "date": "2026-10-25"
     },
     {
       "pilot": "TettixPro",
       "track": "SimRushWeek-4",
       "time": 90.149,
-      "delta": null,
+      "delta": 9.147,
       "date": "2026-10-25"
     },
     {
@@ -1771,21 +1771,21 @@
       "pilot": "Exo_FPV",
       "track": "SimRushWeek-4",
       "time": 77.595,
-      "delta": null,
+      "delta": 6.183,
       "date": "2026-10-25"
     },
     {
       "pilot": "dimbazus",
       "track": "SimRushWeek-4",
       "time": 143.386,
-      "delta": null,
+      "delta": 13.382,
       "date": "2026-10-25"
     },
     {
       "pilot": "ZOUP",
       "track": "SimRushWeek-4",
       "time": 85.938,
-      "delta": null,
+      "delta": 4.04,
       "date": "2026-10-25"
     },
     {
@@ -1799,35 +1799,35 @@
       "pilot": "DedalosFPV",
       "track": "SimRushWeek-4",
       "time": 158.381,
-      "delta": null,
+      "delta": 55.728,
       "date": "2026-10-25"
     },
     {
       "pilot": "DedalosFPV",
       "track": "SimRushWeek-4",
       "time": 154.593,
-      "delta": null,
+      "delta": 3.788,
       "date": "2026-10-25"
     },
     {
       "pilot": "DedalosFPV",
       "track": "SimRushWeek-4",
       "time": 130.528,
-      "delta": null,
+      "delta": 24.065,
       "date": "2026-10-25"
     },
     {
       "pilot": "DedalosFPV",
       "track": "SimRushWeek-4",
       "time": 123.297,
-      "delta": null,
+      "delta": 7.231,
       "date": "2026-10-25"
     },
     {
       "pilot": "ZOUP",
       "track": "SimRushWeek-4",
       "time": 85.327,
-      "delta": null,
+      "delta": 0.611,
       "date": "2026-10-25"
     },
     {
@@ -1841,14 +1841,14 @@
       "pilot": "Liapos",
       "track": "SimRushWeek-4",
       "time": 153.152,
-      "delta": null,
+      "delta": 3.607,
       "date": "2026-10-25"
     },
     {
       "pilot": "ZOUP",
       "track": "SimRushWeek3",
       "time": 40.165,
-      "delta": null,
+      "delta": 0.208,
       "date": "2026-10-24"
     },
     {
@@ -1862,21 +1862,21 @@
       "pilot": "Torque72",
       "track": "SimRushWeek3",
       "time": 110.281,
-      "delta": null,
+      "delta": 11.492,
       "date": "2026-10-23"
     },
     {
       "pilot": "Exo_FPV",
       "track": "SimRushWeek3",
       "time": 39.312,
-      "delta": null,
+      "delta": 1.285,
       "date": "2026-10-23"
     },
     {
       "pilot": "dimbazus",
       "track": "SimRushWeek3",
       "time": 68.305,
-      "delta": null,
+      "delta": 0.887,
       "date": "2026-10-23"
     },
     {
@@ -1890,77 +1890,77 @@
       "pilot": "Liapos",
       "track": "SimRushWeek3",
       "time": 73.075,
-      "delta": null,
+      "delta": 1.868,
       "date": "2026-10-23"
     },
     {
       "pilot": "dimbazus",
       "track": "SimRushWeek3",
       "time": 65.633,
-      "delta": null,
+      "delta": 2.672,
       "date": "2026-10-23"
     },
     {
       "pilot": "dimbazus",
       "track": "SimRushWeek3",
       "time": 65.008,
-      "delta": null,
+      "delta": 0.625,
       "date": "2026-10-23"
     },
     {
       "pilot": "ZOUP",
       "track": "SimRushWeek3",
       "time": 40.373,
-      "delta": null,
+      "delta": 1.508,
       "date": "2026-10-22"
     },
     {
       "pilot": "dimbazus",
       "track": "SimRushWeek3",
       "time": 74.916,
-      "delta": null,
+      "delta": 2.497,
       "date": "2026-10-22"
     },
     {
       "pilot": "dimbazus",
       "track": "SimRushWeek3",
       "time": 74.122,
-      "delta": null,
+      "delta": 0.794,
       "date": "2026-10-22"
     },
     {
       "pilot": "dimbazus",
       "track": "SimRushWeek3",
       "time": 73.94,
-      "delta": null,
+      "delta": 0.182,
       "date": "2026-10-22"
     },
     {
       "pilot": "dimbazus",
       "track": "SimRushWeek3",
       "time": 73.367,
-      "delta": null,
+      "delta": 0.573,
       "date": "2026-10-22"
     },
     {
       "pilot": "dimbazus",
       "track": "SimRushWeek3",
       "time": 72.637,
-      "delta": null,
+      "delta": 0.73,
       "date": "2026-10-22"
     },
     {
       "pilot": "dimbazus",
       "track": "SimRushWeek3",
       "time": 72.154,
-      "delta": null,
+      "delta": 0.483,
       "date": "2026-10-22"
     },
     {
       "pilot": "dimbazus",
       "track": "SimRushWeek3",
       "time": 70.691,
-      "delta": null,
+      "delta": 1.463,
       "date": "2026-10-22"
     },
     {
@@ -1974,56 +1974,56 @@
       "pilot": "fpvchucky",
       "track": "SimRushWeek3",
       "time": 190.575,
-      "delta": null,
+      "delta": 78.224,
       "date": "2026-10-22"
     },
     {
       "pilot": "dimbazus",
       "track": "SimRushWeek3",
       "time": 69.459,
-      "delta": null,
+      "delta": 1.232,
       "date": "2026-10-22"
     },
     {
       "pilot": "fpvchucky",
       "track": "SimRushWeek3",
       "time": 189.875,
-      "delta": null,
+      "delta": 0.7,
       "date": "2026-10-22"
     },
     {
       "pilot": "fpvchucky",
       "track": "SimRushWeek3",
       "time": 176.076,
-      "delta": null,
+      "delta": 13.799,
       "date": "2026-10-22"
     },
     {
       "pilot": "fpvchucky",
       "track": "SimRushWeek3",
       "time": 174.768,
-      "delta": null,
+      "delta": 1.308,
       "date": "2026-10-22"
     },
     {
       "pilot": "fpvchucky",
       "track": "SimRushWeek3",
       "time": 159.105,
-      "delta": null,
+      "delta": 15.663,
       "date": "2026-10-22"
     },
     {
       "pilot": "fpvchucky",
       "track": "SimRushWeek3",
       "time": 156.532,
-      "delta": null,
+      "delta": 2.573,
       "date": "2026-10-22"
     },
     {
       "pilot": "fpvchucky",
       "track": "SimRushWeek3",
       "time": 149.462,
-      "delta": null,
+      "delta": 7.07,
       "date": "2026-10-22"
     },
     {
@@ -2037,49 +2037,49 @@
       "pilot": "dimbazus",
       "track": "SimRushWeek3",
       "time": 69.192,
-      "delta": null,
+      "delta": 0.267,
       "date": "2026-10-22"
     },
     {
       "pilot": "Agorastos",
       "track": "SimRushWeek3",
       "time": 71.175,
-      "delta": null,
+      "delta": 0.44,
       "date": "2026-10-20"
     },
     {
       "pilot": "Agorastos",
       "track": "SimRushWeek3",
       "time": 70.034,
-      "delta": null,
+      "delta": 1.141,
       "date": "2026-10-20"
     },
     {
       "pilot": "Agorastos",
       "track": "SimRushWeek3",
       "time": 68.041,
-      "delta": null,
+      "delta": 1.993,
       "date": "2026-10-20"
     },
     {
       "pilot": "Exo_FPV",
       "track": "SimRushWeek3",
       "time": 42.391,
-      "delta": null,
+      "delta": 4.633,
       "date": "2026-10-20"
     },
     {
       "pilot": "Agorastos",
       "track": "SimRushWeek3",
       "time": 67.587,
-      "delta": null,
+      "delta": 0.454,
       "date": "2026-10-20"
     },
     {
       "pilot": "Exo_FPV",
       "track": "SimRushWeek3",
       "time": 41.834,
-      "delta": null,
+      "delta": 0.557,
       "date": "2026-10-20"
     },
     {
@@ -2093,49 +2093,49 @@
       "pilot": "ZOUP",
       "track": "SimRushWeek3",
       "time": 43.452,
-      "delta": null,
+      "delta": 2.155,
       "date": "2026-10-20"
     },
     {
       "pilot": "Exo_FPV",
       "track": "SimRushWeek3",
       "time": 40.872,
-      "delta": null,
+      "delta": 0.962,
       "date": "2026-10-20"
     },
     {
       "pilot": "Exo_FPV",
       "track": "SimRushWeek3",
       "time": 40.597,
-      "delta": null,
+      "delta": 0.275,
       "date": "2026-10-20"
     },
     {
       "pilot": "ZOUP",
       "track": "SimRushWeek3",
       "time": 41.881,
-      "delta": null,
+      "delta": 1.571,
       "date": "2026-10-20"
     },
     {
       "pilot": "Agorastos",
       "track": "SimRushWeek3",
       "time": 71.615,
-      "delta": null,
+      "delta": 2.017,
       "date": "2026-10-19"
     },
     {
       "pilot": "tomahok",
       "track": "SimRushWeek3",
       "time": 67.474,
-      "delta": null,
+      "delta": 0.854,
       "date": "2026-10-19"
     },
     {
       "pilot": "tomahok",
       "track": "SimRushWeek3",
       "time": 63.578,
-      "delta": null,
+      "delta": 3.896,
       "date": "2026-10-19"
     },
     {
@@ -2149,7 +2149,7 @@
       "pilot": "Cbeikos",
       "track": "SimRushWeek3",
       "time": 58.989,
-      "delta": null,
+      "delta": 6.76,
       "date": "2026-10-18"
     },
     {
@@ -2163,42 +2163,42 @@
       "pilot": "dimbazus",
       "track": "SimRushWeek3",
       "time": 95.383,
-      "delta": null,
+      "delta": 52.616,
       "date": "2026-10-18"
     },
     {
       "pilot": "dimbazus",
       "track": "SimRushWeek3",
       "time": 90.238,
-      "delta": null,
+      "delta": 5.145,
       "date": "2026-10-18"
     },
     {
       "pilot": "dimbazus",
       "track": "SimRushWeek3",
       "time": 81.07,
-      "delta": null,
+      "delta": 9.168,
       "date": "2026-10-18"
     },
     {
       "pilot": "dimbazus",
       "track": "SimRushWeek3",
       "time": 79.333,
-      "delta": null,
+      "delta": 1.737,
       "date": "2026-10-18"
     },
     {
       "pilot": "dimbazus",
       "track": "SimRushWeek3",
       "time": 77.413,
-      "delta": null,
+      "delta": 1.92,
       "date": "2026-10-18"
     },
     {
       "pilot": "Cbeikos",
       "track": "SimRushWeek3",
       "time": 56.123,
-      "delta": null,
+      "delta": 2.866,
       "date": "2026-10-18"
     },
     {
@@ -2219,14 +2219,14 @@
       "pilot": "DedalosFPV",
       "track": "SimRushWeek3",
       "time": 53.144,
-      "delta": null,
+      "delta": 2.812,
       "date": "2026-10-18"
     },
     {
       "pilot": "DedalosFPV",
       "track": "SimRushWeek3",
       "time": 52.652,
-      "delta": null,
+      "delta": 0.492,
       "date": "2026-10-18"
     },
     {
@@ -2240,35 +2240,35 @@
       "pilot": "tomahok",
       "track": "SimRushWeek3",
       "time": 85.979,
-      "delta": null,
+      "delta": 30.457,
       "date": "2026-10-18"
     },
     {
       "pilot": "tomahok",
       "track": "SimRushWeek3",
       "time": 74.517,
-      "delta": null,
+      "delta": 11.462,
       "date": "2026-10-18"
     },
     {
       "pilot": "tomahok",
       "track": "SimRushWeek3",
       "time": 73.268,
-      "delta": null,
+      "delta": 1.249,
       "date": "2026-10-18"
     },
     {
       "pilot": "tomahok",
       "track": "SimRushWeek3",
       "time": 68.328,
-      "delta": null,
+      "delta": 4.94,
       "date": "2026-10-18"
     },
     {
       "pilot": "DedalosFPV",
       "track": "SimRushWeek3",
       "time": 48.874,
-      "delta": null,
+      "delta": 3.778,
       "date": "2026-10-18"
     },
     {
@@ -2282,49 +2282,49 @@
       "pilot": "Agorastos",
       "track": "SimRushWeek3",
       "time": 80.433,
-      "delta": null,
+      "delta": 4.465,
       "date": "2026-10-18"
     },
     {
       "pilot": "Agorastos",
       "track": "SimRushWeek3",
       "time": 78.149,
-      "delta": null,
+      "delta": 2.284,
       "date": "2026-10-18"
     },
     {
       "pilot": "Agorastos",
       "track": "SimRushWeek3",
       "time": 76.466,
-      "delta": null,
+      "delta": 1.683,
       "date": "2026-10-18"
     },
     {
       "pilot": "Agorastos",
       "track": "SimRushWeek3",
       "time": 73.632,
-      "delta": null,
+      "delta": 2.834,
       "date": "2026-10-18"
     },
     {
       "pilot": "DedalosFPV",
       "track": "SimRushWeek3",
       "time": 48.537,
-      "delta": null,
+      "delta": 0.337,
       "date": "2026-10-18"
     },
     {
       "pilot": "Liapos",
       "track": "SimRushWeek2",
       "time": 140.24,
-      "delta": null,
+      "delta": 3.35,
       "date": "2026-10-17"
     },
     {
       "pilot": "DedalosFPV",
       "track": "SimRushWeek2",
       "time": 102.158,
-      "delta": null,
+      "delta": 0.503,
       "date": "2026-10-17"
     },
     {
@@ -2338,49 +2338,49 @@
       "pilot": "Cbeikos",
       "track": "SimRushWeek3",
       "time": 86.147,
-      "delta": null,
+      "delta": 18.819,
       "date": "2026-10-17"
     },
     {
       "pilot": "Cbeikos",
       "track": "SimRushWeek3",
       "time": 70.176,
-      "delta": null,
+      "delta": 15.971,
       "date": "2026-10-17"
     },
     {
       "pilot": "Cbeikos",
       "track": "SimRushWeek3",
       "time": 65.749,
-      "delta": null,
+      "delta": 4.427,
       "date": "2026-10-17"
     },
     {
       "pilot": "Liapos",
       "track": "SimRushWeek2",
       "time": 143.59,
-      "delta": null,
+      "delta": 21.633,
       "date": "2026-10-16"
     },
     {
       "pilot": "Cbeikos",
       "track": "SimRushWeek2",
       "time": 132.451,
-      "delta": null,
+      "delta": 0.28,
       "date": "2026-10-16"
     },
     {
       "pilot": "TettixPro",
       "track": "SimRushWeek2",
       "time": 85.841,
-      "delta": null,
+      "delta": 2.913,
       "date": "2026-10-16"
     },
     {
       "pilot": "Liapos",
       "track": "SimRushWeek2",
       "time": 165.387,
-      "delta": null,
+      "delta": 4.289,
       "date": "2026-10-14"
     },
     {
@@ -2394,77 +2394,77 @@
       "pilot": "TettixPro",
       "track": "SimRushWeek2",
       "time": 101.283,
-      "delta": null,
+      "delta": 129.169,
       "date": "2026-10-14"
     },
     {
       "pilot": "TettixPro",
       "track": "SimRushWeek2",
       "time": 88.754,
-      "delta": null,
+      "delta": 12.529,
       "date": "2026-10-14"
     },
     {
       "pilot": "Liapos",
       "track": "SimRushWeek2",
       "time": 165.223,
-      "delta": null,
+      "delta": 0.164,
       "date": "2026-10-14"
     },
     {
       "pilot": "Agorastos",
       "track": "SimRushWeek2",
       "time": 134.332,
-      "delta": null,
+      "delta": 1.268,
       "date": "2026-10-13"
     },
     {
       "pilot": "ZOUP",
       "track": "SimRushWeek2",
       "time": 78.702,
-      "delta": null,
+      "delta": 1.21,
       "date": "2026-10-13"
     },
     {
       "pilot": "ZOUP",
       "track": "SimRushWeek2",
       "time": 78.055,
-      "delta": null,
+      "delta": 0.647,
       "date": "2026-10-13"
     },
     {
       "pilot": "tomahok",
       "track": "SimRushWeek2",
       "time": 140.483,
-      "delta": null,
+      "delta": 11.196,
       "date": "2026-10-13"
     },
     {
       "pilot": "tomahok",
       "track": "SimRushWeek2",
       "time": 140.109,
-      "delta": null,
+      "delta": 0.374,
       "date": "2026-10-13"
     },
     {
       "pilot": "tomahok",
       "track": "SimRushWeek2",
       "time": 128.807,
-      "delta": null,
+      "delta": 11.302,
       "date": "2026-10-13"
     },
     {
       "pilot": "Agorastos",
       "track": "SimRushWeek2",
       "time": 157.781,
-      "delta": null,
+      "delta": -23.449,
       "date": "2026-10-13"
     },
     {
       "pilot": "Agorastos",
       "track": "SimRushWeek2",
       "time": 152.448,
-      "delta": null,
+      "delta": 5.333,
       "date": "2026-10-13"
     },
     {
@@ -2478,7 +2478,7 @@
       "pilot": "ZOUP",
       "track": "SimRushWeek2",
       "time": 86.182,
-      "delta": null,
+      "delta": 16.648,
       "date": "2026-10-12"
     },
     {
@@ -2492,84 +2492,84 @@
       "pilot": "Cbeikos",
       "track": "SimRushWeek2",
       "time": 182.365,
-      "delta": null,
+      "delta": 64.881,
       "date": "2026-10-12"
     },
     {
       "pilot": "Cbeikos",
       "track": "SimRushWeek2",
       "time": 167.934,
-      "delta": null,
+      "delta": 14.431,
       "date": "2026-10-12"
     },
     {
       "pilot": "Cbeikos",
       "track": "SimRushWeek2",
       "time": 156.721,
-      "delta": null,
+      "delta": 11.213,
       "date": "2026-10-12"
     },
     {
       "pilot": "Cbeikos",
       "track": "SimRushWeek2",
       "time": 146.92,
-      "delta": null,
+      "delta": 9.801,
       "date": "2026-10-12"
     },
     {
       "pilot": "Cbeikos",
       "track": "SimRushWeek2",
       "time": 146.602,
-      "delta": null,
+      "delta": 0.318,
       "date": "2026-10-12"
     },
     {
       "pilot": "Cbeikos",
       "track": "SimRushWeek2",
       "time": 142.682,
-      "delta": null,
+      "delta": 3.92,
       "date": "2026-10-12"
     },
     {
       "pilot": "ZOUP",
       "track": "SimRushWeek2",
       "time": 85.604,
-      "delta": null,
+      "delta": 0.578,
       "date": "2026-10-12"
     },
     {
       "pilot": "ZOUP",
       "track": "SimRushWeek2",
       "time": 82.754,
-      "delta": null,
+      "delta": 2.85,
       "date": "2026-10-12"
     },
     {
       "pilot": "Cbeikos",
       "track": "SimRushWeek2",
       "time": 134.275,
-      "delta": null,
+      "delta": 8.407,
       "date": "2026-10-12"
     },
     {
       "pilot": "ZOUP",
       "track": "SimRushWeek2",
       "time": 82.47,
-      "delta": null,
+      "delta": 0.284,
       "date": "2026-10-12"
     },
     {
       "pilot": "ZOUP",
       "track": "SimRushWeek2",
       "time": 79.912,
-      "delta": null,
+      "delta": 2.558,
       "date": "2026-10-12"
     },
     {
       "pilot": "Cbeikos",
       "track": "SimRushWeek2",
       "time": 132.731,
-      "delta": null,
+      "delta": 1.544,
       "date": "2026-10-12"
     },
     {
@@ -2583,126 +2583,126 @@
       "pilot": "tomahok",
       "track": "SimRushWeek2",
       "time": 179.37,
-      "delta": null,
+      "delta": 88.724,
       "date": "2026-10-12"
     },
     {
       "pilot": "tomahok",
       "track": "SimRushWeek2",
       "time": 162.558,
-      "delta": null,
+      "delta": 16.812,
       "date": "2026-10-12"
     },
     {
       "pilot": "Agorastos",
       "track": "SimRushWeek2",
       "time": 222.33,
-      "delta": null,
+      "delta": -31.205,
       "date": "2026-10-12"
     },
     {
       "pilot": "tomahok",
       "track": "SimRushWeek2",
       "time": 151.679,
-      "delta": null,
+      "delta": 10.879,
       "date": "2026-10-12"
     },
     {
       "pilot": "Agorastos",
       "track": "SimRushWeek2",
       "time": 204.749,
-      "delta": null,
+      "delta": 17.581,
       "date": "2026-10-12"
     },
     {
       "pilot": "dimbazus",
       "track": "SimRushWeek2",
       "time": 235.608,
-      "delta": null,
+      "delta": -75.17,
       "date": "2026-10-12"
     },
     {
       "pilot": "dimbazus",
       "track": "SimRushWeek2",
       "time": 178.02,
-      "delta": null,
+      "delta": 57.588,
       "date": "2026-10-12"
     },
     {
       "pilot": "Agorastos",
       "track": "SimRushWeek2",
       "time": 192.366,
-      "delta": null,
+      "delta": 12.383,
       "date": "2026-10-12"
     },
     {
       "pilot": "dimbazus",
       "track": "SimRushWeek2",
       "time": 152.848,
-      "delta": null,
+      "delta": 25.172,
       "date": "2026-10-12"
     },
     {
       "pilot": "Agorastos",
       "track": "SimRushWeek2",
       "time": 190.148,
-      "delta": null,
+      "delta": 2.218,
       "date": "2026-10-12"
     },
     {
       "pilot": "Agorastos",
       "track": "SimRushWeek2",
       "time": 177.081,
-      "delta": null,
+      "delta": 13.067,
       "date": "2026-10-12"
     },
     {
       "pilot": "dimbazus",
       "track": "SimRushWeek2",
       "time": 141.878,
-      "delta": null,
+      "delta": 10.97,
       "date": "2026-10-12"
     },
     {
       "pilot": "Agorastos",
       "track": "SimRushWeek2",
       "time": 175.768,
-      "delta": null,
+      "delta": 1.313,
       "date": "2026-10-12"
     },
     {
       "pilot": "Agorastos",
       "track": "SimRushWeek2",
       "time": 163.399,
-      "delta": null,
+      "delta": 12.369,
       "date": "2026-10-12"
     },
     {
       "pilot": "Agorastos",
       "track": "SimRushWeek2",
       "time": 152.749,
-      "delta": null,
+      "delta": 10.65,
       "date": "2026-10-12"
     },
     {
       "pilot": "Agorastos",
       "track": "SimRushWeek2",
       "time": 143.249,
-      "delta": null,
+      "delta": 9.5,
       "date": "2026-10-12"
     },
     {
       "pilot": "Agorastos",
       "track": "SimRushWeek2",
       "time": 137.682,
-      "delta": null,
+      "delta": 5.567,
       "date": "2026-10-12"
     },
     {
       "pilot": "Agorastos",
       "track": "SimRushWeek2",
       "time": 135.6,
-      "delta": null,
+      "delta": 2.082,
       "date": "2026-10-12"
     },
     {
@@ -2716,14 +2716,14 @@
       "pilot": "Agorastos",
       "track": "SimRushWeek2",
       "time": 210.399,
-      "delta": null,
+      "delta": 24.524,
       "date": "2026-10-11"
     },
     {
       "pilot": "Agorastos",
       "track": "SimRushWeek2",
       "time": 206.258,
-      "delta": null,
+      "delta": 4.141,
       "date": "2026-10-11"
     },
     {
@@ -2737,49 +2737,49 @@
       "pilot": "Agorastos",
       "track": "SimRushWeek2",
       "time": 204.224,
-      "delta": null,
+      "delta": 2.034,
       "date": "2026-10-11"
     },
     {
       "pilot": "Exo_FPV",
       "track": "SimRushWeek2",
       "time": 108.969,
-      "delta": null,
+      "delta": 7.608,
       "date": "2026-10-11"
     },
     {
       "pilot": "Agorastos",
       "track": "SimRushWeek2",
       "time": 191.125,
-      "delta": null,
+      "delta": 13.099,
       "date": "2026-10-11"
     },
     {
       "pilot": "Exo_FPV",
       "track": "SimRushWeek2",
       "time": 103.525,
-      "delta": null,
+      "delta": 5.444,
       "date": "2026-10-11"
     },
     {
       "pilot": "Exo_FPV",
       "track": "SimRushWeek2",
       "time": 100.523,
-      "delta": null,
+      "delta": 3.002,
       "date": "2026-10-11"
     },
     {
       "pilot": "Exo_FPV",
       "track": "SimRushWeek2",
       "time": 94.471,
-      "delta": null,
+      "delta": 6.052,
       "date": "2026-10-11"
     },
     {
       "pilot": "Exo_FPV",
       "track": "SimRushWeek2",
       "time": 81.959,
-      "delta": null,
+      "delta": 12.512,
       "date": "2026-10-11"
     },
     {
@@ -2793,35 +2793,35 @@
       "pilot": "dimbazus",
       "track": "SimRushWeek2",
       "time": 191.737,
-      "delta": null,
+      "delta": 63.628,
       "date": "2026-10-11"
     },
     {
       "pilot": "dimbazus",
       "track": "SimRushWeek2",
       "time": 179.988,
-      "delta": null,
+      "delta": 11.749,
       "date": "2026-10-11"
     },
     {
       "pilot": "dimbazus",
       "track": "SimRushWeek2",
       "time": 172.687,
-      "delta": null,
+      "delta": 7.301,
       "date": "2026-10-11"
     },
     {
       "pilot": "dimbazus",
       "track": "SimRushWeek2",
       "time": 162.171,
-      "delta": null,
+      "delta": 10.516,
       "date": "2026-10-11"
     },
     {
       "pilot": "dimbazus",
       "track": "SimRushWeek2",
       "time": 160.438,
-      "delta": null,
+      "delta": 1.733,
       "date": "2026-10-11"
     },
     {
@@ -2835,21 +2835,21 @@
       "pilot": "DedalosFPV",
       "track": "SimRushWeek2",
       "time": 128.62,
-      "delta": null,
+      "delta": 20.463,
       "date": "2026-10-11"
     },
     {
       "pilot": "DedalosFPV",
       "track": "SimRushWeek2",
       "time": 119.133,
-      "delta": null,
+      "delta": 9.487,
       "date": "2026-10-11"
     },
     {
       "pilot": "DedalosFPV",
       "track": "SimRushWeek2",
       "time": 111.516,
-      "delta": null,
+      "delta": 7.617,
       "date": "2026-10-11"
     },
     {
@@ -2863,7 +2863,7 @@
       "pilot": "ZOUP",
       "track": "SimRushWeek2",
       "time": 113.271,
-      "delta": null,
+      "delta": 35.131,
       "date": "2026-10-11"
     }
   ],
@@ -2944,7 +2944,13 @@
       "best_improvement_pct": 0.0
     }
   },
-  "pilot_of_the_week": null,
+  "pilot_of_the_week": {
+    "pilot": "DedalosFPV",
+    "track": "SimRushWeek-5",
+    "first_time": 79.509,
+    "best_time": 39.183,
+    "improvement_pct": 50.72
+  },
   "hot_battles": [
     {
       "leader": "TettixPro",

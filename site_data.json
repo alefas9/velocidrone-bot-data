@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-04T20:40:03.188060",
+  "generated_at": "2026-11-04T20:45:03.339946",
   "season": 2026,
   "current_track": "SimRushWeek-5",
   "current_leaderboard": {
     "5inch": [
       {
         "pilot": "TettixPro",
-        "time": 36.117,
+        "time": 34.893,
         "quad": "Bahamut"
       },
       {
@@ -595,10 +595,10 @@
         "pilot": "TettixPro",
         "class": "5inch",
         "pos": 1,
-        "time": 36.117,
+        "time": 34.893,
         "first_time": 36.671,
-        "prev_time": 36.671,
-        "improvements": 4,
+        "prev_time": 36.117,
+        "improvements": 5,
         "user_id": 372096,
         "pos_24h": 2,
         "pos_change_24h": 1
@@ -701,7 +701,7 @@
       }
     ],
     "hours_at_top": {
-      "TettixPro": 0.5
+      "TettixPro": 0.58
     },
     "race_to_top": [
       {
@@ -713,12 +713,12 @@
         "improvements": 8
       },
       {
-        "pilot": "DedalosFPV",
+        "pilot": "TettixPro",
         "improvements": 5
       },
       {
-        "pilot": "TettixPro",
-        "improvements": 4
+        "pilot": "DedalosFPV",
+        "improvements": 5
       },
       {
         "pilot": "anthunder",
@@ -767,7 +767,16 @@
       }
     ]
   },
+  "track_reveal": null,
+  "race_director_messages": [],
   "improvements": [
+    {
+      "pilot": "TettixPro",
+      "track": "SimRushWeek-5",
+      "time": 34.893,
+      "delta": 1.224,
+      "date": "2026-11-04T20:40:02"
+    },
     {
       "pilot": "TettixPro",
       "track": "SimRushWeek-5",
@@ -2860,13 +2869,6 @@
       "time": 119.133,
       "delta": 9.487,
       "date": "2026-10-11"
-    },
-    {
-      "pilot": "DedalosFPV",
-      "track": "SimRushWeek2",
-      "time": 111.516,
-      "delta": 7.617,
-      "date": "2026-10-11"
     }
   ],
   "pilot_stats": {
@@ -2881,9 +2883,9 @@
       "best_improvement_pct": 0.0
     },
     "TettixPro": {
-      "pbs": 24,
+      "pbs": 25,
       "tracks_improved": 6,
-      "best_improvement_pct": 1.51
+      "best_improvement_pct": 3.39
     },
     "Liapos": {
       "pbs": 18,
@@ -2950,21 +2952,14 @@
     "pilot": "TettixPro",
     "track": "SimRushWeek-5",
     "first_time": 36.671,
-    "best_time": 36.117,
-    "improvement_pct": 1.51
+    "best_time": 34.893,
+    "improvement_pct": 4.85
   },
   "hot_battles": [
     {
       "leader": "tomahok",
       "chaser": "Cbeikos",
       "gap": 1.242,
-      "days": 0,
-      "class": "5inch"
-    },
-    {
-      "leader": "TettixPro",
-      "chaser": "anthunder",
-      "gap": 1.273,
       "days": 0,
       "class": "5inch"
     }

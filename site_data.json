@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T00:55:03.141538",
+  "generated_at": "2026-11-05T01:00:03.382927",
   "season": 2026,
   "current_track": "SimRushWeek-5",
   "current_leaderboard": {
@@ -41,7 +41,7 @@
       },
       {
         "pilot": "dimbazus",
-        "time": 63.591,
+        "time": 61.365,
         "quad": "Bahamut"
       },
       {
@@ -689,10 +689,10 @@
         "pilot": "dimbazus",
         "class": "5inch",
         "pos": 8,
-        "time": 63.591,
+        "time": 61.365,
         "first_time": 69.205,
-        "prev_time": 68.445,
-        "improvements": 3,
+        "prev_time": 63.591,
+        "improvements": 4,
         "user_id": 309918,
         "pos_24h": null,
         "pos_change_24h": null
@@ -735,7 +735,7 @@
       }
     ],
     "hours_at_top": {
-      "TettixPro": 4.75
+      "TettixPro": 4.83
     },
     "race_to_top": [
       {
@@ -759,6 +759,10 @@
         "improvements": 4
       },
       {
+        "pilot": "dimbazus",
+        "improvements": 4
+      },
+      {
         "pilot": "fpvchucky",
         "improvements": 4
       },
@@ -772,10 +776,6 @@
       },
       {
         "pilot": "Liapos",
-        "improvements": 3
-      },
-      {
-        "pilot": "dimbazus",
         "improvements": 3
       },
       {
@@ -810,6 +810,13 @@
     ]
   },
   "improvements": [
+    {
+      "pilot": "dimbazus",
+      "track": "SimRushWeek-5",
+      "time": 61.365,
+      "delta": 2.226,
+      "date": "2026-11-05T00:55:02"
+    },
     {
       "pilot": "dimbazus",
       "track": "SimRushWeek-5",
@@ -2902,13 +2909,6 @@
       "time": 81.959,
       "delta": 12.512,
       "date": "2026-10-11"
-    },
-    {
-      "pilot": "dimbazus",
-      "track": "SimRushWeek2",
-      "time": 255.365,
-      "delta": null,
-      "date": "2026-10-11"
     }
   ],
   "pilot_stats": {
@@ -2918,7 +2918,7 @@
       "best_improvement_pct": 0.0
     },
     "dimbazus": {
-      "pbs": 60,
+      "pbs": 61,
       "tracks_improved": 6,
       "best_improvement_pct": 7.09
     },
@@ -3024,7 +3024,7 @@
     {
       "leader": "dimbazus",
       "chaser": "Torque72",
-      "gap": 6.733,
+      "gap": 8.959,
       "days": 0,
       "class": "5inch",
       "opened": true,

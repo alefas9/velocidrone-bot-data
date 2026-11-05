@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T00:50:02.787212",
+  "generated_at": "2026-11-06T00:55:02.817512",
   "season": 2026,
   "current_track": "SimRushWeek-5",
   "current_leaderboard": {
@@ -735,7 +735,7 @@
       }
     ],
     "hours_at_top": {
-      "TettixPro": 28.67
+      "TettixPro": 28.75
     },
     "race_to_top": [
       {
@@ -3011,15 +3011,6 @@
       "days": 0,
       "class": "5inch",
       "opened": false
-    },
-    {
-      "leader": "dimbazus",
-      "chaser": "Torque72",
-      "gap": 8.959,
-      "days": 0,
-      "class": "5inch",
-      "opened": true,
-      "was_gap": 1.119
     }
   ],
   "track_reveal": {

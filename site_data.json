@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T09:50:03.209050",
+  "generated_at": "2026-11-05T22:10:03.067152",
   "season": 2026,
   "current_track": "SimRushWeek-5",
   "current_leaderboard": {
@@ -36,7 +36,7 @@
       },
       {
         "pilot": "Liapos",
-        "time": 58.134,
+        "time": 56.973,
         "quad": "Bahamut"
       },
       {
@@ -610,8 +610,8 @@
         "prev_time": 34.893,
         "improvements": 6,
         "user_id": 372096,
-        "pos_24h": 2,
-        "pos_change_24h": 1
+        "pos_24h": 1,
+        "pos_change_24h": 0
       },
       {
         "pilot": "anthunder",
@@ -622,8 +622,8 @@
         "prev_time": null,
         "improvements": 4,
         "user_id": null,
-        "pos_24h": 1,
-        "pos_change_24h": -1
+        "pos_24h": 2,
+        "pos_change_24h": 0
       },
       {
         "pilot": "DedalosFPV",
@@ -677,11 +677,11 @@
         "pilot": "Liapos",
         "class": "5inch",
         "pos": 7,
-        "time": 58.134,
-        "first_time": 65.848,
-        "prev_time": null,
-        "improvements": 3,
-        "user_id": null,
+        "time": 56.973,
+        "first_time": 56.973,
+        "prev_time": 58.134,
+        "improvements": 4,
+        "user_id": 155181,
         "pos_24h": 7,
         "pos_change_24h": 0
       },
@@ -735,7 +735,7 @@
       }
     ],
     "hours_at_top": {
-      "TettixPro": 13.67
+      "TettixPro": 26.0
     },
     "race_to_top": [
       {
@@ -759,6 +759,10 @@
         "improvements": 4
       },
       {
+        "pilot": "Liapos",
+        "improvements": 4
+      },
+      {
         "pilot": "dimbazus",
         "improvements": 4
       },
@@ -772,10 +776,6 @@
       },
       {
         "pilot": "tomahok",
-        "improvements": 3
-      },
-      {
-        "pilot": "Liapos",
         "improvements": 3
       },
       {
@@ -810,6 +810,13 @@
     ]
   },
   "improvements": [
+    {
+      "pilot": "Liapos",
+      "track": "SimRushWeek-5",
+      "time": 56.973,
+      "delta": 1.161,
+      "date": "2026-11-05T15:35:02"
+    },
     {
       "pilot": "dimbazus",
       "track": "SimRushWeek-5",
@@ -2902,13 +2909,6 @@
       "time": 94.471,
       "delta": 6.052,
       "date": "2026-10-11"
-    },
-    {
-      "pilot": "Exo_FPV",
-      "track": "SimRushWeek2",
-      "time": 81.959,
-      "delta": 12.512,
-      "date": "2026-10-11"
     }
   ],
   "pilot_stats": {
@@ -2928,9 +2928,9 @@
       "best_improvement_pct": 3.39
     },
     "Liapos": {
-      "pbs": 18,
+      "pbs": 19,
       "tracks_improved": 6,
-      "best_improvement_pct": 0.0
+      "best_improvement_pct": 2.0
     },
     "Agorastos": {
       "pbs": 57,
@@ -3031,6 +3031,11 @@
       "was_gap": 1.119
     }
   ],
+  "track_reveal": {
+    "track": "SimRushWeek-5",
+    "youtube": "tSQ9KLjBtf0",
+    "title": null
+  },
   "race_director_messages": [
     {
       "date": "2026-11-04T21:20:04",
@@ -3050,6 +3055,16 @@
     {
       "date": "2026-11-04T23:20:04",
       "text": "[5inch] «SimRushWeek-5»\n🧯 Άσβηστε φωτιές αλλού: εδώ ο **fpvchucky** ανάβει ρεκόρ - 135.250s!",
+      "tag": "announcement"
+    },
+    {
+      "date": "2026-11-05T15:35:05",
+      "text": "[5inch] «SimRushWeek-5»\n🦜 Νιάου νιάου ο **Liapos**: 56.973s στην «SimRushWeek-5» - η γατούλα βρήκε το ποντίκι!",
+      "tag": "announcement"
+    },
+    {
+      "date": "2026-11-05T20:15:03",
+      "text": "🍿 Το ντέρμπι της εβδομάδας: <@788494193747296268> vs <@414751212458606593> στα 1.793s! Admin, δώσε τους μια πίστα! 🥊",
       "tag": "announcement"
     }
   ]

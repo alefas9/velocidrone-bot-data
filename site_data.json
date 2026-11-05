@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T00:25:02.517670",
+  "generated_at": "2026-11-06T00:30:02.637069",
   "season": 2026,
   "current_track": "SimRushWeek-5",
   "current_leaderboard": {
@@ -694,8 +694,8 @@
         "prev_time": 63.591,
         "improvements": 4,
         "user_id": 309918,
-        "pos_24h": null,
-        "pos_change_24h": null
+        "pos_24h": 8,
+        "pos_change_24h": 0
       },
       {
         "pilot": "Torque72",
@@ -706,8 +706,8 @@
         "prev_time": null,
         "improvements": 3,
         "user_id": null,
-        "pos_24h": 8,
-        "pos_change_24h": -1
+        "pos_24h": 9,
+        "pos_change_24h": 0
       },
       {
         "pilot": "fpvchucky",
@@ -718,8 +718,8 @@
         "prev_time": 119.864,
         "improvements": 4,
         "user_id": 451407,
-        "pos_24h": 9,
-        "pos_change_24h": -1
+        "pos_24h": 10,
+        "pos_change_24h": 0
       },
       {
         "pilot": "Bakarim",
@@ -730,12 +730,12 @@
         "prev_time": null,
         "improvements": 4,
         "user_id": null,
-        "pos_24h": 10,
-        "pos_change_24h": -1
+        "pos_24h": 11,
+        "pos_change_24h": 0
       }
     ],
     "hours_at_top": {
-      "TettixPro": 28.25
+      "TettixPro": 28.33
     },
     "race_to_top": [
       {

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T22:20:03.189256",
+  "generated_at": "2026-11-05T22:25:03.303909",
   "season": 2026,
   "current_track": "SimRushWeek-5",
   "current_leaderboard": {
@@ -735,7 +735,7 @@
       }
     ],
     "hours_at_top": {
-      "TettixPro": 26.17
+      "TettixPro": 26.25
     },
     "race_to_top": [
       {
@@ -3064,7 +3064,7 @@
     },
     {
       "date": "2026-11-05T20:15:03",
-      "text": "🍿 Το ντέρμπι της εβδομάδας: <@788494193747296268> vs <@414751212458606593> στα 1.793s! Admin, δώσε τους μια πίστα! 🥊",
+      "text": "🍿 Το ντέρμπι της εβδομάδας: @anthunder vs @DedalosFPV στα 1.793s! Admin, δώσε τους μια πίστα! 🥊",
       "tag": "announcement"
     }
   ]

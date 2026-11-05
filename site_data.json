@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T23:15:02.294111",
+  "generated_at": "2026-11-05T23:20:02.340642",
   "season": 2026,
   "current_track": "SimRushWeek-5",
   "current_leaderboard": {
@@ -718,8 +718,8 @@
         "prev_time": 119.864,
         "improvements": 4,
         "user_id": 451407,
-        "pos_24h": null,
-        "pos_change_24h": null
+        "pos_24h": 10,
+        "pos_change_24h": 0
       },
       {
         "pilot": "Bakarim",
@@ -735,7 +735,7 @@
       }
     ],
     "hours_at_top": {
-      "TettixPro": 27.08
+      "TettixPro": 27.17
     },
     "race_to_top": [
       {

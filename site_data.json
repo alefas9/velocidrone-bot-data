@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T00:05:02.575043",
+  "generated_at": "2026-11-06T00:10:02.810628",
   "season": 2026,
   "current_track": "SimRushWeek-5",
   "current_leaderboard": {
@@ -735,7 +735,7 @@
       }
     ],
     "hours_at_top": {
-      "TettixPro": 27.92
+      "TettixPro": 28.0
     },
     "race_to_top": [
       {
@@ -3011,15 +3011,6 @@
       "days": 0,
       "class": "5inch",
       "opened": false
-    },
-    {
-      "leader": "fpvchucky",
-      "chaser": "Bakarim",
-      "gap": 4.735,
-      "days": 0,
-      "class": "5inch",
-      "opened": true,
-      "was_gap": 1.007
     },
     {
       "leader": "dimbazus",

@@ -1,63 +1,78 @@
 {
-  "generated_at": "2026-11-06T13:50:02.897463",
+  "schema_version": "2.1",
+  "generated_at": "2026-11-06T11:55:03+00:00",
   "season": 2026,
   "current_track": "SimRushWeek-5",
+  "week_no": 5,
+  "rounds_completed": 4,
+  "track_display": "Sim Rush Week 5",
   "current_leaderboard": {
     "5inch": [
       {
         "pilot": "TettixPro",
         "time": 34.337,
-        "quad": "Bahamut"
+        "quad": "Bahamut",
+        "pilot_id": "tettixpro"
       },
       {
         "pilot": "anthunder",
         "time": 37.39,
-        "quad": "Bahamut"
+        "quad": "Bahamut",
+        "pilot_id": "anthunder"
       },
       {
         "pilot": "DedalosFPV",
         "time": 39.183,
-        "quad": "Bahamut"
+        "quad": "Bahamut",
+        "pilot_id": "dedalosfpv"
       },
       {
         "pilot": "tomahok",
         "time": 49.423,
-        "quad": "Five33 Switchback"
+        "quad": "Five33 Switchback",
+        "pilot_id": "tomahok"
       },
       {
         "pilot": "Cbeikos",
         "time": 50.665,
-        "quad": "Five33 Switchback"
+        "quad": "Five33 Switchback",
+        "pilot_id": "cbeikos"
       },
       {
         "pilot": "Agorastos",
         "time": 54.528,
-        "quad": "Carbix Zero"
+        "quad": "Carbix Zero",
+        "pilot_id": "agorastos"
       },
       {
         "pilot": "Liapos",
         "time": 56.973,
-        "quad": "Bahamut"
+        "quad": "Bahamut",
+        "pilot_id": "liapos"
       },
       {
         "pilot": "dimbazus",
         "time": 61.365,
-        "quad": "Bahamut"
+        "quad": "Bahamut",
+        "pilot_id": "dimbazus"
       },
       {
         "pilot": "Torque72",
         "time": 70.324,
-        "quad": "Bahamut"
+        "quad": "Bahamut",
+        "pilot_id": "torque72"
       },
       {
         "pilot": "fpvchucky",
         "time": 116.136,
-        "quad": "Carbix Zero"
+        "quad": "Carbix Zero",
+        "pilot_id": "fpvchucky"
       },
       {
         "pilot": "Bakarim",
         "time": 120.871,
-        "quad": "TBS Oblivion"
+        "quad": "TBS Oblivion",
+        "pilot_id": "bakarim"
       }
     ]
   },
@@ -68,112 +83,128 @@
         "points": 86,
         "wins": 2,
         "podiums": 4,
-        "best": 38.31
+        "best": 38.31,
+        "pilot_id": "exo-fpv"
       },
       {
         "pilot": "ZOUP",
         "points": 83,
         "wins": 2,
         "podiums": 4,
-        "best": 40.165
+        "best": 40.165,
+        "pilot_id": "zoup"
       },
       {
         "pilot": "TettixPro",
         "points": 57,
         "wins": 0,
         "podiums": 3,
-        "best": 42.241
+        "best": 42.241,
+        "pilot_id": "tettixpro"
       },
       {
         "pilot": "DedalosFPV",
         "points": 46,
         "wins": 0,
         "podiums": 0,
-        "best": 48.537
+        "best": 48.537,
+        "pilot_id": "dedalosfpv"
       },
       {
         "pilot": "Cbeikos",
         "points": 28,
         "wins": 0,
         "podiums": 0,
-        "best": 56.123
+        "best": 56.123,
+        "pilot_id": "cbeikos"
       },
       {
         "pilot": "tomahok",
         "points": 26,
         "wins": 0,
         "podiums": 0,
-        "best": 63.578
+        "best": 63.578,
+        "pilot_id": "tomahok"
       },
       {
         "pilot": "dimbazus",
         "points": 20,
         "wins": 0,
         "podiums": 0,
-        "best": 65.008
+        "best": 65.008,
+        "pilot_id": "dimbazus"
       },
       {
         "pilot": "anthunder",
         "points": 18,
         "wins": 0,
         "podiums": 1,
-        "best": 38.87
+        "best": 38.87,
+        "pilot_id": "anthunder"
       },
       {
         "pilot": "Liapos",
         "points": 18,
         "wins": 0,
         "podiums": 0,
-        "best": 70.629
+        "best": 70.629,
+        "pilot_id": "liapos"
       },
       {
         "pilot": "Agorastos",
         "points": 16,
         "wins": 0,
         "podiums": 0,
-        "best": 67.587
+        "best": 67.587,
+        "pilot_id": "agorastos"
       },
       {
         "pilot": "Torque72",
         "points": 3,
         "wins": 0,
         "podiums": 0,
-        "best": 110.281
+        "best": 110.281,
+        "pilot_id": "torque72"
       },
       {
         "pilot": "fpvchucky",
         "points": 2,
         "wins": 0,
         "podiums": 0,
-        "best": 149.462
+        "best": 149.462,
+        "pilot_id": "fpvchucky"
       },
       {
         "pilot": "Pontikos",
         "points": 1,
         "wins": 0,
         "podiums": 0,
-        "best": null
+        "best": null,
+        "pilot_id": "pontikos"
       },
       {
         "pilot": "gkfpv13",
         "points": 0,
         "wins": 0,
         "podiums": 0,
-        "best": null
+        "best": null,
+        "pilot_id": "gkfpv13"
       },
       {
         "pilot": "Bakarim",
         "points": 0,
         "wins": 0,
         "podiums": 0,
-        "best": 272.859
+        "best": 272.859,
+        "pilot_id": "bakarim"
       },
       {
         "pilot": "Gaston_FPV",
         "points": 0,
         "wins": 0,
         "podiums": 0,
-        "best": 314.214
+        "best": 314.214,
+        "pilot_id": "gaston-fpv"
       }
     ]
   },
@@ -186,58 +217,70 @@
         {
           "pilot": "Exo_FPV",
           "time": 38.31,
-          "points": 25
+          "points": 25,
+          "pilot_id": "exo-fpv"
         },
         {
           "pilot": "anthunder",
           "time": 38.87,
-          "points": 18
+          "points": 18,
+          "pilot_id": "anthunder"
         },
         {
           "pilot": "ZOUP",
           "time": 41.353,
-          "points": 15
+          "points": 15,
+          "pilot_id": "zoup"
         },
         {
           "pilot": "TettixPro",
           "time": 44.709,
-          "points": 12
+          "points": 12,
+          "pilot_id": "tettixpro"
         },
         {
           "pilot": "DedalosFPV",
           "time": 50.564,
-          "points": 10
+          "points": 10,
+          "pilot_id": "dedalosfpv"
         },
         {
           "pilot": "tomahok",
           "time": 66.467,
-          "points": 8
+          "points": 8,
+          "pilot_id": "tomahok"
         },
         {
           "pilot": "Liapos",
           "time": 70.629,
-          "points": 6
+          "points": 6,
+          "pilot_id": "liapos"
         },
         {
           "pilot": "dimbazus",
           "time": 71.886,
-          "points": 4
+          "points": 4,
+          "pilot_id": "dimbazus"
         },
         {
           "pilot": "Agorastos",
           "time": 77.166,
-          "points": 2
+          "points": 2,
+          "pilot_id": "agorastos"
         },
         {
           "pilot": "fpvchucky",
           "time": 160.283,
-          "points": 1
+          "points": 1,
+          "pilot_id": "fpvchucky"
         }
       ],
       "winner": "Exo_FPV",
       "best_time": 38.31,
       "pilots_count": 10,
-      "records_broken": 67,
+      "records_broken": null,
+      "pb_events": 67,
+      "track_display": "Sim Rush Week 1",
       "quads": {
         "Exo_FPV": "Bahamut",
         "anthunder": "Bahamut",
@@ -249,7 +292,9 @@
         "dimbazus": "SniperX",
         "Agorastos": "Bahamut",
         "fpvchucky": "Bahamut"
-      }
+      },
+      "week": 1,
+      "season": 2026
     },
     {
       "date": "2026-10-17T20:41:59.014846",
@@ -259,58 +304,70 @@
         {
           "pilot": "ZOUP",
           "time": 78.055,
-          "points": 25
+          "points": 25,
+          "pilot_id": "zoup"
         },
         {
           "pilot": "Exo_FPV",
           "time": 78.546,
-          "points": 18
+          "points": 18,
+          "pilot_id": "exo-fpv"
         },
         {
           "pilot": "TettixPro",
           "time": 85.841,
-          "points": 15
+          "points": 15,
+          "pilot_id": "tettixpro"
         },
         {
           "pilot": "DedalosFPV",
           "time": 102.158,
-          "points": 12
+          "points": 12,
+          "pilot_id": "dedalosfpv"
         },
         {
           "pilot": "tomahok",
           "time": 128.807,
-          "points": 10
+          "points": 10,
+          "pilot_id": "tomahok"
         },
         {
           "pilot": "Cbeikos",
           "time": 132.451,
-          "points": 8
+          "points": 8,
+          "pilot_id": "cbeikos"
         },
         {
           "pilot": "Agorastos",
           "time": 134.332,
-          "points": 6
+          "points": 6,
+          "pilot_id": "agorastos"
         },
         {
           "pilot": "Liapos",
           "time": 140.24,
-          "points": 4
+          "points": 4,
+          "pilot_id": "liapos"
         },
         {
           "pilot": "dimbazus",
           "time": 141.878,
-          "points": 2
+          "points": 2,
+          "pilot_id": "dimbazus"
         },
         {
           "pilot": "fpvchucky",
           "time": 377.356,
-          "points": 1
+          "points": 1,
+          "pilot_id": "fpvchucky"
         }
       ],
       "winner": "ZOUP",
       "best_time": 78.055,
       "pilots_count": 10,
-      "records_broken": 87,
+      "records_broken": null,
+      "pb_events": 87,
+      "track_display": "Sim Rush Week 2",
       "quads": {
         "ZOUP": "Bahamut",
         "Exo_FPV": "Bahamut",
@@ -322,7 +379,9 @@
         "Liapos": "Bahamut",
         "dimbazus": "Bahamut",
         "fpvchucky": "Bahamut"
-      }
+      },
+      "week": 2,
+      "season": 2026
     },
     {
       "date": "2026-10-24T18:06:02.064241",
@@ -332,73 +391,88 @@
         {
           "pilot": "Exo_FPV",
           "time": 39.312,
-          "points": 25
+          "points": 25,
+          "pilot_id": "exo-fpv"
         },
         {
           "pilot": "ZOUP",
           "time": 40.165,
-          "points": 18
+          "points": 18,
+          "pilot_id": "zoup"
         },
         {
           "pilot": "TettixPro",
           "time": 42.241,
-          "points": 15
+          "points": 15,
+          "pilot_id": "tettixpro"
         },
         {
           "pilot": "DedalosFPV",
           "time": 48.537,
-          "points": 12
+          "points": 12,
+          "pilot_id": "dedalosfpv"
         },
         {
           "pilot": "Cbeikos",
           "time": 56.123,
-          "points": 10
+          "points": 10,
+          "pilot_id": "cbeikos"
         },
         {
           "pilot": "tomahok",
           "time": 63.578,
-          "points": 8
+          "points": 8,
+          "pilot_id": "tomahok"
         },
         {
           "pilot": "dimbazus",
           "time": 65.008,
-          "points": 6
+          "points": 6,
+          "pilot_id": "dimbazus"
         },
         {
           "pilot": "Agorastos",
           "time": 67.587,
-          "points": 4
+          "points": 4,
+          "pilot_id": "agorastos"
         },
         {
           "pilot": "Liapos",
           "time": 73.075,
-          "points": 2
+          "points": 2,
+          "pilot_id": "liapos"
         },
         {
           "pilot": "Torque72",
           "time": 110.281,
-          "points": 1
+          "points": 1,
+          "pilot_id": "torque72"
         },
         {
           "pilot": "gkfpv13",
           "time": 129.287,
-          "points": 0
+          "points": 0,
+          "pilot_id": "gkfpv13"
         },
         {
           "pilot": "fpvchucky",
           "time": 149.462,
-          "points": 0
+          "points": 0,
+          "pilot_id": "fpvchucky"
         },
         {
           "pilot": "Bakarim",
           "time": 272.859,
-          "points": 0
+          "points": 0,
+          "pilot_id": "bakarim"
         }
       ],
       "winner": "Exo_FPV",
       "best_time": 39.312,
       "pilots_count": 13,
-      "records_broken": 71,
+      "records_broken": null,
+      "pb_events": 71,
+      "track_display": "Sim Rush Week 3",
       "quads": {
         "Exo_FPV": "Bahamut",
         "ZOUP": "Bahamut",
@@ -412,7 +486,9 @@
         "Torque72": "Five33 Switchback",
         "fpvchucky": "Carbix Zero",
         "Bakarim": "TBS Oblivion"
-      }
+      },
+      "week": 3,
+      "season": 2026
     },
     {
       "date": "2026-10-31T18:06:03.392199",
@@ -422,63 +498,76 @@
         {
           "pilot": "ZOUP",
           "time": 76.192,
-          "points": 25
+          "points": 25,
+          "pilot_id": "zoup"
         },
         {
           "pilot": "Exo_FPV",
           "time": 77.595,
-          "points": 18
+          "points": 18,
+          "pilot_id": "exo-fpv"
         },
         {
           "pilot": "TettixPro",
           "time": 90.149,
-          "points": 15
+          "points": 15,
+          "pilot_id": "tettixpro"
         },
         {
           "pilot": "DedalosFPV",
           "time": 93.657,
-          "points": 12
+          "points": 12,
+          "pilot_id": "dedalosfpv"
         },
         {
           "pilot": "Cbeikos",
           "time": 115.225,
-          "points": 10
+          "points": 10,
+          "pilot_id": "cbeikos"
         },
         {
           "pilot": "dimbazus",
           "time": 134.78,
-          "points": 8
+          "points": 8,
+          "pilot_id": "dimbazus"
         },
         {
           "pilot": "Liapos",
           "time": 150.967,
-          "points": 6
+          "points": 6,
+          "pilot_id": "liapos"
         },
         {
           "pilot": "Agorastos",
           "time": 188.394,
-          "points": 4
+          "points": 4,
+          "pilot_id": "agorastos"
         },
         {
           "pilot": "Torque72",
           "time": 214.556,
-          "points": 2
+          "points": 2,
+          "pilot_id": "torque72"
         },
         {
           "pilot": "Pontikos",
           "time": 221.562,
-          "points": 1
+          "points": 1,
+          "pilot_id": "pontikos"
         },
         {
           "pilot": "Gaston_FPV",
           "time": 314.214,
-          "points": 0
+          "points": 0,
+          "pilot_id": "gaston-fpv"
         }
       ],
       "winner": "ZOUP",
       "best_time": 76.192,
       "pilots_count": 11,
-      "records_broken": 71,
+      "records_broken": null,
+      "pb_events": 71,
+      "track_display": "Sim Rush Week 4",
       "quads": {
         "ZOUP": "Bahamut",
         "Exo_FPV": "Bahamut",
@@ -490,7 +579,9 @@
         "Agorastos": "Carbix Zero",
         "Torque72": "Five33 Switchback",
         "Gaston_FPV": "Five33 Switchback"
-      }
+      },
+      "week": 4,
+      "season": 2026
     }
   ],
   "season_chart": {
@@ -735,7 +826,7 @@
       }
     ],
     "hours_at_top": {
-      "TettixPro": 41.67
+      "TettixPro": 39.75
     },
     "race_to_top": [
       {
@@ -788,24 +879,40 @@
     "active": [],
     "recent_resolved": [
       {
+        "id": "duel-493f6b62c178",
         "pilot_a": "Exo_FPV",
         "pilot_b": "TettixPro",
+        "pilot_a_id": "exo-fpv",
+        "pilot_b_id": "tettixpro",
         "track": "SimRushWeek3",
+        "class": null,
+        "status": "resolved",
         "created_at": "2026-10-23T14:50:04.221342",
         "deadline": "2026-10-24T14:50:04.221380",
         "best_time_a": 39.312,
         "best_time_b": null,
-        "resolved": true
+        "winner": "Exo_FPV",
+        "resolved_at": null,
+        "announced_by": null,
+        "related_message_id": null
       },
       {
+        "id": "duel-0384a270a500",
         "pilot_a": "Agorastos",
         "pilot_b": "dimbazus",
+        "pilot_a_id": "agorastos",
+        "pilot_b_id": "dimbazus",
         "track": "SimRushWeek3",
+        "class": null,
+        "status": "resolved",
         "created_at": "2026-10-23T14:50:02.563674",
         "deadline": "2026-10-24T14:50:02.563713",
         "best_time_a": null,
         "best_time_b": 65.008,
-        "resolved": true
+        "winner": "dimbazus",
+        "resolved_at": null,
+        "announced_by": null,
+        "related_message_id": null
       }
     ]
   },
@@ -2915,7 +3022,7 @@
     "ZOUP": {
       "pbs": 35,
       "tracks_improved": 4,
-      "best_improvement_pct": 0.0
+      "best_improvement_pct": null
     },
     "dimbazus": {
       "pbs": 61,
@@ -2935,17 +3042,17 @@
     "Agorastos": {
       "pbs": 57,
       "tracks_improved": 6,
-      "best_improvement_pct": 0.0
+      "best_improvement_pct": null
     },
     "tomahok": {
       "pbs": 25,
       "tracks_improved": 5,
-      "best_improvement_pct": 0.0
+      "best_improvement_pct": null
     },
     "DedalosFPV": {
       "pbs": 51,
       "tracks_improved": 6,
-      "best_improvement_pct": 0.0
+      "best_improvement_pct": null
     },
     "fpvchucky": {
       "pbs": 16,
@@ -2955,45 +3062,52 @@
     "Exo_FPV": {
       "pbs": 23,
       "tracks_improved": 4,
-      "best_improvement_pct": 0.0
+      "best_improvement_pct": null
     },
     "anthunder": {
       "pbs": 10,
       "tracks_improved": 2,
-      "best_improvement_pct": 0.0
+      "best_improvement_pct": null
     },
     "Cbeikos": {
       "pbs": 35,
       "tracks_improved": 4,
-      "best_improvement_pct": 0.0
+      "best_improvement_pct": null
     },
     "Bakarim": {
       "pbs": 7,
       "tracks_improved": 3,
-      "best_improvement_pct": 0.0
+      "best_improvement_pct": null
     },
     "Torque72": {
       "pbs": 18,
       "tracks_improved": 4,
-      "best_improvement_pct": 0.0
+      "best_improvement_pct": null
     },
     "Gaston_FPV": {
       "pbs": 5,
       "tracks_improved": 1,
-      "best_improvement_pct": 0.0
+      "best_improvement_pct": null
     },
     "Pontikos": {
       "pbs": 4,
       "tracks_improved": 1,
-      "best_improvement_pct": 0.0
+      "best_improvement_pct": null
     }
   },
   "pilot_of_the_week": {
-    "pilot": "fpvchucky",
+    "pilot": "dimbazus",
     "track": "SimRushWeek-5",
-    "first_time": 135.25,
-    "best_time": 116.136,
-    "improvement_pct": 14.13
+    "first_time": 69.205,
+    "best_time": 61.365,
+    "improvement_pct": 11.33,
+    "position": 8,
+    "pb_events": 4,
+    "criteria": {
+      "top_n": 8,
+      "min_pb_events": 3,
+      "rule": "Μεγαλύτερη % βελτίωση μεταξύ πιλότων του top-8 με >= 3 PBs στην πίστα (A5)."
+    }
   },
   "hot_battles": [
     {
@@ -3015,39 +3129,763 @@
   ],
   "track_reveal": {
     "track": "SimRushWeek-5",
+    "track_id": 40338,
+    "title": "TRACK REVEAL · SimRushWeek-5",
     "youtube": "tSQ9KLjBtf0",
-    "title": null
+    "youtube_id": "tSQ9KLjBtf0",
+    "youtube_url": "https://www.youtube.com/watch?v=tSQ9KLjBtf0",
+    "reveal_date": "2026-11-02T17:59:48.772070",
+    "race_start": null,
+    "race_end": null,
+    "status": "active",
+    "briefing": null
   },
   "race_director_messages": [
     {
       "date": "2026-11-04T21:20:04",
       "text": "[5inch] «SimRushWeek-5»\n🏆 Το τρόπαιο σηκώθηκε: **TettixPro** με 34.337s - οι φωτογράφοι έτοιμοι!",
-      "tag": "announcement"
+      "tag": "announcement",
+      "id": "rd-ed6d52571a",
+      "event_type": "unknown",
+      "category": "general",
+      "priority": "normal",
+      "pilots": [],
+      "pilot_ids": [],
+      "track": null,
+      "class": null,
+      "week": null,
+      "season": 2026,
+      "related_duel_id": null,
+      "metadata": {},
+      "created_at": "2026-11-04T21:20:04",
+      "expires_at": null
     },
     {
       "date": "2026-11-04T22:00:02",
       "text": "📊 ΑΝΑΣΚΟΠΗΣΗ ΕΒΔΟΜΑΔΑΣ — «SimRushWeek-5»\n🥇 **TettixPro**  34.337s\n🥈 **anthunder**  37.390s  (+3.053s)\n🥉 **DedalosFPV**  39.183s  (+4.846s)\n**4.** **tomahok**  49.423s  (+15.086s)\n**5.** **Cbeikos**  50.665s  (+16.328s)\n**6.** **Agorastos**  54.528s  (+20.191s)\n**7.** **Liapos**  58.134s  (+23.797s)\n**8.** **Torque72**  70.324s  (+35.987s)\n**9.** **Bakarim**  120.871s  (+86.534s)\n\n📈 **Εβδομαδιαία στατιστικά:** 57 νέα ρεκόρ συνολικά - πιο ενεργός ο **dimbazus** (57).",
-      "tag": "announcement"
+      "tag": "announcement",
+      "id": "rd-2d7e4f91e1",
+      "event_type": "unknown",
+      "category": "general",
+      "priority": "normal",
+      "pilots": [],
+      "pilot_ids": [],
+      "track": null,
+      "class": null,
+      "week": null,
+      "season": 2026,
+      "related_duel_id": null,
+      "metadata": {},
+      "created_at": "2026-11-04T22:00:02",
+      "expires_at": null
     },
     {
       "date": "2026-11-04T22:00:03",
       "text": "🏆 Βαθμολογία σεζόν [5inch]\n🥇 Exo_FPV — **86** πόντοι\n🥈 ZOUP — **83** πόντοι\n🥉 TettixPro — **57** πόντοι\n**4.** DedalosFPV — **46** πόντοι\n**5.** Cbeikos — **28** πόντοι\n**6.** tomahok — **26** πόντοι\n**7.** dimbazus — **20** πόντοι\n**8.** anthunder — **18** πόντοι\n**9.** Liapos — **18** πόντοι\n**10.** Agorastos — **16** πόντοι",
-      "tag": "announcement"
+      "tag": "announcement",
+      "id": "rd-5889a003b1",
+      "event_type": "unknown",
+      "category": "general",
+      "priority": "normal",
+      "pilots": [],
+      "pilot_ids": [],
+      "track": null,
+      "class": null,
+      "week": null,
+      "season": 2026,
+      "related_duel_id": null,
+      "metadata": {},
+      "created_at": "2026-11-04T22:00:03",
+      "expires_at": null
     },
     {
       "date": "2026-11-04T23:20:04",
       "text": "[5inch] «SimRushWeek-5»\n🧯 Άσβηστε φωτιές αλλού: εδώ ο **fpvchucky** ανάβει ρεκόρ - 135.250s!",
-      "tag": "announcement"
+      "tag": "announcement",
+      "id": "rd-de6dbb3730",
+      "event_type": "unknown",
+      "category": "general",
+      "priority": "normal",
+      "pilots": [],
+      "pilot_ids": [],
+      "track": null,
+      "class": null,
+      "week": null,
+      "season": 2026,
+      "related_duel_id": null,
+      "metadata": {},
+      "created_at": "2026-11-04T23:20:04",
+      "expires_at": null
     },
     {
       "date": "2026-11-05T15:35:05",
       "text": "[5inch] «SimRushWeek-5»\n🦜 Νιάου νιάου ο **Liapos**: 56.973s στην «SimRushWeek-5» - η γατούλα βρήκε το ποντίκι!",
-      "tag": "announcement"
+      "tag": "announcement",
+      "id": "rd-f581598115",
+      "event_type": "unknown",
+      "category": "general",
+      "priority": "normal",
+      "pilots": [],
+      "pilot_ids": [],
+      "track": null,
+      "class": null,
+      "week": null,
+      "season": 2026,
+      "related_duel_id": null,
+      "metadata": {},
+      "created_at": "2026-11-05T15:35:05",
+      "expires_at": null
     },
     {
       "date": "2026-11-05T20:15:03",
       "text": "🍿 Το ντέρμπι της εβδομάδας: @anthunder vs @DedalosFPV στα 1.793s! Admin, δώσε τους μια πίστα! 🥊",
-      "tag": "announcement"
+      "tag": "announcement",
+      "id": "rd-3f8cab4292",
+      "event_type": "unknown",
+      "category": "general",
+      "priority": "normal",
+      "pilots": [],
+      "pilot_ids": [],
+      "track": null,
+      "class": null,
+      "week": null,
+      "season": 2026,
+      "related_duel_id": null,
+      "metadata": {},
+      "created_at": "2026-11-05T20:15:03",
+      "expires_at": null
     }
-  ]
+  ],
+  "pilots": {
+    "agorastos": {
+      "pilot_id": "agorastos",
+      "callsign": "Agorastos",
+      "avatar_url": null,
+      "discord": null,
+      "user_id": null,
+      "season": {
+        "class": "5inch",
+        "points": 16,
+        "wins": 0,
+        "podiums": 0,
+        "best": 67.587,
+        "position": 10,
+        "previous_position": 8,
+        "position_change": -2,
+        "points_change": 4,
+        "comparison_period": "previous_completed_week",
+        "comparison_reference": "SimRushWeek-4"
+      },
+      "current_week": {
+        "track": "SimRushWeek-5",
+        "class": "5inch",
+        "current_position": 6,
+        "previous_position": 6,
+        "position_change": 0,
+        "comparison_period": "previous_24h",
+        "best_time": 54.528,
+        "previous_best_time": null,
+        "time_improvement": null,
+        "first_time": 78.831
+      },
+      "stats": {
+        "pbs": 57,
+        "tracks_improved": 6,
+        "best_improvement_pct": null
+      }
+    },
+    "anthunder": {
+      "pilot_id": "anthunder",
+      "callsign": "anthunder",
+      "avatar_url": null,
+      "discord": null,
+      "user_id": null,
+      "season": {
+        "class": "5inch",
+        "points": 18,
+        "wins": 0,
+        "podiums": 1,
+        "best": 38.87,
+        "position": 9,
+        "previous_position": 7,
+        "position_change": -2,
+        "points_change": 0,
+        "comparison_period": "previous_completed_week",
+        "comparison_reference": "SimRushWeek-4"
+      },
+      "current_week": {
+        "track": "SimRushWeek-5",
+        "class": "5inch",
+        "current_position": 2,
+        "previous_position": 2,
+        "position_change": 0,
+        "comparison_period": "previous_24h",
+        "best_time": 37.39,
+        "previous_best_time": null,
+        "time_improvement": null,
+        "first_time": 63.988
+      },
+      "stats": {
+        "pbs": 10,
+        "tracks_improved": 2,
+        "best_improvement_pct": null
+      }
+    },
+    "bakarim": {
+      "pilot_id": "bakarim",
+      "callsign": "Bakarim",
+      "avatar_url": null,
+      "discord": null,
+      "user_id": null,
+      "season": {
+        "class": "5inch",
+        "points": 0,
+        "wins": 0,
+        "podiums": 0,
+        "best": 272.859,
+        "position": 14,
+        "previous_position": 13,
+        "position_change": -1,
+        "points_change": 0,
+        "comparison_period": "previous_completed_week",
+        "comparison_reference": "SimRushWeek-4"
+      },
+      "current_week": {
+        "track": "SimRushWeek-5",
+        "class": "5inch",
+        "current_position": 11,
+        "previous_position": 11,
+        "position_change": 0,
+        "comparison_period": "previous_24h",
+        "best_time": 120.871,
+        "previous_best_time": null,
+        "time_improvement": null,
+        "first_time": 126.726
+      },
+      "stats": {
+        "pbs": 7,
+        "tracks_improved": 3,
+        "best_improvement_pct": null
+      }
+    },
+    "cbeikos": {
+      "pilot_id": "cbeikos",
+      "callsign": "Cbeikos",
+      "avatar_url": null,
+      "discord": null,
+      "user_id": null,
+      "season": {
+        "class": "5inch",
+        "points": 28,
+        "wins": 0,
+        "podiums": 0,
+        "best": 56.123,
+        "position": 5,
+        "previous_position": 6,
+        "position_change": 1,
+        "points_change": 10,
+        "comparison_period": "previous_completed_week",
+        "comparison_reference": "SimRushWeek-4"
+      },
+      "current_week": {
+        "track": "SimRushWeek-5",
+        "class": "5inch",
+        "current_position": 5,
+        "previous_position": 5,
+        "position_change": 0,
+        "comparison_period": "previous_24h",
+        "best_time": 50.665,
+        "previous_best_time": null,
+        "time_improvement": null,
+        "first_time": 64.173
+      },
+      "stats": {
+        "pbs": 35,
+        "tracks_improved": 4,
+        "best_improvement_pct": null
+      }
+    },
+    "dedalosfpv": {
+      "pilot_id": "dedalosfpv",
+      "callsign": "DedalosFPV",
+      "avatar_url": null,
+      "discord": null,
+      "user_id": null,
+      "season": {
+        "class": "5inch",
+        "points": 46,
+        "wins": 0,
+        "podiums": 0,
+        "best": 48.537,
+        "position": 4,
+        "previous_position": 4,
+        "position_change": 0,
+        "points_change": 12,
+        "comparison_period": "previous_completed_week",
+        "comparison_reference": "SimRushWeek-4"
+      },
+      "current_week": {
+        "track": "SimRushWeek-5",
+        "class": "5inch",
+        "current_position": 3,
+        "previous_position": 3,
+        "position_change": 0,
+        "comparison_period": "previous_24h",
+        "best_time": 39.183,
+        "previous_best_time": null,
+        "time_improvement": null,
+        "first_time": 79.509
+      },
+      "stats": {
+        "pbs": 51,
+        "tracks_improved": 6,
+        "best_improvement_pct": null
+      }
+    },
+    "dimbazus": {
+      "pilot_id": "dimbazus",
+      "callsign": "dimbazus",
+      "avatar_url": null,
+      "discord": null,
+      "user_id": 309918,
+      "season": {
+        "class": "5inch",
+        "points": 20,
+        "wins": 0,
+        "podiums": 0,
+        "best": 65.008,
+        "position": 7,
+        "previous_position": 10,
+        "position_change": 3,
+        "points_change": 8,
+        "comparison_period": "previous_completed_week",
+        "comparison_reference": "SimRushWeek-4"
+      },
+      "current_week": {
+        "track": "SimRushWeek-5",
+        "class": "5inch",
+        "current_position": 8,
+        "previous_position": 8,
+        "position_change": 0,
+        "comparison_period": "previous_24h",
+        "best_time": 61.365,
+        "previous_best_time": 63.591,
+        "time_improvement": 2.226,
+        "first_time": 69.205
+      },
+      "stats": {
+        "pbs": 61,
+        "tracks_improved": 6,
+        "best_improvement_pct": 7.09
+      }
+    },
+    "exo-fpv": {
+      "pilot_id": "exo-fpv",
+      "callsign": "Exo_FPV",
+      "avatar_url": null,
+      "discord": null,
+      "user_id": null,
+      "season": {
+        "class": "5inch",
+        "points": 86,
+        "wins": 2,
+        "podiums": 4,
+        "best": 38.31,
+        "position": 1,
+        "previous_position": 1,
+        "position_change": 0,
+        "points_change": 18,
+        "comparison_period": "previous_completed_week",
+        "comparison_reference": "SimRushWeek-4"
+      },
+      "current_week": null,
+      "stats": {
+        "pbs": 23,
+        "tracks_improved": 4,
+        "best_improvement_pct": null
+      }
+    },
+    "fpvchucky": {
+      "pilot_id": "fpvchucky",
+      "callsign": "fpvchucky",
+      "avatar_url": null,
+      "discord": null,
+      "user_id": 451407,
+      "season": {
+        "class": "5inch",
+        "points": 2,
+        "wins": 0,
+        "podiums": 0,
+        "best": 149.462,
+        "position": 12,
+        "previous_position": 11,
+        "position_change": -1,
+        "points_change": 0,
+        "comparison_period": "previous_completed_week",
+        "comparison_reference": "SimRushWeek-4"
+      },
+      "current_week": {
+        "track": "SimRushWeek-5",
+        "class": "5inch",
+        "current_position": 10,
+        "previous_position": 10,
+        "position_change": 0,
+        "comparison_period": "previous_24h",
+        "best_time": 116.136,
+        "previous_best_time": 119.864,
+        "time_improvement": 3.728,
+        "first_time": 135.25
+      },
+      "stats": {
+        "pbs": 16,
+        "tracks_improved": 4,
+        "best_improvement_pct": 9.34
+      }
+    },
+    "gaston-fpv": {
+      "pilot_id": "gaston-fpv",
+      "callsign": "Gaston_FPV",
+      "avatar_url": null,
+      "discord": null,
+      "user_id": null,
+      "season": {
+        "class": "5inch",
+        "points": 0,
+        "wins": 0,
+        "podiums": 0,
+        "best": 314.214,
+        "position": 15,
+        "previous_position": 14,
+        "position_change": -1,
+        "points_change": 0,
+        "comparison_period": "previous_completed_week",
+        "comparison_reference": "SimRushWeek-4"
+      },
+      "current_week": null,
+      "stats": {
+        "pbs": 5,
+        "tracks_improved": 1,
+        "best_improvement_pct": null
+      }
+    },
+    "gkfpv13": {
+      "pilot_id": "gkfpv13",
+      "callsign": "gkfpv13",
+      "avatar_url": null,
+      "discord": null,
+      "user_id": null,
+      "season": {
+        "class": "5inch",
+        "points": 0,
+        "wins": 0,
+        "podiums": 0,
+        "best": null,
+        "position": 16,
+        "previous_position": 16,
+        "position_change": 0,
+        "points_change": 0,
+        "comparison_period": "previous_completed_week",
+        "comparison_reference": "SimRushWeek-4"
+      },
+      "current_week": null,
+      "stats": null
+    },
+    "liapos": {
+      "pilot_id": "liapos",
+      "callsign": "Liapos",
+      "avatar_url": null,
+      "discord": null,
+      "user_id": 155181,
+      "season": {
+        "class": "5inch",
+        "points": 18,
+        "wins": 0,
+        "podiums": 0,
+        "best": 70.629,
+        "position": 8,
+        "previous_position": 9,
+        "position_change": 1,
+        "points_change": 6,
+        "comparison_period": "previous_completed_week",
+        "comparison_reference": "SimRushWeek-4"
+      },
+      "current_week": {
+        "track": "SimRushWeek-5",
+        "class": "5inch",
+        "current_position": 7,
+        "previous_position": 7,
+        "position_change": 0,
+        "comparison_period": "previous_24h",
+        "best_time": 56.973,
+        "previous_best_time": 58.134,
+        "time_improvement": 1.161,
+        "first_time": 56.973
+      },
+      "stats": {
+        "pbs": 19,
+        "tracks_improved": 6,
+        "best_improvement_pct": 2.0
+      }
+    },
+    "pontikos": {
+      "pilot_id": "pontikos",
+      "callsign": "Pontikos",
+      "avatar_url": null,
+      "discord": null,
+      "user_id": null,
+      "season": {
+        "class": "5inch",
+        "points": 1,
+        "wins": 0,
+        "podiums": 0,
+        "best": null,
+        "position": 13,
+        "previous_position": 15,
+        "position_change": 2,
+        "points_change": 1,
+        "comparison_period": "previous_completed_week",
+        "comparison_reference": "SimRushWeek-4"
+      },
+      "current_week": null,
+      "stats": {
+        "pbs": 4,
+        "tracks_improved": 1,
+        "best_improvement_pct": null
+      }
+    },
+    "tettixpro": {
+      "pilot_id": "tettixpro",
+      "callsign": "TettixPro",
+      "avatar_url": null,
+      "discord": null,
+      "user_id": 372096,
+      "season": {
+        "class": "5inch",
+        "points": 57,
+        "wins": 0,
+        "podiums": 3,
+        "best": 42.241,
+        "position": 3,
+        "previous_position": 3,
+        "position_change": 0,
+        "points_change": 15,
+        "comparison_period": "previous_completed_week",
+        "comparison_reference": "SimRushWeek-4"
+      },
+      "current_week": {
+        "track": "SimRushWeek-5",
+        "class": "5inch",
+        "current_position": 1,
+        "previous_position": 1,
+        "position_change": 0,
+        "comparison_period": "previous_24h",
+        "best_time": 34.337,
+        "previous_best_time": 34.893,
+        "time_improvement": 0.556,
+        "first_time": 36.671
+      },
+      "stats": {
+        "pbs": 26,
+        "tracks_improved": 6,
+        "best_improvement_pct": 3.39
+      }
+    },
+    "tomahok": {
+      "pilot_id": "tomahok",
+      "callsign": "tomahok",
+      "avatar_url": null,
+      "discord": null,
+      "user_id": null,
+      "season": {
+        "class": "5inch",
+        "points": 26,
+        "wins": 0,
+        "podiums": 0,
+        "best": 63.578,
+        "position": 6,
+        "previous_position": 5,
+        "position_change": -1,
+        "points_change": 0,
+        "comparison_period": "previous_completed_week",
+        "comparison_reference": "SimRushWeek-4"
+      },
+      "current_week": {
+        "track": "SimRushWeek-5",
+        "class": "5inch",
+        "current_position": 4,
+        "previous_position": 4,
+        "position_change": 0,
+        "comparison_period": "previous_24h",
+        "best_time": 49.423,
+        "previous_best_time": null,
+        "time_improvement": null,
+        "first_time": 57.844
+      },
+      "stats": {
+        "pbs": 25,
+        "tracks_improved": 5,
+        "best_improvement_pct": null
+      }
+    },
+    "torque72": {
+      "pilot_id": "torque72",
+      "callsign": "Torque72",
+      "avatar_url": null,
+      "discord": null,
+      "user_id": null,
+      "season": {
+        "class": "5inch",
+        "points": 3,
+        "wins": 0,
+        "podiums": 0,
+        "best": 110.281,
+        "position": 11,
+        "previous_position": 12,
+        "position_change": 1,
+        "points_change": 2,
+        "comparison_period": "previous_completed_week",
+        "comparison_reference": "SimRushWeek-4"
+      },
+      "current_week": {
+        "track": "SimRushWeek-5",
+        "class": "5inch",
+        "current_position": 9,
+        "previous_position": 9,
+        "position_change": 0,
+        "comparison_period": "previous_24h",
+        "best_time": 70.324,
+        "previous_best_time": null,
+        "time_improvement": null,
+        "first_time": 72.86
+      },
+      "stats": {
+        "pbs": 18,
+        "tracks_improved": 4,
+        "best_improvement_pct": null
+      }
+    },
+    "zoup": {
+      "pilot_id": "zoup",
+      "callsign": "ZOUP",
+      "avatar_url": null,
+      "discord": null,
+      "user_id": null,
+      "season": {
+        "class": "5inch",
+        "points": 83,
+        "wins": 2,
+        "podiums": 4,
+        "best": 40.165,
+        "position": 2,
+        "previous_position": 2,
+        "position_change": 0,
+        "points_change": 25,
+        "comparison_period": "previous_completed_week",
+        "comparison_reference": "SimRushWeek-4"
+      },
+      "current_week": null,
+      "stats": {
+        "pbs": 35,
+        "tracks_improved": 4,
+        "best_improvement_pct": null
+      }
+    }
+  },
+  "hall_of_fame": {
+    "period": {
+      "type": "season",
+      "season": 2026,
+      "weeks_completed": 4,
+      "tracks": [
+        "SimRush Week1",
+        "SimRushWeek-4",
+        "SimRushWeek2",
+        "SimRushWeek3"
+      ],
+      "note": "Υπολογίζεται από τα season_standings/history/pilot_stats του ίδιου export — όχι χειροκίνητες διακρίσεις."
+    },
+    "classes": {
+      "5inch": [
+        {
+          "key": "most_points",
+          "title": "Κορυφή βαθμολογίας",
+          "holders": [
+            {
+              "pilot_id": "exo-fpv",
+              "callsign": "Exo_FPV",
+              "value": 86
+            }
+          ]
+        },
+        {
+          "key": "most_wins",
+          "title": "Περισσότερες νίκες",
+          "holders": [
+            {
+              "pilot_id": "exo-fpv",
+              "callsign": "Exo_FPV",
+              "value": 2
+            },
+            {
+              "pilot_id": "zoup",
+              "callsign": "ZOUP",
+              "value": 2
+            }
+          ]
+        },
+        {
+          "key": "most_podiums",
+          "title": "Περισσότερα βάθρα",
+          "holders": [
+            {
+              "pilot_id": "exo-fpv",
+              "callsign": "Exo_FPV",
+              "value": 4
+            },
+            {
+              "pilot_id": "zoup",
+              "callsign": "ZOUP",
+              "value": 4
+            }
+          ]
+        },
+        {
+          "key": "best_time_season",
+          "title": "Ταχύτερος χρόνος σεζόν",
+          "holders": [
+            {
+              "pilot_id": "exo-fpv",
+              "callsign": "Exo_FPV",
+              "value": 38.31
+            }
+          ],
+          "track": null
+        }
+      ]
+    },
+    "overall": [
+      {
+        "key": "most_pbs",
+        "title": "Περισσότερα προσωπικά ρεκόρ",
+        "holders": [
+          {
+            "pilot_id": "dimbazus",
+            "callsign": "dimbazus",
+            "value": 61
+          }
+        ]
+      },
+      {
+        "key": "biggest_improvement",
+        "title": "Μεγαλύτερη % βελτίωση",
+        "holders": [
+          {
+            "pilot_id": "fpvchucky",
+            "callsign": "fpvchucky",
+            "value": 9.34
+          }
+        ]
+      }
+    ]
+  }
 }

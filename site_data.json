@@ -1,6 +1,6 @@
 {
   "schema_version": "2.1",
-  "generated_at": "2026-11-06T20:00:02+00:00",
+  "generated_at": "2026-11-06T20:05:02+00:00",
   "season": 2026,
   "current_track": "SimRushWeek-5",
   "week_no": 5,
@@ -826,7 +826,7 @@
       }
     ],
     "hours_at_top": {
-      "TettixPro": 47.83
+      "TettixPro": 47.92
     },
     "race_to_top": [
       {
@@ -3180,10 +3180,10 @@
       "expires_at": null
     },
     {
-      "date": "2026-11-04T22:00:03",
+      "date": "2026-11-06T20:00:03+00:00",
       "text": "🏆 Βαθμολογία σεζόν [5inch]\n🥇 Exo_FPV — **86** πόντοι\n🥈 ZOUP — **83** πόντοι\n🥉 TettixPro — **57** πόντοι\n**4.** DedalosFPV — **46** πόντοι\n**5.** Cbeikos — **28** πόντοι\n**6.** tomahok — **26** πόντοι\n**7.** dimbazus — **20** πόντοι\n**8.** anthunder — **18** πόντοι\n**9.** Liapos — **18** πόντοι\n**10.** Agorastos — **16** πόντοι",
       "tag": "announcement",
-      "id": "rd-5889a003b1",
+      "id": "rd-d3549c39e9",
       "event_type": "unknown",
       "category": "general",
       "priority": "normal",
@@ -3195,7 +3195,7 @@
       "season": 2026,
       "related_duel_id": null,
       "metadata": {},
-      "created_at": "2026-11-04T22:00:03",
+      "created_at": "2026-11-06T20:00:03+00:00",
       "expires_at": null
     },
     {
@@ -3253,6 +3253,25 @@
       "related_duel_id": null,
       "metadata": {},
       "created_at": "2026-11-05T20:15:03",
+      "expires_at": null
+    },
+    {
+      "date": "2026-11-06T20:00:02+00:00",
+      "text": "📊 ΑΝΑΣΚΟΠΗΣΗ ΕΒΔΟΜΑΔΑΣ — «SimRushWeek-5»\n🥇 **TettixPro**  34.337s\n🥈 **anthunder**  37.390s  (+3.053s)\n🥉 **DedalosFPV**  39.183s  (+4.846s)\n**4.** **tomahok**  49.423s  (+15.086s)\n**5.** **Cbeikos**  50.665s  (+16.328s)\n**6.** **Agorastos**  54.528s  (+20.191s)\n**7.** **Liapos**  56.973s  (+22.636s)\n**8.** **dimbazus**  61.365s  (+27.028s)\n**9.** **Torque72**  70.324s  (+35.987s)\n**10.** **fpvchucky**  116.136s  (+81.799s)\n...κι άλλοι 1 πιλότοι στο κυνήγι!\n\n📈 **Εβδομαδιαία στατιστικά:** 61 νέα ρεκόρ συνολικά - πιο ενεργός ο **dimbazus** (61).",
+      "tag": "announcement",
+      "id": "rd-e8aca2c067",
+      "event_type": "unknown",
+      "category": "general",
+      "priority": "normal",
+      "pilots": [],
+      "pilot_ids": [],
+      "track": null,
+      "class": null,
+      "week": null,
+      "season": 2026,
+      "related_duel_id": null,
+      "metadata": {},
+      "created_at": "2026-11-06T20:00:02+00:00",
       "expires_at": null
     }
   ],

@@ -1,12 +1,21 @@
 {
   "schema_version": "2.1",
-  "generated_at": "2026-11-07T18:25:02+00:00",
+  "generated_at": "2026-11-07T18:30:02+00:00",
   "season": 2026,
   "current_track": "SimRushWeek6",
   "week_no": 6,
   "rounds_completed": 5,
   "track_display": "Sim Rush Week 6",
-  "current_leaderboard": {},
+  "current_leaderboard": {
+    "5inch": [
+      {
+        "pilot": "Agorastos",
+        "time": 97.621,
+        "quad": "Carbix Zero",
+        "pilot_id": "agorastos"
+      }
+    ]
+  },
   "season_standings": {
     "5inch": [
       {
@@ -740,7 +749,20 @@
     }
   },
   "insights": {
-    "pilots": [],
+    "pilots": [
+      {
+        "pilot": "Agorastos",
+        "class": "5inch",
+        "pos": 1,
+        "time": 97.621,
+        "first_time": 97.621,
+        "prev_time": null,
+        "improvements": 0,
+        "user_id": 128161,
+        "pos_24h": null,
+        "pos_change_24h": null
+      }
+    ],
     "hours_at_top": {},
     "race_to_top": []
   },
@@ -2965,7 +2987,26 @@
     }
   },
   "pilot_of_the_week": null,
-  "hot_battles": [],
+  "hot_battles": [
+    {
+      "leader": "anthunder",
+      "chaser": "DedalosFPV",
+      "gap": 1.008,
+      "days": 0,
+      "class": "5inch",
+      "opened": true,
+      "was_gap": 1.008
+    },
+    {
+      "leader": "tomahok",
+      "chaser": "Cbeikos",
+      "gap": 1.242,
+      "days": 0,
+      "class": "5inch",
+      "opened": true,
+      "was_gap": 1.242
+    }
+  ],
   "track_reveal": null,
   "race_director_messages": [
     {
@@ -3435,7 +3476,7 @@
       "callsign": "Agorastos",
       "avatar_url": null,
       "discord": null,
-      "user_id": null,
+      "user_id": 128161,
       "season": {
         "class": "5inch",
         "points": 24,
@@ -3449,7 +3490,18 @@
         "comparison_period": "previous_completed_week",
         "comparison_reference": "SimRushWeek-5"
       },
-      "current_week": null,
+      "current_week": {
+        "track": "SimRushWeek6",
+        "class": "5inch",
+        "current_position": 1,
+        "previous_position": null,
+        "position_change": null,
+        "comparison_period": null,
+        "best_time": 97.621,
+        "previous_best_time": null,
+        "time_improvement": null,
+        "first_time": 97.621
+      },
       "stats": {
         "pbs": 57,
         "tracks_improved": 6,

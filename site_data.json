@@ -1,6 +1,6 @@
 {
   "schema_version": "2.1",
-  "generated_at": "2026-11-07T14:10:02+00:00",
+  "generated_at": "2026-11-07T14:15:02+00:00",
   "season": 2026,
   "current_track": "SimRushWeek-5",
   "week_no": 5,
@@ -64,7 +64,7 @@
       },
       {
         "pilot": "Pontikos",
-        "time": 86.352,
+        "time": 79.658,
         "quad": "Five33 Switchback",
         "pilot_id": "pontikos"
       },
@@ -810,10 +810,10 @@
         "pilot": "Pontikos",
         "class": "5inch",
         "pos": 10,
-        "time": 86.352,
+        "time": 79.658,
         "first_time": 93.819,
-        "prev_time": 87.287,
-        "improvements": 3,
+        "prev_time": 86.352,
+        "improvements": 4,
         "user_id": 150985,
         "pos_24h": null,
         "pos_change_24h": null
@@ -844,7 +844,7 @@
       }
     ],
     "hours_at_top": {
-      "TettixPro": 66.0
+      "TettixPro": 66.08
     },
     "race_to_top": [
       {
@@ -876,6 +876,10 @@
         "improvements": 4
       },
       {
+        "pilot": "Pontikos",
+        "improvements": 4
+      },
+      {
         "pilot": "fpvchucky",
         "improvements": 4
       },
@@ -889,10 +893,6 @@
       },
       {
         "pilot": "Torque72",
-        "improvements": 3
-      },
-      {
-        "pilot": "Pontikos",
         "improvements": 3
       }
     ]
@@ -939,6 +939,13 @@
     ]
   },
   "improvements": [
+    {
+      "pilot": "Pontikos",
+      "track": "SimRushWeek-5",
+      "time": 79.658,
+      "delta": 6.694,
+      "date": "2026-11-07T14:10:02+00:00"
+    },
     {
       "pilot": "Pontikos",
       "track": "SimRushWeek-5",
@@ -3031,13 +3038,6 @@
       "time": 108.969,
       "delta": 7.608,
       "date": "2026-10-11"
-    },
-    {
-      "pilot": "Agorastos",
-      "track": "SimRushWeek2",
-      "time": 191.125,
-      "delta": 13.099,
-      "date": "2026-10-11"
     }
   ],
   "pilot_stats": {
@@ -3112,9 +3112,9 @@
       "best_improvement_pct": null
     },
     "Pontikos": {
-      "pbs": 7,
+      "pbs": 8,
       "tracks_improved": 2,
-      "best_improvement_pct": 6.96
+      "best_improvement_pct": 7.75
     }
   },
   "pilot_of_the_week": {
@@ -3375,6 +3375,33 @@
         "position": null
       },
       "created_at": "2026-11-07T14:00:04+00:00",
+      "expires_at": null
+    },
+    {
+      "date": "2026-11-07T14:10:05+00:00",
+      "text": "[5inch] «SimRushWeek-5»\n🧭 Το GPS του **Pontikos** είπε 79.658s — το ρεκόρ βρέθηκε πριν το drone!\nΠοιος θα τον καθίσει; 👀",
+      "tag": "announcement",
+      "id": "rd-0b9eb097df",
+      "event_type": "PERSONAL",
+      "category": "timing",
+      "priority": "normal",
+      "pilots": [
+        "Pontikos"
+      ],
+      "pilot_ids": [
+        "pontikos"
+      ],
+      "track": "SimRushWeek-5",
+      "class": "5inch",
+      "week": 5,
+      "season": 2026,
+      "related_duel_id": null,
+      "metadata": {
+        "time": 79.658,
+        "previous_time": 86.352,
+        "position": null
+      },
+      "created_at": "2026-11-07T14:10:05+00:00",
       "expires_at": null
     }
   ],
@@ -3775,15 +3802,15 @@
         "previous_position": null,
         "position_change": null,
         "comparison_period": null,
-        "best_time": 86.352,
-        "previous_best_time": 87.287,
-        "time_improvement": 0.935,
+        "best_time": 79.658,
+        "previous_best_time": 86.352,
+        "time_improvement": 6.694,
         "first_time": 93.819
       },
       "stats": {
-        "pbs": 7,
+        "pbs": 8,
         "tracks_improved": 2,
-        "best_improvement_pct": 6.96
+        "best_improvement_pct": 7.75
       }
     },
     "tettixpro": {

@@ -1,6 +1,6 @@
 {
   "schema_version": "2.1",
-  "generated_at": "2026-11-07T19:50:01+00:00",
+  "generated_at": "2026-11-07T19:55:01+00:00",
   "season": 2026,
   "current_track": "SimRushWeek6",
   "week_no": 6,
@@ -8,6 +8,12 @@
   "track_display": "Sim Rush Week 6",
   "current_leaderboard": {
     "5inch": [
+      {
+        "pilot": "DedalosFPV",
+        "time": 81.407,
+        "quad": "Bahamut",
+        "pilot_id": "dedalosfpv"
+      },
       {
         "pilot": "Agorastos",
         "time": 92.395,
@@ -19,12 +25,6 @@
         "time": 103.387,
         "quad": "Five33 Switchback",
         "pilot_id": "pontikos"
-      },
-      {
-        "pilot": "DedalosFPV",
-        "time": 115.067,
-        "quad": "Bahamut",
-        "pilot_id": "dedalosfpv"
       }
     ]
   },
@@ -763,9 +763,21 @@
   "insights": {
     "pilots": [
       {
-        "pilot": "Agorastos",
+        "pilot": "DedalosFPV",
         "class": "5inch",
         "pos": 1,
+        "time": 81.407,
+        "first_time": 115.067,
+        "prev_time": 115.067,
+        "improvements": 2,
+        "user_id": 387184,
+        "pos_24h": null,
+        "pos_change_24h": null
+      },
+      {
+        "pilot": "Agorastos",
+        "class": "5inch",
+        "pos": 2,
         "time": 92.395,
         "first_time": 97.621,
         "prev_time": 93.603,
@@ -777,7 +789,7 @@
       {
         "pilot": "Pontikos",
         "class": "5inch",
-        "pos": 2,
+        "pos": 3,
         "time": 103.387,
         "first_time": 182.505,
         "prev_time": 119.117,
@@ -785,22 +797,11 @@
         "user_id": 150985,
         "pos_24h": null,
         "pos_change_24h": null
-      },
-      {
-        "pilot": "DedalosFPV",
-        "class": "5inch",
-        "pos": 3,
-        "time": 115.067,
-        "first_time": 115.067,
-        "prev_time": null,
-        "improvements": 1,
-        "user_id": 387184,
-        "pos_24h": null,
-        "pos_change_24h": null
       }
     ],
     "hours_at_top": {
-      "Agorastos": 1.33
+      "Agorastos": 1.33,
+      "DedalosFPV": 0.08
     },
     "race_to_top": [
       {
@@ -808,12 +809,12 @@
         "improvements": 4
       },
       {
-        "pilot": "Agorastos",
+        "pilot": "DedalosFPV",
         "improvements": 2
       },
       {
-        "pilot": "DedalosFPV",
-        "improvements": 1
+        "pilot": "Agorastos",
+        "improvements": 2
       }
     ]
   },
@@ -859,6 +860,13 @@
     ]
   },
   "improvements": [
+    {
+      "pilot": "DedalosFPV",
+      "track": "SimRushWeek6",
+      "time": 81.407,
+      "delta": 33.66,
+      "date": "2026-11-07T19:50:02+00:00"
+    },
     {
       "pilot": "DedalosFPV",
       "track": "SimRushWeek6",
@@ -2951,13 +2959,6 @@
       "time": 152.749,
       "delta": 10.65,
       "date": "2026-10-12"
-    },
-    {
-      "pilot": "Agorastos",
-      "track": "SimRushWeek2",
-      "time": 143.249,
-      "delta": 9.5,
-      "date": "2026-10-12"
     }
   ],
   "pilot_stats": {
@@ -2992,9 +2993,9 @@
       "best_improvement_pct": null
     },
     "DedalosFPV": {
-      "pbs": 53,
+      "pbs": 54,
       "tracks_improved": 7,
-      "best_improvement_pct": 2.0
+      "best_improvement_pct": 29.25
     },
     "fpvchucky": {
       "pbs": 16,
@@ -3043,7 +3044,7 @@
     "first_time": 182.505,
     "best_time": 103.387,
     "improvement_pct": 43.35,
-    "position": 2,
+    "position": 3,
     "pb_events": 4,
     "criteria": {
       "top_n": 8,
@@ -3073,25 +3074,6 @@
   ],
   "track_reveal": null,
   "race_director_messages": [
-    {
-      "date": "2026-11-05T15:35:05",
-      "text": "[5inch] «SimRushWeek-5»\n🦜 Νιάου νιάου ο **Liapos**: 56.973s στην «SimRushWeek-5» - η γατούλα βρήκε το ποντίκι!",
-      "tag": "announcement",
-      "id": "rd-f581598115",
-      "event_type": "unknown",
-      "category": "general",
-      "priority": "normal",
-      "pilots": [],
-      "pilot_ids": [],
-      "track": null,
-      "class": null,
-      "week": null,
-      "season": 2026,
-      "related_duel_id": null,
-      "metadata": {},
-      "created_at": "2026-11-05T15:35:05",
-      "expires_at": null
-    },
     {
       "date": "2026-11-05T20:15:03",
       "text": "🍿 Το ντέρμπι της εβδομάδας: @anthunder vs @DedalosFPV στα 1.793s! Admin, δώσε τους μια πίστα! 🥊",
@@ -3645,6 +3627,35 @@
       },
       "created_at": "2026-11-07T19:45:04+00:00",
       "expires_at": null
+    },
+    {
+      "date": "2026-11-07T19:50:03+00:00",
+      "text": "[5inch] «SimRushWeek6»\n⚡ ΚΛΟΠΗ ΤΗΣ ΚΟΡΥΦΗΣ! Ο **Agorastos** κοιμόταν κι ο **DedalosFPV** πέρασε με 81.407s! Η εκδίκηση είναι γλυκιά... 🍿\nΗ πόρτα του #1 είναι ανοιχτή... 🚪",
+      "tag": "announcement",
+      "id": "rd-1d4ba256a6",
+      "event_type": "CROWN_THEFT",
+      "category": "timing",
+      "priority": "breaking",
+      "pilots": [
+        "DedalosFPV",
+        "Agorastos"
+      ],
+      "pilot_ids": [
+        "dedalosfpv",
+        "agorastos"
+      ],
+      "track": "SimRushWeek6",
+      "class": "5inch",
+      "week": 6,
+      "season": 2026,
+      "related_duel_id": null,
+      "metadata": {
+        "time": 81.407,
+        "previous_time": 115.067,
+        "position": 1
+      },
+      "created_at": "2026-11-07T19:50:03+00:00",
+      "expires_at": null
     }
   ],
   "pilots": {
@@ -3670,7 +3681,7 @@
       "current_week": {
         "track": "SimRushWeek6",
         "class": "5inch",
-        "current_position": 1,
+        "current_position": 2,
         "previous_position": null,
         "position_change": null,
         "comparison_period": null,
@@ -3785,19 +3796,19 @@
       "current_week": {
         "track": "SimRushWeek6",
         "class": "5inch",
-        "current_position": 3,
+        "current_position": 1,
         "previous_position": null,
         "position_change": null,
         "comparison_period": null,
-        "best_time": 115.067,
-        "previous_best_time": null,
-        "time_improvement": null,
+        "best_time": 81.407,
+        "previous_best_time": 115.067,
+        "time_improvement": 33.66,
         "first_time": 115.067
       },
       "stats": {
-        "pbs": 53,
+        "pbs": 54,
         "tracks_improved": 7,
-        "best_improvement_pct": 2.0
+        "best_improvement_pct": 29.25
       }
     },
     "dimbazus": {
@@ -3974,7 +3985,7 @@
       "current_week": {
         "track": "SimRushWeek6",
         "class": "5inch",
-        "current_position": 2,
+        "current_position": 3,
         "previous_position": null,
         "position_change": null,
         "comparison_period": null,

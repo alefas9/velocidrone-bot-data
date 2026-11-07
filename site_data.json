@@ -1,6 +1,6 @@
 {
   "schema_version": "2.1",
-  "generated_at": "2026-11-07T15:35:01+00:00",
+  "generated_at": "2026-11-07T15:40:01+00:00",
   "season": 2026,
   "current_track": "SimRushWeek-5",
   "week_no": 5,
@@ -844,7 +844,7 @@
       }
     ],
     "hours_at_top": {
-      "TettixPro": 67.42
+      "TettixPro": 67.5
     },
     "race_to_top": [
       {
@@ -3402,6 +3402,33 @@
         "position": null
       },
       "created_at": "2026-11-07T14:10:05+00:00",
+      "expires_at": null
+    },
+    {
+      "date": "2026-11-07T15:35:06+00:00",
+      "text": "[5inch] «SimRushWeek-5»\n🦅 Αετού μάτι: **DedalosFPV** βρήκε την γραμμή στην «SimRushWeek-5»: 38.398s!",
+      "tag": "announcement",
+      "id": "rd-646f4c9f9c",
+      "event_type": "PERSONAL",
+      "category": "timing",
+      "priority": "normal",
+      "pilots": [
+        "DedalosFPV"
+      ],
+      "pilot_ids": [
+        "dedalosfpv"
+      ],
+      "track": "SimRushWeek-5",
+      "class": "5inch",
+      "week": 5,
+      "season": 2026,
+      "related_duel_id": null,
+      "metadata": {
+        "time": 38.398,
+        "previous_time": 39.183,
+        "position": null
+      },
+      "created_at": "2026-11-07T15:35:06+00:00",
       "expires_at": null
     }
   ],

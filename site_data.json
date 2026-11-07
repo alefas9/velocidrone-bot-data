@@ -1,6 +1,6 @@
 {
   "schema_version": "2.1",
-  "generated_at": "2026-11-07T14:00:02+00:00",
+  "generated_at": "2026-11-07T14:05:02+00:00",
   "season": 2026,
   "current_track": "SimRushWeek-5",
   "week_no": 5,
@@ -64,7 +64,7 @@
       },
       {
         "pilot": "Pontikos",
-        "time": 87.287,
+        "time": 86.352,
         "quad": "Five33 Switchback",
         "pilot_id": "pontikos"
       },
@@ -810,10 +810,10 @@
         "pilot": "Pontikos",
         "class": "5inch",
         "pos": 10,
-        "time": 87.287,
+        "time": 86.352,
         "first_time": 93.819,
-        "prev_time": 93.819,
-        "improvements": 2,
+        "prev_time": 87.287,
+        "improvements": 3,
         "user_id": 150985,
         "pos_24h": null,
         "pos_change_24h": null
@@ -844,7 +844,7 @@
       }
     ],
     "hours_at_top": {
-      "TettixPro": 65.83
+      "TettixPro": 65.92
     },
     "race_to_top": [
       {
@@ -893,7 +893,7 @@
       },
       {
         "pilot": "Pontikos",
-        "improvements": 2
+        "improvements": 3
       }
     ]
   },
@@ -939,6 +939,13 @@
     ]
   },
   "improvements": [
+    {
+      "pilot": "Pontikos",
+      "track": "SimRushWeek-5",
+      "time": 86.352,
+      "delta": 0.935,
+      "date": "2026-11-07T14:00:02+00:00"
+    },
     {
       "pilot": "Pontikos",
       "track": "SimRushWeek-5",
@@ -3031,13 +3038,6 @@
       "time": 191.125,
       "delta": 13.099,
       "date": "2026-10-11"
-    },
-    {
-      "pilot": "Exo_FPV",
-      "track": "SimRushWeek2",
-      "time": 103.525,
-      "delta": 5.444,
-      "date": "2026-10-11"
     }
   ],
   "pilot_stats": {
@@ -3112,7 +3112,7 @@
       "best_improvement_pct": null
     },
     "Pontikos": {
-      "pbs": 6,
+      "pbs": 7,
       "tracks_improved": 2,
       "best_improvement_pct": 6.96
     }
@@ -3348,6 +3348,33 @@
         "position": null
       },
       "created_at": "2026-11-07T13:30:04+00:00",
+      "expires_at": null
+    },
+    {
+      "date": "2026-11-07T14:00:04+00:00",
+      "text": "[5inch] «SimRushWeek-5»\n🎰 Αυτός ο **Pontikos** δεν σταματάει: 86.352s! Πάρε κι ένα... δεν ξέρω κι εγώ τι να πω πια!",
+      "tag": "announcement",
+      "id": "rd-a75cd64df5",
+      "event_type": "PERSONAL",
+      "category": "timing",
+      "priority": "normal",
+      "pilots": [
+        "Pontikos"
+      ],
+      "pilot_ids": [
+        "pontikos"
+      ],
+      "track": "SimRushWeek-5",
+      "class": "5inch",
+      "week": 5,
+      "season": 2026,
+      "related_duel_id": null,
+      "metadata": {
+        "time": 86.352,
+        "previous_time": 87.287,
+        "position": null
+      },
+      "created_at": "2026-11-07T14:00:04+00:00",
       "expires_at": null
     }
   ],
@@ -3748,13 +3775,13 @@
         "previous_position": null,
         "position_change": null,
         "comparison_period": null,
-        "best_time": 87.287,
-        "previous_best_time": 93.819,
-        "time_improvement": 6.532,
+        "best_time": 86.352,
+        "previous_best_time": 87.287,
+        "time_improvement": 0.935,
         "first_time": 93.819
       },
       "stats": {
-        "pbs": 6,
+        "pbs": 7,
         "tracks_improved": 2,
         "best_improvement_pct": 6.96
       }

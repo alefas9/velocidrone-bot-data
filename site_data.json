@@ -1,87 +1,12 @@
 {
   "schema_version": "2.1",
-  "generated_at": "2026-11-07T18:20:02+00:00",
+  "generated_at": "2026-11-07T18:25:02+00:00",
   "season": 2026,
-  "current_track": "SimRushWeek-5",
-  "week_no": 5,
+  "current_track": "SimRushWeek6",
+  "week_no": 6,
   "rounds_completed": 5,
-  "track_display": "Sim Rush Week 5",
-  "current_leaderboard": {
-    "5inch": [
-      {
-        "pilot": "TettixPro",
-        "time": 34.337,
-        "quad": "Bahamut",
-        "pilot_id": "tettixpro"
-      },
-      {
-        "pilot": "anthunder",
-        "time": 37.39,
-        "quad": "Bahamut",
-        "pilot_id": "anthunder"
-      },
-      {
-        "pilot": "DedalosFPV",
-        "time": 38.398,
-        "quad": "Bahamut",
-        "pilot_id": "dedalosfpv"
-      },
-      {
-        "pilot": "tomahok",
-        "time": 49.423,
-        "quad": "Five33 Switchback",
-        "pilot_id": "tomahok"
-      },
-      {
-        "pilot": "Cbeikos",
-        "time": 50.665,
-        "quad": "Five33 Switchback",
-        "pilot_id": "cbeikos"
-      },
-      {
-        "pilot": "Agorastos",
-        "time": 54.528,
-        "quad": "Carbix Zero",
-        "pilot_id": "agorastos"
-      },
-      {
-        "pilot": "Liapos",
-        "time": 56.973,
-        "quad": "Bahamut",
-        "pilot_id": "liapos"
-      },
-      {
-        "pilot": "dimbazus",
-        "time": 61.365,
-        "quad": "Bahamut",
-        "pilot_id": "dimbazus"
-      },
-      {
-        "pilot": "Torque72",
-        "time": 70.324,
-        "quad": "Bahamut",
-        "pilot_id": "torque72"
-      },
-      {
-        "pilot": "Pontikos",
-        "time": 79.658,
-        "quad": "Five33 Switchback",
-        "pilot_id": "pontikos"
-      },
-      {
-        "pilot": "fpvchucky",
-        "time": 116.136,
-        "quad": "Carbix Zero",
-        "pilot_id": "fpvchucky"
-      },
-      {
-        "pilot": "Bakarim",
-        "time": 120.871,
-        "quad": "TBS Oblivion",
-        "pilot_id": "bakarim"
-      }
-    ]
-  },
+  "track_display": "Sim Rush Week 6",
+  "current_leaderboard": {},
   "season_standings": {
     "5inch": [
       {
@@ -815,205 +740,9 @@
     }
   },
   "insights": {
-    "pilots": [
-      {
-        "pilot": "TettixPro",
-        "class": "5inch",
-        "pos": 1,
-        "time": 34.337,
-        "first_time": 36.671,
-        "prev_time": 34.893,
-        "improvements": 6,
-        "user_id": 372096,
-        "pos_24h": 1,
-        "pos_change_24h": 0
-      },
-      {
-        "pilot": "anthunder",
-        "class": "5inch",
-        "pos": 2,
-        "time": 37.39,
-        "first_time": 63.988,
-        "prev_time": null,
-        "improvements": 4,
-        "user_id": null,
-        "pos_24h": 2,
-        "pos_change_24h": 0
-      },
-      {
-        "pilot": "DedalosFPV",
-        "class": "5inch",
-        "pos": 3,
-        "time": 38.398,
-        "first_time": 38.398,
-        "prev_time": 39.183,
-        "improvements": 6,
-        "user_id": 387184,
-        "pos_24h": 3,
-        "pos_change_24h": 0
-      },
-      {
-        "pilot": "tomahok",
-        "class": "5inch",
-        "pos": 4,
-        "time": 49.423,
-        "first_time": 57.844,
-        "prev_time": null,
-        "improvements": 3,
-        "user_id": null,
-        "pos_24h": 4,
-        "pos_change_24h": 0
-      },
-      {
-        "pilot": "Cbeikos",
-        "class": "5inch",
-        "pos": 5,
-        "time": 50.665,
-        "first_time": 64.173,
-        "prev_time": null,
-        "improvements": 8,
-        "user_id": null,
-        "pos_24h": 5,
-        "pos_change_24h": 0
-      },
-      {
-        "pilot": "Agorastos",
-        "class": "5inch",
-        "pos": 6,
-        "time": 54.528,
-        "first_time": 78.831,
-        "prev_time": null,
-        "improvements": 10,
-        "user_id": null,
-        "pos_24h": 6,
-        "pos_change_24h": 0
-      },
-      {
-        "pilot": "Liapos",
-        "class": "5inch",
-        "pos": 7,
-        "time": 56.973,
-        "first_time": 56.973,
-        "prev_time": 58.134,
-        "improvements": 4,
-        "user_id": 155181,
-        "pos_24h": 7,
-        "pos_change_24h": 0
-      },
-      {
-        "pilot": "dimbazus",
-        "class": "5inch",
-        "pos": 8,
-        "time": 61.365,
-        "first_time": 69.205,
-        "prev_time": 63.591,
-        "improvements": 4,
-        "user_id": 309918,
-        "pos_24h": 8,
-        "pos_change_24h": 0
-      },
-      {
-        "pilot": "Torque72",
-        "class": "5inch",
-        "pos": 9,
-        "time": 70.324,
-        "first_time": 72.86,
-        "prev_time": null,
-        "improvements": 3,
-        "user_id": null,
-        "pos_24h": 9,
-        "pos_change_24h": 0
-      },
-      {
-        "pilot": "Pontikos",
-        "class": "5inch",
-        "pos": 10,
-        "time": 79.658,
-        "first_time": 93.819,
-        "prev_time": 86.352,
-        "improvements": 4,
-        "user_id": 150985,
-        "pos_24h": null,
-        "pos_change_24h": null
-      },
-      {
-        "pilot": "fpvchucky",
-        "class": "5inch",
-        "pos": 11,
-        "time": 116.136,
-        "first_time": 135.25,
-        "prev_time": 119.864,
-        "improvements": 4,
-        "user_id": 451407,
-        "pos_24h": 10,
-        "pos_change_24h": -1
-      },
-      {
-        "pilot": "Bakarim",
-        "class": "5inch",
-        "pos": 12,
-        "time": 120.871,
-        "first_time": 126.726,
-        "prev_time": null,
-        "improvements": 4,
-        "user_id": null,
-        "pos_24h": 11,
-        "pos_change_24h": -1
-      }
-    ],
-    "hours_at_top": {
-      "TettixPro": 70.17
-    },
-    "race_to_top": [
-      {
-        "pilot": "Agorastos",
-        "improvements": 10
-      },
-      {
-        "pilot": "Cbeikos",
-        "improvements": 8
-      },
-      {
-        "pilot": "TettixPro",
-        "improvements": 6
-      },
-      {
-        "pilot": "DedalosFPV",
-        "improvements": 6
-      },
-      {
-        "pilot": "anthunder",
-        "improvements": 4
-      },
-      {
-        "pilot": "Liapos",
-        "improvements": 4
-      },
-      {
-        "pilot": "dimbazus",
-        "improvements": 4
-      },
-      {
-        "pilot": "Pontikos",
-        "improvements": 4
-      },
-      {
-        "pilot": "fpvchucky",
-        "improvements": 4
-      },
-      {
-        "pilot": "Bakarim",
-        "improvements": 4
-      },
-      {
-        "pilot": "tomahok",
-        "improvements": 3
-      },
-      {
-        "pilot": "Torque72",
-        "improvements": 3
-      }
-    ]
+    "pilots": [],
+    "hours_at_top": {},
+    "race_to_top": []
   },
   "duels": {
     "active": [],
@@ -3235,51 +2964,9 @@
       "best_improvement_pct": 7.75
     }
   },
-  "pilot_of_the_week": {
-    "pilot": "dimbazus",
-    "track": "SimRushWeek-5",
-    "first_time": 69.205,
-    "best_time": 61.365,
-    "improvement_pct": 11.33,
-    "position": 8,
-    "pb_events": 4,
-    "criteria": {
-      "top_n": 8,
-      "min_pb_events": 3,
-      "rule": "Μεγαλύτερη % βελτίωση μεταξύ πιλότων του top-8 με >= 3 PBs στην πίστα (A5)."
-    }
-  },
-  "hot_battles": [
-    {
-      "leader": "anthunder",
-      "chaser": "DedalosFPV",
-      "gap": 1.008,
-      "days": 0,
-      "class": "5inch",
-      "opened": false
-    },
-    {
-      "leader": "tomahok",
-      "chaser": "Cbeikos",
-      "gap": 1.242,
-      "days": 0,
-      "class": "5inch",
-      "opened": false
-    }
-  ],
-  "track_reveal": {
-    "track": "SimRushWeek-5",
-    "track_id": 40338,
-    "title": "TRACK REVEAL · SimRushWeek-5",
-    "youtube": "tSQ9KLjBtf0",
-    "youtube_id": "tSQ9KLjBtf0",
-    "youtube_url": "https://www.youtube.com/watch?v=tSQ9KLjBtf0",
-    "reveal_date": "2026-11-02T17:59:48.772070",
-    "race_start": null,
-    "race_end": "2026-11-07T16:06:04+00:00",
-    "status": "ended",
-    "briefing": null
-  },
+  "pilot_of_the_week": null,
+  "hot_battles": [],
+  "track_reveal": null,
   "race_director_messages": [
     {
       "date": "2026-11-04T21:20:04",
@@ -3721,6 +3408,25 @@
       "metadata": {},
       "created_at": "2026-11-07T16:06:04+00:00",
       "expires_at": null
+    },
+    {
+      "date": "2026-11-07T18:21:19+00:00",
+      "text": "📢 Νέο τεμάχιο: «SimRushWeek6»! Τα LIPO στον φορτιστή, τα νεύρα στο κόκκινο 🔋\n(Auto Leaderboard Upload: ON)",
+      "tag": "announcement",
+      "id": "rd-ca2ba2c103",
+      "event_type": "WEEK_ANNOUNCE",
+      "category": "track_reveal",
+      "priority": "high",
+      "pilots": [],
+      "pilot_ids": [],
+      "track": "SimRushWeek6",
+      "class": null,
+      "week": 6,
+      "season": 2026,
+      "related_duel_id": null,
+      "metadata": {},
+      "created_at": "2026-11-07T18:21:19+00:00",
+      "expires_at": null
     }
   ],
   "pilots": {
@@ -3743,18 +3449,7 @@
         "comparison_period": "previous_completed_week",
         "comparison_reference": "SimRushWeek-5"
       },
-      "current_week": {
-        "track": "SimRushWeek-5",
-        "class": "5inch",
-        "current_position": 6,
-        "previous_position": 6,
-        "position_change": 0,
-        "comparison_period": "previous_24h",
-        "best_time": 54.528,
-        "previous_best_time": null,
-        "time_improvement": null,
-        "first_time": 78.831
-      },
+      "current_week": null,
       "stats": {
         "pbs": 57,
         "tracks_improved": 6,
@@ -3780,18 +3475,7 @@
         "comparison_period": "previous_completed_week",
         "comparison_reference": "SimRushWeek-5"
       },
-      "current_week": {
-        "track": "SimRushWeek-5",
-        "class": "5inch",
-        "current_position": 2,
-        "previous_position": 2,
-        "position_change": 0,
-        "comparison_period": "previous_24h",
-        "best_time": 37.39,
-        "previous_best_time": null,
-        "time_improvement": null,
-        "first_time": 63.988
-      },
+      "current_week": null,
       "stats": {
         "pbs": 10,
         "tracks_improved": 2,
@@ -3817,18 +3501,7 @@
         "comparison_period": "previous_completed_week",
         "comparison_reference": "SimRushWeek-5"
       },
-      "current_week": {
-        "track": "SimRushWeek-5",
-        "class": "5inch",
-        "current_position": 12,
-        "previous_position": 11,
-        "position_change": -1,
-        "comparison_period": "previous_24h",
-        "best_time": 120.871,
-        "previous_best_time": null,
-        "time_improvement": null,
-        "first_time": 126.726
-      },
+      "current_week": null,
       "stats": {
         "pbs": 7,
         "tracks_improved": 3,
@@ -3854,18 +3527,7 @@
         "comparison_period": "previous_completed_week",
         "comparison_reference": "SimRushWeek-5"
       },
-      "current_week": {
-        "track": "SimRushWeek-5",
-        "class": "5inch",
-        "current_position": 5,
-        "previous_position": 5,
-        "position_change": 0,
-        "comparison_period": "previous_24h",
-        "best_time": 50.665,
-        "previous_best_time": null,
-        "time_improvement": null,
-        "first_time": 64.173
-      },
+      "current_week": null,
       "stats": {
         "pbs": 35,
         "tracks_improved": 4,
@@ -3891,18 +3553,7 @@
         "comparison_period": "previous_completed_week",
         "comparison_reference": "SimRushWeek-5"
       },
-      "current_week": {
-        "track": "SimRushWeek-5",
-        "class": "5inch",
-        "current_position": 3,
-        "previous_position": 3,
-        "position_change": 0,
-        "comparison_period": "previous_24h",
-        "best_time": 38.398,
-        "previous_best_time": 39.183,
-        "time_improvement": 0.785,
-        "first_time": 38.398
-      },
+      "current_week": null,
       "stats": {
         "pbs": 52,
         "tracks_improved": 6,
@@ -3928,18 +3579,7 @@
         "comparison_period": "previous_completed_week",
         "comparison_reference": "SimRushWeek-5"
       },
-      "current_week": {
-        "track": "SimRushWeek-5",
-        "class": "5inch",
-        "current_position": 8,
-        "previous_position": 8,
-        "position_change": 0,
-        "comparison_period": "previous_24h",
-        "best_time": 61.365,
-        "previous_best_time": 63.591,
-        "time_improvement": 2.226,
-        "first_time": 69.205
-      },
+      "current_week": null,
       "stats": {
         "pbs": 61,
         "tracks_improved": 6,
@@ -3991,18 +3631,7 @@
         "comparison_period": "previous_completed_week",
         "comparison_reference": "SimRushWeek-5"
       },
-      "current_week": {
-        "track": "SimRushWeek-5",
-        "class": "5inch",
-        "current_position": 11,
-        "previous_position": 10,
-        "position_change": -1,
-        "comparison_period": "previous_24h",
-        "best_time": 116.136,
-        "previous_best_time": 119.864,
-        "time_improvement": 3.728,
-        "first_time": 135.25
-      },
+      "current_week": null,
       "stats": {
         "pbs": 16,
         "tracks_improved": 4,
@@ -4076,18 +3705,7 @@
         "comparison_period": "previous_completed_week",
         "comparison_reference": "SimRushWeek-5"
       },
-      "current_week": {
-        "track": "SimRushWeek-5",
-        "class": "5inch",
-        "current_position": 7,
-        "previous_position": 7,
-        "position_change": 0,
-        "comparison_period": "previous_24h",
-        "best_time": 56.973,
-        "previous_best_time": 58.134,
-        "time_improvement": 1.161,
-        "first_time": 56.973
-      },
+      "current_week": null,
       "stats": {
         "pbs": 19,
         "tracks_improved": 6,
@@ -4113,18 +3731,7 @@
         "comparison_period": "previous_completed_week",
         "comparison_reference": "SimRushWeek-5"
       },
-      "current_week": {
-        "track": "SimRushWeek-5",
-        "class": "5inch",
-        "current_position": 10,
-        "previous_position": null,
-        "position_change": null,
-        "comparison_period": null,
-        "best_time": 79.658,
-        "previous_best_time": 86.352,
-        "time_improvement": 6.694,
-        "first_time": 93.819
-      },
+      "current_week": null,
       "stats": {
         "pbs": 8,
         "tracks_improved": 2,
@@ -4150,18 +3757,7 @@
         "comparison_period": "previous_completed_week",
         "comparison_reference": "SimRushWeek-5"
       },
-      "current_week": {
-        "track": "SimRushWeek-5",
-        "class": "5inch",
-        "current_position": 1,
-        "previous_position": 1,
-        "position_change": 0,
-        "comparison_period": "previous_24h",
-        "best_time": 34.337,
-        "previous_best_time": 34.893,
-        "time_improvement": 0.556,
-        "first_time": 36.671
-      },
+      "current_week": null,
       "stats": {
         "pbs": 26,
         "tracks_improved": 6,
@@ -4187,18 +3783,7 @@
         "comparison_period": "previous_completed_week",
         "comparison_reference": "SimRushWeek-5"
       },
-      "current_week": {
-        "track": "SimRushWeek-5",
-        "class": "5inch",
-        "current_position": 4,
-        "previous_position": 4,
-        "position_change": 0,
-        "comparison_period": "previous_24h",
-        "best_time": 49.423,
-        "previous_best_time": null,
-        "time_improvement": null,
-        "first_time": 57.844
-      },
+      "current_week": null,
       "stats": {
         "pbs": 25,
         "tracks_improved": 5,
@@ -4224,18 +3809,7 @@
         "comparison_period": "previous_completed_week",
         "comparison_reference": "SimRushWeek-5"
       },
-      "current_week": {
-        "track": "SimRushWeek-5",
-        "class": "5inch",
-        "current_position": 9,
-        "previous_position": 9,
-        "position_change": 0,
-        "comparison_period": "previous_24h",
-        "best_time": 70.324,
-        "previous_best_time": null,
-        "time_improvement": null,
-        "first_time": 72.86
-      },
+      "current_week": null,
       "stats": {
         "pbs": 18,
         "tracks_improved": 4,

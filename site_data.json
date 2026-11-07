@@ -1,6 +1,6 @@
 {
   "schema_version": "2.1",
-  "generated_at": "2026-11-07T17:20:01+00:00",
+  "generated_at": "2026-11-07T17:25:01+00:00",
   "season": 2026,
   "current_track": "SimRushWeek-5",
   "week_no": 5,
@@ -962,7 +962,7 @@
       }
     ],
     "hours_at_top": {
-      "TettixPro": 69.17
+      "TettixPro": 69.25
     },
     "race_to_top": [
       {

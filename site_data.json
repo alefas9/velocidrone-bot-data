@@ -1,6 +1,6 @@
 {
   "schema_version": "2.1",
-  "generated_at": "2026-11-07T18:30:02+00:00",
+  "generated_at": "2026-11-07T18:35:02+00:00",
   "season": 2026,
   "current_track": "SimRushWeek6",
   "week_no": 6,
@@ -10,7 +10,7 @@
     "5inch": [
       {
         "pilot": "Agorastos",
-        "time": 97.621,
+        "time": 93.603,
         "quad": "Carbix Zero",
         "pilot_id": "agorastos"
       }
@@ -754,17 +754,24 @@
         "pilot": "Agorastos",
         "class": "5inch",
         "pos": 1,
-        "time": 97.621,
+        "time": 93.603,
         "first_time": 97.621,
-        "prev_time": null,
-        "improvements": 0,
+        "prev_time": 97.621,
+        "improvements": 1,
         "user_id": 128161,
         "pos_24h": null,
         "pos_change_24h": null
       }
     ],
-    "hours_at_top": {},
-    "race_to_top": []
+    "hours_at_top": {
+      "Agorastos": 0.08
+    },
+    "race_to_top": [
+      {
+        "pilot": "Agorastos",
+        "improvements": 1
+      }
+    ]
   },
   "duels": {
     "active": [],
@@ -808,6 +815,13 @@
     ]
   },
   "improvements": [
+    {
+      "pilot": "Agorastos",
+      "track": "SimRushWeek6",
+      "time": 93.603,
+      "delta": 4.018,
+      "date": "2026-11-07T18:30:02+00:00"
+    },
     {
       "pilot": "DedalosFPV",
       "track": "SimRushWeek-5",
@@ -2900,13 +2914,6 @@
       "time": 116.577,
       "delta": null,
       "date": "2026-10-11"
-    },
-    {
-      "pilot": "Agorastos",
-      "track": "SimRushWeek2",
-      "time": 204.224,
-      "delta": 2.034,
-      "date": "2026-10-11"
     }
   ],
   "pilot_stats": {
@@ -2931,9 +2938,9 @@
       "best_improvement_pct": 2.0
     },
     "Agorastos": {
-      "pbs": 57,
-      "tracks_improved": 6,
-      "best_improvement_pct": null
+      "pbs": 58,
+      "tracks_improved": 7,
+      "best_improvement_pct": 4.12
     },
     "tomahok": {
       "pbs": 25,
@@ -3468,6 +3475,33 @@
       "metadata": {},
       "created_at": "2026-11-07T18:21:19+00:00",
       "expires_at": null
+    },
+    {
+      "date": "2026-11-07T18:30:05+00:00",
+      "text": "[5inch] «SimRushWeek6»\n🏛️ Στην αρχαία Αθήνα θα γινόταν πανηγύρι: ο **Agorastos** με 93.603s στη «SimRushWeek6»!\nΟ χάρτης δεν θα γαζωθεί μόνος του! 🗺️",
+      "tag": "announcement",
+      "id": "rd-57ac372668",
+      "event_type": "NEW_TOP",
+      "category": "timing",
+      "priority": "high",
+      "pilots": [
+        "Agorastos"
+      ],
+      "pilot_ids": [
+        "agorastos"
+      ],
+      "track": "SimRushWeek6",
+      "class": "5inch",
+      "week": 6,
+      "season": 2026,
+      "related_duel_id": null,
+      "metadata": {
+        "time": 93.603,
+        "previous_time": 97.621,
+        "position": 1
+      },
+      "created_at": "2026-11-07T18:30:05+00:00",
+      "expires_at": null
     }
   ],
   "pilots": {
@@ -3497,15 +3531,15 @@
         "previous_position": null,
         "position_change": null,
         "comparison_period": null,
-        "best_time": 97.621,
-        "previous_best_time": null,
-        "time_improvement": null,
+        "best_time": 93.603,
+        "previous_best_time": 97.621,
+        "time_improvement": 4.018,
         "first_time": 97.621
       },
       "stats": {
-        "pbs": 57,
-        "tracks_improved": 6,
-        "best_improvement_pct": null
+        "pbs": 58,
+        "tracks_improved": 7,
+        "best_improvement_pct": 4.12
       }
     },
     "anthunder": {

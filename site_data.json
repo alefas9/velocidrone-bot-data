@@ -1,6 +1,6 @@
 {
   "schema_version": "2.1",
-  "generated_at": "2026-11-07T21:25:01+00:00",
+  "generated_at": "2026-11-07T21:30:01+00:00",
   "season": 2026,
   "current_track": "SimRushWeek6",
   "week_no": 6,
@@ -801,7 +801,7 @@
     ],
     "hours_at_top": {
       "Agorastos": 1.33,
-      "DedalosFPV": 1.58
+      "DedalosFPV": 1.67
     },
     "race_to_top": [
       {
@@ -3075,33 +3075,6 @@
   "track_reveal": null,
   "race_director_messages": [
     {
-      "date": "2026-11-07T13:30:04+00:00",
-      "text": "[5inch] «SimRushWeek-5»\n🎉 Γλέντι στην «SimRushWeek-5»: ο **Pontikos** με 87.287s - τα τραπέζια στρώθηκαν!",
-      "tag": "announcement",
-      "id": "rd-b230eb63de",
-      "event_type": "PERSONAL",
-      "category": "timing",
-      "priority": "normal",
-      "pilots": [
-        "Pontikos"
-      ],
-      "pilot_ids": [
-        "pontikos"
-      ],
-      "track": "SimRushWeek-5",
-      "class": "5inch",
-      "week": 5,
-      "season": 2026,
-      "related_duel_id": null,
-      "metadata": {
-        "time": 87.287,
-        "previous_time": 93.819,
-        "position": null
-      },
-      "created_at": "2026-11-07T13:30:04+00:00",
-      "expires_at": null
-    },
-    {
       "date": "2026-11-07T14:00:04+00:00",
       "text": "[5inch] «SimRushWeek-5»\n🎰 Αυτός ο **Pontikos** δεν σταματάει: 86.352s! Πάρε κι ένα... δεν ξέρω κι εγώ τι να πω πια!",
       "tag": "announcement",
@@ -3671,6 +3644,33 @@
         "position": 1
       },
       "created_at": "2026-11-07T20:05:04+00:00",
+      "expires_at": null
+    },
+    {
+      "date": "2026-11-07T21:25:06+00:00",
+      "text": "[5inch] «SimRushWeek6»\n💣 Έσκασε το κεφάλι του leaderboard: **DedalosFPV** με 53.403s!",
+      "tag": "announcement",
+      "id": "rd-5ced567826",
+      "event_type": "NEW_TOP",
+      "category": "timing",
+      "priority": "high",
+      "pilots": [
+        "DedalosFPV"
+      ],
+      "pilot_ids": [
+        "dedalosfpv"
+      ],
+      "track": "SimRushWeek6",
+      "class": "5inch",
+      "week": 6,
+      "season": 2026,
+      "related_duel_id": null,
+      "metadata": {
+        "time": 53.403,
+        "previous_time": 57.786,
+        "position": 1
+      },
+      "created_at": "2026-11-07T21:25:06+00:00",
       "expires_at": null
     }
   ],

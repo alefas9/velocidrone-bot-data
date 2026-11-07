@@ -1,6 +1,6 @@
 {
   "schema_version": "2.1",
-  "generated_at": "2026-11-07T18:40:02+00:00",
+  "generated_at": "2026-11-07T18:45:02+00:00",
   "season": 2026,
   "current_track": "SimRushWeek6",
   "week_no": 6,
@@ -16,7 +16,7 @@
       },
       {
         "pilot": "Pontikos",
-        "time": 182.505,
+        "time": 121.163,
         "quad": "Five33 Switchback",
         "pilot_id": "pontikos"
       }
@@ -772,17 +772,17 @@
         "pilot": "Pontikos",
         "class": "5inch",
         "pos": 2,
-        "time": 182.505,
+        "time": 121.163,
         "first_time": 182.505,
-        "prev_time": null,
-        "improvements": 1,
+        "prev_time": 182.505,
+        "improvements": 2,
         "user_id": 150985,
         "pos_24h": null,
         "pos_change_24h": null
       }
     ],
     "hours_at_top": {
-      "Agorastos": 0.17
+      "Agorastos": 0.25
     },
     "race_to_top": [
       {
@@ -791,7 +791,7 @@
       },
       {
         "pilot": "Pontikos",
-        "improvements": 1
+        "improvements": 2
       }
     ]
   },
@@ -837,6 +837,13 @@
     ]
   },
   "improvements": [
+    {
+      "pilot": "Pontikos",
+      "track": "SimRushWeek6",
+      "time": 121.163,
+      "delta": 61.342,
+      "date": "2026-11-07T18:40:02+00:00"
+    },
     {
       "pilot": "Agorastos",
       "track": "SimRushWeek6",
@@ -2929,13 +2936,6 @@
       "time": 234.923,
       "delta": null,
       "date": "2026-10-11"
-    },
-    {
-      "pilot": "Agorastos",
-      "track": "SimRushWeek2",
-      "time": 210.399,
-      "delta": 24.524,
-      "date": "2026-10-11"
     }
   ],
   "pilot_stats": {
@@ -3010,9 +3010,9 @@
       "best_improvement_pct": null
     },
     "Pontikos": {
-      "pbs": 9,
+      "pbs": 10,
       "tracks_improved": 3,
-      "best_improvement_pct": 7.75
+      "best_improvement_pct": 33.61
     }
   },
   "pilot_of_the_week": null,
@@ -3038,25 +3038,6 @@
   ],
   "track_reveal": null,
   "race_director_messages": [
-    {
-      "date": "2026-11-04T21:20:04",
-      "text": "[5inch] «SimRushWeek-5»\n🏆 Το τρόπαιο σηκώθηκε: **TettixPro** με 34.337s - οι φωτογράφοι έτοιμοι!",
-      "tag": "announcement",
-      "id": "rd-ed6d52571a",
-      "event_type": "unknown",
-      "category": "general",
-      "priority": "normal",
-      "pilots": [],
-      "pilot_ids": [],
-      "track": null,
-      "class": null,
-      "week": null,
-      "season": 2026,
-      "related_duel_id": null,
-      "metadata": {},
-      "created_at": "2026-11-04T21:20:04",
-      "expires_at": null
-    },
     {
       "date": "2026-11-04T22:00:02",
       "text": "📊 ΑΝΑΣΚΟΠΗΣΗ ΕΒΔΟΜΑΔΑΣ — «SimRushWeek-5»\n🥇 **TettixPro**  34.337s\n🥈 **anthunder**  37.390s  (+3.053s)\n🥉 **DedalosFPV**  39.183s  (+4.846s)\n**4.** **tomahok**  49.423s  (+15.086s)\n**5.** **Cbeikos**  50.665s  (+16.328s)\n**6.** **Agorastos**  54.528s  (+20.191s)\n**7.** **Liapos**  58.134s  (+23.797s)\n**8.** **Torque72**  70.324s  (+35.987s)\n**9.** **Bakarim**  120.871s  (+86.534s)\n\n📈 **Εβδομαδιαία στατιστικά:** 57 νέα ρεκόρ συνολικά - πιο ενεργός ο **dimbazus** (57).",
@@ -3578,6 +3559,33 @@
       },
       "created_at": "2026-11-07T18:35:12+00:00",
       "expires_at": null
+    },
+    {
+      "date": "2026-11-07T18:40:04+00:00",
+      "text": "[5inch] «SimRushWeek6»\n🪙 Ο **Pontikos** κάνει οικονομία στα δευτερόλεπτα: 121.163s - τσιγκούνης ως το τέρμα!",
+      "tag": "announcement",
+      "id": "rd-6c844ac04f",
+      "event_type": "PERSONAL",
+      "category": "timing",
+      "priority": "normal",
+      "pilots": [
+        "Pontikos"
+      ],
+      "pilot_ids": [
+        "pontikos"
+      ],
+      "track": "SimRushWeek6",
+      "class": "5inch",
+      "week": 6,
+      "season": 2026,
+      "related_duel_id": null,
+      "metadata": {
+        "time": 121.163,
+        "previous_time": 182.505,
+        "position": null
+      },
+      "created_at": "2026-11-07T18:40:04+00:00",
+      "expires_at": null
     }
   ],
   "pilots": {
@@ -3900,15 +3908,15 @@
         "previous_position": null,
         "position_change": null,
         "comparison_period": null,
-        "best_time": 182.505,
-        "previous_best_time": null,
-        "time_improvement": null,
+        "best_time": 121.163,
+        "previous_best_time": 182.505,
+        "time_improvement": 61.342,
         "first_time": 182.505
       },
       "stats": {
-        "pbs": 9,
+        "pbs": 10,
         "tracks_improved": 3,
-        "best_improvement_pct": 7.75
+        "best_improvement_pct": 33.61
       }
     },
     "tettixpro": {
@@ -4111,9 +4119,9 @@
         "title": "Μεγαλύτερη % βελτίωση",
         "holders": [
           {
-            "pilot_id": "fpvchucky",
-            "callsign": "fpvchucky",
-            "value": 9.34
+            "pilot_id": "pontikos",
+            "callsign": "Pontikos",
+            "value": 33.61
           }
         ]
       }

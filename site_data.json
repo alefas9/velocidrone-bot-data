@@ -1,6 +1,6 @@
 {
   "schema_version": "2.1",
-  "generated_at": "2026-11-07T15:40:01+00:00",
+  "generated_at": "2026-11-07T15:45:01+00:00",
   "season": 2026,
   "current_track": "SimRushWeek-5",
   "week_no": 5,
@@ -22,7 +22,7 @@
       },
       {
         "pilot": "DedalosFPV",
-        "time": 39.183,
+        "time": 38.398,
         "quad": "Bahamut",
         "pilot_id": "dedalosfpv"
       },
@@ -726,11 +726,11 @@
         "pilot": "DedalosFPV",
         "class": "5inch",
         "pos": 3,
-        "time": 39.183,
-        "first_time": 79.509,
-        "prev_time": null,
-        "improvements": 5,
-        "user_id": null,
+        "time": 38.398,
+        "first_time": 38.398,
+        "prev_time": 39.183,
+        "improvements": 6,
+        "user_id": 387184,
         "pos_24h": 3,
         "pos_change_24h": 0
       },
@@ -844,7 +844,7 @@
       }
     ],
     "hours_at_top": {
-      "TettixPro": 67.5
+      "TettixPro": 67.58
     },
     "race_to_top": [
       {
@@ -861,7 +861,7 @@
       },
       {
         "pilot": "DedalosFPV",
-        "improvements": 5
+        "improvements": 6
       },
       {
         "pilot": "anthunder",
@@ -939,6 +939,13 @@
     ]
   },
   "improvements": [
+    {
+      "pilot": "DedalosFPV",
+      "track": "SimRushWeek-5",
+      "time": 38.398,
+      "delta": 0.785,
+      "date": "2026-11-07T15:40:02+00:00"
+    },
     {
       "pilot": "Pontikos",
       "track": "SimRushWeek-5",
@@ -3031,13 +3038,6 @@
       "time": 204.224,
       "delta": 2.034,
       "date": "2026-10-11"
-    },
-    {
-      "pilot": "Exo_FPV",
-      "track": "SimRushWeek2",
-      "time": 108.969,
-      "delta": 7.608,
-      "date": "2026-10-11"
     }
   ],
   "pilot_stats": {
@@ -3072,9 +3072,9 @@
       "best_improvement_pct": null
     },
     "DedalosFPV": {
-      "pbs": 51,
+      "pbs": 52,
       "tracks_improved": 6,
-      "best_improvement_pct": null
+      "best_improvement_pct": 2.0
     },
     "fpvchucky": {
       "pbs": 16,
@@ -3133,17 +3133,17 @@
   },
   "hot_battles": [
     {
-      "leader": "tomahok",
-      "chaser": "Cbeikos",
-      "gap": 1.242,
+      "leader": "anthunder",
+      "chaser": "DedalosFPV",
+      "gap": 1.008,
       "days": 0,
       "class": "5inch",
       "opened": false
     },
     {
-      "leader": "anthunder",
-      "chaser": "DedalosFPV",
-      "gap": 1.793,
+      "leader": "tomahok",
+      "chaser": "Cbeikos",
+      "gap": 1.242,
       "days": 0,
       "class": "5inch",
       "opened": false
@@ -3430,6 +3430,33 @@
       },
       "created_at": "2026-11-07T15:35:06+00:00",
       "expires_at": null
+    },
+    {
+      "date": "2026-11-07T15:40:05+00:00",
+      "text": "[5inch] «SimRushWeek-5»\n🧭 Το GPS του **DedalosFPV** είπε 38.398s — το ρεκόρ βρέθηκε πριν το drone!",
+      "tag": "announcement",
+      "id": "rd-0c73846c28",
+      "event_type": "PERSONAL",
+      "category": "timing",
+      "priority": "normal",
+      "pilots": [
+        "DedalosFPV"
+      ],
+      "pilot_ids": [
+        "dedalosfpv"
+      ],
+      "track": "SimRushWeek-5",
+      "class": "5inch",
+      "week": 5,
+      "season": 2026,
+      "related_duel_id": null,
+      "metadata": {
+        "time": 38.398,
+        "previous_time": 39.183,
+        "position": null
+      },
+      "created_at": "2026-11-07T15:40:05+00:00",
+      "expires_at": null
     }
   ],
   "pilots": {
@@ -3586,7 +3613,7 @@
       "callsign": "DedalosFPV",
       "avatar_url": null,
       "discord": null,
-      "user_id": null,
+      "user_id": 387184,
       "season": {
         "class": "5inch",
         "points": 46,
@@ -3607,15 +3634,15 @@
         "previous_position": 3,
         "position_change": 0,
         "comparison_period": "previous_24h",
-        "best_time": 39.183,
-        "previous_best_time": null,
-        "time_improvement": null,
-        "first_time": 79.509
+        "best_time": 38.398,
+        "previous_best_time": 39.183,
+        "time_improvement": 0.785,
+        "first_time": 38.398
       },
       "stats": {
-        "pbs": 51,
+        "pbs": 52,
         "tracks_improved": 6,
-        "best_improvement_pct": null
+        "best_improvement_pct": 2.0
       }
     },
     "dimbazus": {

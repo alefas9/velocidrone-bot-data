@@ -1,6 +1,6 @@
 {
   "schema_version": "2.1",
-  "generated_at": "2026-11-08T19:55:02+00:00",
+  "generated_at": "2026-11-08T20:00:02+00:00",
   "season": 2026,
   "current_track": "SimRushWeek6",
   "week_no": 6,
@@ -13,6 +13,12 @@
         "time": 53.403,
         "quad": "Bahamut",
         "pilot_id": "dedalosfpv"
+      },
+      {
+        "pilot": "tomahok",
+        "time": 84.308,
+        "quad": "Five33 Switchback",
+        "pilot_id": "tomahok"
       },
       {
         "pilot": "Agorastos",
@@ -31,12 +37,6 @@
         "time": 125.031,
         "quad": "Carbix Zero",
         "pilot_id": "fpvchucky"
-      },
-      {
-        "pilot": "tomahok",
-        "time": 126.97,
-        "quad": "Five33 Switchback",
-        "pilot_id": "tomahok"
       },
       {
         "pilot": "Bakarim",
@@ -793,50 +793,50 @@
         "pos_change_24h": 0
       },
       {
-        "pilot": "Agorastos",
+        "pilot": "tomahok",
         "class": "5inch",
         "pos": 2,
+        "time": 84.308,
+        "first_time": 126.97,
+        "prev_time": 126.97,
+        "improvements": 2,
+        "user_id": 17641,
+        "pos_24h": null,
+        "pos_change_24h": null
+      },
+      {
+        "pilot": "Agorastos",
+        "class": "5inch",
+        "pos": 3,
         "time": 92.395,
         "first_time": 97.621,
         "prev_time": 93.603,
         "improvements": 2,
         "user_id": 128161,
         "pos_24h": 2,
-        "pos_change_24h": 0
+        "pos_change_24h": -1
       },
       {
         "pilot": "Pontikos",
         "class": "5inch",
-        "pos": 3,
+        "pos": 4,
         "time": 103.387,
         "first_time": 182.505,
         "prev_time": 119.117,
         "improvements": 4,
         "user_id": 150985,
         "pos_24h": 3,
-        "pos_change_24h": 0
+        "pos_change_24h": -1
       },
       {
         "pilot": "fpvchucky",
         "class": "5inch",
-        "pos": 4,
+        "pos": 5,
         "time": 125.031,
         "first_time": 183.807,
         "prev_time": 129.048,
         "improvements": 5,
         "user_id": 451407,
-        "pos_24h": null,
-        "pos_change_24h": null
-      },
-      {
-        "pilot": "tomahok",
-        "class": "5inch",
-        "pos": 5,
-        "time": 126.97,
-        "first_time": 126.97,
-        "prev_time": null,
-        "improvements": 1,
-        "user_id": 17641,
         "pos_24h": null,
         "pos_change_24h": null
       },
@@ -855,7 +855,7 @@
     ],
     "hours_at_top": {
       "Agorastos": 1.33,
-      "DedalosFPV": 24.08
+      "DedalosFPV": 24.17
     },
     "race_to_top": [
       {
@@ -871,16 +871,16 @@
         "improvements": 4
       },
       {
+        "pilot": "tomahok",
+        "improvements": 2
+      },
+      {
         "pilot": "Agorastos",
         "improvements": 2
       },
       {
         "pilot": "Bakarim",
         "improvements": 2
-      },
-      {
-        "pilot": "tomahok",
-        "improvements": 1
       }
     ]
   },
@@ -926,6 +926,13 @@
     ]
   },
   "improvements": [
+    {
+      "pilot": "tomahok",
+      "track": "SimRushWeek6",
+      "time": 84.308,
+      "delta": 42.662,
+      "date": "2026-11-08T19:55:02+00:00"
+    },
     {
       "pilot": "tomahok",
       "track": "SimRushWeek6",
@@ -3018,13 +3025,6 @@
       "time": 162.558,
       "delta": 16.812,
       "date": "2026-10-12"
-    },
-    {
-      "pilot": "Agorastos",
-      "track": "SimRushWeek2",
-      "time": 222.33,
-      "delta": -31.205,
-      "date": "2026-10-12"
     }
   ],
   "pilot_stats": {
@@ -3054,9 +3054,9 @@
       "best_improvement_pct": 4.12
     },
     "tomahok": {
-      "pbs": 26,
+      "pbs": 27,
       "tracks_improved": 6,
-      "best_improvement_pct": null
+      "best_improvement_pct": 33.6
     },
     "DedalosFPV": {
       "pbs": 58,
@@ -3125,38 +3125,12 @@
       "gap": 1.939,
       "days": 0,
       "class": "5inch",
-      "opened": false
+      "opened": true,
+      "was_gap": 1.939
     }
   ],
   "track_reveal": null,
   "race_director_messages": [
-    {
-      "date": "2026-11-07T18:35:05+00:00",
-      "text": "[5inch] «SimRushWeek6»\nΣΟΒΑΡΑ ΤΩΡΑ; **Agorastos** -> 92.395s; Μας δουλεύεις; 😂\nΑύριο κάποιος θα το μετανιώσει! 😈",
-      "tag": "announcement",
-      "id": "rd-40ecacebbf",
-      "event_type": "NEW_TOP",
-      "category": "timing",
-      "priority": "high",
-      "pilots": [
-        "Agorastos"
-      ],
-      "pilot_ids": [
-        "agorastos"
-      ],
-      "track": "SimRushWeek6",
-      "class": "5inch",
-      "week": 6,
-      "season": 2026,
-      "related_duel_id": null,
-      "metadata": {
-        "time": 92.395,
-        "previous_time": 93.603,
-        "position": 1
-      },
-      "created_at": "2026-11-07T18:35:05+00:00",
-      "expires_at": null
-    },
     {
       "date": "2026-11-07T18:35:12+00:00",
       "text": "[5inch] «SimRushWeek6»\n🪫 Χρειάζεται νέα μπαταρία; Όχι, νέο ρεκόρ: **Pontikos** -> 182.505s στην «SimRushWeek6»!\nΟι κορυφές δεν κατακτώνται με likes! 👍❌",
@@ -3671,6 +3645,33 @@
       },
       "created_at": "2026-11-08T19:50:04+00:00",
       "expires_at": null
+    },
+    {
+      "date": "2026-11-08T19:55:03+00:00",
+      "text": "[5inch] «SimRushWeek6»\n🥁 Νταούλι και ζουρνάς για τον **tomahok**: 84.308s στην «SimRushWeek6» - γλέντι ως το πρωί!",
+      "tag": "announcement",
+      "id": "rd-0d428c9474",
+      "event_type": "PERSONAL",
+      "category": "timing",
+      "priority": "normal",
+      "pilots": [
+        "tomahok"
+      ],
+      "pilot_ids": [
+        "tomahok"
+      ],
+      "track": "SimRushWeek6",
+      "class": "5inch",
+      "week": 6,
+      "season": 2026,
+      "related_duel_id": null,
+      "metadata": {
+        "time": 84.308,
+        "previous_time": 126.97,
+        "position": null
+      },
+      "created_at": "2026-11-08T19:55:03+00:00",
+      "expires_at": null
     }
   ],
   "avatars": {},
@@ -3697,9 +3698,9 @@
       "current_week": {
         "track": "SimRushWeek6",
         "class": "5inch",
-        "current_position": 2,
+        "current_position": 3,
         "previous_position": 2,
-        "position_change": 0,
+        "position_change": -1,
         "comparison_period": "previous_24h",
         "best_time": 92.395,
         "previous_best_time": 93.603,
@@ -3912,7 +3913,7 @@
       "current_week": {
         "track": "SimRushWeek6",
         "class": "5inch",
-        "current_position": 4,
+        "current_position": 5,
         "previous_position": null,
         "position_change": null,
         "comparison_period": null,
@@ -4023,9 +4024,9 @@
       "current_week": {
         "track": "SimRushWeek6",
         "class": "5inch",
-        "current_position": 3,
+        "current_position": 4,
         "previous_position": 3,
-        "position_change": 0,
+        "position_change": -1,
         "comparison_period": "previous_24h",
         "best_time": 103.387,
         "previous_best_time": 119.117,
@@ -4086,19 +4087,19 @@
       "current_week": {
         "track": "SimRushWeek6",
         "class": "5inch",
-        "current_position": 5,
+        "current_position": 2,
         "previous_position": null,
         "position_change": null,
         "comparison_period": null,
-        "best_time": 126.97,
-        "previous_best_time": null,
-        "time_improvement": null,
+        "best_time": 84.308,
+        "previous_best_time": 126.97,
+        "time_improvement": 42.662,
         "first_time": 126.97
       },
       "stats": {
-        "pbs": 26,
+        "pbs": 27,
         "tracks_improved": 6,
-        "best_improvement_pct": null
+        "best_improvement_pct": 33.6
       }
     },
     "torque72": {

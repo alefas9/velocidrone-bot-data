@@ -1,6 +1,6 @@
 {
   "schema_version": "2.1",
-  "generated_at": "2026-11-08T18:15:03+00:00",
+  "generated_at": "2026-11-08T18:20:03+00:00",
   "season": 2026,
   "current_track": "SimRushWeek6",
   "week_no": 6,
@@ -819,7 +819,7 @@
     ],
     "hours_at_top": {
       "Agorastos": 1.33,
-      "DedalosFPV": 22.42
+      "DedalosFPV": 22.5
     },
     "race_to_top": [
       {
@@ -3074,26 +3074,7 @@
       "rule": "Μεγαλύτερη % βελτίωση μεταξύ πιλότων του top-8 με >= 3 PBs στην πίστα (A5)."
     }
   },
-  "hot_battles": [
-    {
-      "leader": "anthunder",
-      "chaser": "DedalosFPV",
-      "gap": 1.008,
-      "days": 0,
-      "class": "5inch",
-      "opened": true,
-      "was_gap": 1.008
-    },
-    {
-      "leader": "tomahok",
-      "chaser": "Cbeikos",
-      "gap": 1.242,
-      "days": 0,
-      "class": "5inch",
-      "opened": true,
-      "was_gap": 1.242
-    }
-  ],
+  "hot_battles": [],
   "track_reveal": null,
   "race_director_messages": [
     {

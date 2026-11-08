@@ -1,6 +1,6 @@
 {
   "schema_version": "2.1",
-  "generated_at": "2026-11-08T13:00:02+00:00",
+  "generated_at": "2026-11-08T13:05:03+00:00",
   "season": 2026,
   "current_track": "SimRushWeek6",
   "week_no": 6,
@@ -801,7 +801,7 @@
     ],
     "hours_at_top": {
       "Agorastos": 1.33,
-      "DedalosFPV": 17.17
+      "DedalosFPV": 17.25
     },
     "race_to_top": [
       {
@@ -3674,11 +3674,28 @@
       "expires_at": null
     }
   ],
+  "avatars": {
+    "ZOUP": "https://cdn.discordapp.com/embed/avatars/2.png",
+    "tomahok": "https://cdn.discordapp.com/embed/avatars/3.png",
+    "DedalosFPV": "https://cdn.discordapp.com/embed/avatars/1.png",
+    "dimbazus": "https://cdn.discordapp.com/embed/avatars/1.png",
+    "Exo_FPV": "https://cdn.discordapp.com/embed/avatars/2.png",
+    "TettixPro": "https://cdn.discordapp.com/embed/avatars/5.png",
+    "Cbeikos": "https://cdn.discordapp.com/embed/avatars/0.png",
+    "Liapos": "https://cdn.discordapp.com/embed/avatars/5.png",
+    "Agorastos": "https://cdn.discordapp.com/embed/avatars/5.png",
+    "Gaston_FPV": "https://cdn.discordapp.com/embed/avatars/0.png",
+    "fpvchucky": "https://cdn.discordapp.com/embed/avatars/0.png",
+    "anthunder": "https://cdn.discordapp.com/embed/avatars/1.png",
+    "Torque72": "https://cdn.discordapp.com/embed/avatars/1.png",
+    "gkfpv13": "https://cdn.discordapp.com/embed/avatars/5.png",
+    "pontikos": "https://cdn.discordapp.com/embed/avatars/0.png"
+  },
   "pilots": {
     "agorastos": {
       "pilot_id": "agorastos",
       "callsign": "Agorastos",
-      "avatar_url": null,
+      "avatar_url": "https://cdn.discordapp.com/embed/avatars/5.png",
       "discord": null,
       "user_id": 128161,
       "season": {
@@ -3715,7 +3732,7 @@
     "anthunder": {
       "pilot_id": "anthunder",
       "callsign": "anthunder",
-      "avatar_url": null,
+      "avatar_url": "https://cdn.discordapp.com/embed/avatars/1.png",
       "discord": null,
       "user_id": null,
       "season": {
@@ -3767,7 +3784,7 @@
     "cbeikos": {
       "pilot_id": "cbeikos",
       "callsign": "Cbeikos",
-      "avatar_url": null,
+      "avatar_url": "https://cdn.discordapp.com/embed/avatars/0.png",
       "discord": null,
       "user_id": null,
       "season": {
@@ -3793,7 +3810,7 @@
     "dedalosfpv": {
       "pilot_id": "dedalosfpv",
       "callsign": "DedalosFPV",
-      "avatar_url": null,
+      "avatar_url": "https://cdn.discordapp.com/embed/avatars/1.png",
       "discord": null,
       "user_id": 387184,
       "season": {
@@ -3830,7 +3847,7 @@
     "dimbazus": {
       "pilot_id": "dimbazus",
       "callsign": "dimbazus",
-      "avatar_url": null,
+      "avatar_url": "https://cdn.discordapp.com/embed/avatars/1.png",
       "discord": null,
       "user_id": 309918,
       "season": {
@@ -3856,7 +3873,7 @@
     "exo-fpv": {
       "pilot_id": "exo-fpv",
       "callsign": "Exo_FPV",
-      "avatar_url": null,
+      "avatar_url": "https://cdn.discordapp.com/embed/avatars/2.png",
       "discord": null,
       "user_id": null,
       "season": {
@@ -3882,7 +3899,7 @@
     "fpvchucky": {
       "pilot_id": "fpvchucky",
       "callsign": "fpvchucky",
-      "avatar_url": null,
+      "avatar_url": "https://cdn.discordapp.com/embed/avatars/0.png",
       "discord": null,
       "user_id": 451407,
       "season": {
@@ -3908,7 +3925,7 @@
     "gaston-fpv": {
       "pilot_id": "gaston-fpv",
       "callsign": "Gaston_FPV",
-      "avatar_url": null,
+      "avatar_url": "https://cdn.discordapp.com/embed/avatars/0.png",
       "discord": null,
       "user_id": null,
       "season": {
@@ -3934,7 +3951,7 @@
     "gkfpv13": {
       "pilot_id": "gkfpv13",
       "callsign": "gkfpv13",
-      "avatar_url": null,
+      "avatar_url": "https://cdn.discordapp.com/embed/avatars/5.png",
       "discord": null,
       "user_id": null,
       "season": {
@@ -3956,7 +3973,7 @@
     "liapos": {
       "pilot_id": "liapos",
       "callsign": "Liapos",
-      "avatar_url": null,
+      "avatar_url": "https://cdn.discordapp.com/embed/avatars/5.png",
       "discord": null,
       "user_id": 155181,
       "season": {
@@ -4019,7 +4036,7 @@
     "tettixpro": {
       "pilot_id": "tettixpro",
       "callsign": "TettixPro",
-      "avatar_url": null,
+      "avatar_url": "https://cdn.discordapp.com/embed/avatars/5.png",
       "discord": null,
       "user_id": 372096,
       "season": {
@@ -4045,7 +4062,7 @@
     "tomahok": {
       "pilot_id": "tomahok",
       "callsign": "tomahok",
-      "avatar_url": null,
+      "avatar_url": "https://cdn.discordapp.com/embed/avatars/3.png",
       "discord": null,
       "user_id": null,
       "season": {
@@ -4071,7 +4088,7 @@
     "torque72": {
       "pilot_id": "torque72",
       "callsign": "Torque72",
-      "avatar_url": null,
+      "avatar_url": "https://cdn.discordapp.com/embed/avatars/1.png",
       "discord": null,
       "user_id": null,
       "season": {
@@ -4097,7 +4114,7 @@
     "zoup": {
       "pilot_id": "zoup",
       "callsign": "ZOUP",
-      "avatar_url": null,
+      "avatar_url": "https://cdn.discordapp.com/embed/avatars/2.png",
       "discord": null,
       "user_id": null,
       "season": {

@@ -1,6 +1,6 @@
 {
   "schema_version": "2.1",
-  "generated_at": "2026-11-08T19:25:02+00:00",
+  "generated_at": "2026-11-08T19:30:02+00:00",
   "season": 2026,
   "current_track": "SimRushWeek6",
   "week_no": 6,
@@ -28,7 +28,7 @@
       },
       {
         "pilot": "fpvchucky",
-        "time": 143.329,
+        "time": 129.048,
         "quad": "Carbix Zero",
         "pilot_id": "fpvchucky"
       },
@@ -814,10 +814,10 @@
         "pilot": "fpvchucky",
         "class": "5inch",
         "pos": 4,
-        "time": 143.329,
+        "time": 129.048,
         "first_time": 183.807,
-        "prev_time": 171.831,
-        "improvements": 3,
+        "prev_time": 143.329,
+        "improvements": 4,
         "user_id": 451407,
         "pos_24h": null,
         "pos_change_24h": null
@@ -837,7 +837,7 @@
     ],
     "hours_at_top": {
       "Agorastos": 1.33,
-      "DedalosFPV": 23.58
+      "DedalosFPV": 23.67
     },
     "race_to_top": [
       {
@@ -850,7 +850,7 @@
       },
       {
         "pilot": "fpvchucky",
-        "improvements": 3
+        "improvements": 4
       },
       {
         "pilot": "Agorastos",
@@ -904,6 +904,13 @@
     ]
   },
   "improvements": [
+    {
+      "pilot": "fpvchucky",
+      "track": "SimRushWeek6",
+      "time": 129.048,
+      "delta": 14.281,
+      "date": "2026-11-08T19:25:02+00:00"
+    },
     {
       "pilot": "fpvchucky",
       "track": "SimRushWeek6",
@@ -2996,13 +3003,6 @@
       "time": 204.749,
       "delta": 17.581,
       "date": "2026-10-12"
-    },
-    {
-      "pilot": "dimbazus",
-      "track": "SimRushWeek2",
-      "time": 235.608,
-      "delta": -75.17,
-      "date": "2026-10-12"
     }
   ],
   "pilot_stats": {
@@ -3042,7 +3042,7 @@
       "best_improvement_pct": 29.25
     },
     "fpvchucky": {
-      "pbs": 19,
+      "pbs": 20,
       "tracks_improved": 5,
       "best_improvement_pct": 16.59
     },
@@ -3099,25 +3099,6 @@
   "hot_battles": [],
   "track_reveal": null,
   "race_director_messages": [
-    {
-      "date": "2026-11-07T16:06:04+00:00",
-      "text": "🌟 Πιλότος της εβδομάδας\n**Agorastos** — μεγαλύτερη βελτίωση σεζόν: **+71.1%** (188.394s → 54.528s)\nΣε σχέση με την προηγούμενη εβδομάδα (SimRushWeek-4)",
-      "tag": "announcement",
-      "id": "rd-0ff3b3e4fe",
-      "event_type": "unknown",
-      "category": "general",
-      "priority": "normal",
-      "pilots": [],
-      "pilot_ids": [],
-      "track": null,
-      "class": null,
-      "week": null,
-      "season": 2026,
-      "related_duel_id": null,
-      "metadata": {},
-      "created_at": "2026-11-07T16:06:04+00:00",
-      "expires_at": null
-    },
     {
       "date": "2026-11-07T18:21:19+00:00",
       "text": "📢 Νέο τεμάχιο: «SimRushWeek6»! Τα LIPO στον φορτιστή, τα νεύρα στο κόκκινο 🔋\n(Auto Leaderboard Upload: ON)",
@@ -3624,6 +3605,33 @@
       },
       "created_at": "2026-11-08T19:15:04+00:00",
       "expires_at": null
+    },
+    {
+      "date": "2026-11-08T19:25:03+00:00",
+      "text": "[5inch] «SimRushWeek6»\nΣας το είπα, σας το ξαναλέω: ο **fpvchucky** είναι στο κόλπο! 129.048s στην «SimRushWeek6»! 🎤\nΤο τρένο δεν περιμένει! 🚂",
+      "tag": "announcement",
+      "id": "rd-033a5382a6",
+      "event_type": "PERSONAL",
+      "category": "timing",
+      "priority": "normal",
+      "pilots": [
+        "fpvchucky"
+      ],
+      "pilot_ids": [
+        "fpvchucky"
+      ],
+      "track": "SimRushWeek6",
+      "class": "5inch",
+      "week": 6,
+      "season": 2026,
+      "related_duel_id": null,
+      "metadata": {
+        "time": 129.048,
+        "previous_time": 143.329,
+        "position": null
+      },
+      "created_at": "2026-11-08T19:25:03+00:00",
+      "expires_at": null
     }
   ],
   "avatars": {},
@@ -3869,13 +3877,13 @@
         "previous_position": null,
         "position_change": null,
         "comparison_period": null,
-        "best_time": 143.329,
-        "previous_best_time": 171.831,
-        "time_improvement": 28.502,
+        "best_time": 129.048,
+        "previous_best_time": 143.329,
+        "time_improvement": 14.281,
         "first_time": 183.807
       },
       "stats": {
-        "pbs": 19,
+        "pbs": 20,
         "tracks_improved": 5,
         "best_improvement_pct": 16.59
       }

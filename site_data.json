@@ -1,6 +1,6 @@
 {
   "schema_version": "2.1",
-  "generated_at": "2026-11-08T19:45:02+00:00",
+  "generated_at": "2026-11-08T19:50:02+00:00",
   "season": 2026,
   "current_track": "SimRushWeek6",
   "week_no": 6,
@@ -783,8 +783,8 @@
         "prev_time": 57.786,
         "improvements": 6,
         "user_id": 387184,
-        "pos_24h": 3,
-        "pos_change_24h": 2
+        "pos_24h": 1,
+        "pos_change_24h": 0
       },
       {
         "pilot": "Agorastos",
@@ -795,8 +795,8 @@
         "prev_time": 93.603,
         "improvements": 2,
         "user_id": 128161,
-        "pos_24h": 1,
-        "pos_change_24h": -1
+        "pos_24h": 2,
+        "pos_change_24h": 0
       },
       {
         "pilot": "Pontikos",
@@ -807,8 +807,8 @@
         "prev_time": 119.117,
         "improvements": 4,
         "user_id": 150985,
-        "pos_24h": 2,
-        "pos_change_24h": -1
+        "pos_24h": 3,
+        "pos_change_24h": 0
       },
       {
         "pilot": "fpvchucky",
@@ -837,7 +837,7 @@
     ],
     "hours_at_top": {
       "Agorastos": 1.33,
-      "DedalosFPV": 23.92
+      "DedalosFPV": 24.0
     },
     "race_to_top": [
       {
@@ -3667,8 +3667,8 @@
         "track": "SimRushWeek6",
         "class": "5inch",
         "current_position": 2,
-        "previous_position": 1,
-        "position_change": -1,
+        "previous_position": 2,
+        "position_change": 0,
         "comparison_period": "previous_24h",
         "best_time": 92.395,
         "previous_best_time": 93.603,
@@ -3793,8 +3793,8 @@
         "track": "SimRushWeek6",
         "class": "5inch",
         "current_position": 1,
-        "previous_position": 3,
-        "position_change": 2,
+        "previous_position": 1,
+        "position_change": 0,
         "comparison_period": "previous_24h",
         "best_time": 53.403,
         "previous_best_time": 57.786,
@@ -3993,8 +3993,8 @@
         "track": "SimRushWeek6",
         "class": "5inch",
         "current_position": 3,
-        "previous_position": 2,
-        "position_change": -1,
+        "previous_position": 3,
+        "position_change": 0,
         "comparison_period": "previous_24h",
         "best_time": 103.387,
         "previous_best_time": 119.117,

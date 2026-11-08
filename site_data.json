@@ -1,6 +1,6 @@
 {
   "schema_version": "2.1",
-  "generated_at": "2026-11-08T17:35:03+00:00",
+  "generated_at": "2026-11-08T17:40:03+00:00",
   "season": 2026,
   "current_track": "SimRushWeek6",
   "week_no": 6,
@@ -28,7 +28,7 @@
       },
       {
         "pilot": "Bakarim",
-        "time": 240.339,
+        "time": 206.23,
         "quad": "TBS Oblivion",
         "pilot_id": "bakarim"
       }
@@ -808,10 +808,10 @@
         "pilot": "Bakarim",
         "class": "5inch",
         "pos": 4,
-        "time": 240.339,
+        "time": 206.23,
         "first_time": 240.339,
-        "prev_time": null,
-        "improvements": 1,
+        "prev_time": 240.339,
+        "improvements": 2,
         "user_id": 418059,
         "pos_24h": null,
         "pos_change_24h": null
@@ -819,7 +819,7 @@
     ],
     "hours_at_top": {
       "Agorastos": 1.33,
-      "DedalosFPV": 21.75
+      "DedalosFPV": 21.83
     },
     "race_to_top": [
       {
@@ -836,7 +836,7 @@
       },
       {
         "pilot": "Bakarim",
-        "improvements": 1
+        "improvements": 2
       }
     ]
   },
@@ -882,6 +882,13 @@
     ]
   },
   "improvements": [
+    {
+      "pilot": "Bakarim",
+      "track": "SimRushWeek6",
+      "time": 206.23,
+      "delta": 34.109,
+      "date": "2026-11-08T17:35:02+00:00"
+    },
     {
       "pilot": "Bakarim",
       "track": "SimRushWeek6",
@@ -2974,13 +2981,6 @@
       "time": 152.848,
       "delta": 25.172,
       "date": "2026-10-12"
-    },
-    {
-      "pilot": "Agorastos",
-      "track": "SimRushWeek2",
-      "time": 190.148,
-      "delta": 2.218,
-      "date": "2026-10-12"
     }
   ],
   "pilot_stats": {
@@ -3040,9 +3040,9 @@
       "best_improvement_pct": null
     },
     "Bakarim": {
-      "pbs": 8,
+      "pbs": 9,
       "tracks_improved": 4,
-      "best_improvement_pct": null
+      "best_improvement_pct": 14.19
     },
     "Torque72": {
       "pbs": 18,
@@ -3096,33 +3096,6 @@
   ],
   "track_reveal": null,
   "race_director_messages": [
-    {
-      "date": "2026-11-07T15:35:06+00:00",
-      "text": "[5inch] «SimRushWeek-5»\n🦅 Αετού μάτι: **DedalosFPV** βρήκε την γραμμή στην «SimRushWeek-5»: 38.398s!",
-      "tag": "announcement",
-      "id": "rd-646f4c9f9c",
-      "event_type": "PERSONAL",
-      "category": "timing",
-      "priority": "normal",
-      "pilots": [
-        "DedalosFPV"
-      ],
-      "pilot_ids": [
-        "dedalosfpv"
-      ],
-      "track": "SimRushWeek-5",
-      "class": "5inch",
-      "week": 5,
-      "season": 2026,
-      "related_duel_id": null,
-      "metadata": {
-        "time": 38.398,
-        "previous_time": 39.183,
-        "position": null
-      },
-      "created_at": "2026-11-07T15:35:06+00:00",
-      "expires_at": null
-    },
     {
       "date": "2026-11-07T15:40:05+00:00",
       "text": "[5inch] «SimRushWeek-5»\n🧭 Το GPS του **DedalosFPV** είπε 38.398s — το ρεκόρ βρέθηκε πριν το drone!",
@@ -3694,6 +3667,33 @@
       },
       "created_at": "2026-11-08T17:30:04+00:00",
       "expires_at": null
+    },
+    {
+      "date": "2026-11-08T17:35:05+00:00",
+      "text": "[5inch] «SimRushWeek6»\n🛺 Με σινιάλο και γκαζιές: ο **Bakarim** έκοψε 206.230s στην «SimRushWeek6»!\nΤο #1 έχει μοναξιά - πήγαινέ το! 🫂",
+      "tag": "announcement",
+      "id": "rd-88a12c186f",
+      "event_type": "PERSONAL",
+      "category": "timing",
+      "priority": "normal",
+      "pilots": [
+        "Bakarim"
+      ],
+      "pilot_ids": [
+        "bakarim"
+      ],
+      "track": "SimRushWeek6",
+      "class": "5inch",
+      "week": 6,
+      "season": 2026,
+      "related_duel_id": null,
+      "metadata": {
+        "time": 206.23,
+        "previous_time": 240.339,
+        "position": null
+      },
+      "created_at": "2026-11-08T17:35:05+00:00",
+      "expires_at": null
     }
   ],
   "avatars": {},
@@ -3787,15 +3787,15 @@
         "previous_position": null,
         "position_change": null,
         "comparison_period": null,
-        "best_time": 240.339,
-        "previous_best_time": null,
-        "time_improvement": null,
+        "best_time": 206.23,
+        "previous_best_time": 240.339,
+        "time_improvement": 34.109,
         "first_time": 240.339
       },
       "stats": {
-        "pbs": 8,
+        "pbs": 9,
         "tracks_improved": 4,
-        "best_improvement_pct": null
+        "best_improvement_pct": 14.19
       }
     },
     "cbeikos": {

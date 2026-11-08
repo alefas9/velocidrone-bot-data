@@ -1,6 +1,6 @@
 {
   "schema_version": "2.1",
-  "generated_at": "2026-11-08T19:50:02+00:00",
+  "generated_at": "2026-11-08T19:55:02+00:00",
   "season": 2026,
   "current_track": "SimRushWeek6",
   "week_no": 6,
@@ -31,6 +31,12 @@
         "time": 125.031,
         "quad": "Carbix Zero",
         "pilot_id": "fpvchucky"
+      },
+      {
+        "pilot": "tomahok",
+        "time": 126.97,
+        "quad": "Five33 Switchback",
+        "pilot_id": "tomahok"
       },
       {
         "pilot": "Bakarim",
@@ -823,9 +829,21 @@
         "pos_change_24h": null
       },
       {
-        "pilot": "Bakarim",
+        "pilot": "tomahok",
         "class": "5inch",
         "pos": 5,
+        "time": 126.97,
+        "first_time": 126.97,
+        "prev_time": null,
+        "improvements": 1,
+        "user_id": 17641,
+        "pos_24h": null,
+        "pos_change_24h": null
+      },
+      {
+        "pilot": "Bakarim",
+        "class": "5inch",
+        "pos": 6,
         "time": 206.23,
         "first_time": 240.339,
         "prev_time": 240.339,
@@ -837,7 +855,7 @@
     ],
     "hours_at_top": {
       "Agorastos": 1.33,
-      "DedalosFPV": 24.0
+      "DedalosFPV": 24.08
     },
     "race_to_top": [
       {
@@ -859,6 +877,10 @@
       {
         "pilot": "Bakarim",
         "improvements": 2
+      },
+      {
+        "pilot": "tomahok",
+        "improvements": 1
       }
     ]
   },
@@ -904,6 +926,13 @@
     ]
   },
   "improvements": [
+    {
+      "pilot": "tomahok",
+      "track": "SimRushWeek6",
+      "time": 126.97,
+      "delta": null,
+      "date": "2026-11-08T19:50:02+00:00"
+    },
     {
       "pilot": "fpvchucky",
       "track": "SimRushWeek6",
@@ -2996,13 +3025,6 @@
       "time": 222.33,
       "delta": -31.205,
       "date": "2026-10-12"
-    },
-    {
-      "pilot": "tomahok",
-      "track": "SimRushWeek2",
-      "time": 151.679,
-      "delta": 10.879,
-      "date": "2026-10-12"
     }
   ],
   "pilot_stats": {
@@ -3032,8 +3054,8 @@
       "best_improvement_pct": 4.12
     },
     "tomahok": {
-      "pbs": 25,
-      "tracks_improved": 5,
+      "pbs": 26,
+      "tracks_improved": 6,
       "best_improvement_pct": null
     },
     "DedalosFPV": {
@@ -3096,36 +3118,18 @@
       "rule": "Μεγαλύτερη % βελτίωση μεταξύ πιλότων του top-8 με >= 3 PBs στην πίστα (A5)."
     }
   },
-  "hot_battles": [],
+  "hot_battles": [
+    {
+      "leader": "fpvchucky",
+      "chaser": "tomahok",
+      "gap": 1.939,
+      "days": 0,
+      "class": "5inch",
+      "opened": false
+    }
+  ],
   "track_reveal": null,
   "race_director_messages": [
-    {
-      "date": "2026-11-07T18:30:05+00:00",
-      "text": "[5inch] «SimRushWeek6»\n🏛️ Στην αρχαία Αθήνα θα γινόταν πανηγύρι: ο **Agorastos** με 93.603s στη «SimRushWeek6»!\nΟ χάρτης δεν θα γαζωθεί μόνος του! 🗺️",
-      "tag": "announcement",
-      "id": "rd-57ac372668",
-      "event_type": "NEW_TOP",
-      "category": "timing",
-      "priority": "high",
-      "pilots": [
-        "Agorastos"
-      ],
-      "pilot_ids": [
-        "agorastos"
-      ],
-      "track": "SimRushWeek6",
-      "class": "5inch",
-      "week": 6,
-      "season": 2026,
-      "related_duel_id": null,
-      "metadata": {
-        "time": 93.603,
-        "previous_time": 97.621,
-        "position": 1
-      },
-      "created_at": "2026-11-07T18:30:05+00:00",
-      "expires_at": null
-    },
     {
       "date": "2026-11-07T18:35:05+00:00",
       "text": "[5inch] «SimRushWeek6»\nΣΟΒΑΡΑ ΤΩΡΑ; **Agorastos** -> 92.395s; Μας δουλεύεις; 😂\nΑύριο κάποιος θα το μετανιώσει! 😈",
@@ -3640,6 +3644,33 @@
       },
       "created_at": "2026-11-08T19:30:03+00:00",
       "expires_at": null
+    },
+    {
+      "date": "2026-11-08T19:50:04+00:00",
+      "text": "[5inch] «SimRushWeek6»\n🏗️ Ο **tomahok** χτίζει: 126.970s - το επόμενο τούβλο πότε;",
+      "tag": "announcement",
+      "id": "rd-b178d80372",
+      "event_type": "PERSONAL",
+      "category": "timing",
+      "priority": "normal",
+      "pilots": [
+        "tomahok"
+      ],
+      "pilot_ids": [
+        "tomahok"
+      ],
+      "track": "SimRushWeek6",
+      "class": "5inch",
+      "week": 6,
+      "season": 2026,
+      "related_duel_id": null,
+      "metadata": {
+        "time": 126.97,
+        "previous_time": null,
+        "position": null
+      },
+      "created_at": "2026-11-08T19:50:04+00:00",
+      "expires_at": null
     }
   ],
   "avatars": {},
@@ -3729,7 +3760,7 @@
       "current_week": {
         "track": "SimRushWeek6",
         "class": "5inch",
-        "current_position": 5,
+        "current_position": 6,
         "previous_position": null,
         "position_change": null,
         "comparison_period": null,
@@ -4038,7 +4069,7 @@
       "callsign": "tomahok",
       "avatar_url": null,
       "discord": null,
-      "user_id": null,
+      "user_id": 17641,
       "season": {
         "class": "5inch",
         "points": 38,
@@ -4052,10 +4083,21 @@
         "comparison_period": "previous_completed_week",
         "comparison_reference": "SimRushWeek-5"
       },
-      "current_week": null,
+      "current_week": {
+        "track": "SimRushWeek6",
+        "class": "5inch",
+        "current_position": 5,
+        "previous_position": null,
+        "position_change": null,
+        "comparison_period": null,
+        "best_time": 126.97,
+        "previous_best_time": null,
+        "time_improvement": null,
+        "first_time": 126.97
+      },
       "stats": {
-        "pbs": 25,
-        "tracks_improved": 5,
+        "pbs": 26,
+        "tracks_improved": 6,
         "best_improvement_pct": null
       }
     },

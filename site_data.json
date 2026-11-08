@@ -1,6 +1,6 @@
 {
   "schema_version": "2.1",
-  "generated_at": "2026-11-08T19:15:02+00:00",
+  "generated_at": "2026-11-08T19:20:02+00:00",
   "season": 2026,
   "current_track": "SimRushWeek6",
   "week_no": 6,
@@ -28,7 +28,7 @@
       },
       {
         "pilot": "fpvchucky",
-        "time": 171.831,
+        "time": 143.329,
         "quad": "Carbix Zero",
         "pilot_id": "fpvchucky"
       },
@@ -814,10 +814,10 @@
         "pilot": "fpvchucky",
         "class": "5inch",
         "pos": 4,
-        "time": 171.831,
+        "time": 143.329,
         "first_time": 183.807,
-        "prev_time": 183.807,
-        "improvements": 2,
+        "prev_time": 171.831,
+        "improvements": 3,
         "user_id": 451407,
         "pos_24h": null,
         "pos_change_24h": null
@@ -837,7 +837,7 @@
     ],
     "hours_at_top": {
       "Agorastos": 1.33,
-      "DedalosFPV": 23.42
+      "DedalosFPV": 23.5
     },
     "race_to_top": [
       {
@@ -849,11 +849,11 @@
         "improvements": 4
       },
       {
-        "pilot": "Agorastos",
-        "improvements": 2
+        "pilot": "fpvchucky",
+        "improvements": 3
       },
       {
-        "pilot": "fpvchucky",
+        "pilot": "Agorastos",
         "improvements": 2
       },
       {
@@ -904,6 +904,13 @@
     ]
   },
   "improvements": [
+    {
+      "pilot": "fpvchucky",
+      "track": "SimRushWeek6",
+      "time": 143.329,
+      "delta": 28.502,
+      "date": "2026-11-08T19:15:02+00:00"
+    },
     {
       "pilot": "fpvchucky",
       "track": "SimRushWeek6",
@@ -2996,13 +3003,6 @@
       "time": 235.608,
       "delta": -75.17,
       "date": "2026-10-12"
-    },
-    {
-      "pilot": "dimbazus",
-      "track": "SimRushWeek2",
-      "time": 178.02,
-      "delta": 57.588,
-      "date": "2026-10-12"
     }
   ],
   "pilot_stats": {
@@ -3042,9 +3042,9 @@
       "best_improvement_pct": 29.25
     },
     "fpvchucky": {
-      "pbs": 18,
+      "pbs": 19,
       "tracks_improved": 5,
-      "best_improvement_pct": 9.34
+      "best_improvement_pct": 16.59
     },
     "Exo_FPV": {
       "pbs": 23,
@@ -3099,72 +3099,6 @@
   "hot_battles": [],
   "track_reveal": null,
   "race_director_messages": [
-    {
-      "date": "2026-11-07T16:06:03+00:00",
-      "text": "📊 Βαθμολογία σεζόν [5inch]\n**1.** Exo_FPV — 86 βαθμοί\n**2.** ZOUP — 83 βαθμοί\n**3.** TettixPro — 82 βαθμοί\n**4.** DedalosFPV — 61 βαθμοί\n**5.** tomahok — 38 βαθμοί\n**6.** Cbeikos — 38 βαθμοί\n**7.** anthunder — 36 βαθμοί\n**8.** Liapos — 24 βαθμοί\n**9.** dimbazus — 24 βαθμοί\n**10.** Agorastos — 24 βαθμοί",
-      "tag": "announcement",
-      "id": "rd-34f091df97",
-      "event_type": "SEASON_STANDINGS",
-      "category": "championship",
-      "priority": "high",
-      "pilots": [
-        "Exo_FPV",
-        "ZOUP",
-        "TettixPro",
-        "DedalosFPV",
-        "tomahok",
-        "Cbeikos",
-        "anthunder",
-        "Liapos",
-        "dimbazus",
-        "Agorastos"
-      ],
-      "pilot_ids": [
-        "exo-fpv",
-        "zoup",
-        "tettixpro",
-        "dedalosfpv",
-        "tomahok",
-        "cbeikos",
-        "anthunder",
-        "liapos",
-        "dimbazus",
-        "agorastos"
-      ],
-      "track": null,
-      "class": "5inch",
-      "week": null,
-      "season": 2026,
-      "related_duel_id": null,
-      "metadata": {
-        "points": {
-          "Exo_FPV": 86,
-          "ZOUP": 83,
-          "TettixPro": 82,
-          "DedalosFPV": 61,
-          "tomahok": 38,
-          "Cbeikos": 38,
-          "anthunder": 36,
-          "Liapos": 24,
-          "dimbazus": 24,
-          "Agorastos": 24
-        },
-        "position": {
-          "Exo_FPV": 1,
-          "ZOUP": 2,
-          "TettixPro": 3,
-          "DedalosFPV": 4,
-          "tomahok": 5,
-          "Cbeikos": 6,
-          "anthunder": 7,
-          "Liapos": 8,
-          "dimbazus": 9,
-          "Agorastos": 10
-        }
-      },
-      "created_at": "2026-11-07T16:06:03+00:00",
-      "expires_at": null
-    },
     {
       "date": "2026-11-07T16:06:04+00:00",
       "text": "🌟 Πιλότος της εβδομάδας\n**Agorastos** — μεγαλύτερη βελτίωση σεζόν: **+71.1%** (188.394s → 54.528s)\nΣε σχέση με την προηγούμενη εβδομάδα (SimRushWeek-4)",
@@ -3663,6 +3597,33 @@
       },
       "created_at": "2026-11-08T19:10:03+00:00",
       "expires_at": null
+    },
+    {
+      "date": "2026-11-08T19:15:04+00:00",
+      "text": "[5inch] «SimRushWeek6»\n🥨 Κουλούρι Θεσσαλονίκης: στρογγυλό και γρήγορο - όπως το 143.329s του **fpvchucky**!",
+      "tag": "announcement",
+      "id": "rd-ccf470827b",
+      "event_type": "PERSONAL",
+      "category": "timing",
+      "priority": "normal",
+      "pilots": [
+        "fpvchucky"
+      ],
+      "pilot_ids": [
+        "fpvchucky"
+      ],
+      "track": "SimRushWeek6",
+      "class": "5inch",
+      "week": 6,
+      "season": 2026,
+      "related_duel_id": null,
+      "metadata": {
+        "time": 143.329,
+        "previous_time": 171.831,
+        "position": null
+      },
+      "created_at": "2026-11-08T19:15:04+00:00",
+      "expires_at": null
     }
   ],
   "avatars": {},
@@ -3908,15 +3869,15 @@
         "previous_position": null,
         "position_change": null,
         "comparison_period": null,
-        "best_time": 171.831,
-        "previous_best_time": 183.807,
-        "time_improvement": 11.976,
+        "best_time": 143.329,
+        "previous_best_time": 171.831,
+        "time_improvement": 28.502,
         "first_time": 183.807
       },
       "stats": {
-        "pbs": 18,
+        "pbs": 19,
         "tracks_improved": 5,
-        "best_improvement_pct": 9.34
+        "best_improvement_pct": 16.59
       }
     },
     "gaston-fpv": {

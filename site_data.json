@@ -1,6 +1,6 @@
 {
   "schema_version": "2.1",
-  "generated_at": "2026-11-09T17:05:02+00:00",
+  "generated_at": "2026-11-09T17:10:02+00:00",
   "season": 2026,
   "current_track": "SimRushWeek6",
   "week_no": 6,
@@ -10,7 +10,7 @@
     "5inch": [
       {
         "pilot": "ZOUP",
-        "time": 52.544,
+        "time": 50.3,
         "quad": "Bahamut",
         "pilot_id": "zoup"
       },
@@ -796,10 +796,10 @@
         "pilot": "ZOUP",
         "class": "5inch",
         "pos": 1,
-        "time": 52.544,
+        "time": 50.3,
         "first_time": 52.544,
-        "prev_time": null,
-        "improvements": 1,
+        "prev_time": 52.544,
+        "improvements": 2,
         "user_id": 35025,
         "pos_24h": null,
         "pos_change_24h": null
@@ -892,7 +892,7 @@
     "hours_at_top": {
       "Agorastos": 1.33,
       "DedalosFPV": 45.08,
-      "ZOUP": 0.17
+      "ZOUP": 0.25
     },
     "race_to_top": [
       {
@@ -916,16 +916,16 @@
         "improvements": 4
       },
       {
+        "pilot": "ZOUP",
+        "improvements": 2
+      },
+      {
         "pilot": "Agorastos",
         "improvements": 2
       },
       {
         "pilot": "Bakarim",
         "improvements": 2
-      },
-      {
-        "pilot": "ZOUP",
-        "improvements": 1
       }
     ]
   },
@@ -971,6 +971,13 @@
     ]
   },
   "improvements": [
+    {
+      "pilot": "ZOUP",
+      "track": "SimRushWeek6",
+      "time": 50.3,
+      "delta": 2.244,
+      "date": "2026-11-09T17:05:02+00:00"
+    },
     {
       "pilot": "ZOUP",
       "track": "SimRushWeek6",
@@ -3063,20 +3070,13 @@
       "time": 152.448,
       "delta": 5.333,
       "date": "2026-10-13"
-    },
-    {
-      "pilot": "Liapos",
-      "track": "SimRushWeek2",
-      "time": 169.676,
-      "delta": null,
-      "date": "2026-10-13"
     }
   ],
   "pilot_stats": {
     "ZOUP": {
-      "pbs": 36,
+      "pbs": 37,
       "tracks_improved": 5,
-      "best_improvement_pct": null
+      "best_improvement_pct": 4.27
     },
     "dimbazus": {
       "pbs": 66,
@@ -3165,14 +3165,6 @@
   },
   "hot_battles": [
     {
-      "leader": "ZOUP",
-      "chaser": "DedalosFPV",
-      "gap": 0.859,
-      "days": 0,
-      "class": "5inch",
-      "opened": false
-    },
-    {
       "leader": "fpvchucky",
       "chaser": "tomahok",
       "gap": 1.939,
@@ -3180,6 +3172,15 @@
       "class": "5inch",
       "opened": true,
       "was_gap": 1.939
+    },
+    {
+      "leader": "ZOUP",
+      "chaser": "DedalosFPV",
+      "gap": 3.103,
+      "days": 0,
+      "class": "5inch",
+      "opened": true,
+      "was_gap": 0.859
     },
     {
       "leader": "dimbazus",
@@ -3193,33 +3194,6 @@
   ],
   "track_reveal": null,
   "race_director_messages": [
-    {
-      "date": "2026-11-08T19:30:03+00:00",
-      "text": "[5inch] «SimRushWeek6»\n🏗️ Χτίζει το ρεκόρ του ο **fpvchucky**: 125.031s στην «SimRushWeek6»!",
-      "tag": "announcement",
-      "id": "rd-025fd59c1c",
-      "event_type": "PERSONAL",
-      "category": "timing",
-      "priority": "normal",
-      "pilots": [
-        "fpvchucky"
-      ],
-      "pilot_ids": [
-        "fpvchucky"
-      ],
-      "track": "SimRushWeek6",
-      "class": "5inch",
-      "week": 6,
-      "season": 2026,
-      "related_duel_id": null,
-      "metadata": {
-        "time": 125.031,
-        "previous_time": 129.048,
-        "position": null
-      },
-      "created_at": "2026-11-08T19:30:03+00:00",
-      "expires_at": null
-    },
     {
       "date": "2026-11-08T19:50:04+00:00",
       "text": "[5inch] «SimRushWeek6»\n🏗️ Ο **tomahok** χτίζει: 126.970s - το επόμενο τούβλο πότε;",
@@ -3734,6 +3708,33 @@
       },
       "created_at": "2026-11-09T16:55:03+00:00",
       "expires_at": null
+    },
+    {
+      "date": "2026-11-09T17:05:03+00:00",
+      "text": "[5inch] «SimRushWeek6»\n😤 Μηδέν ενδοιασμοί: ο **ZOUP** στα 50.300s! Μα τι θράσος, μα τι χρόνος!\nΤο #1 έχει μοναξιά - πήγαινέ το! 🫂",
+      "tag": "announcement",
+      "id": "rd-a6a19734bf",
+      "event_type": "NEW_TOP",
+      "category": "timing",
+      "priority": "high",
+      "pilots": [
+        "ZOUP"
+      ],
+      "pilot_ids": [
+        "zoup"
+      ],
+      "track": "SimRushWeek6",
+      "class": "5inch",
+      "week": 6,
+      "season": 2026,
+      "related_duel_id": null,
+      "metadata": {
+        "time": 50.3,
+        "previous_time": 52.544,
+        "position": 1
+      },
+      "created_at": "2026-11-09T17:05:03+00:00",
+      "expires_at": null
     }
   ],
   "avatars": {},
@@ -4227,15 +4228,15 @@
         "previous_position": null,
         "position_change": null,
         "comparison_period": null,
-        "best_time": 52.544,
-        "previous_best_time": null,
-        "time_improvement": null,
+        "best_time": 50.3,
+        "previous_best_time": 52.544,
+        "time_improvement": 2.244,
         "first_time": 52.544
       },
       "stats": {
-        "pbs": 36,
+        "pbs": 37,
         "tracks_improved": 5,
-        "best_improvement_pct": null
+        "best_improvement_pct": 4.27
       }
     }
   },

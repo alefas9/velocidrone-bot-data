@@ -1,6 +1,6 @@
 {
   "schema_version": "2.1",
-  "generated_at": "2026-11-09T14:45:03+00:00",
+  "generated_at": "2026-11-09T14:50:03+00:00",
   "season": 2026,
   "current_track": "SimRushWeek6",
   "week_no": 6,
@@ -873,7 +873,7 @@
     ],
     "hours_at_top": {
       "Agorastos": 1.33,
-      "DedalosFPV": 42.92
+      "DedalosFPV": 43.0
     },
     "race_to_top": [
       {

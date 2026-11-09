@@ -1,6 +1,6 @@
 {
   "schema_version": "2.1",
-  "generated_at": "2026-11-09T21:45:02+00:00",
+  "generated_at": "2026-11-09T21:50:02+00:00",
   "season": 2026,
   "current_track": "SimRushWeek6",
   "week_no": 6,
@@ -892,7 +892,7 @@
     "hours_at_top": {
       "Agorastos": 1.33,
       "DedalosFPV": 45.08,
-      "ZOUP": 4.83
+      "ZOUP": 4.92
     },
     "race_to_top": [
       {
@@ -3185,33 +3185,6 @@
   "track_reveal": null,
   "race_director_messages": [
     {
-      "date": "2026-11-09T14:15:04+00:00",
-      "text": "[5inch] «SimRushWeek6»\n🪒 Ξύρισμα για τον **dimbazus**: 100.746s στην «SimRushWeek6»!\nΤο #1 δεν υπερασπίζεται τον εαυτό του! 🛡️",
-      "tag": "announcement",
-      "id": "rd-8b581acd9a",
-      "event_type": "PERSONAL",
-      "category": "timing",
-      "priority": "normal",
-      "pilots": [
-        "dimbazus"
-      ],
-      "pilot_ids": [
-        "dimbazus"
-      ],
-      "track": "SimRushWeek6",
-      "class": "5inch",
-      "week": 6,
-      "season": 2026,
-      "related_duel_id": null,
-      "metadata": {
-        "time": 100.746,
-        "previous_time": null,
-        "position": null
-      },
-      "created_at": "2026-11-09T14:15:04+00:00",
-      "expires_at": null
-    },
-    {
       "date": "2026-11-09T14:20:04+00:00",
       "text": "[5inch] «SimRushWeek6»\n🪶 Ελαφρύς σαν φτερό ο **dimbazus**: 90.622s στην «SimRushWeek6»!",
       "tag": "announcement",
@@ -3708,6 +3681,25 @@
       "related_duel_id": null,
       "metadata": {},
       "created_at": "2026-11-09T20:00:04+00:00",
+      "expires_at": null
+    },
+    {
+      "date": "2026-11-09T21:48:15+00:00",
+      "text": "📢 ΑΚΡΟΑΣΗ, ΑΛΑΝΙΑ! Το DRONE RACING HELLAS website ανοίγει θέσεις για πρόσωπα.\n\nΌποιος θέλει να φιγουράρει στο leaderboard με δικό του λογότυπο, avatar ή προσωπικό έμβλημα — DM στον Race Director τώρα. 🚀\n\n📸 ΤΟ ΠΡΩΤΟΚΟΛΛΟ (διαβάστε το, δεν ξαναλέω):\n\n▪ Αναλογία 1:1 — ΤΕΤΡΑΓΩΝΗ εικόνα. Όχι πανοράματα, όχι κολάζ.\n▪ Μορφή: PNG\n▪ Όνομα αρχείου: ΑΚΡΙΒΩΣ το nickname σας στο Velocidrone — με τα ίδια κεφαλαία, μικρά, σύμβολα. ΟΛΟ ΓΡΑΜΜΑ ΠΡΟΣ ΓΡΑΜΜΑ.\n\n✅ Παράδειγμα: λέγεστε ZOUP; Το αρχείο λέγεται ZOUP.png. ΟΧΙ zoup.png, ΟΧΙ Zoup.png. Το ταμείο δεν κάνει εκπτώσεις σε λάθη! 🎰\n\nΤο έμβλημά σας θα κοσμεί το προσωπικό σας προφίλ στο DRH Live Leaderboard — ορατό σε όποιον κοιτάξει την κορυφή.\n\nΌποιος καθυστερήσει, θα βλέπει τα γκρίζα placeholders και θα σκάει... στο τέλειο. Πάρτε θέση στην ιστορία! 🏁",
+      "tag": "announcement",
+      "id": "rd-8f3c019813",
+      "event_type": "unknown",
+      "category": "general",
+      "priority": "normal",
+      "pilots": [],
+      "pilot_ids": [],
+      "track": null,
+      "class": null,
+      "week": null,
+      "season": 2026,
+      "related_duel_id": null,
+      "metadata": {},
+      "created_at": "2026-11-09T21:48:15+00:00",
       "expires_at": null
     }
   ],

@@ -1,6 +1,6 @@
 {
   "schema_version": "2.1",
-  "generated_at": "2026-11-09T20:00:03+00:00",
+  "generated_at": "2026-11-09T20:05:03+00:00",
   "season": 2026,
   "current_track": "SimRushWeek6",
   "week_no": 6,
@@ -892,7 +892,7 @@
     "hours_at_top": {
       "Agorastos": 1.33,
       "DedalosFPV": 45.08,
-      "ZOUP": 3.08
+      "ZOUP": 3.17
     },
     "race_to_top": [
       {
@@ -3185,33 +3185,6 @@
   "track_reveal": null,
   "race_director_messages": [
     {
-      "date": "2026-11-09T06:05:05+00:00",
-      "text": "[5inch] «SimRushWeek6»\n🧊 Πάγωσε τον χρόνο: **tomahok** -> 65.104s στην «SimRushWeek6»!\nΟ χάρτης δεν θα γαζωθεί μόνος του! 🗺️",
-      "tag": "announcement",
-      "id": "rd-98908145ad",
-      "event_type": "PERSONAL",
-      "category": "timing",
-      "priority": "normal",
-      "pilots": [
-        "tomahok"
-      ],
-      "pilot_ids": [
-        "tomahok"
-      ],
-      "track": "SimRushWeek6",
-      "class": "5inch",
-      "week": 6,
-      "season": 2026,
-      "related_duel_id": null,
-      "metadata": {
-        "time": 65.104,
-        "previous_time": 66.775,
-        "position": null
-      },
-      "created_at": "2026-11-09T06:05:05+00:00",
-      "expires_at": null
-    },
-    {
       "date": "2026-11-09T14:15:04+00:00",
       "text": "[5inch] «SimRushWeek6»\n🪒 Ξύρισμα για τον **dimbazus**: 100.746s στην «SimRushWeek6»!\nΤο #1 δεν υπερασπίζεται τον εαυτό του! 🛡️",
       "tag": "announcement",
@@ -3716,6 +3689,25 @@
       "related_duel_id": null,
       "metadata": {},
       "created_at": "2026-11-09T20:00:03+00:00",
+      "expires_at": null
+    },
+    {
+      "date": "2026-11-09T20:00:04+00:00",
+      "text": "🏆 Βαθμολογία σεζόν [5inch]\n🥇 Exo_FPV — **86** πόντοι\n🥈 ZOUP — **83** πόντοι\n🥉 TettixPro — **82** πόντοι\n**4.** DedalosFPV — **61** πόντοι\n**5.** tomahok — **38** πόντοι\n**6.** Cbeikos — **38** πόντοι\n**7.** anthunder — **36** πόντοι\n**8.** Liapos — **24** πόντοι\n**9.** dimbazus — **24** πόντοι\n**10.** Agorastos — **24** πόντοι",
+      "tag": "announcement",
+      "id": "rd-52bd0c04f1",
+      "event_type": "unknown",
+      "category": "general",
+      "priority": "normal",
+      "pilots": [],
+      "pilot_ids": [],
+      "track": null,
+      "class": null,
+      "week": null,
+      "season": 2026,
+      "related_duel_id": null,
+      "metadata": {},
+      "created_at": "2026-11-09T20:00:04+00:00",
       "expires_at": null
     }
   ],

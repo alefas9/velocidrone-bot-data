@@ -1,6 +1,6 @@
 {
   "schema_version": "2.1",
-  "generated_at": "2026-11-10T17:15:03+00:00",
+  "generated_at": "2026-11-10T17:20:03+00:00",
   "season": 2026,
   "current_track": "SimRushWeek6",
   "week_no": 6,
@@ -10,7 +10,7 @@
     "5inch": [
       {
         "pilot": "ZOUP",
-        "time": 48.353,
+        "time": 47.386,
         "quad": "Bahamut",
         "pilot_id": "zoup"
       },
@@ -802,10 +802,10 @@
         "pilot": "ZOUP",
         "class": "5inch",
         "pos": 1,
-        "time": 48.353,
+        "time": 47.386,
         "first_time": 52.544,
-        "prev_time": 48.645,
-        "improvements": 8,
+        "prev_time": 48.353,
+        "improvements": 9,
         "user_id": 35025,
         "pos_24h": 1,
         "pos_change_24h": 0
@@ -910,7 +910,7 @@
     "hours_at_top": {
       "Agorastos": 1.33,
       "DedalosFPV": 45.08,
-      "ZOUP": 24.33
+      "ZOUP": 24.42
     },
     "race_to_top": [
       {
@@ -919,7 +919,7 @@
       },
       {
         "pilot": "ZOUP",
-        "improvements": 8
+        "improvements": 9
       },
       {
         "pilot": "tomahok",
@@ -993,6 +993,13 @@
     ]
   },
   "improvements": [
+    {
+      "pilot": "ZOUP",
+      "track": "SimRushWeek6",
+      "time": 47.386,
+      "delta": 0.967,
+      "date": "2026-11-10T17:15:02+00:00"
+    },
     {
       "pilot": "ZOUP",
       "track": "SimRushWeek6",
@@ -3085,18 +3092,11 @@
       "time": 143.59,
       "delta": 21.633,
       "date": "2026-10-16"
-    },
-    {
-      "pilot": "Cbeikos",
-      "track": "SimRushWeek2",
-      "time": 132.451,
-      "delta": 0.28,
-      "date": "2026-10-16"
     }
   ],
   "pilot_stats": {
     "ZOUP": {
-      "pbs": 43,
+      "pbs": 44,
       "tracks_improved": 5,
       "best_improvement_pct": 4.27
     },
@@ -3205,33 +3205,6 @@
   ],
   "track_reveal": null,
   "race_director_messages": [
-    {
-      "date": "2026-11-09T17:05:03+00:00",
-      "text": "[5inch] «SimRushWeek6»\n😤 Μηδέν ενδοιασμοί: ο **ZOUP** στα 50.300s! Μα τι θράσος, μα τι χρόνος!\nΤο #1 έχει μοναξιά - πήγαινέ το! 🫂",
-      "tag": "announcement",
-      "id": "rd-a6a19734bf",
-      "event_type": "NEW_TOP",
-      "category": "timing",
-      "priority": "high",
-      "pilots": [
-        "ZOUP"
-      ],
-      "pilot_ids": [
-        "zoup"
-      ],
-      "track": "SimRushWeek6",
-      "class": "5inch",
-      "week": 6,
-      "season": 2026,
-      "related_duel_id": null,
-      "metadata": {
-        "time": 50.3,
-        "previous_time": 52.544,
-        "position": 1
-      },
-      "created_at": "2026-11-09T17:05:03+00:00",
-      "expires_at": null
-    },
     {
       "date": "2026-11-09T17:20:04+00:00",
       "text": "[5inch] «SimRushWeek6»\n🏹 Βέλος! **ZOUP** -> 49.465s στην «SimRushWeek6» - ούτε σκιά δεν άφησε!",
@@ -3719,6 +3692,33 @@
         "position": 1
       },
       "created_at": "2026-11-10T17:05:05+00:00",
+      "expires_at": null
+    },
+    {
+      "date": "2026-11-10T17:15:05+00:00",
+      "text": "[5inch] «SimRushWeek6»\n🥇 ΤΟ ΠΗΡΕ! **ZOUP** κλειδώνει το #1 στην «SimRushWeek6» με 47.386s!",
+      "tag": "announcement",
+      "id": "rd-f930f9a5ae",
+      "event_type": "NEW_TOP",
+      "category": "timing",
+      "priority": "high",
+      "pilots": [
+        "ZOUP"
+      ],
+      "pilot_ids": [
+        "zoup"
+      ],
+      "track": "SimRushWeek6",
+      "class": "5inch",
+      "week": 6,
+      "season": 2026,
+      "related_duel_id": null,
+      "metadata": {
+        "time": 47.386,
+        "previous_time": 48.353,
+        "position": 1
+      },
+      "created_at": "2026-11-10T17:15:05+00:00",
       "expires_at": null
     }
   ],
@@ -4224,13 +4224,13 @@
         "previous_position": 1,
         "position_change": 0,
         "comparison_period": "previous_24h",
-        "best_time": 48.353,
-        "previous_best_time": 48.645,
-        "time_improvement": 0.292,
+        "best_time": 47.386,
+        "previous_best_time": 48.353,
+        "time_improvement": 0.967,
         "first_time": 52.544
       },
       "stats": {
-        "pbs": 43,
+        "pbs": 44,
         "tracks_improved": 5,
         "best_improvement_pct": 4.27
       }

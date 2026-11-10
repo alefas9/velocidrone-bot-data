@@ -1,6 +1,6 @@
 {
   "schema_version": "2.1",
-  "generated_at": "2026-11-10T19:00:02+00:00",
+  "generated_at": "2026-11-10T19:05:02+00:00",
   "season": 2026,
   "current_track": "SimRushWeek6",
   "week_no": 6,
@@ -910,7 +910,7 @@
     "hours_at_top": {
       "Agorastos": 1.33,
       "DedalosFPV": 45.08,
-      "ZOUP": 26.08
+      "ZOUP": 26.17
     },
     "race_to_top": [
       {
@@ -3206,33 +3206,6 @@
   "track_reveal": null,
   "race_director_messages": [
     {
-      "date": "2026-11-09T17:20:04+00:00",
-      "text": "[5inch] «SimRushWeek6»\n🏹 Βέλος! **ZOUP** -> 49.465s στην «SimRushWeek6» - ούτε σκιά δεν άφησε!",
-      "tag": "announcement",
-      "id": "rd-588550433c",
-      "event_type": "NEW_TOP",
-      "category": "timing",
-      "priority": "high",
-      "pilots": [
-        "ZOUP"
-      ],
-      "pilot_ids": [
-        "zoup"
-      ],
-      "track": "SimRushWeek6",
-      "class": "5inch",
-      "week": 6,
-      "season": 2026,
-      "related_duel_id": null,
-      "metadata": {
-        "time": 49.465,
-        "previous_time": 50.3,
-        "position": 1
-      },
-      "created_at": "2026-11-09T17:20:04+00:00",
-      "expires_at": null
-    },
-    {
       "date": "2026-11-09T17:25:05+00:00",
       "text": "[5inch] «SimRushWeek6»\n🎤 ΤΙ ΕΙΠΕΣ ΤΩΡΑ; Ο **ZOUP** έριξε 49.416s στην «SimRushWeek6» - ο δήμος σε αναμμένα κάρβουνα!\nΓάζωσε τώρα, κλάψε μετά! ⛽",
       "tag": "announcement",
@@ -3719,6 +3692,34 @@
         "position": 1
       },
       "created_at": "2026-11-10T17:15:05+00:00",
+      "expires_at": null
+    },
+    {
+      "date": "2026-11-10T19:00:04+00:00",
+      "text": "Απίστευτο το πράγμα: @dimbazus vs @Agorastos 1.219s για 1 μέρες! Τι να πω τώρα εγώ... μόνο duel! 📺",
+      "tag": "announcement",
+      "id": "rd-4a84a1a4ea",
+      "event_type": "DUEL_SUGGEST",
+      "category": "rivalries",
+      "priority": "normal",
+      "pilots": [
+        "dimbazus",
+        "Agorastos"
+      ],
+      "pilot_ids": [
+        "dimbazus",
+        "agorastos"
+      ],
+      "track": "SimRushWeek6",
+      "class": "5inch",
+      "week": 6,
+      "season": 2026,
+      "related_duel_id": null,
+      "metadata": {
+        "gap": 1.219,
+        "days": 1
+      },
+      "created_at": "2026-11-10T19:00:04+00:00",
       "expires_at": null
     }
   ],

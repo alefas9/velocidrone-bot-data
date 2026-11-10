@@ -1,6 +1,6 @@
 {
   "schema_version": "2.1",
-  "generated_at": "2026-11-10T16:35:03+00:00",
+  "generated_at": "2026-11-10T16:40:03+00:00",
   "season": 2026,
   "current_track": "SimRushWeek6",
   "week_no": 6,
@@ -15,16 +15,16 @@
         "pilot_id": "zoup"
       },
       {
+        "pilot": "TettixPro",
+        "time": 51.849,
+        "quad": "Bahamut",
+        "pilot_id": "tettixpro"
+      },
+      {
         "pilot": "DedalosFPV",
         "time": 53.403,
         "quad": "Bahamut",
         "pilot_id": "dedalosfpv"
-      },
-      {
-        "pilot": "TettixPro",
-        "time": 57.993,
-        "quad": "Bahamut",
-        "pilot_id": "tettixpro"
       },
       {
         "pilot": "tomahok",
@@ -811,28 +811,28 @@
         "pos_change_24h": null
       },
       {
-        "pilot": "DedalosFPV",
+        "pilot": "TettixPro",
         "class": "5inch",
         "pos": 2,
+        "time": 51.849,
+        "first_time": 82.526,
+        "prev_time": 57.993,
+        "improvements": 3,
+        "user_id": 372096,
+        "pos_24h": null,
+        "pos_change_24h": null
+      },
+      {
+        "pilot": "DedalosFPV",
+        "class": "5inch",
+        "pos": 3,
         "time": 53.403,
         "first_time": 115.067,
         "prev_time": 57.786,
         "improvements": 6,
         "user_id": 387184,
         "pos_24h": 1,
-        "pos_change_24h": -1
-      },
-      {
-        "pilot": "TettixPro",
-        "class": "5inch",
-        "pos": 3,
-        "time": 57.993,
-        "first_time": 82.526,
-        "prev_time": 82.526,
-        "improvements": 2,
-        "user_id": 372096,
-        "pos_24h": null,
-        "pos_change_24h": null
+        "pos_change_24h": -2
       },
       {
         "pilot": "tomahok",
@@ -910,7 +910,7 @@
     "hours_at_top": {
       "Agorastos": 1.33,
       "DedalosFPV": 45.08,
-      "ZOUP": 23.67
+      "ZOUP": 23.75
     },
     "race_to_top": [
       {
@@ -943,7 +943,7 @@
       },
       {
         "pilot": "TettixPro",
-        "improvements": 2
+        "improvements": 3
       },
       {
         "pilot": "Bakarim",
@@ -993,6 +993,13 @@
     ]
   },
   "improvements": [
+    {
+      "pilot": "TettixPro",
+      "track": "SimRushWeek6",
+      "time": 51.849,
+      "delta": 6.144,
+      "date": "2026-11-10T16:35:02+00:00"
+    },
     {
       "pilot": "TettixPro",
       "track": "SimRushWeek6",
@@ -3085,13 +3092,6 @@
       "time": 165.387,
       "delta": 4.289,
       "date": "2026-10-14"
-    },
-    {
-      "pilot": "TettixPro",
-      "track": "SimRushWeek2",
-      "time": 230.452,
-      "delta": null,
-      "date": "2026-10-14"
     }
   ],
   "pilot_stats": {
@@ -3106,7 +3106,7 @@
       "best_improvement_pct": 10.05
     },
     "TettixPro": {
-      "pbs": 28,
+      "pbs": 29,
       "tracks_improved": 7,
       "best_improvement_pct": 29.73
     },
@@ -3177,7 +3177,7 @@
     "first_time": 115.067,
     "best_time": 53.403,
     "improvement_pct": 53.59,
-    "position": 2,
+    "position": 3,
     "pb_events": 6,
     "criteria": {
       "top_n": 8,
@@ -3195,9 +3195,17 @@
       "opened": false
     },
     {
+      "leader": "TettixPro",
+      "chaser": "DedalosFPV",
+      "gap": 1.554,
+      "days": 5,
+      "class": "5inch",
+      "opened": false
+    },
+    {
       "leader": "ZOUP",
       "chaser": "DedalosFPV",
-      "gap": 4.661,
+      "gap": 0.859,
       "days": 0,
       "class": "5inch",
       "opened": true,
@@ -3206,33 +3214,6 @@
   ],
   "track_reveal": null,
   "race_director_messages": [
-    {
-      "date": "2026-11-09T14:30:03+00:00",
-      "text": "[5inch] «SimRushWeek6»\n🌊 Κύμα βελτίωσης για τον **dimbazus**: 79.979s στην «SimRushWeek6»!\nΑυτά. Καλό βράδυ Ελλάδα - κάποιοι έχουν δουλειά να κάνουν! 🌙",
-      "tag": "announcement",
-      "id": "rd-e13f130004",
-      "event_type": "PERSONAL",
-      "category": "timing",
-      "priority": "normal",
-      "pilots": [
-        "dimbazus"
-      ],
-      "pilot_ids": [
-        "dimbazus"
-      ],
-      "track": "SimRushWeek6",
-      "class": "5inch",
-      "week": 6,
-      "season": 2026,
-      "related_duel_id": null,
-      "metadata": {
-        "time": 79.979,
-        "previous_time": 85.9,
-        "position": null
-      },
-      "created_at": "2026-11-09T14:30:03+00:00",
-      "expires_at": null
-    },
     {
       "date": "2026-11-09T15:40:05+00:00",
       "text": "[5inch] «SimRushWeek6»\n📉 Ο **dimbazus** όλο και πιο κάτω: 76.941s στην «SimRushWeek6»!",
@@ -3723,6 +3704,33 @@
       },
       "created_at": "2026-11-10T16:30:04+00:00",
       "expires_at": null
+    },
+    {
+      "date": "2026-11-10T16:35:05+00:00",
+      "text": "[5inch] «SimRushWeek6»\n📡 Κατέγραψαν οι σταθμοί: ο **TettixPro** με 51.849s στην «SimRushWeek6»!\nΑύριο κάποιος θα το μετανιώσει! 😈",
+      "tag": "announcement",
+      "id": "rd-c94dfdc7cc",
+      "event_type": "PERSONAL",
+      "category": "timing",
+      "priority": "normal",
+      "pilots": [
+        "TettixPro"
+      ],
+      "pilot_ids": [
+        "tettixpro"
+      ],
+      "track": "SimRushWeek6",
+      "class": "5inch",
+      "week": 6,
+      "season": 2026,
+      "related_duel_id": null,
+      "metadata": {
+        "time": 51.849,
+        "previous_time": 57.993,
+        "position": null
+      },
+      "created_at": "2026-11-10T16:35:05+00:00",
+      "expires_at": null
     }
   ],
   "avatars": {},
@@ -3875,9 +3883,9 @@
       "current_week": {
         "track": "SimRushWeek6",
         "class": "5inch",
-        "current_position": 2,
+        "current_position": 3,
         "previous_position": 1,
-        "position_change": -1,
+        "position_change": -2,
         "comparison_period": "previous_24h",
         "best_time": 53.403,
         "previous_best_time": 57.786,
@@ -4123,17 +4131,17 @@
       "current_week": {
         "track": "SimRushWeek6",
         "class": "5inch",
-        "current_position": 3,
+        "current_position": 2,
         "previous_position": null,
         "position_change": null,
         "comparison_period": null,
-        "best_time": 57.993,
-        "previous_best_time": 82.526,
-        "time_improvement": 24.533,
+        "best_time": 51.849,
+        "previous_best_time": 57.993,
+        "time_improvement": 6.144,
         "first_time": 82.526
       },
       "stats": {
-        "pbs": 28,
+        "pbs": 29,
         "tracks_improved": 7,
         "best_improvement_pct": 29.73
       }

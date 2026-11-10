@@ -1,6 +1,6 @@
 {
   "schema_version": "2.1",
-  "generated_at": "2026-11-10T21:50:03+00:00",
+  "generated_at": "2026-11-10T21:55:03+00:00",
   "season": 2026,
   "current_track": "SimRushWeek6",
   "week_no": 6,
@@ -910,7 +910,7 @@
     "hours_at_top": {
       "Agorastos": 1.33,
       "DedalosFPV": 45.08,
-      "ZOUP": 28.92
+      "ZOUP": 29.0
     },
     "race_to_top": [
       {
@@ -952,7 +952,26 @@
     ]
   },
   "duels": {
-    "active": [],
+    "active": [
+      {
+        "id": "duel-c5def778f9de",
+        "pilot_a": "dimbazus",
+        "pilot_b": "Agorastos",
+        "pilot_a_id": "dimbazus",
+        "pilot_b_id": "agorastos",
+        "track": "SimRushWeek6",
+        "class": null,
+        "status": "active",
+        "created_at": "2026-11-10T21:54:13+00:00",
+        "deadline": "2026-11-12T21:54:13+00:00",
+        "best_time_a": null,
+        "best_time_b": null,
+        "winner": null,
+        "resolved_at": null,
+        "announced_by": "race_director",
+        "related_message_id": "rd-84a1618031"
+      }
+    ],
     "recent_resolved": [
       {
         "id": "duel-493f6b62c178",
@@ -3215,33 +3234,6 @@
   "track_reveal": null,
   "race_director_messages": [
     {
-      "date": "2026-11-09T17:30:05+00:00",
-      "text": "[5inch] «SimRushWeek6»\n💣 Βόμβα στο leaderboard: **ZOUP** με 49.048s - εξουδετερώστε τον μόνο με χρόνο!\nΤα γκάζια δεν αυτοπατιούνται! 🦶",
-      "tag": "announcement",
-      "id": "rd-41a632ae53",
-      "event_type": "NEW_TOP",
-      "category": "timing",
-      "priority": "high",
-      "pilots": [
-        "ZOUP"
-      ],
-      "pilot_ids": [
-        "zoup"
-      ],
-      "track": "SimRushWeek6",
-      "class": "5inch",
-      "week": 6,
-      "season": 2026,
-      "related_duel_id": null,
-      "metadata": {
-        "time": 49.048,
-        "previous_time": 49.416,
-        "position": 1
-      },
-      "created_at": "2026-11-09T17:30:05+00:00",
-      "expires_at": null
-    },
-    {
       "date": "2026-11-09T17:35:04+00:00",
       "text": "[5inch] «SimRushWeek6»\n📡 Η υπερπτήση καταγράφηκε από δορυφόρο: **ZOUP** - 48.742s! 🛰️",
       "tag": "announcement",
@@ -3730,6 +3722,33 @@
       },
       "created_at": "2026-11-10T19:35:04+00:00",
       "expires_at": null
+    },
+    {
+      "date": "2026-11-10T21:54:15+00:00",
+      "text": "🥊 ΞΕΚΙΝΗΣΕ ΤΟ ΜΠΑΡΑΖ: @dimbazus vs @Agorastos στην «SimRushWeek6»! Προθεσμία: 2 μέρες - καλή τύχη και οι δύο! 🏁",
+      "tag": "announcement",
+      "id": "rd-84a1618031",
+      "event_type": "OFFICIAL_DUEL",
+      "category": "duels",
+      "priority": "high",
+      "pilots": [
+        "dimbazus",
+        "Agorastos"
+      ],
+      "pilot_ids": [
+        "dimbazus",
+        "agorastos"
+      ],
+      "track": "SimRushWeek6",
+      "class": null,
+      "week": 6,
+      "season": 2026,
+      "related_duel_id": "duel-c5def778f9de",
+      "metadata": {
+        "days": 2
+      },
+      "created_at": "2026-11-10T21:54:15+00:00",
+      "expires_at": "2026-11-12T21:54:13+00:00"
     }
   ],
   "avatars": {},

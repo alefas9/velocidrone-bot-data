@@ -1,6 +1,6 @@
 {
   "schema_version": "2.1",
-  "generated_at": "2026-11-10T17:05:03+00:00",
+  "generated_at": "2026-11-10T17:10:03+00:00",
   "season": 2026,
   "current_track": "SimRushWeek6",
   "week_no": 6,
@@ -10,7 +10,7 @@
     "5inch": [
       {
         "pilot": "ZOUP",
-        "time": 48.645,
+        "time": 48.353,
         "quad": "Bahamut",
         "pilot_id": "zoup"
       },
@@ -802,10 +802,10 @@
         "pilot": "ZOUP",
         "class": "5inch",
         "pos": 1,
-        "time": 48.645,
+        "time": 48.353,
         "first_time": 52.544,
-        "prev_time": 48.742,
-        "improvements": 7,
+        "prev_time": 48.645,
+        "improvements": 8,
         "user_id": 35025,
         "pos_24h": 1,
         "pos_change_24h": 0
@@ -910,7 +910,7 @@
     "hours_at_top": {
       "Agorastos": 1.33,
       "DedalosFPV": 45.08,
-      "ZOUP": 24.17
+      "ZOUP": 24.25
     },
     "race_to_top": [
       {
@@ -918,12 +918,12 @@
         "improvements": 10
       },
       {
-        "pilot": "tomahok",
+        "pilot": "ZOUP",
         "improvements": 8
       },
       {
-        "pilot": "ZOUP",
-        "improvements": 7
+        "pilot": "tomahok",
+        "improvements": 8
       },
       {
         "pilot": "DedalosFPV",
@@ -993,6 +993,13 @@
     ]
   },
   "improvements": [
+    {
+      "pilot": "ZOUP",
+      "track": "SimRushWeek6",
+      "time": 48.353,
+      "delta": 0.292,
+      "date": "2026-11-10T17:05:02+00:00"
+    },
     {
       "pilot": "ZOUP",
       "track": "SimRushWeek6",
@@ -3085,18 +3092,11 @@
       "time": 132.451,
       "delta": 0.28,
       "date": "2026-10-16"
-    },
-    {
-      "pilot": "TettixPro",
-      "track": "SimRushWeek2",
-      "time": 85.841,
-      "delta": 2.913,
-      "date": "2026-10-16"
     }
   ],
   "pilot_stats": {
     "ZOUP": {
-      "pbs": 42,
+      "pbs": 43,
       "tracks_improved": 5,
       "best_improvement_pct": 4.27
     },
@@ -3205,35 +3205,6 @@
   ],
   "track_reveal": null,
   "race_director_messages": [
-    {
-      "date": "2026-11-09T16:55:03+00:00",
-      "text": "[5inch] «SimRushWeek6»\n🎭 Plot twist! Ο **ZOUP** αφαίρεσε τον τίτλο από τον **DedalosFPV** - 52.544s στην «SimRushWeek6»! Το στέμμα βαραίνει... 👑",
-      "tag": "announcement",
-      "id": "rd-588a6cb592",
-      "event_type": "CROWN_THEFT",
-      "category": "timing",
-      "priority": "breaking",
-      "pilots": [
-        "ZOUP",
-        "DedalosFPV"
-      ],
-      "pilot_ids": [
-        "zoup",
-        "dedalosfpv"
-      ],
-      "track": "SimRushWeek6",
-      "class": "5inch",
-      "week": 6,
-      "season": 2026,
-      "related_duel_id": null,
-      "metadata": {
-        "time": 52.544,
-        "previous_time": null,
-        "position": 1
-      },
-      "created_at": "2026-11-09T16:55:03+00:00",
-      "expires_at": null
-    },
     {
       "date": "2026-11-09T17:05:03+00:00",
       "text": "[5inch] «SimRushWeek6»\n😤 Μηδέν ενδοιασμοί: ο **ZOUP** στα 50.300s! Μα τι θράσος, μα τι χρόνος!\nΤο #1 έχει μοναξιά - πήγαινέ το! 🫂",
@@ -3721,6 +3692,33 @@
         "position": 1
       },
       "created_at": "2026-11-10T16:50:04+00:00",
+      "expires_at": null
+    },
+    {
+      "date": "2026-11-10T17:05:05+00:00",
+      "text": "[5inch] «SimRushWeek6»\n💣 Βόμβα στο leaderboard: **ZOUP** με 48.353s - εξουδετερώστε τον μόνο με χρόνο!",
+      "tag": "announcement",
+      "id": "rd-ae39f9fe41",
+      "event_type": "NEW_TOP",
+      "category": "timing",
+      "priority": "high",
+      "pilots": [
+        "ZOUP"
+      ],
+      "pilot_ids": [
+        "zoup"
+      ],
+      "track": "SimRushWeek6",
+      "class": "5inch",
+      "week": 6,
+      "season": 2026,
+      "related_duel_id": null,
+      "metadata": {
+        "time": 48.353,
+        "previous_time": 48.645,
+        "position": 1
+      },
+      "created_at": "2026-11-10T17:05:05+00:00",
       "expires_at": null
     }
   ],
@@ -4226,13 +4224,13 @@
         "previous_position": 1,
         "position_change": 0,
         "comparison_period": "previous_24h",
-        "best_time": 48.645,
-        "previous_best_time": 48.742,
-        "time_improvement": 0.097,
+        "best_time": 48.353,
+        "previous_best_time": 48.645,
+        "time_improvement": 0.292,
         "first_time": 52.544
       },
       "stats": {
-        "pbs": 42,
+        "pbs": 43,
         "tracks_improved": 5,
         "best_improvement_pct": 4.27
       }

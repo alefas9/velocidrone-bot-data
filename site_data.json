@@ -1,6 +1,6 @@
 {
   "schema_version": "2.1",
-  "generated_at": "2026-11-11T19:10:02+00:00",
+  "generated_at": "2026-11-11T19:15:02+00:00",
   "season": 2026,
   "current_track": "SimRushWeek6",
   "week_no": 6,
@@ -40,7 +40,7 @@
       },
       {
         "pilot": "Agorastos",
-        "time": 78.16,
+        "time": 77.57,
         "quad": "Carbix Zero",
         "pilot_id": "agorastos"
       },
@@ -862,10 +862,10 @@
         "pilot": "Agorastos",
         "class": "5inch",
         "pos": 6,
-        "time": 78.16,
+        "time": 77.57,
         "first_time": 97.621,
-        "prev_time": 80.909,
-        "improvements": 6,
+        "prev_time": 78.16,
+        "improvements": 7,
         "user_id": 128161,
         "pos_24h": 6,
         "pos_change_24h": 0
@@ -910,7 +910,7 @@
     "hours_at_top": {
       "Agorastos": 1.33,
       "DedalosFPV": 45.08,
-      "ZOUP": 50.25
+      "ZOUP": 50.33
     },
     "race_to_top": [
       {
@@ -926,11 +926,11 @@
         "improvements": 8
       },
       {
-        "pilot": "DedalosFPV",
-        "improvements": 6
+        "pilot": "Agorastos",
+        "improvements": 7
       },
       {
-        "pilot": "Agorastos",
+        "pilot": "DedalosFPV",
         "improvements": 6
       },
       {
@@ -965,7 +965,7 @@
         "created_at": "2026-11-10T21:54:13+00:00",
         "deadline": "2026-11-12T21:54:13+00:00",
         "best_time_a": null,
-        "best_time_b": null,
+        "best_time_b": 77.57,
         "winner": null,
         "resolved_at": null,
         "announced_by": "race_director",
@@ -1012,6 +1012,13 @@
     ]
   },
   "improvements": [
+    {
+      "pilot": "Agorastos",
+      "track": "SimRushWeek6",
+      "time": 77.57,
+      "delta": 0.59,
+      "date": "2026-11-11T19:10:02+00:00"
+    },
     {
       "pilot": "ZOUP",
       "track": "SimRushWeek6",
@@ -3104,13 +3111,6 @@
       "time": 86.147,
       "delta": 18.819,
       "date": "2026-10-17"
-    },
-    {
-      "pilot": "Cbeikos",
-      "track": "SimRushWeek3",
-      "time": 70.176,
-      "delta": 15.971,
-      "date": "2026-10-17"
     }
   ],
   "pilot_stats": {
@@ -3135,7 +3135,7 @@
       "best_improvement_pct": 2.0
     },
     "Agorastos": {
-      "pbs": 63,
+      "pbs": 64,
       "tracks_improved": 7,
       "best_improvement_pct": 8.01
     },
@@ -3208,7 +3208,7 @@
     {
       "leader": "dimbazus",
       "chaser": "Agorastos",
-      "gap": 1.219,
+      "gap": 0.629,
       "days": 0,
       "class": "5inch",
       "opened": false
@@ -3234,33 +3234,6 @@
   ],
   "track_reveal": null,
   "race_director_messages": [
-    {
-      "date": "2026-11-09T17:35:14+00:00",
-      "text": "[5inch] «SimRushWeek6»\n🌱 Καλλιέργεια ρεκόρ: ο **Pontikos** θέρισε 96.044s στην «SimRushWeek6»!",
-      "tag": "announcement",
-      "id": "rd-4798381941",
-      "event_type": "PERSONAL",
-      "category": "timing",
-      "priority": "normal",
-      "pilots": [
-        "Pontikos"
-      ],
-      "pilot_ids": [
-        "pontikos"
-      ],
-      "track": "SimRushWeek6",
-      "class": "5inch",
-      "week": 6,
-      "season": 2026,
-      "related_duel_id": null,
-      "metadata": {
-        "time": 96.044,
-        "previous_time": 103.387,
-        "position": null
-      },
-      "created_at": "2026-11-09T17:35:14+00:00",
-      "expires_at": null
-    },
     {
       "date": "2026-11-09T17:40:04+00:00",
       "text": "[5inch] «SimRushWeek6»\n💪 Ο **Pontikos** έριξε τον εαυτό του: 96.044s στην «SimRushWeek6»!",
@@ -3750,6 +3723,33 @@
       },
       "created_at": "2026-11-11T14:20:05+00:00",
       "expires_at": null
+    },
+    {
+      "date": "2026-11-11T19:10:08+00:00",
+      "text": "[5inch] «SimRushWeek6»\n🌬️ Το propwash άφησε ωραία μυρωδιά: **Agorastos** -> 77.570s στην «SimRushWeek6»!\nΜην κοιτάτε εδώ, κοιτάξτε τις πύλες σας! 👀",
+      "tag": "announcement",
+      "id": "rd-01364432b1",
+      "event_type": "PERSONAL",
+      "category": "timing",
+      "priority": "normal",
+      "pilots": [
+        "Agorastos"
+      ],
+      "pilot_ids": [
+        "agorastos"
+      ],
+      "track": "SimRushWeek6",
+      "class": "5inch",
+      "week": 6,
+      "season": 2026,
+      "related_duel_id": null,
+      "metadata": {
+        "time": 77.57,
+        "previous_time": 78.16,
+        "position": null
+      },
+      "created_at": "2026-11-11T19:10:08+00:00",
+      "expires_at": null
     }
   ],
   "avatars": {},
@@ -3780,13 +3780,13 @@
         "previous_position": 6,
         "position_change": 0,
         "comparison_period": "previous_24h",
-        "best_time": 78.16,
-        "previous_best_time": 80.909,
-        "time_improvement": 2.749,
+        "best_time": 77.57,
+        "previous_best_time": 78.16,
+        "time_improvement": 0.59,
         "first_time": 97.621
       },
       "stats": {
-        "pbs": 63,
+        "pbs": 64,
         "tracks_improved": 7,
         "best_improvement_pct": 8.01
       }

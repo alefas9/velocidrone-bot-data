@@ -1,6 +1,6 @@
 {
   "schema_version": "2.1",
-  "generated_at": "2026-11-11T19:55:02+00:00",
+  "generated_at": "2026-11-11T20:00:03+00:00",
   "season": 2026,
   "current_track": "SimRushWeek6",
   "week_no": 6,
@@ -910,7 +910,7 @@
     "hours_at_top": {
       "Agorastos": 1.33,
       "DedalosFPV": 45.08,
-      "ZOUP": 51.0
+      "ZOUP": 51.08
     },
     "race_to_top": [
       {
@@ -3226,60 +3226,6 @@
   "track_reveal": null,
   "race_director_messages": [
     {
-      "date": "2026-11-09T17:40:04+00:00",
-      "text": "[5inch] «SimRushWeek6»\n💪 Ο **Pontikos** έριξε τον εαυτό του: 96.044s στην «SimRushWeek6»!",
-      "tag": "announcement",
-      "id": "rd-aa59f56d2b",
-      "event_type": "PERSONAL",
-      "category": "timing",
-      "priority": "normal",
-      "pilots": [
-        "Pontikos"
-      ],
-      "pilot_ids": [
-        "pontikos"
-      ],
-      "track": "SimRushWeek6",
-      "class": "5inch",
-      "week": 6,
-      "season": 2026,
-      "related_duel_id": null,
-      "metadata": {
-        "time": 96.044,
-        "previous_time": 103.387,
-        "position": null
-      },
-      "created_at": "2026-11-09T17:40:04+00:00",
-      "expires_at": null
-    },
-    {
-      "date": "2026-11-09T18:25:04+00:00",
-      "text": "[5inch] «SimRushWeek6»\n🫣 Κρύψε τα ρολόγια: ο **Agorastos** πλησιάζει... 84.991s!",
-      "tag": "announcement",
-      "id": "rd-7b3b5ca08e",
-      "event_type": "PERSONAL",
-      "category": "timing",
-      "priority": "normal",
-      "pilots": [
-        "Agorastos"
-      ],
-      "pilot_ids": [
-        "agorastos"
-      ],
-      "track": "SimRushWeek6",
-      "class": "5inch",
-      "week": 6,
-      "season": 2026,
-      "related_duel_id": null,
-      "metadata": {
-        "time": 84.991,
-        "previous_time": 92.395,
-        "position": null
-      },
-      "created_at": "2026-11-09T18:25:04+00:00",
-      "expires_at": null
-    },
-    {
       "date": "2026-11-09T18:40:04+00:00",
       "text": "[5inch] «SimRushWeek6»\n🗡️ Χρόνος κατά μέτωπο από τον **Agorastos**: 84.033s στην «SimRushWeek6»!",
       "tag": "announcement",
@@ -3740,6 +3686,44 @@
         "position": null
       },
       "created_at": "2026-11-11T19:10:08+00:00",
+      "expires_at": null
+    },
+    {
+      "date": "2026-11-11T20:00:02+00:00",
+      "text": "📊 ΑΝΑΣΚΟΠΗΣΗ ΕΒΔΟΜΑΔΑΣ — «SimRushWeek6»\n🥇 **ZOUP**  44.814s\n🥈 **TettixPro**  48.155s  (+3.341s)\n🥉 **DedalosFPV**  53.403s  (+8.589s)\n**4.** **tomahok**  65.104s  (+20.290s)\n**5.** **dimbazus**  76.941s  (+32.127s)\n**6.** **Agorastos**  77.570s  (+32.756s)\n**7.** **Pontikos**  96.044s  (+51.230s)\n**8.** **fpvchucky**  111.595s  (+66.781s)\n**9.** **Bakarim**  206.230s  (+161.416s)\n\n📈 **Εβδομαδιαία στατιστικά:** 66 νέα ρεκόρ συνολικά - πιο ενεργός ο **dimbazus** (66).",
+      "tag": "announcement",
+      "id": "rd-3aae425a92",
+      "event_type": "unknown",
+      "category": "general",
+      "priority": "normal",
+      "pilots": [],
+      "pilot_ids": [],
+      "track": null,
+      "class": null,
+      "week": null,
+      "season": 2026,
+      "related_duel_id": null,
+      "metadata": {},
+      "created_at": "2026-11-11T20:00:02+00:00",
+      "expires_at": null
+    },
+    {
+      "date": "2026-11-11T20:00:03+00:00",
+      "text": "🏆 Βαθμολογία σεζόν [5inch]\n🥇 Exo_FPV — **86** πόντοι\n🥈 ZOUP — **83** πόντοι\n🥉 TettixPro — **82** πόντοι\n**4.** DedalosFPV — **61** πόντοι\n**5.** tomahok — **38** πόντοι\n**6.** Cbeikos — **38** πόντοι\n**7.** anthunder — **36** πόντοι\n**8.** Liapos — **24** πόντοι\n**9.** dimbazus — **24** πόντοι\n**10.** Agorastos — **24** πόντοι",
+      "tag": "announcement",
+      "id": "rd-2c6b42ed02",
+      "event_type": "unknown",
+      "category": "general",
+      "priority": "normal",
+      "pilots": [],
+      "pilot_ids": [],
+      "track": null,
+      "class": null,
+      "week": null,
+      "season": 2026,
+      "related_duel_id": null,
+      "metadata": {},
+      "created_at": "2026-11-11T20:00:03+00:00",
       "expires_at": null
     }
   ],

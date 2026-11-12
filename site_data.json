@@ -1,6 +1,6 @@
 {
   "schema_version": "2.1",
-  "generated_at": "2026-11-12T22:45:02+00:00",
+  "generated_at": "2026-11-12T22:50:03+00:00",
   "season": 2026,
   "current_track": "SimRushWeek6",
   "week_no": 6,
@@ -58,7 +58,7 @@
       },
       {
         "pilot": "fpvchucky",
-        "time": 111.595,
+        "time": 104.257,
         "quad": "Carbix Zero",
         "pilot_id": "fpvchucky"
       },
@@ -904,10 +904,10 @@
         "pilot": "fpvchucky",
         "class": "5inch",
         "pos": 9,
-        "time": 111.595,
+        "time": 104.257,
         "first_time": 183.807,
-        "prev_time": 113.398,
-        "improvements": 10,
+        "prev_time": 111.595,
+        "improvements": 11,
         "user_id": 451407,
         "pos_24h": 8,
         "pos_change_24h": -1
@@ -928,15 +928,15 @@
     "hours_at_top": {
       "Agorastos": 1.33,
       "DedalosFPV": 45.08,
-      "ZOUP": 77.83
+      "ZOUP": 77.92
     },
     "race_to_top": [
       {
-        "pilot": "ZOUP",
-        "improvements": 10
+        "pilot": "fpvchucky",
+        "improvements": 11
       },
       {
-        "pilot": "fpvchucky",
+        "pilot": "ZOUP",
         "improvements": 10
       },
       {
@@ -1033,6 +1033,13 @@
     ]
   },
   "improvements": [
+    {
+      "pilot": "fpvchucky",
+      "track": "SimRushWeek6",
+      "time": 104.257,
+      "delta": 7.338,
+      "date": "2026-11-13T00:45:02+00:00"
+    },
     {
       "pilot": "Agorastos",
       "track": "SimRushWeek6",
@@ -3125,13 +3132,6 @@
       "time": 76.466,
       "delta": 1.683,
       "date": "2026-10-18T00:00:00+00:00"
-    },
-    {
-      "pilot": "Agorastos",
-      "track": "SimRushWeek3",
-      "time": 73.632,
-      "delta": 2.834,
-      "date": "2026-10-18T00:00:00+00:00"
     }
   ],
   "pilot_stats": {
@@ -3171,7 +3171,7 @@
       "best_improvement_pct": 29.25
     },
     "fpvchucky": {
-      "pbs": 26,
+      "pbs": 27,
       "tracks_improved": 5,
       "best_improvement_pct": 16.59
     },
@@ -3263,25 +3263,6 @@
   ],
   "track_reveal": null,
   "race_director_messages": [
-    {
-      "date": "2026-11-09T20:00:04+00:00",
-      "text": "🏆 Βαθμολογία σεζόν [5inch]\n🥇 Exo_FPV — **86** πόντοι\n🥈 ZOUP — **83** πόντοι\n🥉 TettixPro — **82** πόντοι\n**4.** DedalosFPV — **61** πόντοι\n**5.** tomahok — **38** πόντοι\n**6.** Cbeikos — **38** πόντοι\n**7.** anthunder — **36** πόντοι\n**8.** Liapos — **24** πόντοι\n**9.** dimbazus — **24** πόντοι\n**10.** Agorastos — **24** πόντοι",
-      "tag": "announcement",
-      "id": "rd-52bd0c04f1",
-      "event_type": "unknown",
-      "category": "general",
-      "priority": "normal",
-      "pilots": [],
-      "pilot_ids": [],
-      "track": null,
-      "class": null,
-      "week": null,
-      "season": 2026,
-      "related_duel_id": null,
-      "metadata": {},
-      "created_at": "2026-11-09T20:00:04+00:00",
-      "expires_at": null
-    },
     {
       "date": "2026-11-09T21:48:15+00:00",
       "text": "📢 ΑΚΡΟΑΣΗ, ΑΛΑΝΙΑ! Το DRONE RACING HELLAS website ανοίγει θέσεις για πρόσωπα.\n\nΌποιος θέλει να φιγουράρει στο leaderboard με δικό του λογότυπο, avatar ή προσωπικό έμβλημα — DM στον Race Director τώρα. 🚀\n\n📸 ΤΟ ΠΡΩΤΟΚΟΛΛΟ (διαβάστε το, δεν ξαναλέω):\n\n▪ Αναλογία 1:1 — ΤΕΤΡΑΓΩΝΗ εικόνα. Όχι πανοράματα, όχι κολάζ.\n▪ Μορφή: PNG\n▪ Όνομα αρχείου: ΑΚΡΙΒΩΣ το nickname σας στο Velocidrone — με τα ίδια κεφαλαία, μικρά, σύμβολα. ΟΛΟ ΓΡΑΜΜΑ ΠΡΟΣ ΓΡΑΜΜΑ.\n\n✅ Παράδειγμα: λέγεστε ZOUP; Το αρχείο λέγεται ZOUP.png. ΟΧΙ zoup.png, ΟΧΙ Zoup.png. Το ταμείο δεν κάνει εκπτώσεις σε λάθη! 🎰\n\nΤο έμβλημά σας θα κοσμεί το προσωπικό σας προφίλ στο DRH Live Leaderboard — ορατό σε όποιον κοιτάξει την κορυφή.\n\nΌποιος καθυστερήσει, θα βλέπει τα γκρίζα placeholders και θα σκάει... στο τέλειο. Πάρτε θέση στην ιστορία! 🏁",
@@ -3755,6 +3736,25 @@
       "metadata": {},
       "created_at": "2026-11-12T17:40:19+00:00",
       "expires_at": null
+    },
+    {
+      "date": "2026-11-12T22:45:04+00:00",
+      "text": "[5inch] «SimRushWeek6»\n🧯 Άσβηστε φωτιές αλλού: εδώ ο **fpvchucky** ανάβει ρεκόρ - 104.257s!\nΡίξε άλλη μια μπαταρία! 🔋",
+      "tag": "announcement",
+      "id": "rd-11359baf44",
+      "event_type": "unknown",
+      "category": "general",
+      "priority": "normal",
+      "pilots": [],
+      "pilot_ids": [],
+      "track": null,
+      "class": null,
+      "week": null,
+      "season": 2026,
+      "related_duel_id": null,
+      "metadata": {},
+      "created_at": "2026-11-12T22:45:04+00:00",
+      "expires_at": null
     }
   ],
   "avatars": {},
@@ -4012,13 +4012,13 @@
         "previous_position": 8,
         "position_change": -1,
         "comparison_period": "previous_24h",
-        "best_time": 111.595,
-        "previous_best_time": 113.398,
-        "time_improvement": 1.803,
+        "best_time": 104.257,
+        "previous_best_time": 111.595,
+        "time_improvement": 7.338,
         "first_time": 183.807
       },
       "stats": {
-        "pbs": 26,
+        "pbs": 27,
         "tracks_improved": 5,
         "best_improvement_pct": 16.59
       }

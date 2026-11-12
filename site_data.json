@@ -1,6 +1,6 @@
 {
   "schema_version": "2.1",
-  "generated_at": "2026-11-12T14:10:02+00:00",
+  "generated_at": "2026-11-12T14:15:03+00:00",
   "season": 2026,
   "current_track": "SimRushWeek6",
   "week_no": 6,
@@ -46,7 +46,7 @@
       },
       {
         "pilot": "Liapos",
-        "time": 89.73,
+        "time": 88.284,
         "quad": "Bahamut",
         "pilot_id": "liapos"
       },
@@ -880,10 +880,10 @@
         "pilot": "Liapos",
         "class": "5inch",
         "pos": 7,
-        "time": 89.73,
+        "time": 88.284,
         "first_time": 89.828,
-        "prev_time": 89.828,
-        "improvements": 2,
+        "prev_time": 89.73,
+        "improvements": 3,
         "user_id": 155181,
         "pos_24h": null,
         "pos_change_24h": null
@@ -928,7 +928,7 @@
     "hours_at_top": {
       "Agorastos": 1.33,
       "DedalosFPV": 45.08,
-      "ZOUP": 69.25
+      "ZOUP": 69.33
     },
     "race_to_top": [
       {
@@ -965,7 +965,7 @@
       },
       {
         "pilot": "Liapos",
-        "improvements": 2
+        "improvements": 3
       },
       {
         "pilot": "Bakarim",
@@ -1034,6 +1034,13 @@
     ]
   },
   "improvements": [
+    {
+      "pilot": "Liapos",
+      "track": "SimRushWeek6",
+      "time": 88.284,
+      "delta": 1.446,
+      "date": "2026-11-12T14:10:02+00:00"
+    },
     {
       "pilot": "Liapos",
       "track": "SimRushWeek6",
@@ -3126,13 +3133,6 @@
       "time": 140.24,
       "delta": 3.35,
       "date": "2026-10-17"
-    },
-    {
-      "pilot": "DedalosFPV",
-      "track": "SimRushWeek2",
-      "time": 102.158,
-      "delta": 0.503,
-      "date": "2026-10-17"
     }
   ],
   "pilot_stats": {
@@ -3152,7 +3152,7 @@
       "best_improvement_pct": 29.73
     },
     "Liapos": {
-      "pbs": 21,
+      "pbs": 22,
       "tracks_improved": 7,
       "best_improvement_pct": 2.0
     },
@@ -3247,33 +3247,6 @@
   ],
   "track_reveal": null,
   "race_director_messages": [
-    {
-      "date": "2026-11-09T18:55:05+00:00",
-      "text": "[5inch] «SimRushWeek6»\n🧾 Το αποδεικτικό, κύριε: **Agorastos** με 78.160s. Σφραγίδα και υπογραφή!\nΣε παρακολουθούν... 👁️",
-      "tag": "announcement",
-      "id": "rd-a9d84cbe0b",
-      "event_type": "PERSONAL",
-      "category": "timing",
-      "priority": "normal",
-      "pilots": [
-        "Agorastos"
-      ],
-      "pilot_ids": [
-        "agorastos"
-      ],
-      "track": "SimRushWeek6",
-      "class": "5inch",
-      "week": 6,
-      "season": 2026,
-      "related_duel_id": null,
-      "metadata": {
-        "time": 78.16,
-        "previous_time": 80.909,
-        "position": null
-      },
-      "created_at": "2026-11-09T18:55:05+00:00",
-      "expires_at": null
-    },
     {
       "date": "2026-11-09T19:00:04+00:00",
       "text": "[5inch] «SimRushWeek6»\n⏱️ Τα δευτερόλεπτα λιώνουν: **Agorastos** -> 78.160s στην «SimRushWeek6»!",
@@ -3747,6 +3720,33 @@
       },
       "created_at": "2026-11-12T14:00:04+00:00",
       "expires_at": null
+    },
+    {
+      "date": "2026-11-12T14:10:04+00:00",
+      "text": "[5inch] «SimRushWeek6»\n🗞️ Από αύριο στα πρωτοσέλιδα: **Liapos** - 88.284s στην «SimRushWeek6»!\nΝταξ, το είδατε - τώρα πηγαίνετε να το φτιάξετε! 🛠️",
+      "tag": "announcement",
+      "id": "rd-5b5969d59c",
+      "event_type": "PERSONAL",
+      "category": "timing",
+      "priority": "normal",
+      "pilots": [
+        "Liapos"
+      ],
+      "pilot_ids": [
+        "liapos"
+      ],
+      "track": "SimRushWeek6",
+      "class": "5inch",
+      "week": 6,
+      "season": 2026,
+      "related_duel_id": null,
+      "metadata": {
+        "time": 88.284,
+        "previous_time": 89.73,
+        "position": null
+      },
+      "created_at": "2026-11-12T14:10:04+00:00",
+      "expires_at": null
     }
   ],
   "avatars": {},
@@ -4088,13 +4088,13 @@
         "previous_position": null,
         "position_change": null,
         "comparison_period": null,
-        "best_time": 89.73,
-        "previous_best_time": 89.828,
-        "time_improvement": 0.098,
+        "best_time": 88.284,
+        "previous_best_time": 89.73,
+        "time_improvement": 1.446,
         "first_time": 89.828
       },
       "stats": {
-        "pbs": 21,
+        "pbs": 22,
         "tracks_improved": 7,
         "best_improvement_pct": 2.0
       }

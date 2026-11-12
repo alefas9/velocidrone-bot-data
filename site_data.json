@@ -1,6 +1,6 @@
 {
   "schema_version": "2.1",
-  "generated_at": "2026-11-12T21:55:02+00:00",
+  "generated_at": "2026-11-12T22:00:02+00:00",
   "season": 2026,
   "current_track": "SimRushWeek6",
   "week_no": 6,
@@ -928,7 +928,7 @@
     "hours_at_top": {
       "Agorastos": 1.33,
       "DedalosFPV": 45.08,
-      "ZOUP": 77.0
+      "ZOUP": 77.08
     },
     "race_to_top": [
       {
@@ -974,7 +974,8 @@
     ]
   },
   "duels": {
-    "active": [
+    "active": [],
+    "recent_resolved": [
       {
         "id": "duel-c5def778f9de",
         "pilot_a": "dimbazus",
@@ -983,18 +984,16 @@
         "pilot_b_id": "agorastos",
         "track": "SimRushWeek6",
         "class": null,
-        "status": "active",
+        "status": "resolved",
         "created_at": "2026-11-10T21:54:13+00:00",
         "deadline": "2026-11-12T21:54:13+00:00",
         "best_time_a": null,
         "best_time_b": 76.888,
-        "winner": null,
-        "resolved_at": null,
+        "winner": "Agorastos",
+        "resolved_at": "2026-11-12T21:55:02.902069+00:00",
         "announced_by": "race_director",
         "related_message_id": null
-      }
-    ],
-    "recent_resolved": [
+      },
       {
         "id": "duel-493f6b62c178",
         "pilot_a": "Exo_FPV",

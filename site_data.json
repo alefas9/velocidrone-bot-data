@@ -1,6 +1,6 @@
 {
   "schema_version": "2.1",
-  "generated_at": "2026-11-12T21:50:02+00:00",
+  "generated_at": "2026-11-12T21:55:02+00:00",
   "season": 2026,
   "current_track": "SimRushWeek6",
   "week_no": 6,
@@ -928,7 +928,7 @@
     "hours_at_top": {
       "Agorastos": 1.33,
       "DedalosFPV": 45.08,
-      "ZOUP": 76.92
+      "ZOUP": 77.0
     },
     "race_to_top": [
       {
@@ -991,7 +991,7 @@
         "winner": null,
         "resolved_at": null,
         "announced_by": "race_director",
-        "related_message_id": "rd-84a1618031"
+        "related_message_id": null
       }
     ],
     "recent_resolved": [
@@ -3265,6 +3265,25 @@
   "track_reveal": null,
   "race_director_messages": [
     {
+      "date": "2026-11-09T20:00:04+00:00",
+      "text": "🏆 Βαθμολογία σεζόν [5inch]\n🥇 Exo_FPV — **86** πόντοι\n🥈 ZOUP — **83** πόντοι\n🥉 TettixPro — **82** πόντοι\n**4.** DedalosFPV — **61** πόντοι\n**5.** tomahok — **38** πόντοι\n**6.** Cbeikos — **38** πόντοι\n**7.** anthunder — **36** πόντοι\n**8.** Liapos — **24** πόντοι\n**9.** dimbazus — **24** πόντοι\n**10.** Agorastos — **24** πόντοι",
+      "tag": "announcement",
+      "id": "rd-52bd0c04f1",
+      "event_type": "unknown",
+      "category": "general",
+      "priority": "normal",
+      "pilots": [],
+      "pilot_ids": [],
+      "track": null,
+      "class": null,
+      "week": null,
+      "season": 2026,
+      "related_duel_id": null,
+      "metadata": {},
+      "created_at": "2026-11-09T20:00:04+00:00",
+      "expires_at": null
+    },
+    {
       "date": "2026-11-09T21:48:15+00:00",
       "text": "📢 ΑΚΡΟΑΣΗ, ΑΛΑΝΙΑ! Το DRONE RACING HELLAS website ανοίγει θέσεις για πρόσωπα.\n\nΌποιος θέλει να φιγουράρει στο leaderboard με δικό του λογότυπο, avatar ή προσωπικό έμβλημα — DM στον Race Director τώρα. 🚀\n\n📸 ΤΟ ΠΡΩΤΟΚΟΛΛΟ (διαβάστε το, δεν ξαναλέω):\n\n▪ Αναλογία 1:1 — ΤΕΤΡΑΓΩΝΗ εικόνα. Όχι πανοράματα, όχι κολάζ.\n▪ Μορφή: PNG\n▪ Όνομα αρχείου: ΑΚΡΙΒΩΣ το nickname σας στο Velocidrone — με τα ίδια κεφαλαία, μικρά, σύμβολα. ΟΛΟ ΓΡΑΜΜΑ ΠΡΟΣ ΓΡΑΜΜΑ.\n\n✅ Παράδειγμα: λέγεστε ZOUP; Το αρχείο λέγεται ZOUP.png. ΟΧΙ zoup.png, ΟΧΙ Zoup.png. Το ταμείο δεν κάνει εκπτώσεις σε λάθη! 🎰\n\nΤο έμβλημά σας θα κοσμεί το προσωπικό σας προφίλ στο DRH Live Leaderboard — ορατό σε όποιον κοιτάξει την κορυφή.\n\nΌποιος καθυστερήσει, θα βλέπει τα γκρίζα placeholders και θα σκάει... στο τέλειο. Πάρτε θέση στην ιστορία! 🏁",
       "tag": "announcement",
@@ -3499,33 +3518,6 @@
       },
       "created_at": "2026-11-10T19:35:04+00:00",
       "expires_at": null
-    },
-    {
-      "date": "2026-11-10T21:54:15+00:00",
-      "text": "🥊 ΞΕΚΙΝΗΣΕ ΤΟ ΜΠΑΡΑΖ: @dimbazus vs @Agorastos στην «SimRushWeek6»! Προθεσμία: 2 μέρες - καλή τύχη και οι δύο! 🏁",
-      "tag": "announcement",
-      "id": "rd-84a1618031",
-      "event_type": "OFFICIAL_DUEL",
-      "category": "duels",
-      "priority": "high",
-      "pilots": [
-        "dimbazus",
-        "Agorastos"
-      ],
-      "pilot_ids": [
-        "dimbazus",
-        "agorastos"
-      ],
-      "track": "SimRushWeek6",
-      "class": null,
-      "week": 6,
-      "season": 2026,
-      "related_duel_id": "duel-c5def778f9de",
-      "metadata": {
-        "days": 2
-      },
-      "created_at": "2026-11-10T21:54:15+00:00",
-      "expires_at": "2026-11-12T21:54:13+00:00"
     },
     {
       "date": "2026-11-11T14:20:05+00:00",

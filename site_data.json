@@ -1,6 +1,6 @@
 {
   "schema_version": "2.1",
-  "generated_at": "2026-11-12T17:40:02+00:00",
+  "generated_at": "2026-11-12T17:45:02+00:00",
   "season": 2026,
   "current_track": "SimRushWeek6",
   "week_no": 6,
@@ -33,16 +33,16 @@
         "pilot_id": "tomahok"
       },
       {
+        "pilot": "Agorastos",
+        "time": 76.888,
+        "quad": "Carbix Zero",
+        "pilot_id": "agorastos"
+      },
+      {
         "pilot": "dimbazus",
         "time": 76.941,
         "quad": "Bahamut",
         "pilot_id": "dimbazus"
-      },
-      {
-        "pilot": "Agorastos",
-        "time": 77.57,
-        "quad": "Carbix Zero",
-        "pilot_id": "agorastos"
       },
       {
         "pilot": "Liapos",
@@ -853,28 +853,28 @@
         "pos_change_24h": 0
       },
       {
-        "pilot": "dimbazus",
+        "pilot": "Agorastos",
         "class": "5inch",
         "pos": 5,
+        "time": 76.888,
+        "first_time": 97.621,
+        "prev_time": 77.57,
+        "improvements": 8,
+        "user_id": 128161,
+        "pos_24h": 6,
+        "pos_change_24h": 1
+      },
+      {
+        "pilot": "dimbazus",
+        "class": "5inch",
+        "pos": 6,
         "time": 76.941,
         "first_time": 100.746,
         "prev_time": 79.979,
         "improvements": 5,
         "user_id": 309918,
         "pos_24h": 5,
-        "pos_change_24h": 0
-      },
-      {
-        "pilot": "Agorastos",
-        "class": "5inch",
-        "pos": 6,
-        "time": 77.57,
-        "first_time": 97.621,
-        "prev_time": 78.16,
-        "improvements": 7,
-        "user_id": 128161,
-        "pos_24h": 6,
-        "pos_change_24h": 0
+        "pos_change_24h": -1
       },
       {
         "pilot": "Liapos",
@@ -928,7 +928,7 @@
     "hours_at_top": {
       "Agorastos": 1.33,
       "DedalosFPV": 45.08,
-      "ZOUP": 72.75
+      "ZOUP": 72.83
     },
     "race_to_top": [
       {
@@ -945,7 +945,7 @@
       },
       {
         "pilot": "Agorastos",
-        "improvements": 7
+        "improvements": 8
       },
       {
         "pilot": "DedalosFPV",
@@ -987,7 +987,7 @@
         "created_at": "2026-11-10T21:54:13+00:00",
         "deadline": "2026-11-12T21:54:13+00:00",
         "best_time_a": null,
-        "best_time_b": 77.57,
+        "best_time_b": 76.888,
         "winner": null,
         "resolved_at": null,
         "announced_by": "race_director",
@@ -1034,6 +1034,13 @@
     ]
   },
   "improvements": [
+    {
+      "pilot": "Agorastos",
+      "track": "SimRushWeek6",
+      "time": 76.888,
+      "delta": 0.682,
+      "date": "2026-11-12T19:40:02"
+    },
     {
       "pilot": "Liapos",
       "track": "SimRushWeek6",
@@ -3126,13 +3133,6 @@
       "time": 73.632,
       "delta": 2.834,
       "date": "2026-10-18"
-    },
-    {
-      "pilot": "DedalosFPV",
-      "track": "SimRushWeek3",
-      "time": 48.537,
-      "delta": 0.337,
-      "date": "2026-10-18"
     }
   ],
   "pilot_stats": {
@@ -3157,7 +3157,7 @@
       "best_improvement_pct": 11.06
     },
     "Agorastos": {
-      "pbs": 64,
+      "pbs": 65,
       "tracks_improved": 7,
       "best_improvement_pct": 8.01
     },
@@ -3228,62 +3228,42 @@
   },
   "hot_battles": [
     {
+      "leader": "Agorastos",
+      "chaser": "dimbazus",
+      "gap": 0.053,
+      "days": 4,
+      "class": "5inch",
+      "opened": false
+    },
+    {
       "leader": "dimbazus",
-      "chaser": "Agorastos",
-      "gap": 0.629,
+      "chaser": "Liapos",
+      "gap": 1.576,
       "days": 0,
       "class": "5inch",
       "opened": false
     },
     {
+      "leader": "dimbazus",
+      "chaser": "Agorastos",
+      "gap": 0.629,
+      "days": 0,
+      "class": "5inch",
+      "opened": true,
+      "was_gap": 0.629
+    },
+    {
       "leader": "Agorastos",
       "chaser": "Liapos",
       "gap": 0.947,
-      "days": 4,
+      "days": 0,
       "class": "5inch",
-      "opened": false
+      "opened": true,
+      "was_gap": 0.947
     }
   ],
   "track_reveal": null,
   "race_director_messages": [
-    {
-      "date": "2026-11-09T20:00:03+00:00",
-      "text": "📊 ΑΝΑΣΚΟΠΗΣΗ ΕΒΔΟΜΑΔΑΣ — «SimRushWeek6»\n🥇 **ZOUP**  48.742s\n🥈 **DedalosFPV**  53.403s  (+4.661s)\n🥉 **tomahok**  65.104s  (+16.362s)\n**4.** **dimbazus**  76.941s  (+28.199s)\n**5.** **Agorastos**  78.160s  (+29.418s)\n**6.** **Pontikos**  96.044s  (+47.302s)\n**7.** **fpvchucky**  111.595s  (+62.853s)\n**8.** **Bakarim**  206.230s  (+157.488s)\n\n📈 **Εβδομαδιαία στατιστικά:** 66 νέα ρεκόρ συνολικά - πιο ενεργός ο **dimbazus** (66).",
-      "tag": "announcement",
-      "id": "rd-726a554236",
-      "event_type": "unknown",
-      "category": "general",
-      "priority": "normal",
-      "pilots": [],
-      "pilot_ids": [],
-      "track": null,
-      "class": null,
-      "week": null,
-      "season": 2026,
-      "related_duel_id": null,
-      "metadata": {},
-      "created_at": "2026-11-09T20:00:03+00:00",
-      "expires_at": null
-    },
-    {
-      "date": "2026-11-09T20:00:04+00:00",
-      "text": "🏆 Βαθμολογία σεζόν [5inch]\n🥇 Exo_FPV — **86** πόντοι\n🥈 ZOUP — **83** πόντοι\n🥉 TettixPro — **82** πόντοι\n**4.** DedalosFPV — **61** πόντοι\n**5.** tomahok — **38** πόντοι\n**6.** Cbeikos — **38** πόντοι\n**7.** anthunder — **36** πόντοι\n**8.** Liapos — **24** πόντοι\n**9.** dimbazus — **24** πόντοι\n**10.** Agorastos — **24** πόντοι",
-      "tag": "announcement",
-      "id": "rd-52bd0c04f1",
-      "event_type": "unknown",
-      "category": "general",
-      "priority": "normal",
-      "pilots": [],
-      "pilot_ids": [],
-      "track": null,
-      "class": null,
-      "week": null,
-      "season": 2026,
-      "related_duel_id": null,
-      "metadata": {},
-      "created_at": "2026-11-09T20:00:04+00:00",
-      "expires_at": null
-    },
     {
       "date": "2026-11-09T21:48:15+00:00",
       "text": "📢 ΑΚΡΟΑΣΗ, ΑΛΑΝΙΑ! Το DRONE RACING HELLAS website ανοίγει θέσεις για πρόσωπα.\n\nΌποιος θέλει να φιγουράρει στο leaderboard με δικό του λογότυπο, avatar ή προσωπικό έμβλημα — DM στον Race Director τώρα. 🚀\n\n📸 ΤΟ ΠΡΩΤΟΚΟΛΛΟ (διαβάστε το, δεν ξαναλέω):\n\n▪ Αναλογία 1:1 — ΤΕΤΡΑΓΩΝΗ εικόνα. Όχι πανοράματα, όχι κολάζ.\n▪ Μορφή: PNG\n▪ Όνομα αρχείου: ΑΚΡΙΒΩΣ το nickname σας στο Velocidrone — με τα ίδια κεφαλαία, μικρά, σύμβολα. ΟΛΟ ΓΡΑΜΜΑ ΠΡΟΣ ΓΡΑΜΜΑ.\n\n✅ Παράδειγμα: λέγεστε ZOUP; Το αρχείο λέγεται ZOUP.png. ΟΧΙ zoup.png, ΟΧΙ Zoup.png. Το ταμείο δεν κάνει εκπτώσεις σε λάθη! 🎰\n\nΤο έμβλημά σας θα κοσμεί το προσωπικό σας προφίλ στο DRH Live Leaderboard — ορατό σε όποιον κοιτάξει την κορυφή.\n\nΌποιος καθυστερήσει, θα βλέπει τα γκρίζα placeholders και θα σκάει... στο τέλειο. Πάρτε θέση στην ιστορία! 🏁",
@@ -3746,6 +3726,44 @@
       },
       "created_at": "2026-11-12T14:20:04+00:00",
       "expires_at": null
+    },
+    {
+      "date": "2026-11-12T17:40:06+00:00",
+      "text": "[5inch] «SimRushWeek6»\n💪 Ο **Agorastos** έριξε τον εαυτό του: 76.888s στην «SimRushWeek6»!",
+      "tag": "announcement",
+      "id": "rd-f600a2c166",
+      "event_type": "unknown",
+      "category": "general",
+      "priority": "normal",
+      "pilots": [],
+      "pilot_ids": [],
+      "track": null,
+      "class": null,
+      "week": null,
+      "season": 2026,
+      "related_duel_id": null,
+      "metadata": {},
+      "created_at": "2026-11-12T17:40:06+00:00",
+      "expires_at": null
+    },
+    {
+      "date": "2026-11-12T17:40:19+00:00",
+      "text": "ΣΟΚ και ΔΕΟΣ! Agorastos vs @dimbazus: μόνο 0.053s! Ποιος θα κλάψει απόψε; 📺",
+      "tag": "announcement",
+      "id": "rd-f11225e731",
+      "event_type": "unknown",
+      "category": "general",
+      "priority": "normal",
+      "pilots": [],
+      "pilot_ids": [],
+      "track": null,
+      "class": null,
+      "week": null,
+      "season": 2026,
+      "related_duel_id": null,
+      "metadata": {},
+      "created_at": "2026-11-12T17:40:19+00:00",
+      "expires_at": null
     }
   ],
   "avatars": {},
@@ -3772,17 +3790,17 @@
       "current_week": {
         "track": "SimRushWeek6",
         "class": "5inch",
-        "current_position": 6,
+        "current_position": 5,
         "previous_position": 6,
-        "position_change": 0,
+        "position_change": 1,
         "comparison_period": "previous_24h",
-        "best_time": 77.57,
-        "previous_best_time": 78.16,
-        "time_improvement": 0.59,
+        "best_time": 76.888,
+        "previous_best_time": 77.57,
+        "time_improvement": 0.682,
         "first_time": 97.621
       },
       "stats": {
-        "pbs": 64,
+        "pbs": 65,
         "tracks_improved": 7,
         "best_improvement_pct": 8.01
       }
@@ -3935,9 +3953,9 @@
       "current_week": {
         "track": "SimRushWeek6",
         "class": "5inch",
-        "current_position": 5,
+        "current_position": 6,
         "previous_position": 5,
-        "position_change": 0,
+        "position_change": -1,
         "comparison_period": "previous_24h",
         "best_time": 76.941,
         "previous_best_time": 79.979,

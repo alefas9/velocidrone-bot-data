@@ -1,6 +1,6 @@
 {
   "schema_version": "2.1",
-  "generated_at": "2026-11-12T14:20:03+00:00",
+  "generated_at": "2026-11-12T14:25:03+00:00",
   "season": 2026,
   "current_track": "SimRushWeek6",
   "week_no": 6,
@@ -46,7 +46,7 @@
       },
       {
         "pilot": "Liapos",
-        "time": 88.284,
+        "time": 78.517,
         "quad": "Bahamut",
         "pilot_id": "liapos"
       },
@@ -880,10 +880,10 @@
         "pilot": "Liapos",
         "class": "5inch",
         "pos": 7,
-        "time": 88.284,
+        "time": 78.517,
         "first_time": 89.828,
-        "prev_time": 89.73,
-        "improvements": 3,
+        "prev_time": 88.284,
+        "improvements": 4,
         "user_id": 155181,
         "pos_24h": null,
         "pos_change_24h": null
@@ -928,7 +928,7 @@
     "hours_at_top": {
       "Agorastos": 1.33,
       "DedalosFPV": 45.08,
-      "ZOUP": 69.42
+      "ZOUP": 69.5
     },
     "race_to_top": [
       {
@@ -965,7 +965,7 @@
       },
       {
         "pilot": "Liapos",
-        "improvements": 3
+        "improvements": 4
       },
       {
         "pilot": "Bakarim",
@@ -1034,6 +1034,13 @@
     ]
   },
   "improvements": [
+    {
+      "pilot": "Liapos",
+      "track": "SimRushWeek6",
+      "time": 78.517,
+      "delta": 9.767,
+      "date": "2026-11-12T14:20:02+00:00"
+    },
     {
       "pilot": "Liapos",
       "track": "SimRushWeek6",
@@ -3126,13 +3133,6 @@
       "time": 48.537,
       "delta": 0.337,
       "date": "2026-10-18"
-    },
-    {
-      "pilot": "Liapos",
-      "track": "SimRushWeek2",
-      "time": 140.24,
-      "delta": 3.35,
-      "date": "2026-10-17"
     }
   ],
   "pilot_stats": {
@@ -3152,9 +3152,9 @@
       "best_improvement_pct": 29.73
     },
     "Liapos": {
-      "pbs": 22,
+      "pbs": 23,
       "tracks_improved": 7,
-      "best_improvement_pct": 2.0
+      "best_improvement_pct": 11.06
     },
     "Agorastos": {
       "pbs": 64,
@@ -3236,44 +3236,16 @@
       "opened": false
     },
     {
-      "leader": "ZOUP",
-      "chaser": "TettixPro",
-      "gap": 3.341,
-      "days": 0,
+      "leader": "Agorastos",
+      "chaser": "Liapos",
+      "gap": 0.947,
+      "days": 4,
       "class": "5inch",
-      "opened": true,
-      "was_gap": 0.769
+      "opened": false
     }
   ],
   "track_reveal": null,
   "race_director_messages": [
-    {
-      "date": "2026-11-09T19:00:04+00:00",
-      "text": "[5inch] «SimRushWeek6»\n⏱️ Τα δευτερόλεπτα λιώνουν: **Agorastos** -> 78.160s στην «SimRushWeek6»!",
-      "tag": "announcement",
-      "id": "rd-9e8e3d598c",
-      "event_type": "PERSONAL",
-      "category": "timing",
-      "priority": "normal",
-      "pilots": [
-        "Agorastos"
-      ],
-      "pilot_ids": [
-        "agorastos"
-      ],
-      "track": "SimRushWeek6",
-      "class": "5inch",
-      "week": 6,
-      "season": 2026,
-      "related_duel_id": null,
-      "metadata": {
-        "time": 78.16,
-        "previous_time": 80.909,
-        "position": null
-      },
-      "created_at": "2026-11-09T19:00:04+00:00",
-      "expires_at": null
-    },
     {
       "date": "2026-11-09T20:00:03+00:00",
       "text": "📊 ΑΝΑΣΚΟΠΗΣΗ ΕΒΔΟΜΑΔΑΣ — «SimRushWeek6»\n🥇 **ZOUP**  48.742s\n🥈 **DedalosFPV**  53.403s  (+4.661s)\n🥉 **tomahok**  65.104s  (+16.362s)\n**4.** **dimbazus**  76.941s  (+28.199s)\n**5.** **Agorastos**  78.160s  (+29.418s)\n**6.** **Pontikos**  96.044s  (+47.302s)\n**7.** **fpvchucky**  111.595s  (+62.853s)\n**8.** **Bakarim**  206.230s  (+157.488s)\n\n📈 **Εβδομαδιαία στατιστικά:** 66 νέα ρεκόρ συνολικά - πιο ενεργός ο **dimbazus** (66).",
@@ -3747,6 +3719,33 @@
       },
       "created_at": "2026-11-12T14:10:04+00:00",
       "expires_at": null
+    },
+    {
+      "date": "2026-11-12T14:20:04+00:00",
+      "text": "[5inch] «SimRushWeek6»\n💈 Ο κουρέας είπε θα ξυρίσει - ο **Liapos** ξύρισε τον χρόνο: 78.517s στην «SimRushWeek6»!",
+      "tag": "announcement",
+      "id": "rd-f7c2cd7c49",
+      "event_type": "PERSONAL",
+      "category": "timing",
+      "priority": "normal",
+      "pilots": [
+        "Liapos"
+      ],
+      "pilot_ids": [
+        "liapos"
+      ],
+      "track": "SimRushWeek6",
+      "class": "5inch",
+      "week": 6,
+      "season": 2026,
+      "related_duel_id": null,
+      "metadata": {
+        "time": 78.517,
+        "previous_time": 88.284,
+        "position": null
+      },
+      "created_at": "2026-11-12T14:20:04+00:00",
+      "expires_at": null
     }
   ],
   "avatars": {},
@@ -4088,15 +4087,15 @@
         "previous_position": null,
         "position_change": null,
         "comparison_period": null,
-        "best_time": 88.284,
-        "previous_best_time": 89.73,
-        "time_improvement": 1.446,
+        "best_time": 78.517,
+        "previous_best_time": 88.284,
+        "time_improvement": 9.767,
         "first_time": 89.828
       },
       "stats": {
-        "pbs": 22,
+        "pbs": 23,
         "tracks_improved": 7,
-        "best_improvement_pct": 2.0
+        "best_improvement_pct": 11.06
       }
     },
     "pontikos": {

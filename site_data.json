@@ -1,6 +1,6 @@
 {
   "schema_version": "2.1",
-  "generated_at": "2026-11-13T01:45:02+00:00",
+  "generated_at": "2026-11-13T01:50:02+00:00",
   "season": 2026,
   "current_track": "SimRushWeek6",
   "week_no": 6,
@@ -33,6 +33,12 @@
         "pilot_id": "tomahok"
       },
       {
+        "pilot": "Cbeikos",
+        "time": 65.547,
+        "quad": "Bahamut",
+        "pilot_id": "cbeikos"
+      },
+      {
         "pilot": "Agorastos",
         "time": 76.888,
         "quad": "Carbix Zero",
@@ -49,12 +55,6 @@
         "time": 78.517,
         "quad": "Bahamut",
         "pilot_id": "liapos"
-      },
-      {
-        "pilot": "Cbeikos",
-        "time": 82.323,
-        "quad": "Bahamut",
-        "pilot_id": "cbeikos"
       },
       {
         "pilot": "Pontikos",
@@ -859,50 +859,50 @@
         "pos_change_24h": 0
       },
       {
-        "pilot": "Agorastos",
+        "pilot": "Cbeikos",
         "class": "5inch",
         "pos": 5,
+        "time": 65.547,
+        "first_time": 103.209,
+        "prev_time": 82.323,
+        "improvements": 3,
+        "user_id": 258063,
+        "pos_24h": null,
+        "pos_change_24h": null
+      },
+      {
+        "pilot": "Agorastos",
+        "class": "5inch",
+        "pos": 6,
         "time": 76.888,
         "first_time": 97.621,
         "prev_time": 77.57,
         "improvements": 8,
         "user_id": 128161,
         "pos_24h": 6,
-        "pos_change_24h": 1
+        "pos_change_24h": 0
       },
       {
         "pilot": "dimbazus",
         "class": "5inch",
-        "pos": 6,
+        "pos": 7,
         "time": 76.941,
         "first_time": 100.746,
         "prev_time": 79.979,
         "improvements": 5,
         "user_id": 309918,
         "pos_24h": 5,
-        "pos_change_24h": -1
+        "pos_change_24h": -2
       },
       {
         "pilot": "Liapos",
         "class": "5inch",
-        "pos": 7,
+        "pos": 8,
         "time": 78.517,
         "first_time": 89.828,
         "prev_time": 88.284,
         "improvements": 4,
         "user_id": 155181,
-        "pos_24h": null,
-        "pos_change_24h": null
-      },
-      {
-        "pilot": "Cbeikos",
-        "class": "5inch",
-        "pos": 8,
-        "time": 82.323,
-        "first_time": 103.209,
-        "prev_time": 103.209,
-        "improvements": 2,
-        "user_id": 258063,
         "pos_24h": null,
         "pos_change_24h": null
       },
@@ -946,7 +946,7 @@
     "hours_at_top": {
       "Agorastos": 1.33,
       "DedalosFPV": 45.08,
-      "ZOUP": 80.83
+      "ZOUP": 80.92
     },
     "race_to_top": [
       {
@@ -987,7 +987,7 @@
       },
       {
         "pilot": "Cbeikos",
-        "improvements": 2
+        "improvements": 3
       },
       {
         "pilot": "Bakarim",
@@ -1055,6 +1055,13 @@
     ]
   },
   "improvements": [
+    {
+      "pilot": "Cbeikos",
+      "track": "SimRushWeek6",
+      "time": 65.547,
+      "delta": 16.776,
+      "date": "2026-11-13T03:45:02+00:00"
+    },
     {
       "pilot": "Cbeikos",
       "track": "SimRushWeek6",
@@ -3147,13 +3154,6 @@
       "time": 84.898,
       "delta": null,
       "date": "2026-10-18T00:00:00+00:00"
-    },
-    {
-      "pilot": "Agorastos",
-      "track": "SimRushWeek3",
-      "time": 80.433,
-      "delta": 4.465,
-      "date": "2026-10-18T00:00:00+00:00"
     }
   ],
   "pilot_stats": {
@@ -3208,9 +3208,9 @@
       "best_improvement_pct": null
     },
     "Cbeikos": {
-      "pbs": 37,
+      "pbs": 38,
       "tracks_improved": 5,
-      "best_improvement_pct": 20.24
+      "best_improvement_pct": 20.38
     },
     "Bakarim": {
       "pbs": 9,
@@ -3257,6 +3257,14 @@
       "opened": false
     },
     {
+      "leader": "tomahok",
+      "chaser": "Cbeikos",
+      "gap": 0.443,
+      "days": 0,
+      "class": "5inch",
+      "opened": false
+    },
+    {
       "leader": "dimbazus",
       "chaser": "Liapos",
       "gap": 1.576,
@@ -3281,73 +3289,10 @@
       "class": "5inch",
       "opened": true,
       "was_gap": 0.947
-    },
-    {
-      "leader": "Cbeikos",
-      "chaser": "fpvchucky",
-      "gap": 1.048,
-      "days": 0,
-      "class": "5inch",
-      "opened": true,
-      "was_gap": 1.048
     }
   ],
   "track_reveal": null,
   "race_director_messages": [
-    {
-      "date": "2026-11-10T16:35:05+00:00",
-      "text": "[5inch] «SimRushWeek6»\n📡 Κατέγραψαν οι σταθμοί: ο **TettixPro** με 51.849s στην «SimRushWeek6»!\nΑύριο κάποιος θα το μετανιώσει! 😈",
-      "tag": "announcement",
-      "id": "rd-c94dfdc7cc",
-      "event_type": "PERSONAL",
-      "category": "timing",
-      "priority": "normal",
-      "pilots": [
-        "TettixPro"
-      ],
-      "pilot_ids": [
-        "tettixpro"
-      ],
-      "track": "SimRushWeek6",
-      "class": "5inch",
-      "week": 6,
-      "season": 2026,
-      "related_duel_id": null,
-      "metadata": {
-        "time": 51.849,
-        "previous_time": 57.993,
-        "position": null
-      },
-      "created_at": "2026-11-10T16:35:05+00:00",
-      "expires_at": null
-    },
-    {
-      "date": "2026-11-10T16:50:04+00:00",
-      "text": "[5inch] «SimRushWeek6»\n🤖 Ο **ZOUP** αποδείχθηκε AI drone: 48.645s - οι άνθρωποι ζητούν ρεβάνς!",
-      "tag": "announcement",
-      "id": "rd-01230de5bd",
-      "event_type": "NEW_TOP",
-      "category": "timing",
-      "priority": "high",
-      "pilots": [
-        "ZOUP"
-      ],
-      "pilot_ids": [
-        "zoup"
-      ],
-      "track": "SimRushWeek6",
-      "class": "5inch",
-      "week": 6,
-      "season": 2026,
-      "related_duel_id": null,
-      "metadata": {
-        "time": 48.645,
-        "previous_time": 48.742,
-        "position": 1
-      },
-      "created_at": "2026-11-10T16:50:04+00:00",
-      "expires_at": null
-    },
     {
       "date": "2026-11-10T17:05:05+00:00",
       "text": "[5inch] «SimRushWeek6»\n💣 Βόμβα στο leaderboard: **ZOUP** με 48.353s - εξουδετερώστε τον μόνο με χρόνο!",
@@ -3770,6 +3715,44 @@
       "metadata": {},
       "created_at": "2026-11-13T01:40:04+00:00",
       "expires_at": null
+    },
+    {
+      "date": "2026-11-13T01:45:04+00:00",
+      "text": "[5inch] «SimRushWeek6»\n📜 Νέο διάταγμα: ο **Cbeikos** ορίζεται κάτοχος των 65.547s! Υπογραφή με γκάζι! 🖋️",
+      "tag": "announcement",
+      "id": "rd-c014bf00f4",
+      "event_type": "unknown",
+      "category": "general",
+      "priority": "normal",
+      "pilots": [],
+      "pilot_ids": [],
+      "track": null,
+      "class": null,
+      "week": null,
+      "season": 2026,
+      "related_duel_id": null,
+      "metadata": {},
+      "created_at": "2026-11-13T01:45:04+00:00",
+      "expires_at": null
+    },
+    {
+      "date": "2026-11-13T01:45:13+00:00",
+      "text": "🎬 Κλιφχάνγκερ! @Cbeikos vs tomahok - 0.443s! Η συνέχεια στο επόμενο επεισόδιο!",
+      "tag": "announcement",
+      "id": "rd-88f9552871",
+      "event_type": "unknown",
+      "category": "general",
+      "priority": "normal",
+      "pilots": [],
+      "pilot_ids": [],
+      "track": null,
+      "class": null,
+      "week": null,
+      "season": 2026,
+      "related_duel_id": null,
+      "metadata": {},
+      "created_at": "2026-11-13T01:45:13+00:00",
+      "expires_at": null
     }
   ],
   "avatars": {},
@@ -3797,9 +3780,9 @@
       "current_week": {
         "track": "SimRushWeek6",
         "class": "5inch",
-        "current_position": 5,
+        "current_position": 6,
         "previous_position": 6,
-        "position_change": 1,
+        "position_change": 0,
         "comparison_period": "previous_24h",
         "best_time": 76.888,
         "previous_best_time": 77.57,
@@ -3897,19 +3880,19 @@
       "current_week": {
         "track": "SimRushWeek6",
         "class": "5inch",
-        "current_position": 8,
+        "current_position": 5,
         "previous_position": null,
         "position_change": null,
         "comparison_period": null,
-        "best_time": 82.323,
-        "previous_best_time": 103.209,
-        "time_improvement": 20.886,
+        "best_time": 65.547,
+        "previous_best_time": 82.323,
+        "time_improvement": 16.776,
         "first_time": 103.209
       },
       "stats": {
-        "pbs": 37,
+        "pbs": 38,
         "tracks_improved": 5,
-        "best_improvement_pct": 20.24
+        "best_improvement_pct": 20.38
       }
     },
     "dedalosfpv": {
@@ -3971,9 +3954,9 @@
       "current_week": {
         "track": "SimRushWeek6",
         "class": "5inch",
-        "current_position": 6,
+        "current_position": 7,
         "previous_position": 5,
-        "position_change": -1,
+        "position_change": -2,
         "comparison_period": "previous_24h",
         "best_time": 76.941,
         "previous_best_time": 79.979,
@@ -4119,7 +4102,7 @@
       "current_week": {
         "track": "SimRushWeek6",
         "class": "5inch",
-        "current_position": 7,
+        "current_position": 8,
         "previous_position": null,
         "position_change": null,
         "comparison_period": null,

@@ -1,6 +1,6 @@
 {
   "schema_version": "2.1",
-  "generated_at": "2026-11-13T02:05:02+00:00",
+  "generated_at": "2026-11-13T02:10:02+00:00",
   "season": 2026,
   "current_track": "SimRushWeek6",
   "week_no": 6,
@@ -28,7 +28,7 @@
       },
       {
         "pilot": "Cbeikos",
-        "time": 64.43,
+        "time": 62.212,
         "quad": "Bahamut",
         "pilot_id": "cbeikos"
       },
@@ -850,10 +850,10 @@
         "pilot": "Cbeikos",
         "class": "5inch",
         "pos": 4,
-        "time": 64.43,
+        "time": 62.212,
         "first_time": 103.209,
-        "prev_time": 65.547,
-        "improvements": 4,
+        "prev_time": 64.43,
+        "improvements": 5,
         "user_id": 258063,
         "pos_24h": null,
         "pos_change_24h": null
@@ -946,7 +946,7 @@
     "hours_at_top": {
       "Agorastos": 1.33,
       "DedalosFPV": 45.08,
-      "ZOUP": 81.17
+      "ZOUP": 81.25
     },
     "race_to_top": [
       {
@@ -970,6 +970,10 @@
         "improvements": 6
       },
       {
+        "pilot": "Cbeikos",
+        "improvements": 5
+      },
+      {
         "pilot": "dimbazus",
         "improvements": 5
       },
@@ -979,10 +983,6 @@
       },
       {
         "pilot": "TettixPro",
-        "improvements": 4
-      },
-      {
-        "pilot": "Cbeikos",
         "improvements": 4
       },
       {
@@ -1055,6 +1055,13 @@
     ]
   },
   "improvements": [
+    {
+      "pilot": "Cbeikos",
+      "track": "SimRushWeek6",
+      "time": 62.212,
+      "delta": 2.218,
+      "date": "2026-11-13T04:05:02+00:00"
+    },
     {
       "pilot": "Cbeikos",
       "track": "SimRushWeek6",
@@ -3147,13 +3154,6 @@
       "time": 68.328,
       "delta": 4.94,
       "date": "2026-10-18T00:00:00+00:00"
-    },
-    {
-      "pilot": "DedalosFPV",
-      "track": "SimRushWeek3",
-      "time": 48.874,
-      "delta": 3.778,
-      "date": "2026-10-18T00:00:00+00:00"
     }
   ],
   "pilot_stats": {
@@ -3208,7 +3208,7 @@
       "best_improvement_pct": null
     },
     "Cbeikos": {
-      "pbs": 39,
+      "pbs": 40,
       "tracks_improved": 5,
       "best_improvement_pct": 20.38
     },
@@ -3257,14 +3257,6 @@
       "opened": false
     },
     {
-      "leader": "Cbeikos",
-      "chaser": "tomahok",
-      "gap": 0.674,
-      "days": 0,
-      "class": "5inch",
-      "opened": false
-    },
-    {
       "leader": "dimbazus",
       "chaser": "Liapos",
       "gap": 1.576,
@@ -3289,37 +3281,19 @@
       "class": "5inch",
       "opened": true,
       "was_gap": 0.629
+    },
+    {
+      "leader": "Agorastos",
+      "chaser": "Liapos",
+      "gap": 0.947,
+      "days": 0,
+      "class": "5inch",
+      "opened": true,
+      "was_gap": 0.947
     }
   ],
   "track_reveal": null,
   "race_director_messages": [
-    {
-      "date": "2026-11-10T17:15:05+00:00",
-      "text": "[5inch] «SimRushWeek6»\n🥇 ΤΟ ΠΗΡΕ! **ZOUP** κλειδώνει το #1 στην «SimRushWeek6» με 47.386s!",
-      "tag": "announcement",
-      "id": "rd-f930f9a5ae",
-      "event_type": "NEW_TOP",
-      "category": "timing",
-      "priority": "high",
-      "pilots": [
-        "ZOUP"
-      ],
-      "pilot_ids": [
-        "zoup"
-      ],
-      "track": "SimRushWeek6",
-      "class": "5inch",
-      "week": 6,
-      "season": 2026,
-      "related_duel_id": null,
-      "metadata": {
-        "time": 47.386,
-        "previous_time": 48.353,
-        "position": 1
-      },
-      "created_at": "2026-11-10T17:15:05+00:00",
-      "expires_at": null
-    },
     {
       "date": "2026-11-10T19:00:04+00:00",
       "text": "Απίστευτο το πράγμα: @dimbazus vs @Agorastos 1.219s για 1 μέρες! Τι να πω τώρα εγώ... μόνο duel! 📺",
@@ -3745,6 +3719,25 @@
       "metadata": {},
       "created_at": "2026-11-13T01:55:03+00:00",
       "expires_at": null
+    },
+    {
+      "date": "2026-11-13T02:05:02+00:00",
+      "text": "[5inch] «SimRushWeek6»\n🧾 Ο λογαριασμός του **Cbeikos**: 62.212s — πληρωμή με χειροκρότημα! 👏\nΝταξ, το είδατε - τώρα πηγαίνετε να το φτιάξετε! 🛠️",
+      "tag": "announcement",
+      "id": "rd-c7d08a6d16",
+      "event_type": "unknown",
+      "category": "general",
+      "priority": "normal",
+      "pilots": [],
+      "pilot_ids": [],
+      "track": null,
+      "class": null,
+      "week": null,
+      "season": 2026,
+      "related_duel_id": null,
+      "metadata": {},
+      "created_at": "2026-11-13T02:05:02+00:00",
+      "expires_at": null
     }
   ],
   "avatars": {},
@@ -3876,13 +3869,13 @@
         "previous_position": null,
         "position_change": null,
         "comparison_period": null,
-        "best_time": 64.43,
-        "previous_best_time": 65.547,
-        "time_improvement": 1.117,
+        "best_time": 62.212,
+        "previous_best_time": 64.43,
+        "time_improvement": 2.218,
         "first_time": 103.209
       },
       "stats": {
-        "pbs": 39,
+        "pbs": 40,
         "tracks_improved": 5,
         "best_improvement_pct": 20.38
       }

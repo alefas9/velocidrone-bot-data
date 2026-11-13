@@ -1,6 +1,6 @@
 {
   "schema_version": "2.1",
-  "generated_at": "2026-11-13T19:55:11+00:00",
+  "generated_at": "2026-11-13T20:00:02+00:00",
   "season": 2026,
   "current_track": "SimRushWeek6",
   "week_no": 6,
@@ -946,7 +946,7 @@
     "hours_at_top": {
       "Agorastos": 1.33,
       "DedalosFPV": 45.08,
-      "ZOUP": 99.0
+      "ZOUP": 99.08
     },
     "race_to_top": [
       {
@@ -3294,33 +3294,6 @@
   "track_reveal": null,
   "race_director_messages": [
     {
-      "date": "2026-11-11T14:20:05+00:00",
-      "text": "[5inch] «SimRushWeek6»\n🚀 Ο **ZOUP** πήρε το διαστημόπλοιο: 44.814s - η NASA ζήλεψε!\nΟ χάρτης φωνάζει το όνομά σου! 🗣️",
-      "tag": "announcement",
-      "id": "rd-4b82b328dd",
-      "event_type": "NEW_TOP",
-      "category": "timing",
-      "priority": "high",
-      "pilots": [
-        "ZOUP"
-      ],
-      "pilot_ids": [
-        "zoup"
-      ],
-      "track": "SimRushWeek6",
-      "class": "5inch",
-      "week": 6,
-      "season": 2026,
-      "related_duel_id": null,
-      "metadata": {
-        "time": 44.814,
-        "previous_time": 47.386,
-        "position": 1
-      },
-      "created_at": "2026-11-11T14:20:05+00:00",
-      "expires_at": null
-    },
-    {
       "date": "2026-11-11T19:10:08+00:00",
       "text": "[5inch] «SimRushWeek6»\n🌬️ Το propwash άφησε ωραία μυρωδιά: **Agorastos** -> 77.570s στην «SimRushWeek6»!\nΜην κοιτάτε εδώ, κοιτάξτε τις πύλες σας! 👀",
       "tag": "announcement",
@@ -3719,6 +3692,25 @@
       "related_duel_id": null,
       "metadata": {},
       "created_at": "2026-11-13T06:05:05+00:00",
+      "expires_at": null
+    },
+    {
+      "date": "2026-11-13T20:00:02+00:00",
+      "text": "🎬 ΕΝΔΙΑΜΕΣΟ ΣΗΜΕΙΩΜΑ — «SimRushWeek6»\n🥇 **ZOUP**  44.814s\n🥈 **TettixPro**  48.155s  (+3.341s)\n🥉 **DedalosFPV**  53.403s  (+8.589s)\n**4.** **Cbeikos**  62.212s  (+17.398s)\n**5.** **tomahok**  62.672s  (+17.858s)\n**6.** **Agorastos**  76.888s  (+32.074s)\n**7.** **dimbazus**  76.941s  (+32.127s)\n**8.** **Liapos**  78.517s  (+33.703s)\n**9.** **Pontikos**  96.044s  (+51.230s)\n**10.** **fpvchucky**  104.257s  (+59.443s)\n...κι άλλοι 1 πιλότοι στο κυνήγι!\n\n📈 **Εβδομαδιαία στατιστικά:** 66 νέα ρεκόρ συνολικά - πιο ενεργός ο **dimbazus** (66).",
+      "tag": "announcement",
+      "id": "rd-34add01e20",
+      "event_type": "unknown",
+      "category": "general",
+      "priority": "normal",
+      "pilots": [],
+      "pilot_ids": [],
+      "track": null,
+      "class": null,
+      "week": null,
+      "season": 2026,
+      "related_duel_id": null,
+      "metadata": {},
+      "created_at": "2026-11-13T20:00:02+00:00",
       "expires_at": null
     }
   ],

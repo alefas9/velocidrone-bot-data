@@ -1,6 +1,6 @@
 {
   "schema_version": "2.1",
-  "generated_at": "2026-11-13T13:50:03+00:00",
+  "generated_at": "2026-11-13T13:55:03+00:00",
   "season": 2026,
   "current_track": "SimRushWeek6",
   "week_no": 6,
@@ -903,8 +903,8 @@
         "prev_time": 88.284,
         "improvements": 4,
         "user_id": 155181,
-        "pos_24h": null,
-        "pos_change_24h": null
+        "pos_24h": 7,
+        "pos_change_24h": -1
       },
       {
         "pilot": "Pontikos",
@@ -915,8 +915,8 @@
         "prev_time": 103.387,
         "improvements": 5,
         "user_id": 150985,
-        "pos_24h": 7,
-        "pos_change_24h": -2
+        "pos_24h": 8,
+        "pos_change_24h": -1
       },
       {
         "pilot": "fpvchucky",
@@ -927,8 +927,8 @@
         "prev_time": 111.595,
         "improvements": 11,
         "user_id": 451407,
-        "pos_24h": 8,
-        "pos_change_24h": -2
+        "pos_24h": 9,
+        "pos_change_24h": -1
       },
       {
         "pilot": "Bakarim",
@@ -939,14 +939,14 @@
         "prev_time": 240.339,
         "improvements": 2,
         "user_id": 418059,
-        "pos_24h": 9,
-        "pos_change_24h": -2
+        "pos_24h": 10,
+        "pos_change_24h": -1
       }
     ],
     "hours_at_top": {
       "Agorastos": 1.33,
       "DedalosFPV": 45.08,
-      "ZOUP": 92.92
+      "ZOUP": 93.0
     },
     "race_to_top": [
       {
@@ -3811,8 +3811,8 @@
         "track": "SimRushWeek6",
         "class": "5inch",
         "current_position": 11,
-        "previous_position": 9,
-        "position_change": -2,
+        "previous_position": 10,
+        "position_change": -1,
         "comparison_period": "previous_24h",
         "best_time": 206.23,
         "previous_best_time": 240.339,
@@ -3985,8 +3985,8 @@
         "track": "SimRushWeek6",
         "class": "5inch",
         "current_position": 10,
-        "previous_position": 8,
-        "position_change": -2,
+        "previous_position": 9,
+        "position_change": -1,
         "comparison_period": "previous_24h",
         "best_time": 104.257,
         "previous_best_time": 111.595,
@@ -4070,9 +4070,9 @@
         "track": "SimRushWeek6",
         "class": "5inch",
         "current_position": 8,
-        "previous_position": null,
-        "position_change": null,
-        "comparison_period": null,
+        "previous_position": 7,
+        "position_change": -1,
+        "comparison_period": "previous_24h",
         "best_time": 78.517,
         "previous_best_time": 88.284,
         "time_improvement": 9.767,
@@ -4107,8 +4107,8 @@
         "track": "SimRushWeek6",
         "class": "5inch",
         "current_position": 9,
-        "previous_position": 7,
-        "position_change": -2,
+        "previous_position": 8,
+        "position_change": -1,
         "comparison_period": "previous_24h",
         "best_time": 96.044,
         "previous_best_time": 103.387,

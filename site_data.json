@@ -1,6 +1,6 @@
 {
   "schema_version": "2.1",
-  "generated_at": "2026-11-13T21:25:03+00:00",
+  "generated_at": "2026-11-13T21:30:03+00:00",
   "season": 2026,
   "current_track": "SimRushWeek6",
   "week_no": 6,
@@ -22,7 +22,7 @@
       },
       {
         "pilot": "DedalosFPV",
-        "time": 52.343,
+        "time": 49.959,
         "quad": "Bahamut",
         "pilot_id": "dedalosfpv"
       },
@@ -838,10 +838,10 @@
         "pilot": "DedalosFPV",
         "class": "5inch",
         "pos": 3,
-        "time": 52.343,
+        "time": 49.959,
         "first_time": 115.067,
-        "prev_time": 53.403,
-        "improvements": 7,
+        "prev_time": 52.343,
+        "improvements": 8,
         "user_id": 387184,
         "pos_24h": 3,
         "pos_change_24h": 0
@@ -946,7 +946,7 @@
     "hours_at_top": {
       "Agorastos": 1.33,
       "DedalosFPV": 45.08,
-      "ZOUP": 100.5
+      "ZOUP": 100.58
     },
     "race_to_top": [
       {
@@ -962,12 +962,12 @@
         "improvements": 9
       },
       {
-        "pilot": "Agorastos",
+        "pilot": "DedalosFPV",
         "improvements": 8
       },
       {
-        "pilot": "DedalosFPV",
-        "improvements": 7
+        "pilot": "Agorastos",
+        "improvements": 8
       },
       {
         "pilot": "Cbeikos",
@@ -1055,6 +1055,13 @@
     ]
   },
   "improvements": [
+    {
+      "pilot": "DedalosFPV",
+      "track": "SimRushWeek6",
+      "time": 49.959,
+      "delta": 2.384,
+      "date": "2026-11-13T23:25:02+00:00"
+    },
     {
       "pilot": "DedalosFPV",
       "track": "SimRushWeek6",
@@ -3147,13 +3154,6 @@
       "time": 85.979,
       "delta": 30.457,
       "date": "2026-10-18T00:00:00+00:00"
-    },
-    {
-      "pilot": "tomahok",
-      "track": "SimRushWeek3",
-      "time": 74.517,
-      "delta": 11.462,
-      "date": "2026-10-18T00:00:00+00:00"
     }
   ],
   "pilot_stats": {
@@ -3188,7 +3188,7 @@
       "best_improvement_pct": 33.6
     },
     "DedalosFPV": {
-      "pbs": 59,
+      "pbs": 60,
       "tracks_improved": 7,
       "best_improvement_pct": 29.25
     },
@@ -3237,10 +3237,10 @@
     "pilot": "DedalosFPV",
     "track": "SimRushWeek6",
     "first_time": 115.067,
-    "best_time": 52.343,
-    "improvement_pct": 54.51,
+    "best_time": 49.959,
+    "improvement_pct": 56.58,
     "position": 3,
-    "pb_events": 7,
+    "pb_events": 8,
     "criteria": {
       "top_n": 8,
       "min_pb_events": 3,
@@ -3273,6 +3273,14 @@
       "opened": false
     },
     {
+      "leader": "TettixPro",
+      "chaser": "DedalosFPV",
+      "gap": 1.804,
+      "days": 9,
+      "class": "5inch",
+      "opened": false
+    },
+    {
       "leader": "tomahok",
       "chaser": "Cbeikos",
       "gap": 0.443,
@@ -3280,46 +3288,10 @@
       "class": "5inch",
       "opened": true,
       "was_gap": 0.443
-    },
-    {
-      "leader": "Cbeikos",
-      "chaser": "fpvchucky",
-      "gap": 1.048,
-      "days": 0,
-      "class": "5inch",
-      "opened": true,
-      "was_gap": 1.048
     }
   ],
   "track_reveal": null,
   "race_director_messages": [
-    {
-      "date": "2026-11-12T14:00:04+00:00",
-      "text": "[5inch] «SimRushWeek6»\n🏥 Το χειρουργείο πήγε καλά: ο **Liapos** αφαίρεσε χρόνο και έμεινε στα 89.730s!\nΤι να σας πω... το #1 δεν θα πάρει το αυτοκίνητο μόνο του! 🚗",
-      "tag": "announcement",
-      "id": "rd-97e69e9bc3",
-      "event_type": "PERSONAL",
-      "category": "timing",
-      "priority": "normal",
-      "pilots": [
-        "Liapos"
-      ],
-      "pilot_ids": [
-        "liapos"
-      ],
-      "track": "SimRushWeek6",
-      "class": "5inch",
-      "week": 6,
-      "season": 2026,
-      "related_duel_id": null,
-      "metadata": {
-        "time": 89.73,
-        "previous_time": 89.828,
-        "position": null
-      },
-      "created_at": "2026-11-12T14:00:04+00:00",
-      "expires_at": null
-    },
     {
       "date": "2026-11-12T14:10:04+00:00",
       "text": "[5inch] «SimRushWeek6»\n🗞️ Από αύριο στα πρωτοσέλιδα: **Liapos** - 88.284s στην «SimRushWeek6»!\nΝταξ, το είδατε - τώρα πηγαίνετε να το φτιάξετε! 🛠️",
@@ -3696,6 +3668,25 @@
       "metadata": {},
       "created_at": "2026-11-13T20:55:06+00:00",
       "expires_at": null
+    },
+    {
+      "date": "2026-11-13T21:25:04+00:00",
+      "text": "[5inch] «SimRushWeek6»\n🔋 Νέα LIPO, νέο ρεκόρ: **DedalosFPV** -> 49.959s (η παλιά του κόστιζε 3 δευτερόλεπτα)\nΤα γκάζια δεν αυτοπατιούνται! 🦶",
+      "tag": "announcement",
+      "id": "rd-a9d526f501",
+      "event_type": "unknown",
+      "category": "general",
+      "priority": "normal",
+      "pilots": [],
+      "pilot_ids": [],
+      "track": null,
+      "class": null,
+      "week": null,
+      "season": 2026,
+      "related_duel_id": null,
+      "metadata": {},
+      "created_at": "2026-11-13T21:25:04+00:00",
+      "expires_at": null
     }
   ],
   "avatars": {},
@@ -3864,13 +3855,13 @@
         "previous_position": 3,
         "position_change": 0,
         "comparison_period": "previous_24h",
-        "best_time": 52.343,
-        "previous_best_time": 53.403,
-        "time_improvement": 1.06,
+        "best_time": 49.959,
+        "previous_best_time": 52.343,
+        "time_improvement": 2.384,
         "first_time": 115.067
       },
       "stats": {
-        "pbs": 59,
+        "pbs": 60,
         "tracks_improved": 7,
         "best_improvement_pct": 29.25
       }

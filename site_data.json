@@ -1,6 +1,6 @@
 {
   "schema_version": "2.1",
-  "generated_at": "2026-11-13T06:05:02+00:00",
+  "generated_at": "2026-11-13T06:10:02+00:00",
   "season": 2026,
   "current_track": "SimRushWeek6",
   "week_no": 6,
@@ -34,7 +34,7 @@
       },
       {
         "pilot": "tomahok",
-        "time": 65.104,
+        "time": 62.672,
         "quad": "Five33 Switchback",
         "pilot_id": "tomahok"
       },
@@ -862,10 +862,10 @@
         "pilot": "tomahok",
         "class": "5inch",
         "pos": 5,
-        "time": 65.104,
+        "time": 62.672,
         "first_time": 126.97,
-        "prev_time": 66.775,
-        "improvements": 8,
+        "prev_time": 65.104,
+        "improvements": 9,
         "user_id": 17641,
         "pos_24h": 4,
         "pos_change_24h": -1
@@ -946,7 +946,7 @@
     "hours_at_top": {
       "Agorastos": 1.33,
       "DedalosFPV": 45.08,
-      "ZOUP": 85.17
+      "ZOUP": 85.25
     },
     "race_to_top": [
       {
@@ -959,7 +959,7 @@
       },
       {
         "pilot": "tomahok",
-        "improvements": 8
+        "improvements": 9
       },
       {
         "pilot": "Agorastos",
@@ -1055,6 +1055,13 @@
     ]
   },
   "improvements": [
+    {
+      "pilot": "tomahok",
+      "track": "SimRushWeek6",
+      "time": 62.672,
+      "delta": 2.432,
+      "date": "2026-11-13T08:05:02+00:00"
+    },
     {
       "pilot": "Cbeikos",
       "track": "SimRushWeek6",
@@ -3147,13 +3154,6 @@
       "time": 73.268,
       "delta": 1.249,
       "date": "2026-10-18T00:00:00+00:00"
-    },
-    {
-      "pilot": "tomahok",
-      "track": "SimRushWeek3",
-      "time": 68.328,
-      "delta": 4.94,
-      "date": "2026-10-18T00:00:00+00:00"
     }
   ],
   "pilot_stats": {
@@ -3183,7 +3183,7 @@
       "best_improvement_pct": 8.01
     },
     "tomahok": {
-      "pbs": 33,
+      "pbs": 34,
       "tracks_improved": 6,
       "best_improvement_pct": 33.6
     },
@@ -3257,6 +3257,14 @@
       "opened": false
     },
     {
+      "leader": "Cbeikos",
+      "chaser": "tomahok",
+      "gap": 0.46,
+      "days": 0,
+      "class": "5inch",
+      "opened": false
+    },
+    {
       "leader": "dimbazus",
       "chaser": "Liapos",
       "gap": 1.576,
@@ -3281,74 +3289,10 @@
       "class": "5inch",
       "opened": true,
       "was_gap": 0.629
-    },
-    {
-      "leader": "Agorastos",
-      "chaser": "Liapos",
-      "gap": 0.947,
-      "days": 0,
-      "class": "5inch",
-      "opened": true,
-      "was_gap": 0.947
     }
   ],
   "track_reveal": null,
   "race_director_messages": [
-    {
-      "date": "2026-11-10T19:00:04+00:00",
-      "text": "Απίστευτο το πράγμα: @dimbazus vs @Agorastos 1.219s για 1 μέρες! Τι να πω τώρα εγώ... μόνο duel! 📺",
-      "tag": "announcement",
-      "id": "rd-4a84a1a4ea",
-      "event_type": "DUEL_SUGGEST",
-      "category": "rivalries",
-      "priority": "normal",
-      "pilots": [
-        "dimbazus",
-        "Agorastos"
-      ],
-      "pilot_ids": [
-        "dimbazus",
-        "agorastos"
-      ],
-      "track": "SimRushWeek6",
-      "class": "5inch",
-      "week": 6,
-      "season": 2026,
-      "related_duel_id": null,
-      "metadata": {
-        "gap": 1.219,
-        "days": 1
-      },
-      "created_at": "2026-11-10T19:00:04+00:00",
-      "expires_at": null
-    },
-    {
-      "date": "2026-11-10T19:35:04+00:00",
-      "text": "[5inch] «SimRushWeek6»\n🧲 Μαγνήτης ρεκόρ ο **TettixPro**: 48.155s στην «SimRushWeek6» - τραβάει τα δευτερόλεπτα!\nΣε παρακολουθούν... 👁️",
-      "tag": "announcement",
-      "id": "rd-d87562865a",
-      "event_type": "PERSONAL",
-      "category": "timing",
-      "priority": "normal",
-      "pilots": [
-        "TettixPro"
-      ],
-      "pilot_ids": [
-        "tettixpro"
-      ],
-      "track": "SimRushWeek6",
-      "class": "5inch",
-      "week": 6,
-      "season": 2026,
-      "related_duel_id": null,
-      "metadata": {
-        "time": 48.155,
-        "previous_time": 51.849,
-        "position": null
-      },
-      "created_at": "2026-11-10T19:35:04+00:00",
-      "expires_at": null
-    },
     {
       "date": "2026-11-11T14:20:05+00:00",
       "text": "[5inch] «SimRushWeek6»\n🚀 Ο **ZOUP** πήρε το διαστημόπλοιο: 44.814s - η NASA ζήλεψε!\nΟ χάρτης φωνάζει το όνομά σου! 🗣️",
@@ -3737,6 +3681,44 @@
       "related_duel_id": null,
       "metadata": {},
       "created_at": "2026-11-13T02:05:02+00:00",
+      "expires_at": null
+    },
+    {
+      "date": "2026-11-13T06:05:03+00:00",
+      "text": "[5inch] «SimRushWeek6»\n🪂 Χαμηλό πέταγμα, υψηλή ταχύτητα: **tomahok** -> 62.672s στην «SimRushWeek6»!\nΗ πίστα γελάει με τους διστακτικούς! 😏",
+      "tag": "announcement",
+      "id": "rd-42540c9e52",
+      "event_type": "unknown",
+      "category": "general",
+      "priority": "normal",
+      "pilots": [],
+      "pilot_ids": [],
+      "track": null,
+      "class": null,
+      "week": null,
+      "season": 2026,
+      "related_duel_id": null,
+      "metadata": {},
+      "created_at": "2026-11-13T06:05:03+00:00",
+      "expires_at": null
+    },
+    {
+      "date": "2026-11-13T06:05:05+00:00",
+      "text": "🪢 Δεμένοι με σχοινί: Cbeikos - @tomahok σε απόσταση 0.460s!",
+      "tag": "announcement",
+      "id": "rd-5427147109",
+      "event_type": "unknown",
+      "category": "general",
+      "priority": "normal",
+      "pilots": [],
+      "pilot_ids": [],
+      "track": null,
+      "class": null,
+      "week": null,
+      "season": 2026,
+      "related_duel_id": null,
+      "metadata": {},
+      "created_at": "2026-11-13T06:05:05+00:00",
       "expires_at": null
     }
   ],
@@ -4202,13 +4184,13 @@
         "previous_position": 4,
         "position_change": -1,
         "comparison_period": "previous_24h",
-        "best_time": 65.104,
-        "previous_best_time": 66.775,
-        "time_improvement": 1.671,
+        "best_time": 62.672,
+        "previous_best_time": 65.104,
+        "time_improvement": 2.432,
         "first_time": 126.97
       },
       "stats": {
-        "pbs": 33,
+        "pbs": 34,
         "tracks_improved": 6,
         "best_improvement_pct": 33.6
       }

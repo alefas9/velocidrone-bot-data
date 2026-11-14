@@ -1,6 +1,6 @@
 {
   "schema_version": "2.1",
-  "generated_at": "2026-11-14T14:00:03+00:00",
+  "generated_at": "2026-11-14T14:05:03+00:00",
   "season": 2026,
   "current_track": "SimRushWeek6",
   "week_no": 6,
@@ -46,7 +46,7 @@
       },
       {
         "pilot": "dimbazus",
-        "time": 69.255,
+        "time": 69.094,
         "quad": "Bahamut",
         "pilot_id": "dimbazus"
       },
@@ -886,10 +886,10 @@
         "pilot": "dimbazus",
         "class": "5inch",
         "pos": 7,
-        "time": 69.255,
+        "time": 69.094,
         "first_time": 100.746,
-        "prev_time": 71.937,
-        "improvements": 8,
+        "prev_time": 69.255,
+        "improvements": 9,
         "user_id": 309918,
         "pos_24h": 7,
         "pos_change_24h": 0
@@ -946,7 +946,7 @@
     "hours_at_top": {
       "Agorastos": 1.33,
       "DedalosFPV": 45.08,
-      "ZOUP": 117.08
+      "ZOUP": 117.17
     },
     "race_to_top": [
       {
@@ -966,11 +966,11 @@
         "improvements": 10
       },
       {
-        "pilot": "DedalosFPV",
-        "improvements": 8
+        "pilot": "dimbazus",
+        "improvements": 9
       },
       {
-        "pilot": "dimbazus",
+        "pilot": "DedalosFPV",
         "improvements": 8
       },
       {
@@ -1055,6 +1055,13 @@
     ]
   },
   "improvements": [
+    {
+      "pilot": "dimbazus",
+      "track": "SimRushWeek6",
+      "time": 69.094,
+      "delta": 0.161,
+      "date": "2026-11-14T16:00:02+00:00"
+    },
     {
       "pilot": "dimbazus",
       "track": "SimRushWeek6",
@@ -3147,13 +3154,6 @@
       "time": 95.383,
       "delta": 52.616,
       "date": "2026-10-18T00:00:00+00:00"
-    },
-    {
-      "pilot": "dimbazus",
-      "track": "SimRushWeek3",
-      "time": 90.238,
-      "delta": 5.145,
-      "date": "2026-10-18T00:00:00+00:00"
     }
   ],
   "pilot_stats": {
@@ -3163,7 +3163,7 @@
       "best_improvement_pct": 5.43
     },
     "dimbazus": {
-      "pbs": 69,
+      "pbs": 70,
       "tracks_improved": 7,
       "best_improvement_pct": 10.05
     },
@@ -3251,7 +3251,7 @@
     {
       "leader": "Agorastos",
       "chaser": "dimbazus",
-      "gap": 0.616,
+      "gap": 0.455,
       "days": 6,
       "class": "5inch",
       "opened": false
@@ -3294,44 +3294,6 @@
   ],
   "track_reveal": null,
   "race_director_messages": [
-    {
-      "date": "2026-11-13T02:05:02+00:00",
-      "text": "[5inch] «SimRushWeek6»\n🧾 Ο λογαριασμός του **Cbeikos**: 62.212s — πληρωμή με χειροκρότημα! 👏\nΝταξ, το είδατε - τώρα πηγαίνετε να το φτιάξετε! 🛠️",
-      "tag": "announcement",
-      "id": "rd-c7d08a6d16",
-      "event_type": "unknown",
-      "category": "general",
-      "priority": "normal",
-      "pilots": [],
-      "pilot_ids": [],
-      "track": null,
-      "class": null,
-      "week": null,
-      "season": 2026,
-      "related_duel_id": null,
-      "metadata": {},
-      "created_at": "2026-11-13T02:05:02+00:00",
-      "expires_at": null
-    },
-    {
-      "date": "2026-11-13T06:05:03+00:00",
-      "text": "[5inch] «SimRushWeek6»\n🪂 Χαμηλό πέταγμα, υψηλή ταχύτητα: **tomahok** -> 62.672s στην «SimRushWeek6»!\nΗ πίστα γελάει με τους διστακτικούς! 😏",
-      "tag": "announcement",
-      "id": "rd-42540c9e52",
-      "event_type": "unknown",
-      "category": "general",
-      "priority": "normal",
-      "pilots": [],
-      "pilot_ids": [],
-      "track": null,
-      "class": null,
-      "week": null,
-      "season": 2026,
-      "related_duel_id": null,
-      "metadata": {},
-      "created_at": "2026-11-13T06:05:03+00:00",
-      "expires_at": null
-    },
     {
       "date": "2026-11-13T06:05:05+00:00",
       "text": "🪢 Δεμένοι με σχοινί: Cbeikos - @tomahok σε απόσταση 0.460s!",
@@ -3673,6 +3635,44 @@
       "metadata": {},
       "created_at": "2026-11-14T13:50:04+00:00",
       "expires_at": null
+    },
+    {
+      "date": "2026-11-14T14:00:04+00:00",
+      "text": "[5inch] «SimRushWeek6»\n📯 Τρομπέτα ηχούν: ο **dimbazus** πέρασε με 69.094s! Ξύπνησαν και τα πουλιά! 🐦",
+      "tag": "announcement",
+      "id": "rd-894d3c3705",
+      "event_type": "unknown",
+      "category": "general",
+      "priority": "normal",
+      "pilots": [],
+      "pilot_ids": [],
+      "track": null,
+      "class": null,
+      "week": null,
+      "season": 2026,
+      "related_duel_id": null,
+      "metadata": {},
+      "created_at": "2026-11-14T14:00:04+00:00",
+      "expires_at": null
+    },
+    {
+      "date": "2026-11-14T14:00:12+00:00",
+      "text": "🍿 Ποπ-κορν έτοιμο: @dimbazus vs Agorastos, διαφορά 0.455s!",
+      "tag": "announcement",
+      "id": "rd-1a584ba498",
+      "event_type": "unknown",
+      "category": "general",
+      "priority": "normal",
+      "pilots": [],
+      "pilot_ids": [],
+      "track": null,
+      "class": null,
+      "week": null,
+      "season": 2026,
+      "related_duel_id": null,
+      "metadata": {},
+      "created_at": "2026-11-14T14:00:12+00:00",
+      "expires_at": null
     }
   ],
   "avatars": {},
@@ -3878,13 +3878,13 @@
         "previous_position": 7,
         "position_change": 0,
         "comparison_period": "previous_24h",
-        "best_time": 69.255,
-        "previous_best_time": 71.937,
-        "time_improvement": 2.682,
+        "best_time": 69.094,
+        "previous_best_time": 69.255,
+        "time_improvement": 0.161,
         "first_time": 100.746
       },
       "stats": {
-        "pbs": 69,
+        "pbs": 70,
         "tracks_improved": 7,
         "best_improvement_pct": 10.05
       }
@@ -4298,7 +4298,7 @@
           {
             "pilot_id": "dimbazus",
             "callsign": "dimbazus",
-            "value": 69
+            "value": 70
           }
         ]
       },

@@ -1,6 +1,6 @@
 {
   "schema_version": "2.1",
-  "generated_at": "2026-11-14T03:50:02+00:00",
+  "generated_at": "2026-11-14T03:55:02+00:00",
   "season": 2026,
   "current_track": "SimRushWeek6",
   "week_no": 6,
@@ -855,8 +855,8 @@
         "prev_time": 64.43,
         "improvements": 5,
         "user_id": 258063,
-        "pos_24h": 5,
-        "pos_change_24h": 1
+        "pos_24h": 4,
+        "pos_change_24h": 0
       },
       {
         "pilot": "tomahok",
@@ -867,8 +867,8 @@
         "prev_time": 65.104,
         "improvements": 9,
         "user_id": 17641,
-        "pos_24h": 4,
-        "pos_change_24h": -1
+        "pos_24h": 5,
+        "pos_change_24h": 0
       },
       {
         "pilot": "dimbazus",
@@ -946,7 +946,7 @@
     "hours_at_top": {
       "Agorastos": 1.33,
       "DedalosFPV": 45.08,
-      "ZOUP": 106.92
+      "ZOUP": 107.0
     },
     "race_to_top": [
       {
@@ -3800,8 +3800,8 @@
         "track": "SimRushWeek6",
         "class": "5inch",
         "current_position": 4,
-        "previous_position": 5,
-        "position_change": 1,
+        "previous_position": 4,
+        "position_change": 0,
         "comparison_period": "previous_24h",
         "best_time": 62.212,
         "previous_best_time": 64.43,
@@ -4133,8 +4133,8 @@
         "track": "SimRushWeek6",
         "class": "5inch",
         "current_position": 5,
-        "previous_position": 4,
-        "position_change": -1,
+        "previous_position": 5,
+        "position_change": 0,
         "comparison_period": "previous_24h",
         "best_time": 62.672,
         "previous_best_time": 65.104,

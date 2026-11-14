@@ -1,6 +1,6 @@
 {
   "schema_version": "2.1",
-  "generated_at": "2026-11-14T18:20:03+00:00",
+  "generated_at": "2026-11-14T18:25:02+00:00",
   "season": 2026,
   "current_track": "SimRushWeek7",
   "week_no": 7,
@@ -3166,25 +3166,6 @@
   "track_reveal": null,
   "race_director_messages": [
     {
-      "date": "2026-11-13T21:30:04+00:00",
-      "text": "[5inch] «SimRushWeek6»\n🪶 Ελαφρύς σαν φτερό ο **Liapos**: 76.027s στην «SimRushWeek6»!",
-      "tag": "announcement",
-      "id": "rd-f8d92895c7",
-      "event_type": "unknown",
-      "category": "general",
-      "priority": "normal",
-      "pilots": [],
-      "pilot_ids": [],
-      "track": null,
-      "class": null,
-      "week": null,
-      "season": 2026,
-      "related_duel_id": null,
-      "metadata": {},
-      "created_at": "2026-11-13T21:30:04+00:00",
-      "expires_at": null
-    },
-    {
       "date": "2026-11-14T02:05:05+00:00",
       "text": "[5inch] «SimRushWeek6»\n📦 Παράδοση σε record time: **dimbazus** έφερε 75.695s — πεντάστερη κριτική! ⭐",
       "tag": "announcement",
@@ -3543,6 +3524,25 @@
       "related_duel_id": null,
       "metadata": {},
       "created_at": "2026-11-14T18:16:50+00:00",
+      "expires_at": null
+    },
+    {
+      "date": "2026-11-14T18:20:33+00:00",
+      "text": "🎖️ Τίτλοι εβδομάδας\n🏆 Week Champion — **ZOUP** · πήρε το στέμμα της εβδομάδας — όλοι οι υπόλοιποι να το ζητήσουν σε ρεβάνς! 👑\n🟢 PB Machine — **DedalosFPV** · εργοστάσιο προσωπικών ρεκόρ — δουλεύει και υπερωρίες! 🏭\n🔵 Rising Star — **TettixPro** · ανέτειλε σαν πύραυλος — 15%+ βελτίωση και δεν τελείωσε ακόμα! 🚀\n🟢 PB Machine — **Cbeikos** · κουρεύει χρόνο με το κιλό — ζύγισέ τον! ⚖️\n🟢 PB Machine — **tomahok** · εργοστάσιο προσωπικών ρεκόρ — δουλεύει και υπερωρίες! 🏭\n🟢 PB Machine — **dimbazus** · εργοστάσιο προσωπικών ρεκόρ — δουλεύει και υπερωρίες! 🏭\n🟢 PB Machine — **Agorastos** · εργοστάσιο προσωπικών ρεκόρ — δουλεύει και υπερωρίες! 🏭\n🟢 PB Machine — **Liapos** · εργοστάσιο προσωπικών ρεκόρ — δουλεύει και υπερωρίες! 🏭\n🟢 PB Machine — **Pontikos** · εργοστάσιο προσωπικών ρεκόρ — δουλεύει και υπερωρίες! 🏭\n🟢 PB Machine — **fpvchucky** · κουρεύει χρόνο με το κιλό — ζύγισέ τον! ⚖️",
+      "tag": "announcement",
+      "id": "rd-666739c152",
+      "event_type": "unknown",
+      "category": "general",
+      "priority": "normal",
+      "pilots": [],
+      "pilot_ids": [],
+      "track": null,
+      "class": null,
+      "week": null,
+      "season": 2026,
+      "related_duel_id": null,
+      "metadata": {},
+      "created_at": "2026-11-14T18:20:33+00:00",
       "expires_at": null
     }
   ],

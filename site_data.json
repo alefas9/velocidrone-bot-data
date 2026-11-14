@@ -1,6 +1,6 @@
 {
   "schema_version": "2.1",
-  "generated_at": "2026-11-14T22:05:02+00:00",
+  "generated_at": "2026-11-14T22:10:02+00:00",
   "season": 2026,
   "current_track": "SimRushWeek7",
   "week_no": 7,
@@ -28,7 +28,7 @@
       },
       {
         "pilot": "Agorastos",
-        "time": 115.277,
+        "time": 101.721,
         "quad": "Carbix Zero",
         "pilot_id": "agorastos"
       }
@@ -919,17 +919,17 @@
         "pilot": "Agorastos",
         "class": "5inch",
         "pos": 4,
-        "time": 115.277,
+        "time": 101.721,
         "first_time": 126.207,
-        "prev_time": 126.207,
-        "improvements": 2,
+        "prev_time": 115.277,
+        "improvements": 3,
         "user_id": 128161,
         "pos_24h": null,
         "pos_change_24h": null
       }
     ],
     "hours_at_top": {
-      "DedalosFPV": -0.75
+      "DedalosFPV": -0.67
     },
     "race_to_top": [
       {
@@ -938,7 +938,7 @@
       },
       {
         "pilot": "Agorastos",
-        "improvements": 2
+        "improvements": 3
       },
       {
         "pilot": "Cbeikos",
@@ -1006,6 +1006,13 @@
     ]
   },
   "improvements": [
+    {
+      "pilot": "Agorastos",
+      "track": "SimRushWeek7",
+      "time": 101.721,
+      "delta": 13.556,
+      "date": "2026-11-15T00:05:02+00:00"
+    },
     {
       "pilot": "Agorastos",
       "track": "SimRushWeek7",
@@ -3098,13 +3105,6 @@
       "time": 45.607,
       "delta": null,
       "date": "2026-10-20T00:00:00+00:00"
-    },
-    {
-      "pilot": "ZOUP",
-      "track": "SimRushWeek3",
-      "time": 43.452,
-      "delta": 2.155,
-      "date": "2026-10-20T00:00:00+00:00"
     }
   ],
   "pilot_stats": {
@@ -3129,9 +3129,9 @@
       "best_improvement_pct": 11.06
     },
     "Agorastos": {
-      "pbs": 70,
+      "pbs": 71,
       "tracks_improved": 8,
-      "best_improvement_pct": 8.66
+      "best_improvement_pct": 11.76
     },
     "tomahok": {
       "pbs": 35,
@@ -3247,25 +3247,6 @@
   ],
   "track_reveal": null,
   "race_director_messages": [
-    {
-      "date": "2026-11-14T13:45:08+00:00",
-      "text": "[5inch] «SimRushWeek6»\n🧨 Έσκασε το χρονόμετρο ο **Agorastos**: 68.639s στην «SimRushWeek6»!\nΚανείς δεν είναι ασφαλής! 😤",
-      "tag": "announcement",
-      "id": "rd-62952e84d9",
-      "event_type": "unknown",
-      "category": "general",
-      "priority": "normal",
-      "pilots": [],
-      "pilot_ids": [],
-      "track": null,
-      "class": null,
-      "week": null,
-      "season": 2026,
-      "related_duel_id": null,
-      "metadata": {},
-      "created_at": "2026-11-14T13:45:08+00:00",
-      "expires_at": null
-    },
     {
       "date": "2026-11-14T13:50:04+00:00",
       "text": "[5inch] «SimRushWeek6»\n🍳 Ο **dimbazus** μαγείρεψε: 69.255s στην «SimRushWeek6» - σερβίρεται καυτό!",
@@ -3626,6 +3607,25 @@
       "metadata": {},
       "created_at": "2026-11-14T21:55:03+00:00",
       "expires_at": null
+    },
+    {
+      "date": "2026-11-14T22:05:03+00:00",
+      "text": "[5inch] «SimRushWeek7»\n🎻 Βιολί δεύτερο: ο **Agorastos** συνοδεύει την ορχήστρα με 101.721s! 🎼\nΠοιος θα τον καθίσει; 👀",
+      "tag": "announcement",
+      "id": "rd-5c53c397c7",
+      "event_type": "unknown",
+      "category": "general",
+      "priority": "normal",
+      "pilots": [],
+      "pilot_ids": [],
+      "track": null,
+      "class": null,
+      "week": null,
+      "season": 2026,
+      "related_duel_id": null,
+      "metadata": {},
+      "created_at": "2026-11-14T22:05:03+00:00",
+      "expires_at": null
     }
   ],
   "avatars": {},
@@ -3724,15 +3724,15 @@
         "previous_position": null,
         "position_change": null,
         "comparison_period": null,
-        "best_time": 115.277,
-        "previous_best_time": 126.207,
-        "time_improvement": 10.93,
+        "best_time": 101.721,
+        "previous_best_time": 115.277,
+        "time_improvement": 13.556,
         "first_time": 126.207
       },
       "stats": {
-        "pbs": 70,
+        "pbs": 71,
         "tracks_improved": 8,
-        "best_improvement_pct": 8.66
+        "best_improvement_pct": 11.76
       }
     },
     "anthunder": {
@@ -4229,6 +4229,11 @@
         "key": "most_pbs",
         "title": "Περισσότερα προσωπικά ρεκόρ",
         "holders": [
+          {
+            "pilot_id": "agorastos",
+            "callsign": "Agorastos",
+            "value": 71
+          },
           {
             "pilot_id": "dimbazus",
             "callsign": "dimbazus",

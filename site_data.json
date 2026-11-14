@@ -1,6 +1,6 @@
 {
   "schema_version": "2.1",
-  "generated_at": "2026-11-14T22:40:03+00:00",
+  "generated_at": "2026-11-14T22:45:03+00:00",
   "season": 2026,
   "current_track": "SimRushWeek7",
   "week_no": 7,
@@ -929,7 +929,7 @@
       }
     ],
     "hours_at_top": {
-      "DedalosFPV": -0.17
+      "DedalosFPV": -0.08
     },
     "race_to_top": [
       {

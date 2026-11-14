@@ -1,6 +1,6 @@
 {
   "schema_version": "2.1",
-  "generated_at": "2026-11-14T18:10:02+00:00",
+  "generated_at": "2026-11-14T18:15:02+00:00",
   "season": 2026,
   "current_track": "SimRushWeek7",
   "week_no": 7,
@@ -3547,7 +3547,74 @@
     }
   ],
   "avatars": {},
-  "weekly_titles": [],
+  "weekly_titles": [
+    {
+      "week": "SimRushWeek6",
+      "awarded_at": "2026-11-14T20:14:31+02:00",
+      "titles": [
+        {
+          "pilot": "ZOUP",
+          "pilot_id": "zoup",
+          "title": "Week Champion",
+          "desc": "πρωταθλητής εβδομάδας"
+        },
+        {
+          "pilot": "DedalosFPV",
+          "pilot_id": "dedalosfpv",
+          "title": "PB Machine",
+          "desc": "5+ βελτιώσεις στην πίστα"
+        },
+        {
+          "pilot": "TettixPro",
+          "pilot_id": "tettixpro",
+          "title": "Rising Star",
+          "desc": "βελτίωση 15%+ στην πίστα"
+        },
+        {
+          "pilot": "Cbeikos",
+          "pilot_id": "cbeikos",
+          "title": "PB Machine",
+          "desc": "5+ βελτιώσεις στην πίστα"
+        },
+        {
+          "pilot": "tomahok",
+          "pilot_id": "tomahok",
+          "title": "PB Machine",
+          "desc": "5+ βελτιώσεις στην πίστα"
+        },
+        {
+          "pilot": "dimbazus",
+          "pilot_id": "dimbazus",
+          "title": "PB Machine",
+          "desc": "5+ βελτιώσεις στην πίστα"
+        },
+        {
+          "pilot": "Agorastos",
+          "pilot_id": "agorastos",
+          "title": "PB Machine",
+          "desc": "5+ βελτιώσεις στην πίστα"
+        },
+        {
+          "pilot": "Liapos",
+          "pilot_id": "liapos",
+          "title": "PB Machine",
+          "desc": "5+ βελτιώσεις στην πίστα"
+        },
+        {
+          "pilot": "Pontikos",
+          "pilot_id": "pontikos",
+          "title": "PB Machine",
+          "desc": "5+ βελτιώσεις στην πίστα"
+        },
+        {
+          "pilot": "fpvchucky",
+          "pilot_id": "fpvchucky",
+          "title": "PB Machine",
+          "desc": "5+ βελτιώσεις στην πίστα"
+        }
+      ]
+    }
+  ],
   "pilots": {
     "agorastos": {
       "pilot_id": "agorastos",

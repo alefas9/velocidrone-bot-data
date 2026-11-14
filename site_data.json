@@ -1,6 +1,6 @@
 {
   "schema_version": "2.1",
-  "generated_at": "2026-11-14T20:35:02+00:00",
+  "generated_at": "2026-11-14T20:40:02+00:00",
   "season": 2026,
   "current_track": "SimRushWeek7",
   "week_no": 7,
@@ -19,6 +19,12 @@
         "time": 82.126,
         "quad": "Bahamut",
         "pilot_id": "cbeikos"
+      },
+      {
+        "pilot": "DedalosFPV",
+        "time": 110.979,
+        "quad": "Bahamut",
+        "pilot_id": "dedalosfpv"
       }
     ]
   },
@@ -890,12 +896,28 @@
         "user_id": 258063,
         "pos_24h": null,
         "pos_change_24h": null
+      },
+      {
+        "pilot": "DedalosFPV",
+        "class": "5inch",
+        "pos": 3,
+        "time": 110.979,
+        "first_time": 110.979,
+        "prev_time": null,
+        "improvements": 1,
+        "user_id": 387184,
+        "pos_24h": null,
+        "pos_change_24h": null
       }
     ],
     "hours_at_top": {},
     "race_to_top": [
       {
         "pilot": "Cbeikos",
+        "improvements": 1
+      },
+      {
+        "pilot": "DedalosFPV",
         "improvements": 1
       }
     ]
@@ -960,6 +982,13 @@
     ]
   },
   "improvements": [
+    {
+      "pilot": "DedalosFPV",
+      "track": "SimRushWeek7",
+      "time": 110.979,
+      "delta": null,
+      "date": "2026-11-14T22:35:02+00:00"
+    },
     {
       "pilot": "Cbeikos",
       "track": "SimRushWeek7",
@@ -3052,13 +3081,6 @@
       "time": 63.578,
       "delta": 3.896,
       "date": "2026-10-19T00:00:00+00:00"
-    },
-    {
-      "pilot": "Exo_FPV",
-      "track": "SimRushWeek3",
-      "time": 47.024,
-      "delta": null,
-      "date": "2026-10-19T00:00:00+00:00"
     }
   ],
   "pilot_stats": {
@@ -3093,8 +3115,8 @@
       "best_improvement_pct": 33.6
     },
     "DedalosFPV": {
-      "pbs": 61,
-      "tracks_improved": 7,
+      "pbs": 62,
+      "tracks_improved": 8,
       "best_improvement_pct": 29.25
     },
     "fpvchucky": {
@@ -3188,25 +3210,6 @@
   ],
   "track_reveal": null,
   "race_director_messages": [
-    {
-      "date": "2026-11-14T02:05:15+00:00",
-      "text": "🚤 Πλάι-πλάι στον αέρα: dimbazus vs @Liapos, 0.332s - ποιος θα πάρει το κύμα;",
-      "tag": "announcement",
-      "id": "rd-d8052a6c5c",
-      "event_type": "unknown",
-      "category": "general",
-      "priority": "normal",
-      "pilots": [],
-      "pilot_ids": [],
-      "track": null,
-      "class": null,
-      "week": null,
-      "season": 2026,
-      "related_duel_id": null,
-      "metadata": {},
-      "created_at": "2026-11-14T02:05:15+00:00",
-      "expires_at": null
-    },
     {
       "date": "2026-11-14T02:40:04+00:00",
       "text": "[5inch] «SimRushWeek6»\n🌊 Κύμα βελτίωσης για τον **dimbazus**: 71.937s στην «SimRushWeek6»!",
@@ -3567,6 +3570,25 @@
       "metadata": {},
       "created_at": "2026-11-14T19:10:05+00:00",
       "expires_at": null
+    },
+    {
+      "date": "2026-11-14T20:35:03+00:00",
+      "text": "[5inch] «SimRushWeek7»\n🧑‍🚒 Φωτιά στα props, ΟΧΙ στη μπαταρία: **DedalosFPV** με 110.979s!",
+      "tag": "announcement",
+      "id": "rd-ab56a78bba",
+      "event_type": "unknown",
+      "category": "general",
+      "priority": "normal",
+      "pilots": [],
+      "pilot_ids": [],
+      "track": null,
+      "class": null,
+      "week": null,
+      "season": 2026,
+      "related_duel_id": null,
+      "metadata": {},
+      "created_at": "2026-11-14T20:35:03+00:00",
+      "expires_at": null
     }
   ],
   "avatars": {},
@@ -3773,10 +3795,21 @@
         "comparison_period": "previous_completed_week",
         "comparison_reference": "SimRushWeek6"
       },
-      "current_week": null,
+      "current_week": {
+        "track": "SimRushWeek7",
+        "class": "5inch",
+        "current_position": 3,
+        "previous_position": null,
+        "position_change": null,
+        "comparison_period": null,
+        "best_time": 110.979,
+        "previous_best_time": null,
+        "time_improvement": null,
+        "first_time": 110.979
+      },
       "stats": {
-        "pbs": 61,
-        "tracks_improved": 7,
+        "pbs": 62,
+        "tracks_improved": 8,
         "best_improvement_pct": 29.25
       }
     },

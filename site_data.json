@@ -1,6 +1,6 @@
 {
   "schema_version": "2.1",
-  "generated_at": "2026-11-14T03:30:02+00:00",
+  "generated_at": "2026-11-14T03:35:02+00:00",
   "season": 2026,
   "current_track": "SimRushWeek6",
   "week_no": 6,
@@ -855,8 +855,8 @@
         "prev_time": 64.43,
         "improvements": 5,
         "user_id": 258063,
-        "pos_24h": null,
-        "pos_change_24h": null
+        "pos_24h": 9,
+        "pos_change_24h": 5
       },
       {
         "pilot": "tomahok",
@@ -927,8 +927,8 @@
         "prev_time": 111.595,
         "improvements": 11,
         "user_id": 451407,
-        "pos_24h": 9,
-        "pos_change_24h": -1
+        "pos_24h": 10,
+        "pos_change_24h": 0
       },
       {
         "pilot": "Bakarim",
@@ -939,14 +939,14 @@
         "prev_time": 240.339,
         "improvements": 2,
         "user_id": 418059,
-        "pos_24h": 10,
-        "pos_change_24h": -1
+        "pos_24h": 11,
+        "pos_change_24h": 0
       }
     ],
     "hours_at_top": {
       "Agorastos": 1.33,
       "DedalosFPV": 45.08,
-      "ZOUP": 106.58
+      "ZOUP": 106.67
     },
     "race_to_top": [
       {
@@ -3763,8 +3763,8 @@
         "track": "SimRushWeek6",
         "class": "5inch",
         "current_position": 11,
-        "previous_position": 10,
-        "position_change": -1,
+        "previous_position": 11,
+        "position_change": 0,
         "comparison_period": "previous_24h",
         "best_time": 206.23,
         "previous_best_time": 240.339,
@@ -3800,9 +3800,9 @@
         "track": "SimRushWeek6",
         "class": "5inch",
         "current_position": 4,
-        "previous_position": null,
-        "position_change": null,
-        "comparison_period": null,
+        "previous_position": 9,
+        "position_change": 5,
+        "comparison_period": "previous_24h",
         "best_time": 62.212,
         "previous_best_time": 64.43,
         "time_improvement": 2.218,
@@ -3937,8 +3937,8 @@
         "track": "SimRushWeek6",
         "class": "5inch",
         "current_position": 10,
-        "previous_position": 9,
-        "position_change": -1,
+        "previous_position": 10,
+        "position_change": 0,
         "comparison_period": "previous_24h",
         "best_time": 104.257,
         "previous_best_time": 111.595,

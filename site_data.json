@@ -1,6 +1,6 @@
 {
   "schema_version": "2.1",
-  "generated_at": "2026-11-15T14:05:02+00:00",
+  "generated_at": "2026-11-15T15:20:03+00:00",
   "season": 2026,
   "current_track": "SimRushWeek7",
   "week_no": 7,
@@ -965,7 +965,7 @@
       }
     ],
     "hours_at_top": {
-      "DedalosFPV": 15.25
+      "DedalosFPV": 17.08
     },
     "race_to_top": [
       {
@@ -3239,8 +3239,9 @@
     "criteria": {
       "top_n": 8,
       "min_pb_events": 3,
-      "rule": "Μεγαλύτερη % βελτίωση μεταξύ πιλότων του top-8 με >= 3 PBs στην πίστα (A5)."
-    }
+      "rule": "Μεγαλύτερη % βελτίωση μεταξύ πιλότων του top-8 με >= 3 PBs στην πίστα."
+    },
+    "week": 7
   },
   "hot_battles": [
     {
@@ -3269,15 +3270,6 @@
       "class": "5inch",
       "opened": true,
       "was_gap": 0.893
-    },
-    {
-      "leader": "TettixPro",
-      "chaser": "DedalosFPV",
-      "gap": 1.554,
-      "days": 0,
-      "class": "5inch",
-      "opened": true,
-      "was_gap": 1.554
     },
     {
       "leader": "dimbazus",

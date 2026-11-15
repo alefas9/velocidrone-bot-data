@@ -1,6 +1,6 @@
 {
   "schema_version": "2.1",
-  "generated_at": "2026-11-15T11:05:02+00:00",
+  "generated_at": "2026-11-15T11:10:03+00:00",
   "season": 2026,
   "current_track": "SimRushWeek7",
   "week_no": 7,
@@ -27,16 +27,16 @@
         "pilot_id": "cbeikos"
       },
       {
+        "pilot": "dimbazus",
+        "time": 97.804,
+        "quad": "Bahamut",
+        "pilot_id": "dimbazus"
+      },
+      {
         "pilot": "Agorastos",
         "time": 99.853,
         "quad": "Carbix Zero",
         "pilot_id": "agorastos"
-      },
-      {
-        "pilot": "dimbazus",
-        "time": 100.97,
-        "quad": "Bahamut",
-        "pilot_id": "dimbazus"
       }
     ]
   },
@@ -922,9 +922,21 @@
         "pos_change_24h": null
       },
       {
-        "pilot": "Agorastos",
+        "pilot": "dimbazus",
         "class": "5inch",
         "pos": 4,
+        "time": 97.804,
+        "first_time": 108.734,
+        "prev_time": 100.97,
+        "improvements": 3,
+        "user_id": 309918,
+        "pos_24h": null,
+        "pos_change_24h": null
+      },
+      {
+        "pilot": "Agorastos",
+        "class": "5inch",
+        "pos": 5,
         "time": 99.853,
         "first_time": 126.207,
         "prev_time": 101.721,
@@ -932,22 +944,10 @@
         "user_id": 128161,
         "pos_24h": null,
         "pos_change_24h": null
-      },
-      {
-        "pilot": "dimbazus",
-        "class": "5inch",
-        "pos": 5,
-        "time": 100.97,
-        "first_time": 108.734,
-        "prev_time": 108.734,
-        "improvements": 2,
-        "user_id": 309918,
-        "pos_24h": null,
-        "pos_change_24h": null
       }
     ],
     "hours_at_top": {
-      "DedalosFPV": 12.25
+      "DedalosFPV": 12.33
     },
     "race_to_top": [
       {
@@ -964,7 +964,7 @@
       },
       {
         "pilot": "dimbazus",
-        "improvements": 2
+        "improvements": 3
       }
     ]
   },
@@ -1028,6 +1028,13 @@
     ]
   },
   "improvements": [
+    {
+      "pilot": "dimbazus",
+      "track": "SimRushWeek7",
+      "time": 97.804,
+      "delta": 3.166,
+      "date": "2026-11-15T13:05:02+00:00"
+    },
     {
       "pilot": "dimbazus",
       "track": "SimRushWeek7",
@@ -3120,13 +3127,6 @@
       "time": 272.859,
       "delta": null,
       "date": "2026-10-22T00:00:00+00:00"
-    },
-    {
-      "pilot": "dimbazus",
-      "track": "SimRushWeek3",
-      "time": 69.192,
-      "delta": 0.267,
-      "date": "2026-10-22T00:00:00+00:00"
     }
   ],
   "pilot_stats": {
@@ -3136,7 +3136,7 @@
       "best_improvement_pct": 5.43
     },
     "dimbazus": {
-      "pbs": 73,
+      "pbs": 74,
       "tracks_improved": 8,
       "best_improvement_pct": 10.05
     },
@@ -3232,10 +3232,11 @@
     {
       "leader": "Agorastos",
       "chaser": "dimbazus",
-      "gap": 1.117,
-      "days": 7,
+      "gap": 0.053,
+      "days": 0,
       "class": "5inch",
-      "opened": false
+      "opened": true,
+      "was_gap": 0.053
     },
     {
       "leader": "Cbeikos",
@@ -3247,15 +3248,6 @@
       "was_gap": 0.46
     },
     {
-      "leader": "dimbazus",
-      "chaser": "Agorastos",
-      "gap": 0.629,
-      "days": 0,
-      "class": "5inch",
-      "opened": true,
-      "was_gap": 0.629
-    },
-    {
       "leader": "DedalosFPV",
       "chaser": "TettixPro",
       "gap": 0.893,
@@ -3263,29 +3255,19 @@
       "class": "5inch",
       "opened": true,
       "was_gap": 0.893
+    },
+    {
+      "leader": "Agorastos",
+      "chaser": "Liapos",
+      "gap": 0.947,
+      "days": 0,
+      "class": "5inch",
+      "opened": true,
+      "was_gap": 0.947
     }
   ],
   "track_reveal": null,
   "race_director_messages": [
-    {
-      "date": "2026-11-14T16:06:03+00:00",
-      "text": "🌟 Πιλότος της εβδομάδας\n**fpvchucky** — μεγαλύτερη βελτίωμα σεζόν: **+10.2%** (116.136s → 104.257s)\nΣε σχέση με την προηγούμενη εβδομάδα (SimRushWeek-5)",
-      "tag": "announcement",
-      "id": "rd-df61534c88",
-      "event_type": "unknown",
-      "category": "general",
-      "priority": "normal",
-      "pilots": [],
-      "pilot_ids": [],
-      "track": null,
-      "class": null,
-      "week": null,
-      "season": 2026,
-      "related_duel_id": null,
-      "metadata": {},
-      "created_at": "2026-11-14T16:06:03+00:00",
-      "expires_at": null
-    },
     {
       "date": "2026-11-14T17:50:13+00:00",
       "text": "📢 Άνοιξε ο διάδρομος: «SimRushWeek7»! Καλημέρα και καλές προσγειώσεις! 🛬\n(Auto Leaderboard Upload: ON)",
@@ -3646,6 +3628,25 @@
       "metadata": {},
       "created_at": "2026-11-15T11:00:04+00:00",
       "expires_at": null
+    },
+    {
+      "date": "2026-11-15T11:05:04+00:00",
+      "text": "[5inch] «SimRushWeek7»\n🪜 Σκάλα ανέβηκε ο **dimbazus**: 97.804s - οι σκαλωσιές έπεσαν πίσω του!",
+      "tag": "announcement",
+      "id": "rd-0e7a0c8cc4",
+      "event_type": "unknown",
+      "category": "general",
+      "priority": "normal",
+      "pilots": [],
+      "pilot_ids": [],
+      "track": null,
+      "class": null,
+      "week": null,
+      "season": 2026,
+      "related_duel_id": null,
+      "metadata": {},
+      "created_at": "2026-11-15T11:05:04+00:00",
+      "expires_at": null
     }
   ],
   "avatars": {},
@@ -3740,7 +3741,7 @@
       "current_week": {
         "track": "SimRushWeek7",
         "class": "5inch",
-        "current_position": 4,
+        "current_position": 5,
         "previous_position": null,
         "position_change": null,
         "comparison_period": null,
@@ -3903,17 +3904,17 @@
       "current_week": {
         "track": "SimRushWeek7",
         "class": "5inch",
-        "current_position": 5,
+        "current_position": 4,
         "previous_position": null,
         "position_change": null,
         "comparison_period": null,
-        "best_time": 100.97,
-        "previous_best_time": 108.734,
-        "time_improvement": 7.764,
+        "best_time": 97.804,
+        "previous_best_time": 100.97,
+        "time_improvement": 3.166,
         "first_time": 108.734
       },
       "stats": {
-        "pbs": 73,
+        "pbs": 74,
         "tracks_improved": 8,
         "best_improvement_pct": 10.05
       }
@@ -4263,7 +4264,7 @@
           {
             "pilot_id": "dimbazus",
             "callsign": "dimbazus",
-            "value": 73
+            "value": 74
           }
         ]
       },

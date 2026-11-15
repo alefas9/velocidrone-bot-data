@@ -1,6 +1,6 @@
 {
   "schema_version": "2.1",
-  "generated_at": "2026-11-15T11:10:03+00:00",
+  "generated_at": "2026-11-15T11:15:02+00:00",
   "season": 2026,
   "current_track": "SimRushWeek7",
   "week_no": 7,
@@ -22,7 +22,7 @@
       },
       {
         "pilot": "Cbeikos",
-        "time": 75.02,
+        "time": 74.877,
         "quad": "Bahamut",
         "pilot_id": "cbeikos"
       },
@@ -913,10 +913,10 @@
         "pilot": "Cbeikos",
         "class": "5inch",
         "pos": 3,
-        "time": 75.02,
+        "time": 74.877,
         "first_time": 82.126,
-        "prev_time": 78.991,
-        "improvements": 3,
+        "prev_time": 75.02,
+        "improvements": 4,
         "user_id": 258063,
         "pos_24h": null,
         "pos_change_24h": null
@@ -947,7 +947,7 @@
       }
     ],
     "hours_at_top": {
-      "DedalosFPV": 12.33
+      "DedalosFPV": 12.42
     },
     "race_to_top": [
       {
@@ -955,12 +955,12 @@
         "improvements": 7
       },
       {
-        "pilot": "Agorastos",
+        "pilot": "Cbeikos",
         "improvements": 4
       },
       {
-        "pilot": "Cbeikos",
-        "improvements": 3
+        "pilot": "Agorastos",
+        "improvements": 4
       },
       {
         "pilot": "dimbazus",
@@ -1028,6 +1028,13 @@
     ]
   },
   "improvements": [
+    {
+      "pilot": "Cbeikos",
+      "track": "SimRushWeek7",
+      "time": 74.877,
+      "delta": 0.143,
+      "date": "2026-11-15T13:10:02+00:00"
+    },
     {
       "pilot": "dimbazus",
       "track": "SimRushWeek7",
@@ -3120,13 +3127,6 @@
       "time": 149.462,
       "delta": 7.07,
       "date": "2026-10-22T00:00:00+00:00"
-    },
-    {
-      "pilot": "Bakarim",
-      "track": "SimRushWeek3",
-      "time": 272.859,
-      "delta": null,
-      "date": "2026-10-22T00:00:00+00:00"
     }
   ],
   "pilot_stats": {
@@ -3181,7 +3181,7 @@
       "best_improvement_pct": null
     },
     "Cbeikos": {
-      "pbs": 45,
+      "pbs": 46,
       "tracks_improved": 6,
       "best_improvement_pct": 20.38
     },
@@ -3224,7 +3224,7 @@
     {
       "leader": "tomahok",
       "chaser": "Cbeikos",
-      "gap": 1.111,
+      "gap": 0.968,
       "days": 0,
       "class": "5inch",
       "opened": false
@@ -3268,25 +3268,6 @@
   ],
   "track_reveal": null,
   "race_director_messages": [
-    {
-      "date": "2026-11-14T17:50:13+00:00",
-      "text": "📢 Άνοιξε ο διάδρομος: «SimRushWeek7»! Καλημέρα και καλές προσγειώσεις! 🛬\n(Auto Leaderboard Upload: ON)",
-      "tag": "announcement",
-      "id": "rd-81cce15877",
-      "event_type": "unknown",
-      "category": "general",
-      "priority": "normal",
-      "pilots": [],
-      "pilot_ids": [],
-      "track": null,
-      "class": null,
-      "week": null,
-      "season": 2026,
-      "related_duel_id": null,
-      "metadata": {},
-      "created_at": "2026-11-14T17:50:13+00:00",
-      "expires_at": null
-    },
     {
       "date": "2026-11-14T18:16:50+00:00",
       "text": "🎖️ Τίτλοι εβδομάδας\n🏆 Week Champion — @ZOUP · νικητής του τεμαχίου — τα λέει το ταμείο! 🎰\n🟢 PB Machine — @DedalosFPV · κουρεύει χρόνο με το κιλό — ζύγισέ τον! ⚖️\n🔵 Rising Star — @TettixPro · από το καλάθι των αχρήστων κατευθείαν στα φώτα! 🔦\n🟢 PB Machine — @Cbeikos · σπάει τον εαυτό του σαν αυγά — 5+ φορές μέσα στην εβδομάδα! 🥚\n🟢 PB Machine — @tomahok · σπάει τον εαυτό του σαν αυγά — 5+ φορές μέσα στην εβδομάδα! 🥚\n🟢 PB Machine — @dimbazus · εργοστάσιο προσωπικών ρεκόρ — δουλεύει και υπερωρίες! 🏭\n🟢 PB Machine — @Agorastos · σπάει τον εαυτό του σαν αυγά — 5+ φορές μέσα στην εβδομάδα! 🥚\n🟢 PB Machine — @Liapos · σπάει τον εαυτό του σαν αυγά — 5+ φορές μέσα στην εβδομάδα! 🥚\n🟢 PB Machine — @pontikos · κουρεύει χρόνο με το κιλό — ζύγισέ τον! ⚖️\n🟢 PB Machine — @fpvchucky · κουρεύει χρόνο με το κιλό — ζύγισέ τον! ⚖️",
@@ -3647,6 +3628,25 @@
       "metadata": {},
       "created_at": "2026-11-15T11:05:04+00:00",
       "expires_at": null
+    },
+    {
+      "date": "2026-11-15T11:10:04+00:00",
+      "text": "[5inch] «SimRushWeek7»\n🧈 Βούτυρο στα γκάζια: **Cbeikos** -> 74.877s στην «SimRushWeek7»!",
+      "tag": "announcement",
+      "id": "rd-e4328f65f8",
+      "event_type": "unknown",
+      "category": "general",
+      "priority": "normal",
+      "pilots": [],
+      "pilot_ids": [],
+      "track": null,
+      "class": null,
+      "week": null,
+      "season": 2026,
+      "related_duel_id": null,
+      "metadata": {},
+      "created_at": "2026-11-15T11:10:04+00:00",
+      "expires_at": null
     }
   ],
   "avatars": {},
@@ -3834,13 +3834,13 @@
         "previous_position": null,
         "position_change": null,
         "comparison_period": null,
-        "best_time": 75.02,
-        "previous_best_time": 78.991,
-        "time_improvement": 3.971,
+        "best_time": 74.877,
+        "previous_best_time": 75.02,
+        "time_improvement": 0.143,
         "first_time": 82.126
       },
       "stats": {
-        "pbs": 45,
+        "pbs": 46,
         "tracks_improved": 6,
         "best_improvement_pct": 20.38
       }

@@ -9,7 +9,7 @@ const DATA_URL = "https://raw.githubusercontent.com/alefas9/velocidrone-bot-data
 
 const FALLBACK = {
   "schema_version": "2.1",
-  "generated_at": "2026-11-15T16:10:03+00:00",
+  "generated_at": "2026-11-15T16:14:49+00:00",
   "season": 2026,
   "current_track": "SimRushWeek7",
   "week_no": 7,
@@ -974,7 +974,7 @@ const FALLBACK = {
       }
     ],
     "hours_at_top": {
-      "DedalosFPV": 17.33
+      "DedalosFPV": 17.41
     },
     "race_to_top": [
       {
@@ -3677,67 +3677,31 @@ const FALLBACK = {
   "weekly_titles": [
     {
       "week": "SimRushWeek6",
-      "awarded_at": "2026-11-14T20:14:31+02:00",
+      "awarded_at": "2026-11-15T18:13:06.258290+02:00",
       "titles": [
         {
           "pilot": "ZOUP",
-          "pilot_id": "zoup",
+          "pilot_id": "693407689119891466",
           "title": "Week Champion",
           "desc": "πρωταθλητής εβδομάδας"
         },
         {
-          "pilot": "DedalosFPV",
-          "pilot_id": "dedalosfpv",
+          "pilot": "Agorastos",
+          "pilot_id": "232940749778452500",
           "title": "PB Machine",
           "desc": "5+ βελτιώσεις στην πίστα"
         },
         {
-          "pilot": "TettixPro",
-          "pilot_id": "tettixpro",
+          "pilot": "DedalosFPV",
+          "pilot_id": "414751212458606593",
           "title": "Rising Star",
           "desc": "βελτίωση 15%+ στην πίστα"
         },
         {
-          "pilot": "Cbeikos",
-          "pilot_id": "cbeikos",
-          "title": "PB Machine",
-          "desc": "5+ βελτιώσεις στην πίστα"
-        },
-        {
-          "pilot": "tomahok",
-          "pilot_id": "tomahok",
-          "title": "PB Machine",
-          "desc": "5+ βελτιώσεις στην πίστα"
-        },
-        {
-          "pilot": "dimbazus",
-          "pilot_id": "dimbazus",
-          "title": "PB Machine",
-          "desc": "5+ βελτιώσεις στην πίστα"
-        },
-        {
-          "pilot": "Agorastos",
-          "pilot_id": "agorastos",
-          "title": "PB Machine",
-          "desc": "5+ βελτιώσεις στην πίστα"
-        },
-        {
-          "pilot": "Liapos",
-          "pilot_id": "liapos",
-          "title": "PB Machine",
-          "desc": "5+ βελτιώσεις στην πίστα"
-        },
-        {
-          "pilot": "Pontikos",
-          "pilot_id": "pontikos",
-          "title": "PB Machine",
-          "desc": "5+ βελτιώσεις στην πίστα"
-        },
-        {
-          "pilot": "fpvchucky",
-          "pilot_id": "fpvchucky",
-          "title": "PB Machine",
-          "desc": "5+ βελτιώσεις στην πίστα"
+          "pilot": "TettixPro",
+          "pilot_id": "1313555867513389117",
+          "title": "Close Hunter",
+          "desc": "κυνήγησε την κορυφή — gap ≤1s"
         }
       ]
     }

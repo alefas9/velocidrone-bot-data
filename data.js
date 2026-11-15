@@ -9,7 +9,7 @@ const DATA_URL = "https://raw.githubusercontent.com/alefas9/velocidrone-bot-data
 
 const FALLBACK = {
   "schema_version": "2.1",
-  "generated_at": "2026-11-15T22:30:02+00:00",
+  "generated_at": "2026-11-15T22:35:02+00:00",
   "season": 2026,
   "current_track": "SimRushWeek7",
   "week_no": 7,
@@ -909,8 +909,8 @@ const FALLBACK = {
         "prev_time": 57.218,
         "improvements": 7,
         "user_id": 387184,
-        "pos_24h": null,
-        "pos_change_24h": null
+        "pos_24h": 2,
+        "pos_change_24h": 1
       },
       {
         "pilot": "Cbeikos",
@@ -974,7 +974,7 @@ const FALLBACK = {
       }
     ],
     "hours_at_top": {
-      "DedalosFPV": 23.67
+      "DedalosFPV": 23.75
     },
     "race_to_top": [
       {
@@ -3849,9 +3849,9 @@ const FALLBACK = {
         "track": "SimRushWeek7",
         "class": "5inch",
         "current_position": 1,
-        "previous_position": null,
-        "position_change": null,
-        "comparison_period": null,
+        "previous_position": 2,
+        "position_change": 1,
+        "comparison_period": "previous_24h",
         "best_time": 53.735,
         "previous_best_time": 57.218,
         "time_improvement": 3.483,

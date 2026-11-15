@@ -1,6 +1,6 @@
 {
   "schema_version": "2.1",
-  "generated_at": "2026-11-15T23:25:03+00:00",
+  "generated_at": "2026-11-15T23:30:03+00:00",
   "season": 2026,
   "current_track": "SimRushWeek7",
   "week_no": 7,
@@ -37,6 +37,12 @@
         "time": 99.853,
         "quad": "Carbix Zero",
         "pilot_id": "agorastos"
+      },
+      {
+        "pilot": "Liapos",
+        "time": 100.222,
+        "quad": "Bahamut",
+        "pilot_id": "liapos"
       },
       {
         "pilot": "Bakarim",
@@ -952,9 +958,21 @@
         "pos_change_24h": null
       },
       {
-        "pilot": "Bakarim",
+        "pilot": "Liapos",
         "class": "5inch",
         "pos": 6,
+        "time": 100.222,
+        "first_time": 100.222,
+        "prev_time": null,
+        "improvements": 1,
+        "user_id": 155181,
+        "pos_24h": null,
+        "pos_change_24h": null
+      },
+      {
+        "pilot": "Bakarim",
+        "class": "5inch",
+        "pos": 7,
         "time": 244.432,
         "first_time": 244.432,
         "prev_time": null,
@@ -965,7 +983,7 @@
       }
     ],
     "hours_at_top": {
-      "DedalosFPV": 24.58
+      "DedalosFPV": 26.58
     },
     "race_to_top": [
       {
@@ -983,6 +1001,10 @@
       {
         "pilot": "Agorastos",
         "improvements": 4
+      },
+      {
+        "pilot": "Liapos",
+        "improvements": 1
       },
       {
         "pilot": "Bakarim",
@@ -1050,6 +1072,13 @@
     ]
   },
   "improvements": [
+    {
+      "pilot": "Liapos",
+      "track": "SimRushWeek7",
+      "time": 100.222,
+      "delta": null,
+      "date": "2026-11-16T01:25:02+00:00"
+    },
     {
       "pilot": "Cbeikos",
       "track": "SimRushWeek7",
@@ -3142,13 +3171,6 @@
       "time": 70.691,
       "delta": 1.463,
       "date": "2026-10-22T00:00:00+00:00"
-    },
-    {
-      "pilot": "fpvchucky",
-      "track": "SimRushWeek3",
-      "time": 268.799,
-      "delta": null,
-      "date": "2026-10-22T00:00:00+00:00"
     }
   ],
   "pilot_stats": {
@@ -3168,8 +3190,8 @@
       "best_improvement_pct": 29.73
     },
     "Liapos": {
-      "pbs": 24,
-      "tracks_improved": 7,
+      "pbs": 25,
+      "tracks_improved": 8,
       "best_improvement_pct": 11.06
     },
     "Agorastos": {
@@ -3246,6 +3268,14 @@
   "hot_battles": [
     {
       "leader": "Agorastos",
+      "chaser": "Liapos",
+      "gap": 0.369,
+      "days": 8,
+      "class": "5inch",
+      "opened": false
+    },
+    {
+      "leader": "Agorastos",
       "chaser": "dimbazus",
       "gap": 0.053,
       "days": 0,
@@ -3265,44 +3295,6 @@
   ],
   "track_reveal": null,
   "race_director_messages": [
-    {
-      "date": "2026-11-14T21:50:03+00:00",
-      "text": "[5inch] «SimRushWeek7»\n🎤 «Και τώρα, ο αγαπημένος σας **Agorastos**!» — το κοινό παραληρεί: 126.207s! 👏\nΑυτά. Καλό βράδυ Ελλάδα - κάποιοι έχουν δουλειά να κάνουν! 🌙",
-      "tag": "announcement",
-      "id": "rd-ba304af95d",
-      "event_type": "unknown",
-      "category": "general",
-      "priority": "normal",
-      "pilots": [],
-      "pilot_ids": [],
-      "track": null,
-      "class": null,
-      "week": null,
-      "season": 2026,
-      "related_duel_id": null,
-      "metadata": {},
-      "created_at": "2026-11-14T21:50:03+00:00",
-      "expires_at": null
-    },
-    {
-      "date": "2026-11-14T21:55:03+00:00",
-      "text": "[5inch] «SimRushWeek7»\nΤΕΛΟΣ ΠΑΝΤΩΝ... **Agorastos** με 115.277s - προχωράμε, έχουμε δουλειά! 💼",
-      "tag": "announcement",
-      "id": "rd-68d114c6d1",
-      "event_type": "unknown",
-      "category": "general",
-      "priority": "normal",
-      "pilots": [],
-      "pilot_ids": [],
-      "track": null,
-      "class": null,
-      "week": null,
-      "season": 2026,
-      "related_duel_id": null,
-      "metadata": {},
-      "created_at": "2026-11-14T21:55:03+00:00",
-      "expires_at": null
-    },
     {
       "date": "2026-11-14T22:05:03+00:00",
       "text": "[5inch] «SimRushWeek7»\n🎻 Βιολί δεύτερο: ο **Agorastos** συνοδεύει την ορχήστρα με 101.721s! 🎼\nΠοιος θα τον καθίσει; 👀",
@@ -3644,6 +3636,56 @@
       "metadata": {},
       "created_at": "2026-11-15T13:55:04+00:00",
       "expires_at": null
+    },
+    {
+      "date": "2026-11-15T23:25:04+00:00",
+      "text": "[5inch] «SimRushWeek7»\n🚧 Ο δήμος ειδοποιήθηκε: ο **Liapos** ξύρισε το οδόστρωμα με 100.222s στην «SimRushWeek7»!",
+      "tag": "announcement",
+      "id": "rd-a4c775619c",
+      "event_type": "PERSONAL",
+      "category": "timing",
+      "priority": "normal",
+      "pilots": [
+        "Liapos"
+      ],
+      "pilot_ids": [
+        "liapos"
+      ],
+      "track": "SimRushWeek7",
+      "class": "5inch",
+      "week": 7,
+      "season": 2026,
+      "related_duel_id": null,
+      "metadata": {
+        "time": 100.222
+      },
+      "created_at": "2026-11-15T23:25:04+00:00",
+      "expires_at": null
+    },
+    {
+      "date": "2026-11-15T23:25:10+00:00",
+      "text": "📏 Μετρημένα δευτερόλεπτα: @Liapos vs Agorastos - 0.369s!",
+      "tag": "announcement",
+      "id": "rd-863f621808",
+      "event_type": "TEASER",
+      "category": "rivalries",
+      "priority": "normal",
+      "pilots": [
+        "Agorastos",
+        "Liapos"
+      ],
+      "pilot_ids": [
+        "agorastos",
+        "liapos"
+      ],
+      "track": "SimRushWeek7",
+      "class": "5inch",
+      "week": 7,
+      "season": 2026,
+      "related_duel_id": null,
+      "metadata": {},
+      "created_at": "2026-11-15T23:25:10+00:00",
+      "expires_at": null
     }
   ],
   "avatars": {},
@@ -3765,7 +3807,7 @@
       "current_week": {
         "track": "SimRushWeek7",
         "class": "5inch",
-        "current_position": 6,
+        "current_position": 7,
         "previous_position": null,
         "position_change": null,
         "comparison_period": null,
@@ -4010,10 +4052,21 @@
         "comparison_period": "previous_completed_week",
         "comparison_reference": "SimRushWeek6"
       },
-      "current_week": null,
+      "current_week": {
+        "track": "SimRushWeek7",
+        "class": "5inch",
+        "current_position": 6,
+        "previous_position": null,
+        "position_change": null,
+        "comparison_period": null,
+        "best_time": 100.222,
+        "previous_best_time": null,
+        "time_improvement": null,
+        "first_time": 100.222
+      },
       "stats": {
-        "pbs": 24,
-        "tracks_improved": 7,
+        "pbs": 25,
+        "tracks_improved": 8,
         "best_improvement_pct": 11.06
       }
     },

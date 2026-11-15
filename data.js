@@ -9,7 +9,7 @@ const DATA_URL = "https://raw.githubusercontent.com/alefas9/velocidrone-bot-data
 
 const FALLBACK = {
   "schema_version": "2.1",
-  "generated_at": "2026-11-15T17:45:02+00:00",
+  "generated_at": "2026-11-15T17:50:02+00:00",
   "season": 2026,
   "current_track": "SimRushWeek7",
   "week_no": 7,
@@ -974,7 +974,7 @@ const FALLBACK = {
       }
     ],
     "hours_at_top": {
-      "DedalosFPV": 18.92
+      "DedalosFPV": 19.0
     },
     "race_to_top": [
       {
@@ -3270,24 +3270,6 @@ const FALLBACK = {
       "class": "5inch",
       "opened": true,
       "was_gap": 0.443
-    },
-    {
-      "leader": "DedalosFPV",
-      "chaser": "TettixPro",
-      "gap": 0.893,
-      "days": 0,
-      "class": "5inch",
-      "opened": true,
-      "was_gap": 0.893
-    },
-    {
-      "leader": "dimbazus",
-      "chaser": "Agorastos",
-      "gap": 11.918,
-      "days": 0,
-      "class": "5inch",
-      "opened": true,
-      "was_gap": 0.629
     }
   ],
   "track_reveal": null,

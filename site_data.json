@@ -1,6 +1,6 @@
 {
   "schema_version": "2.1",
-  "generated_at": "2026-11-15T11:00:03+00:00",
+  "generated_at": "2026-11-15T11:05:02+00:00",
   "season": 2026,
   "current_track": "SimRushWeek7",
   "week_no": 7,
@@ -34,7 +34,7 @@
       },
       {
         "pilot": "dimbazus",
-        "time": 108.734,
+        "time": 100.97,
         "quad": "Bahamut",
         "pilot_id": "dimbazus"
       }
@@ -937,17 +937,17 @@
         "pilot": "dimbazus",
         "class": "5inch",
         "pos": 5,
-        "time": 108.734,
+        "time": 100.97,
         "first_time": 108.734,
-        "prev_time": null,
-        "improvements": 1,
+        "prev_time": 108.734,
+        "improvements": 2,
         "user_id": 309918,
         "pos_24h": null,
         "pos_change_24h": null
       }
     ],
     "hours_at_top": {
-      "DedalosFPV": 12.17
+      "DedalosFPV": 12.25
     },
     "race_to_top": [
       {
@@ -964,7 +964,7 @@
       },
       {
         "pilot": "dimbazus",
-        "improvements": 1
+        "improvements": 2
       }
     ]
   },
@@ -1028,6 +1028,13 @@
     ]
   },
   "improvements": [
+    {
+      "pilot": "dimbazus",
+      "track": "SimRushWeek7",
+      "time": 100.97,
+      "delta": 7.764,
+      "date": "2026-11-15T13:00:02+00:00"
+    },
     {
       "pilot": "dimbazus",
       "track": "SimRushWeek7",
@@ -3120,13 +3127,6 @@
       "time": 69.192,
       "delta": 0.267,
       "date": "2026-10-22T00:00:00+00:00"
-    },
-    {
-      "pilot": "Agorastos",
-      "track": "SimRushWeek3",
-      "time": 71.175,
-      "delta": 0.44,
-      "date": "2026-10-20T00:00:00+00:00"
     }
   ],
   "pilot_stats": {
@@ -3136,7 +3136,7 @@
       "best_improvement_pct": 5.43
     },
     "dimbazus": {
-      "pbs": 72,
+      "pbs": 73,
       "tracks_improved": 8,
       "best_improvement_pct": 10.05
     },
@@ -3230,6 +3230,14 @@
       "opened": false
     },
     {
+      "leader": "Agorastos",
+      "chaser": "dimbazus",
+      "gap": 1.117,
+      "days": 7,
+      "class": "5inch",
+      "opened": false
+    },
+    {
       "leader": "Cbeikos",
       "chaser": "tomahok",
       "gap": 0.46,
@@ -3255,38 +3263,10 @@
       "class": "5inch",
       "opened": true,
       "was_gap": 0.893
-    },
-    {
-      "leader": "Agorastos",
-      "chaser": "Liapos",
-      "gap": 0.947,
-      "days": 0,
-      "class": "5inch",
-      "opened": true,
-      "was_gap": 0.947
     }
   ],
   "track_reveal": null,
   "race_director_messages": [
-    {
-      "date": "2026-11-14T16:06:02+00:00",
-      "text": "📊 Βαθμολογία σεζόν [5inch]\n**1.** ZOUP — 108 βαθμοί\n**2.** TettixPro — 97 βαθμοί\n**3.** Exo_FPV — 86 βαθμοί\n**4.** DedalosFPV — 79 βαθμοί\n**5.** Cbeikos — 50 βαθμοί\n**6.** tomahok — 48 βαθμοί\n**7.** anthunder — 36 βαθμοί\n**8.** dimbazus — 32 βαθμοί\n**9.** Agorastos — 30 βαθμοί\n**10.** Liapos — 28 βαθμοί",
-      "tag": "announcement",
-      "id": "rd-cdd4748b0d",
-      "event_type": "unknown",
-      "category": "general",
-      "priority": "normal",
-      "pilots": [],
-      "pilot_ids": [],
-      "track": null,
-      "class": null,
-      "week": null,
-      "season": 2026,
-      "related_duel_id": null,
-      "metadata": {},
-      "created_at": "2026-11-14T16:06:02+00:00",
-      "expires_at": null
-    },
     {
       "date": "2026-11-14T16:06:03+00:00",
       "text": "🌟 Πιλότος της εβδομάδας\n**fpvchucky** — μεγαλύτερη βελτίωμα σεζόν: **+10.2%** (116.136s → 104.257s)\nΣε σχέση με την προηγούμενη εβδομάδα (SimRushWeek-5)",
@@ -3647,6 +3627,25 @@
       "metadata": {},
       "created_at": "2026-11-15T10:55:04+00:00",
       "expires_at": null
+    },
+    {
+      "date": "2026-11-15T11:00:04+00:00",
+      "text": "[5inch] «SimRushWeek7»\n📉 Ο χρόνος του **dimbazus** πέφτει σαν το τάληρο: 100.970s - κι εμείς να κοιτάμε!\nΗ πίστα ρωτάει για σένα! 📞",
+      "tag": "announcement",
+      "id": "rd-3aa383f609",
+      "event_type": "unknown",
+      "category": "general",
+      "priority": "normal",
+      "pilots": [],
+      "pilot_ids": [],
+      "track": null,
+      "class": null,
+      "week": null,
+      "season": 2026,
+      "related_duel_id": null,
+      "metadata": {},
+      "created_at": "2026-11-15T11:00:04+00:00",
+      "expires_at": null
     }
   ],
   "avatars": {},
@@ -3908,13 +3907,13 @@
         "previous_position": null,
         "position_change": null,
         "comparison_period": null,
-        "best_time": 108.734,
-        "previous_best_time": null,
-        "time_improvement": null,
+        "best_time": 100.97,
+        "previous_best_time": 108.734,
+        "time_improvement": 7.764,
         "first_time": 108.734
       },
       "stats": {
-        "pbs": 72,
+        "pbs": 73,
         "tracks_improved": 8,
         "best_improvement_pct": 10.05
       }
@@ -4262,14 +4261,9 @@
         "title": "Περισσότερα προσωπικά ρεκόρ",
         "holders": [
           {
-            "pilot_id": "agorastos",
-            "callsign": "Agorastos",
-            "value": 72
-          },
-          {
             "pilot_id": "dimbazus",
             "callsign": "dimbazus",
-            "value": 72
+            "value": 73
           }
         ]
       },

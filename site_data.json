@@ -1,6 +1,6 @@
 {
   "schema_version": "2.1",
-  "generated_at": "2026-11-15T12:05:03+00:00",
+  "generated_at": "2026-11-15T12:10:03+00:00",
   "season": 2026,
   "current_track": "SimRushWeek7",
   "week_no": 7,
@@ -16,7 +16,7 @@
       },
       {
         "pilot": "Cbeikos",
-        "time": 67.018,
+        "time": 66.475,
         "quad": "Five33 Switchback",
         "pilot_id": "cbeikos"
       },
@@ -901,10 +901,10 @@
         "pilot": "Cbeikos",
         "class": "5inch",
         "pos": 2,
-        "time": 67.018,
+        "time": 66.475,
         "first_time": 82.126,
-        "prev_time": null,
-        "improvements": 6,
+        "prev_time": 67.018,
+        "improvements": 7,
         "user_id": 258063,
         "pos_24h": null,
         "pos_change_24h": null
@@ -947,7 +947,7 @@
       }
     ],
     "hours_at_top": {
-      "DedalosFPV": 13.25
+      "DedalosFPV": 13.33
     },
     "race_to_top": [
       {
@@ -956,7 +956,7 @@
       },
       {
         "pilot": "Cbeikos",
-        "improvements": 6
+        "improvements": 7
       },
       {
         "pilot": "dimbazus",
@@ -1028,6 +1028,13 @@
     ]
   },
   "improvements": [
+    {
+      "pilot": "Cbeikos",
+      "track": "SimRushWeek7",
+      "time": 66.475,
+      "delta": 0.543,
+      "date": "2026-11-15T14:05:02+00:00"
+    },
     {
       "pilot": "Cbeikos",
       "track": "SimRushWeek7",
@@ -3120,13 +3127,6 @@
       "time": 69.459,
       "delta": 1.232,
       "date": "2026-10-22T00:00:00+00:00"
-    },
-    {
-      "pilot": "fpvchucky",
-      "track": "SimRushWeek3",
-      "time": 189.875,
-      "delta": 0.7,
-      "date": "2026-10-22T00:00:00+00:00"
     }
   ],
   "pilot_stats": {
@@ -3181,7 +3181,7 @@
       "best_improvement_pct": null
     },
     "Cbeikos": {
-      "pbs": 48,
+      "pbs": 49,
       "tracks_improved": 6,
       "best_improvement_pct": 20.38
     },
@@ -3269,25 +3269,6 @@
   ],
   "track_reveal": null,
   "race_director_messages": [
-    {
-      "date": "2026-11-14T20:45:04+00:00",
-      "text": "[5inch] «SimRushWeek7»\nΣας το είπα, σας το ξαναλέω: ο **DedalosFPV** είναι στο κόλπο! 79.582s στην «SimRushWeek7»! 🎤",
-      "tag": "announcement",
-      "id": "rd-f3a2a101c3",
-      "event_type": "unknown",
-      "category": "general",
-      "priority": "normal",
-      "pilots": [],
-      "pilot_ids": [],
-      "track": null,
-      "class": null,
-      "week": null,
-      "season": 2026,
-      "related_duel_id": null,
-      "metadata": {},
-      "created_at": "2026-11-14T20:45:04+00:00",
-      "expires_at": null
-    },
     {
       "date": "2026-11-14T20:50:04+00:00",
       "text": "[5inch] «SimRushWeek7»\n🎭 Plot twist! Ο **DedalosFPV** αφαίρεσε τον τίτλο από τον **tomahok** - 70.774s στην «SimRushWeek7»! Το στέμμα βαραίνει... 👑\nΑυτά. Καλό βράδυ Ελλάδα - κάποιοι έχουν δουλειά να κάνουν! 🌙",
@@ -3648,6 +3629,25 @@
       "metadata": {},
       "created_at": "2026-11-15T11:30:08+00:00",
       "expires_at": null
+    },
+    {
+      "date": "2026-11-15T12:05:04+00:00",
+      "text": "[5inch] «SimRushWeek7»\n😤 Πάλι αυτός; Ναι, πάλι αυτός. **Cbeikos**: 66.475s. Η ρουτίνα της επιτυχίας!",
+      "tag": "announcement",
+      "id": "rd-570391e3ce",
+      "event_type": "unknown",
+      "category": "general",
+      "priority": "normal",
+      "pilots": [],
+      "pilot_ids": [],
+      "track": null,
+      "class": null,
+      "week": null,
+      "season": 2026,
+      "related_duel_id": null,
+      "metadata": {},
+      "created_at": "2026-11-15T12:05:04+00:00",
+      "expires_at": null
     }
   ],
   "avatars": {},
@@ -3835,13 +3835,13 @@
         "previous_position": null,
         "position_change": null,
         "comparison_period": null,
-        "best_time": 67.018,
-        "previous_best_time": null,
-        "time_improvement": null,
+        "best_time": 66.475,
+        "previous_best_time": 67.018,
+        "time_improvement": 0.543,
         "first_time": 82.126
       },
       "stats": {
-        "pbs": 48,
+        "pbs": 49,
         "tracks_improved": 6,
         "best_improvement_pct": 20.38
       }

@@ -1,6 +1,6 @@
 {
   "schema_version": "2.1",
-  "generated_at": "2026-11-15T06:15:02+00:00",
+  "generated_at": "2026-11-15T06:20:02+00:00",
   "season": 2026,
   "current_track": "SimRushWeek7",
   "week_no": 7,
@@ -22,7 +22,7 @@
       },
       {
         "pilot": "Cbeikos",
-        "time": 82.126,
+        "time": 78.991,
         "quad": "Bahamut",
         "pilot_id": "cbeikos"
       },
@@ -907,10 +907,10 @@
         "pilot": "Cbeikos",
         "class": "5inch",
         "pos": 3,
-        "time": 82.126,
+        "time": 78.991,
         "first_time": 82.126,
-        "prev_time": null,
-        "improvements": 1,
+        "prev_time": 82.126,
+        "improvements": 2,
         "user_id": 258063,
         "pos_24h": null,
         "pos_change_24h": null
@@ -929,7 +929,7 @@
       }
     ],
     "hours_at_top": {
-      "DedalosFPV": 7.42
+      "DedalosFPV": 7.5
     },
     "race_to_top": [
       {
@@ -942,7 +942,7 @@
       },
       {
         "pilot": "Cbeikos",
-        "improvements": 1
+        "improvements": 2
       }
     ]
   },
@@ -1006,6 +1006,13 @@
     ]
   },
   "improvements": [
+    {
+      "pilot": "Cbeikos",
+      "track": "SimRushWeek7",
+      "time": 78.991,
+      "delta": 3.135,
+      "date": "2026-11-15T08:15:02+00:00"
+    },
     {
       "pilot": "DedalosFPV",
       "track": "SimRushWeek7",
@@ -3098,13 +3105,6 @@
       "time": 68.041,
       "delta": 1.993,
       "date": "2026-10-20T00:00:00+00:00"
-    },
-    {
-      "pilot": "Exo_FPV",
-      "track": "SimRushWeek3",
-      "time": 42.391,
-      "delta": 4.633,
-      "date": "2026-10-20T00:00:00+00:00"
     }
   ],
   "pilot_stats": {
@@ -3159,7 +3159,7 @@
       "best_improvement_pct": null
     },
     "Cbeikos": {
-      "pbs": 43,
+      "pbs": 44,
       "tracks_improved": 6,
       "best_improvement_pct": 20.38
     },
@@ -3247,25 +3247,6 @@
   ],
   "track_reveal": null,
   "race_director_messages": [
-    {
-      "date": "2026-11-14T14:10:04+00:00",
-      "text": "[5inch] «SimRushWeek6»\n🎊 Κομφετί στην εξέδρα: ο **dimbazus** με 67.424s - το γλέντι ξεκίνησε!",
-      "tag": "announcement",
-      "id": "rd-f698fcae2f",
-      "event_type": "unknown",
-      "category": "general",
-      "priority": "normal",
-      "pilots": [],
-      "pilot_ids": [],
-      "track": null,
-      "class": null,
-      "week": null,
-      "season": 2026,
-      "related_duel_id": null,
-      "metadata": {},
-      "created_at": "2026-11-14T14:10:04+00:00",
-      "expires_at": null
-    },
     {
       "date": "2026-11-14T14:45:04+00:00",
       "text": "[5inch] «SimRushWeek6»\n🧤 Με τα γάντια πιάστηκε: ο **DedalosFPV** έκανε 47.262s — καθαρή δουλειά! 🫧",
@@ -3626,6 +3607,25 @@
       "metadata": {},
       "created_at": "2026-11-14T23:45:05+00:00",
       "expires_at": null
+    },
+    {
+      "date": "2026-11-15T06:15:04+00:00",
+      "text": "[5inch] «SimRushWeek7»\n🧂 Έριξε αλάτι στην πίστα για γούρι: **Cbeikos** με 78.991s - πέτυχε!\nΤι να σας πω... το #1 δεν θα πάρει το αυτοκίνητο μόνο του! 🚗",
+      "tag": "announcement",
+      "id": "rd-a64f64c804",
+      "event_type": "unknown",
+      "category": "general",
+      "priority": "normal",
+      "pilots": [],
+      "pilot_ids": [],
+      "track": null,
+      "class": null,
+      "week": null,
+      "season": 2026,
+      "related_duel_id": null,
+      "metadata": {},
+      "created_at": "2026-11-15T06:15:04+00:00",
+      "expires_at": null
     }
   ],
   "avatars": {},
@@ -3813,13 +3813,13 @@
         "previous_position": null,
         "position_change": null,
         "comparison_period": null,
-        "best_time": 82.126,
-        "previous_best_time": null,
-        "time_improvement": null,
+        "best_time": 78.991,
+        "previous_best_time": 82.126,
+        "time_improvement": 3.135,
         "first_time": 82.126
       },
       "stats": {
-        "pbs": 43,
+        "pbs": 44,
         "tracks_improved": 6,
         "best_improvement_pct": 20.38
       }

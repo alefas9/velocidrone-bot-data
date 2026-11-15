@@ -1,6 +1,6 @@
 {
   "schema_version": "2.1",
-  "generated_at": "2026-11-15T02:35:02+00:00",
+  "generated_at": "2026-11-15T02:40:03+00:00",
   "season": 2026,
   "current_track": "SimRushWeek7",
   "week_no": 7,
@@ -929,7 +929,7 @@
       }
     ],
     "hours_at_top": {
-      "DedalosFPV": 3.75
+      "DedalosFPV": 3.83
     },
     "race_to_top": [
       {
@@ -3209,15 +3209,6 @@
       "was_gap": 0.053
     },
     {
-      "leader": "dimbazus",
-      "chaser": "Liapos",
-      "gap": 0.332,
-      "days": 0,
-      "class": "5inch",
-      "opened": true,
-      "was_gap": 0.332
-    },
-    {
       "leader": "Cbeikos",
       "chaser": "tomahok",
       "gap": 0.46,
@@ -3243,6 +3234,15 @@
       "class": "5inch",
       "opened": true,
       "was_gap": 0.861
+    },
+    {
+      "leader": "DedalosFPV",
+      "chaser": "TettixPro",
+      "gap": 0.893,
+      "days": 0,
+      "class": "5inch",
+      "opened": true,
+      "was_gap": 0.893
     }
   ],
   "track_reveal": null,

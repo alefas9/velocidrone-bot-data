@@ -9,7 +9,7 @@ const DATA_URL = "https://raw.githubusercontent.com/alefas9/velocidrone-bot-data
 
 const FALLBACK = {
   "schema_version": "2.1",
-  "generated_at": "2026-11-16T20:00:03+00:00",
+  "generated_at": "2026-11-16T20:05:02+00:00",
   "season": 2026,
   "current_track": "SimRushWeek7",
   "week_no": 7,
@@ -992,7 +992,7 @@ const FALLBACK = {
       }
     ],
     "hours_at_top": {
-      "DedalosFPV": 45.17
+      "DedalosFPV": 45.25
     },
     "race_to_top": [
       {
@@ -3288,25 +3288,6 @@ const FALLBACK = {
   "track_reveal": null,
   "race_director_messages": [
     {
-      "date": "2026-11-14T23:45:05+00:00",
-      "text": "[5inch] «SimRushWeek7»\n⚡ Ο μετεωρολόγος προειδοποιεί: αστραπές στην «SimRushWeek7»! **DedalosFPV** -> 53.735s! ⛈️",
-      "tag": "announcement",
-      "id": "rd-87fe25387b",
-      "event_type": "unknown",
-      "category": "general",
-      "priority": "normal",
-      "pilots": [],
-      "pilot_ids": [],
-      "track": null,
-      "class": null,
-      "week": null,
-      "season": 2026,
-      "related_duel_id": null,
-      "metadata": {},
-      "created_at": "2026-11-14T23:45:05+00:00",
-      "expires_at": null
-    },
-    {
       "date": "2026-11-15T06:15:04+00:00",
       "text": "[5inch] «SimRushWeek7»\n🧂 Έριξε αλάτι στην πίστα για γούρι: **Cbeikos** με 78.991s - πέτυχε!\nΤι να σας πω... το #1 δεν θα πάρει το αυτοκίνητο μόνο του! 🚗",
       "tag": "announcement",
@@ -3689,6 +3670,25 @@ const FALLBACK = {
       "related_duel_id": null,
       "metadata": {},
       "created_at": "2026-11-16T20:00:02+00:00",
+      "expires_at": null
+    },
+    {
+      "date": "2026-11-16T20:00:03+00:00",
+      "text": "🏆 Βαθμολογία σεζόν [5inch]\n🥇 ZOUP — **108** πόντοι\n🥈 TettixPro — **97** πόντοι\n🥉 Exo_FPV — **86** πόντοι\n**4.** DedalosFPV — **79** πόντοι\n**5.** Cbeikos — **50** πόντοι\n**6.** tomahok — **48** πόντοι\n**7.** anthunder — **36** πόντοι\n**8.** dimbazus — **32** πόντοι\n**9.** Agorastos — **30** πόντοι\n**10.** Liapos — **28** πόντοι",
+      "tag": "announcement",
+      "id": "rd-9e8ae6a600",
+      "event_type": "SEASON_STANDINGS",
+      "category": "championship",
+      "priority": "high",
+      "pilots": [],
+      "pilot_ids": [],
+      "track": null,
+      "class": "5inch",
+      "week": null,
+      "season": 2026,
+      "related_duel_id": null,
+      "metadata": {},
+      "created_at": "2026-11-16T20:00:03+00:00",
       "expires_at": null
     }
   ],

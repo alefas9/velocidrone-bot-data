@@ -9,7 +9,7 @@ const DATA_URL = "https://raw.githubusercontent.com/alefas9/velocidrone-bot-data
 
 const FALLBACK = {
   "schema_version": "2.1",
-  "generated_at": "2026-11-17T01:40:02+00:00",
+  "generated_at": "2026-11-17T01:45:02+00:00",
   "season": 2026,
   "current_track": "SimRushWeek7",
   "week_no": 7,
@@ -963,8 +963,8 @@ const FALLBACK = {
         "prev_time": 97.461,
         "improvements": 3,
         "user_id": 155181,
-        "pos_24h": 5,
-        "pos_change_24h": 0
+        "pos_24h": 4,
+        "pos_change_24h": -1
       },
       {
         "pilot": "Agorastos",
@@ -975,8 +975,8 @@ const FALLBACK = {
         "prev_time": 101.721,
         "improvements": 4,
         "user_id": 128161,
-        "pos_24h": 4,
-        "pos_change_24h": -2
+        "pos_24h": 5,
+        "pos_change_24h": -1
       },
       {
         "pilot": "Bakarim",
@@ -992,7 +992,7 @@ const FALLBACK = {
       }
     ],
     "hours_at_top": {
-      "DedalosFPV": 50.83
+      "DedalosFPV": 50.92
     },
     "race_to_top": [
       {
@@ -3739,8 +3739,8 @@ const FALLBACK = {
         "track": "SimRushWeek7",
         "class": "5inch",
         "current_position": 6,
-        "previous_position": 4,
-        "position_change": -2,
+        "previous_position": 5,
+        "position_change": -1,
         "comparison_period": "previous_24h",
         "best_time": 99.853,
         "previous_best_time": 101.721,
@@ -4050,8 +4050,8 @@ const FALLBACK = {
         "track": "SimRushWeek7",
         "class": "5inch",
         "current_position": 5,
-        "previous_position": 5,
-        "position_change": 0,
+        "previous_position": 4,
+        "position_change": -1,
         "comparison_period": "previous_24h",
         "best_time": 97.077,
         "previous_best_time": 97.461,

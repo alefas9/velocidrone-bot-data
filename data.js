@@ -9,7 +9,7 @@ const DATA_URL = "https://raw.githubusercontent.com/alefas9/velocidrone-bot-data
 
 const FALLBACK = {
   "schema_version": "2.1",
-  "generated_at": "2026-11-17T19:50:02+00:00",
+  "generated_at": "2026-11-17T19:55:02+00:00",
   "season": 2026,
   "current_track": "SimRushWeek7",
   "week_no": 7,
@@ -48,16 +48,16 @@ const FALLBACK = {
         "pilot_id": "dimbazus"
       },
       {
+        "pilot": "Agorastos",
+        "time": 96.311,
+        "quad": "Carbix Zero",
+        "pilot_id": "agorastos"
+      },
+      {
         "pilot": "Liapos",
         "time": 97.077,
         "quad": "Bahamut",
         "pilot_id": "liapos"
-      },
-      {
-        "pilot": "Agorastos",
-        "time": 99.853,
-        "quad": "Carbix Zero",
-        "pilot_id": "agorastos"
       },
       {
         "pilot": "Bakarim",
@@ -973,28 +973,28 @@ const FALLBACK = {
         "pos_change_24h": -2
       },
       {
-        "pilot": "Liapos",
+        "pilot": "Agorastos",
         "class": "5inch",
         "pos": 6,
+        "time": 96.311,
+        "first_time": 126.207,
+        "prev_time": 99.853,
+        "improvements": 5,
+        "user_id": 128161,
+        "pos_24h": 5,
+        "pos_change_24h": -1
+      },
+      {
+        "pilot": "Liapos",
+        "class": "5inch",
+        "pos": 7,
         "time": 97.077,
         "first_time": 100.222,
         "prev_time": 97.461,
         "improvements": 3,
         "user_id": 155181,
         "pos_24h": 4,
-        "pos_change_24h": -2
-      },
-      {
-        "pilot": "Agorastos",
-        "class": "5inch",
-        "pos": 7,
-        "time": 99.853,
-        "first_time": 126.207,
-        "prev_time": 101.721,
-        "improvements": 4,
-        "user_id": 128161,
-        "pos_24h": 5,
-        "pos_change_24h": -2
+        "pos_change_24h": -3
       },
       {
         "pilot": "Bakarim",
@@ -1010,7 +1010,7 @@ const FALLBACK = {
       }
     ],
     "hours_at_top": {
-      "DedalosFPV": 69.33
+      "DedalosFPV": 71.0
     },
     "race_to_top": [
       {
@@ -1027,7 +1027,7 @@ const FALLBACK = {
       },
       {
         "pilot": "Agorastos",
-        "improvements": 4
+        "improvements": 5
       },
       {
         "pilot": "Liapos",
@@ -1103,6 +1103,13 @@ const FALLBACK = {
     ]
   },
   "improvements": [
+    {
+      "pilot": "Agorastos",
+      "track": "SimRushWeek7",
+      "time": 96.311,
+      "delta": 3.542,
+      "date": "2026-11-17T21:50:02+00:00"
+    },
     {
       "pilot": "TettixPro",
       "track": "SimRushWeek7",
@@ -3195,13 +3202,6 @@ const FALLBACK = {
       "time": 74.122,
       "delta": 0.794,
       "date": "2026-10-22T00:00:00+00:00"
-    },
-    {
-      "pilot": "dimbazus",
-      "track": "SimRushWeek3",
-      "time": 73.94,
-      "delta": 0.182,
-      "date": "2026-10-22T00:00:00+00:00"
     }
   ],
   "pilot_stats": {
@@ -3226,7 +3226,7 @@ const FALLBACK = {
       "best_improvement_pct": 11.06
     },
     "Agorastos": {
-      "pbs": 72,
+      "pbs": 73,
       "tracks_improved": 8,
       "best_improvement_pct": 11.76
     },
@@ -3298,6 +3298,14 @@ const FALLBACK = {
   },
   "hot_battles": [
     {
+      "leader": "Agorastos",
+      "chaser": "Liapos",
+      "gap": 0.766,
+      "days": 10,
+      "class": "5inch",
+      "opened": false
+    },
+    {
       "leader": "Cbeikos",
       "chaser": "TettixPro",
       "gap": 1.91,
@@ -3317,25 +3325,6 @@ const FALLBACK = {
   ],
   "track_reveal": null,
   "race_director_messages": [
-    {
-      "date": "2026-11-15T11:00:04+00:00",
-      "text": "[5inch] «SimRushWeek7»\n📉 Ο χρόνος του **dimbazus** πέφτει σαν το τάληρο: 100.970s - κι εμείς να κοιτάμε!\nΗ πίστα ρωτάει για σένα! 📞",
-      "tag": "announcement",
-      "id": "rd-3aa383f609",
-      "event_type": "unknown",
-      "category": "general",
-      "priority": "normal",
-      "pilots": [],
-      "pilot_ids": [],
-      "track": null,
-      "class": null,
-      "week": null,
-      "season": 2026,
-      "related_duel_id": null,
-      "metadata": {},
-      "created_at": "2026-11-15T11:00:04+00:00",
-      "expires_at": null
-    },
     {
       "date": "2026-11-15T11:05:04+00:00",
       "text": "[5inch] «SimRushWeek7»\n🪜 Σκάλα ανέβηκε ο **dimbazus**: 97.804s - οι σκαλωσιές έπεσαν πίσω του!",
@@ -3738,6 +3727,31 @@ const FALLBACK = {
       },
       "created_at": "2026-11-17T18:10:05+00:00",
       "expires_at": null
+    },
+    {
+      "date": "2026-11-17T19:50:04+00:00",
+      "text": "[5inch] «SimRushWeek7»\n🍳 Τηγάνισμα χρόνων συνεχίζεται: **Agorastos** -> 96.311s!",
+      "tag": "announcement",
+      "id": "rd-abb24075b2",
+      "event_type": "PERSONAL",
+      "category": "timing",
+      "priority": "normal",
+      "pilots": [
+        "Agorastos"
+      ],
+      "pilot_ids": [
+        "agorastos"
+      ],
+      "track": "SimRushWeek7",
+      "class": "5inch",
+      "week": 7,
+      "season": 2026,
+      "related_duel_id": null,
+      "metadata": {
+        "time": 96.311
+      },
+      "created_at": "2026-11-17T19:50:04+00:00",
+      "expires_at": null
     }
   ],
   "avatars": {},
@@ -3796,17 +3810,17 @@ const FALLBACK = {
       "current_week": {
         "track": "SimRushWeek7",
         "class": "5inch",
-        "current_position": 7,
+        "current_position": 6,
         "previous_position": 5,
-        "position_change": -2,
+        "position_change": -1,
         "comparison_period": "previous_24h",
-        "best_time": 99.853,
-        "previous_best_time": 101.721,
-        "time_improvement": 1.868,
+        "best_time": 96.311,
+        "previous_best_time": 99.853,
+        "time_improvement": 3.542,
         "first_time": 126.207
       },
       "stats": {
-        "pbs": 72,
+        "pbs": 73,
         "tracks_improved": 8,
         "best_improvement_pct": 11.76
       }
@@ -4107,9 +4121,9 @@ const FALLBACK = {
       "current_week": {
         "track": "SimRushWeek7",
         "class": "5inch",
-        "current_position": 6,
+        "current_position": 7,
         "previous_position": 4,
-        "position_change": -2,
+        "position_change": -3,
         "comparison_period": "previous_24h",
         "best_time": 97.077,
         "previous_best_time": 97.461,

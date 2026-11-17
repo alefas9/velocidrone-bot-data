@@ -1,6 +1,6 @@
 {
   "schema_version": "2.1",
-  "generated_at": "2026-11-17T21:10:03+00:00",
+  "generated_at": "2026-11-17T21:15:03+00:00",
   "season": 2026,
   "current_track": "SimRushWeek7",
   "week_no": 7,
@@ -40,7 +40,7 @@
       },
       {
         "pilot": "Liapos",
-        "time": 95.934,
+        "time": 89.941,
         "quad": "Bahamut",
         "pilot_id": "liapos"
       },
@@ -967,10 +967,10 @@
         "pilot": "Liapos",
         "class": "5inch",
         "pos": 6,
-        "time": 95.934,
+        "time": 89.941,
         "first_time": 100.222,
-        "prev_time": 97.077,
-        "improvements": 4,
+        "prev_time": 95.934,
+        "improvements": 5,
         "user_id": 155181,
         "pos_24h": 4,
         "pos_change_24h": -2
@@ -1001,7 +1001,7 @@
       }
     ],
     "hours_at_top": {
-      "DedalosFPV": 72.08
+      "DedalosFPV": 72.33
     },
     "race_to_top": [
       {
@@ -1017,12 +1017,12 @@
         "improvements": 6
       },
       {
-        "pilot": "Agorastos",
+        "pilot": "Liapos",
         "improvements": 5
       },
       {
-        "pilot": "Liapos",
-        "improvements": 4
+        "pilot": "Agorastos",
+        "improvements": 5
       },
       {
         "pilot": "TettixPro",
@@ -1094,6 +1094,13 @@
     ]
   },
   "improvements": [
+    {
+      "pilot": "Liapos",
+      "track": "SimRushWeek7",
+      "time": 89.941,
+      "delta": 5.993,
+      "date": "2026-11-17T23:10:02+00:00"
+    },
     {
       "pilot": "Liapos",
       "track": "SimRushWeek7",
@@ -3186,13 +3193,6 @@
       "time": 40.373,
       "delta": 1.508,
       "date": "2026-10-22T00:00:00+00:00"
-    },
-    {
-      "pilot": "dimbazus",
-      "track": "SimRushWeek3",
-      "time": 74.916,
-      "delta": 2.497,
-      "date": "2026-10-22T00:00:00+00:00"
     }
   ],
   "pilot_stats": {
@@ -3212,7 +3212,7 @@
       "best_improvement_pct": 30.77
     },
     "Liapos": {
-      "pbs": 28,
+      "pbs": 29,
       "tracks_improved": 8,
       "best_improvement_pct": 11.06
     },
@@ -3289,14 +3289,6 @@
   },
   "hot_battles": [
     {
-      "leader": "Liapos",
-      "chaser": "Agorastos",
-      "gap": 0.377,
-      "days": 0,
-      "class": "5inch",
-      "opened": false
-    },
-    {
       "leader": "Cbeikos",
       "chaser": "TettixPro",
       "gap": 1.91,
@@ -3321,29 +3313,19 @@
       "class": "5inch",
       "opened": true,
       "was_gap": 0.369
+    },
+    {
+      "leader": "Liapos",
+      "chaser": "Agorastos",
+      "gap": 6.37,
+      "days": 0,
+      "class": "5inch",
+      "opened": true,
+      "was_gap": 0.377
     }
   ],
   "track_reveal": null,
   "race_director_messages": [
-    {
-      "date": "2026-11-15T11:15:03+00:00",
-      "text": "[5inch] «SimRushWeek7»\n🔧 Ρύθμιση ρόλων (και χρόνου): **dimbazus** -> 91.954s στην «SimRushWeek7»!",
-      "tag": "announcement",
-      "id": "rd-1fbacb101a",
-      "event_type": "unknown",
-      "category": "general",
-      "priority": "normal",
-      "pilots": [],
-      "pilot_ids": [],
-      "track": null,
-      "class": null,
-      "week": null,
-      "season": 2026,
-      "related_duel_id": null,
-      "metadata": {},
-      "created_at": "2026-11-15T11:15:03+00:00",
-      "expires_at": null
-    },
     {
       "date": "2026-11-15T11:20:04+00:00",
       "text": "[5inch] «SimRushWeek7»\n🎤 «Και τώρα, ο αγαπημένος σας **Cbeikos**!» — το κοινό παραληρεί: 68.679s! 👏",
@@ -3764,6 +3746,31 @@
       "metadata": {},
       "created_at": "2026-11-17T20:55:04+00:00",
       "expires_at": null
+    },
+    {
+      "date": "2026-11-17T21:10:04+00:00",
+      "text": "[5inch] «SimRushWeek7»\nΤΙ ΤΡΑΒΑΜΕ! Ο **Liapos** με 89.941s - οι υπόλοιποι απλώς παρακολουθούν! 📺\nΟ χάρτης φωνάζει το όνομά σου! 🗣️",
+      "tag": "announcement",
+      "id": "rd-fce387f2e5",
+      "event_type": "PERSONAL",
+      "category": "timing",
+      "priority": "normal",
+      "pilots": [
+        "Liapos"
+      ],
+      "pilot_ids": [
+        "liapos"
+      ],
+      "track": "SimRushWeek7",
+      "class": "5inch",
+      "week": 7,
+      "season": 2026,
+      "related_duel_id": null,
+      "metadata": {
+        "time": 89.941
+      },
+      "created_at": "2026-11-17T21:10:04+00:00",
+      "expires_at": null
     }
   ],
   "avatars": {},
@@ -4137,13 +4144,13 @@
         "previous_position": 4,
         "position_change": -2,
         "comparison_period": "previous_24h",
-        "best_time": 95.934,
-        "previous_best_time": 97.077,
-        "time_improvement": 1.143,
+        "best_time": 89.941,
+        "previous_best_time": 95.934,
+        "time_improvement": 5.993,
         "first_time": 100.222
       },
       "stats": {
-        "pbs": 28,
+        "pbs": 29,
         "tracks_improved": 8,
         "best_improvement_pct": 11.06
       }

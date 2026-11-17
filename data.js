@@ -9,7 +9,7 @@ const DATA_URL = "https://raw.githubusercontent.com/alefas9/velocidrone-bot-data
 
 const FALLBACK = {
   "schema_version": "2.1",
-  "generated_at": "2026-11-17T21:30:03+00:00",
+  "generated_at": "2026-11-17T21:35:03+00:00",
   "season": 2026,
   "current_track": "SimRushWeek7",
   "week_no": 7,
@@ -49,7 +49,7 @@ const FALLBACK = {
       },
       {
         "pilot": "Liapos",
-        "time": 89.941,
+        "time": 88.461,
         "quad": "Bahamut",
         "pilot_id": "liapos"
       },
@@ -976,10 +976,10 @@ const FALLBACK = {
         "pilot": "Liapos",
         "class": "5inch",
         "pos": 6,
-        "time": 89.941,
+        "time": 88.461,
         "first_time": 100.222,
-        "prev_time": 95.934,
-        "improvements": 5,
+        "prev_time": 89.941,
+        "improvements": 6,
         "user_id": 155181,
         "pos_24h": 4,
         "pos_change_24h": -2
@@ -1010,7 +1010,7 @@ const FALLBACK = {
       }
     ],
     "hours_at_top": {
-      "DedalosFPV": 72.33
+      "DedalosFPV": 72.67
     },
     "race_to_top": [
       {
@@ -1027,7 +1027,7 @@ const FALLBACK = {
       },
       {
         "pilot": "Liapos",
-        "improvements": 5
+        "improvements": 6
       },
       {
         "pilot": "Agorastos",
@@ -1103,6 +1103,13 @@ const FALLBACK = {
     ]
   },
   "improvements": [
+    {
+      "pilot": "Liapos",
+      "track": "SimRushWeek7",
+      "time": 88.461,
+      "delta": 1.48,
+      "date": "2026-11-17T23:30:02+00:00"
+    },
     {
       "pilot": "Liapos",
       "track": "SimRushWeek7",
@@ -3195,13 +3202,6 @@ const FALLBACK = {
       "time": 65.008,
       "delta": 0.625,
       "date": "2026-10-23T00:00:00+00:00"
-    },
-    {
-      "pilot": "ZOUP",
-      "track": "SimRushWeek3",
-      "time": 40.373,
-      "delta": 1.508,
-      "date": "2026-10-22T00:00:00+00:00"
     }
   ],
   "pilot_stats": {
@@ -3221,7 +3221,7 @@ const FALLBACK = {
       "best_improvement_pct": 30.77
     },
     "Liapos": {
-      "pbs": 29,
+      "pbs": 30,
       "tracks_improved": 8,
       "best_improvement_pct": 11.06
     },
@@ -3298,6 +3298,14 @@ const FALLBACK = {
   },
   "hot_battles": [
     {
+      "leader": "dimbazus",
+      "chaser": "Liapos",
+      "gap": 0.526,
+      "days": 0,
+      "class": "5inch",
+      "opened": false
+    },
+    {
       "leader": "Cbeikos",
       "chaser": "TettixPro",
       "gap": 1.91,
@@ -3326,7 +3334,7 @@ const FALLBACK = {
     {
       "leader": "Liapos",
       "chaser": "Agorastos",
-      "gap": 6.37,
+      "gap": 7.85,
       "days": 0,
       "class": "5inch",
       "opened": true,
@@ -3335,25 +3343,6 @@ const FALLBACK = {
   ],
   "track_reveal": null,
   "race_director_messages": [
-    {
-      "date": "2026-11-15T11:20:04+00:00",
-      "text": "[5inch] «SimRushWeek7»\n🎤 «Και τώρα, ο αγαπημένος σας **Cbeikos**!» — το κοινό παραληρεί: 68.679s! 👏",
-      "tag": "announcement",
-      "id": "rd-3eeed8f79d",
-      "event_type": "unknown",
-      "category": "general",
-      "priority": "normal",
-      "pilots": [],
-      "pilot_ids": [],
-      "track": null,
-      "class": null,
-      "week": null,
-      "season": 2026,
-      "related_duel_id": null,
-      "metadata": {},
-      "created_at": "2026-11-15T11:20:04+00:00",
-      "expires_at": null
-    },
     {
       "date": "2026-11-15T11:20:08+00:00",
       "text": "[5inch] «SimRushWeek7»\n🦜 Νιάου νιάου ο **dimbazus**: 90.748s στην «SimRushWeek7» - η γατούλα βρήκε το ποντίκι!\nΤι να σας πω... το #1 δεν θα πάρει το αυτοκίνητο μόνο του! 🚗",
@@ -3780,6 +3769,31 @@ const FALLBACK = {
       },
       "created_at": "2026-11-17T21:10:04+00:00",
       "expires_at": null
+    },
+    {
+      "date": "2026-11-17T21:30:03+00:00",
+      "text": "[5inch] «SimRushWeek7»\n🧲 Μαγνήτης ρεκόρ ο **Liapos**: 88.461s στην «SimRushWeek7» - τραβάει τα δευτερόλεπτα!\nΚανείς δεν είναι ασφαλής! 😤",
+      "tag": "announcement",
+      "id": "rd-bd809f98d7",
+      "event_type": "PERSONAL",
+      "category": "timing",
+      "priority": "normal",
+      "pilots": [
+        "Liapos"
+      ],
+      "pilot_ids": [
+        "liapos"
+      ],
+      "track": "SimRushWeek7",
+      "class": "5inch",
+      "week": 7,
+      "season": 2026,
+      "related_duel_id": null,
+      "metadata": {
+        "time": 88.461
+      },
+      "created_at": "2026-11-17T21:30:03+00:00",
+      "expires_at": null
     }
   ],
   "avatars": {},
@@ -4153,13 +4167,13 @@ const FALLBACK = {
         "previous_position": 4,
         "position_change": -2,
         "comparison_period": "previous_24h",
-        "best_time": 89.941,
-        "previous_best_time": 95.934,
-        "time_improvement": 5.993,
+        "best_time": 88.461,
+        "previous_best_time": 89.941,
+        "time_improvement": 1.48,
         "first_time": 100.222
       },
       "stats": {
-        "pbs": 29,
+        "pbs": 30,
         "tracks_improved": 8,
         "best_improvement_pct": 11.06
       }

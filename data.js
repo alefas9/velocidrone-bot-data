@@ -9,7 +9,7 @@ const DATA_URL = "https://raw.githubusercontent.com/alefas9/velocidrone-bot-data
 
 const FALLBACK = {
   "schema_version": "2.1",
-  "generated_at": "2026-11-18T18:15:02+00:00",
+  "generated_at": "2026-11-18T18:20:02+00:00",
   "season": 2026,
   "current_track": "SimRushWeek7",
   "week_no": 7,
@@ -1010,7 +1010,7 @@ const FALLBACK = {
       }
     ],
     "hours_at_top": {
-      "DedalosFPV": 91.42
+      "DedalosFPV": 91.5
     },
     "race_to_top": [
       {
@@ -3339,25 +3339,6 @@ const FALLBACK = {
   "track_reveal": null,
   "race_director_messages": [
     {
-      "date": "2026-11-15T11:30:03+00:00",
-      "text": "[5inch] «SimRushWeek7»\nΡΕ ΠΑΙΔΙΑ, ο **Cbeikos** ξαναχτύπησε: 67.018s στην «SimRushWeek7»! Τι να πω τώρα εγώ... 😅",
-      "tag": "announcement",
-      "id": "rd-68aa75e406",
-      "event_type": "unknown",
-      "category": "general",
-      "priority": "normal",
-      "pilots": [],
-      "pilot_ids": [],
-      "track": null,
-      "class": null,
-      "week": null,
-      "season": 2026,
-      "related_duel_id": null,
-      "metadata": {},
-      "created_at": "2026-11-15T11:30:03+00:00",
-      "expires_at": null
-    },
-    {
       "date": "2026-11-15T11:30:08+00:00",
       "text": "[5inch] «SimRushWeek7»\n⛏️ Ο **dimbazus** σκάβει χρόνο: 87.935s στην «SimRushWeek7» - θα σταματήσει;",
       "tag": "announcement",
@@ -3794,6 +3775,34 @@ const FALLBACK = {
         "time": 73.352
       },
       "created_at": "2026-11-18T06:05:05+00:00",
+      "expires_at": null
+    },
+    {
+      "date": "2026-11-18T18:15:03+00:00",
+      "text": "⛽ Και οι δύο άδειασαν το ρεζερβουάρ στην «SimRushWeek7» για 1 μέρες (1.910s)! Duel για να ξεκαθαρίσει;",
+      "tag": "announcement",
+      "id": "rd-1a048d4e34",
+      "event_type": "DUEL_SUGGEST",
+      "category": "rivalries",
+      "priority": "normal",
+      "pilots": [
+        "Cbeikos",
+        "TettixPro"
+      ],
+      "pilot_ids": [
+        "cbeikos",
+        "tettixpro"
+      ],
+      "track": "SimRushWeek7",
+      "class": null,
+      "week": 7,
+      "season": 2026,
+      "related_duel_id": null,
+      "metadata": {
+        "gap": 1.9099999999999966,
+        "days": 1
+      },
+      "created_at": "2026-11-18T18:15:03+00:00",
       "expires_at": null
     }
   ],

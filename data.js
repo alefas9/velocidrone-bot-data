@@ -9,7 +9,7 @@ const DATA_URL = "https://raw.githubusercontent.com/alefas9/velocidrone-bot-data
 
 const FALLBACK = {
   "schema_version": "2.1",
-  "generated_at": "2026-11-20T19:55:02+00:00",
+  "generated_at": "2026-11-20T20:00:03+00:00",
   "season": 2026,
   "current_track": "SimRushWeek7",
   "week_no": 7,
@@ -3343,25 +3343,6 @@ const FALLBACK = {
   "track_reveal": null,
   "race_director_messages": [
     {
-      "date": "2026-11-15T13:55:04+00:00",
-      "text": "[5inch] «SimRushWeek7»\n🧈 Βούτυρο στα γκάζια: **Cbeikos** -> 65.128s στην «SimRushWeek7»!",
-      "tag": "announcement",
-      "id": "rd-0e877356c9",
-      "event_type": "unknown",
-      "category": "general",
-      "priority": "normal",
-      "pilots": [],
-      "pilot_ids": [],
-      "track": null,
-      "class": null,
-      "week": null,
-      "season": 2026,
-      "related_duel_id": null,
-      "metadata": {},
-      "created_at": "2026-11-15T13:55:04+00:00",
-      "expires_at": null
-    },
-    {
       "date": "2026-11-15T23:25:04+00:00",
       "text": "[5inch] «SimRushWeek7»\n🚧 Ο δήμος ειδοποιήθηκε: ο **Liapos** ξύρισε το οδόστρωμα με 100.222s στην «SimRushWeek7»!",
       "tag": "announcement",
@@ -3813,6 +3794,25 @@ const FALLBACK = {
         "time": 133.183
       },
       "created_at": "2026-11-20T19:45:03+00:00",
+      "expires_at": null
+    },
+    {
+      "date": "2026-11-20T20:00:02+00:00",
+      "text": "📰 ΤΑ ΝΕΑ ΤΗΣ ΠΙΣΤΑΣ — «SimRushWeek7»\n🥇 **DedalosFPV**  53.735s\n🥈 **Cbeikos**  65.128s  (+11.393s)\n🥉 **TettixPro**  67.038s  (+13.303s)\n**4.** **tomahok**  73.352s  (+19.617s)\n**5.** **dimbazus**  87.935s  (+34.200s)\n**6.** **Liapos**  88.461s  (+34.726s)\n**7.** **Agorastos**  96.311s  (+42.576s)\n**8.** **fpvchucky**  133.183s  (+79.448s)\n**9.** **Bakarim**  244.432s  (+190.697s)\n\n📈 **Εβδομαδιαία στατιστικά:** 72 νέα ρεκόρ συνολικά - πιο ενεργός ο **Agorastos** (72).",
+      "tag": "announcement",
+      "id": "rd-860b8447f8",
+      "event_type": "WEEK_RECAP",
+      "category": "championship",
+      "priority": "high",
+      "pilots": [],
+      "pilot_ids": [],
+      "track": "SimRushWeek7",
+      "class": null,
+      "week": 7,
+      "season": 2026,
+      "related_duel_id": null,
+      "metadata": {},
+      "created_at": "2026-11-20T20:00:02+00:00",
       "expires_at": null
     }
   ],

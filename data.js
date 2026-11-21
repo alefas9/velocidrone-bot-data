@@ -9,7 +9,7 @@ const DATA_URL = "https://raw.githubusercontent.com/alefas9/velocidrone-bot-data
 
 const FALLBACK = {
   "schema_version": "2.1",
-  "generated_at": "2026-11-21T20:15:03+00:00",
+  "generated_at": "2026-11-21T20:20:03+00:00",
   "season": 2026,
   "current_track": "SimRushWeek8",
   "week_no": 8,
@@ -3215,7 +3215,23 @@ const FALLBACK = {
   },
   "pilot_of_the_week": null,
   "hot_battles": [],
-  "track_reveal": null,
+  "track_reveal": {
+    "track": "SimRushWeek8",
+    "track_id": 41059,
+    "title": "TRACK REVEAL · SimRushWeek8",
+    "youtube": "u55YySUno6I",
+    "youtube_id": "u55YySUno6I",
+    "youtube_url": "https://www.youtube.com/watch?v=u55YySUno6I",
+    "reveal_date": "2026-11-21T20:23:00.459503",
+    "race_start": null,
+    "race_end": null,
+    "status": "active",
+    "briefing": {
+      "id": "rd-0a74678d39",
+      "text": "📢 Νέα εβδομάδα = νέο κυνήγι! Χάρτης: «SimRushWeek8» - καλό κυνήγι σε όλους! 🦅\n(Auto Leaderboard Upload: ON)",
+      "created_at": "2026-11-21T18:23:01+00:00"
+    }
+  },
   "race_director_messages": [
     {
       "date": "2026-11-17T17:55:11+00:00",

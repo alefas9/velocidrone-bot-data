@@ -9,11 +9,11 @@ const DATA_URL = "https://raw.githubusercontent.com/alefas9/velocidrone-bot-data
 
 const FALLBACK = {
   "schema_version": "2.1",
-  "generated_at": "2026-11-21T16:05:03+00:00",
+  "generated_at": "2026-11-21T16:10:03+00:00",
   "season": 2026,
   "current_track": "SimRushWeek7",
   "week_no": 7,
-  "rounds_completed": 6,
+  "rounds_completed": 7,
   "track_display": "Sim Rush Week 7",
   "current_leaderboard": {
     "5inch": [
@@ -89,19 +89,27 @@ const FALLBACK = {
     "5inch": [
       {
         "pilot": "ZOUP",
-        "points": 108,
+        "points": 126,
         "wins": 3,
-        "podiums": 5,
+        "podiums": 6,
         "best": 40.165,
         "pilot_id": "zoup"
       },
       {
         "pilot": "TettixPro",
-        "points": 97,
+        "points": 109,
         "wins": 1,
         "podiums": 5,
         "best": 34.337,
         "pilot_id": "tettixpro"
+      },
+      {
+        "pilot": "DedalosFPV",
+        "points": 104,
+        "wins": 1,
+        "podiums": 3,
+        "best": 38.398,
+        "pilot_id": "dedalosfpv"
       },
       {
         "pilot": "Exo_FPV",
@@ -112,28 +120,28 @@ const FALLBACK = {
         "pilot_id": "exo-fpv"
       },
       {
-        "pilot": "DedalosFPV",
-        "points": 79,
-        "wins": 0,
-        "podiums": 2,
-        "best": 38.398,
-        "pilot_id": "dedalosfpv"
-      },
-      {
         "pilot": "Cbeikos",
-        "points": 50,
+        "points": 65,
         "wins": 0,
-        "podiums": 0,
+        "podiums": 1,
         "best": 50.665,
         "pilot_id": "cbeikos"
       },
       {
         "pilot": "tomahok",
-        "points": 48,
+        "points": 58,
         "wins": 0,
         "podiums": 0,
         "best": 49.423,
         "pilot_id": "tomahok"
+      },
+      {
+        "pilot": "dimbazus",
+        "points": 40,
+        "wins": 0,
+        "podiums": 0,
+        "best": 61.365,
+        "pilot_id": "dimbazus"
       },
       {
         "pilot": "anthunder",
@@ -144,16 +152,8 @@ const FALLBACK = {
         "pilot_id": "anthunder"
       },
       {
-        "pilot": "dimbazus",
-        "points": 32,
-        "wins": 0,
-        "podiums": 0,
-        "best": 61.365,
-        "pilot_id": "dimbazus"
-      },
-      {
         "pilot": "Agorastos",
-        "points": 30,
+        "points": 34,
         "wins": 0,
         "podiums": 0,
         "best": 54.528,
@@ -161,11 +161,19 @@ const FALLBACK = {
       },
       {
         "pilot": "Liapos",
-        "points": 28,
+        "points": 34,
         "wins": 0,
         "podiums": 0,
         "best": 56.973,
         "pilot_id": "liapos"
+      },
+      {
+        "pilot": "Pontikos",
+        "points": 6,
+        "wins": 0,
+        "podiums": 0,
+        "best": 79.658,
+        "pilot_id": "pontikos"
       },
       {
         "pilot": "Torque72",
@@ -176,16 +184,8 @@ const FALLBACK = {
         "pilot_id": "torque72"
       },
       {
-        "pilot": "Pontikos",
-        "points": 4,
-        "wins": 0,
-        "podiums": 0,
-        "best": 79.658,
-        "pilot_id": "pontikos"
-      },
-      {
         "pilot": "fpvchucky",
-        "points": 3,
+        "points": 4,
         "wins": 0,
         "podiums": 0,
         "best": 104.257,
@@ -786,6 +786,100 @@ const FALLBACK = {
       },
       "week": 6,
       "season": 2026
+    },
+    {
+      "date": "2026-11-21T18:06:02.708263",
+      "track": "SimRushWeek7",
+      "class": "5inch",
+      "results": [
+        {
+          "pilot": "DedalosFPV",
+          "time": 53.735,
+          "points": 25,
+          "pilot_id": "dedalosfpv"
+        },
+        {
+          "pilot": "ZOUP",
+          "time": 64.174,
+          "points": 18,
+          "pilot_id": "zoup"
+        },
+        {
+          "pilot": "Cbeikos",
+          "time": 65.128,
+          "points": 15,
+          "pilot_id": "cbeikos"
+        },
+        {
+          "pilot": "TettixPro",
+          "time": 67.038,
+          "points": 12,
+          "pilot_id": "tettixpro"
+        },
+        {
+          "pilot": "tomahok",
+          "time": 73.352,
+          "points": 10,
+          "pilot_id": "tomahok"
+        },
+        {
+          "pilot": "dimbazus",
+          "time": 87.935,
+          "points": 8,
+          "pilot_id": "dimbazus"
+        },
+        {
+          "pilot": "Liapos",
+          "time": 88.461,
+          "points": 6,
+          "pilot_id": "liapos"
+        },
+        {
+          "pilot": "Agorastos",
+          "time": 96.311,
+          "points": 4,
+          "pilot_id": "agorastos"
+        },
+        {
+          "pilot": "Pontikos",
+          "time": 130.113,
+          "points": 2,
+          "pilot_id": "pontikos"
+        },
+        {
+          "pilot": "fpvchucky",
+          "time": 133.183,
+          "points": 1,
+          "pilot_id": "fpvchucky"
+        },
+        {
+          "pilot": "Bakarim",
+          "time": 244.432,
+          "points": 0,
+          "pilot_id": "bakarim"
+        }
+      ],
+      "winner": "DedalosFPV",
+      "best_time": 53.735,
+      "pilots_count": 11,
+      "records_broken": 4,
+      "pb_events": 39,
+      "track_display": "Sim Rush Week 7",
+      "quads": {
+        "DedalosFPV": "Bahamut",
+        "ZOUP": "Five33 Switchback",
+        "Cbeikos": "Five33 Switchback",
+        "TettixPro": "Bahamut",
+        "tomahok": "Five33 Switchback",
+        "dimbazus": "Bahamut",
+        "Liapos": "Bahamut",
+        "Agorastos": "Carbix Zero",
+        "Pontikos": "Five33 Switchback",
+        "fpvchucky": "Carbix Zero",
+        "Bakarim": "TBS Oblivion"
+      },
+      "week": 7,
+      "season": 2026
     }
   ],
   "season_chart": {
@@ -795,7 +889,8 @@ const FALLBACK = {
       "SimRushWeek3",
       "SimRushWeek-4",
       "SimRushWeek-5",
-      "SimRushWeek6"
+      "SimRushWeek6",
+      "SimRushWeek7"
     ],
     "series": {
       "Agorastos": [
@@ -804,9 +899,11 @@ const FALLBACK = {
         12,
         16,
         24,
-        30
+        30,
+        34
       ],
       "Bakarim": [
+        0,
         0,
         0,
         0,
@@ -820,7 +917,8 @@ const FALLBACK = {
         18,
         28,
         38,
-        50
+        50,
+        65
       ],
       "DedalosFPV": [
         10,
@@ -828,7 +926,8 @@ const FALLBACK = {
         34,
         46,
         61,
-        79
+        79,
+        104
       ],
       "Exo_FPV": [
         25,
@@ -836,9 +935,11 @@ const FALLBACK = {
         68,
         86,
         86,
+        86,
         86
       ],
       "Gaston_FPV": [
+        0,
         0,
         0,
         0,
@@ -852,7 +953,8 @@ const FALLBACK = {
         12,
         18,
         24,
-        28
+        28,
+        34
       ],
       "Pontikos": [
         0,
@@ -860,7 +962,8 @@ const FALLBACK = {
         0,
         1,
         2,
-        4
+        4,
+        6
       ],
       "TettixPro": [
         12,
@@ -868,13 +971,15 @@ const FALLBACK = {
         42,
         57,
         82,
-        97
+        97,
+        109
       ],
       "Torque72": [
         0,
         0,
         1,
         3,
+        5,
         5,
         5
       ],
@@ -884,13 +989,15 @@ const FALLBACK = {
         58,
         83,
         83,
-        108
+        108,
+        126
       ],
       "anthunder": [
         18,
         18,
         18,
         18,
+        36,
         36,
         36
       ],
@@ -900,7 +1007,8 @@ const FALLBACK = {
         12,
         20,
         24,
-        32
+        32,
+        40
       ],
       "fpvchucky": [
         1,
@@ -908,9 +1016,11 @@ const FALLBACK = {
         2,
         2,
         2,
-        3
+        3,
+        4
       ],
       "gkfpv13": [
+        0,
         0,
         0,
         0,
@@ -924,7 +1034,8 @@ const FALLBACK = {
         26,
         26,
         38,
-        48
+        48,
+        58
       ]
     }
   },
@@ -3395,94 +3506,6 @@ const FALLBACK = {
   "track_reveal": null,
   "race_director_messages": [
     {
-      "date": "2026-11-15T23:45:03+00:00",
-      "text": "[5inch] «SimRushWeek7»\n🎵 Νέο hit από τον **Liapos**: 97.461s στην «SimRushWeek7»!",
-      "tag": "announcement",
-      "id": "rd-2f7c5115fb",
-      "event_type": "PERSONAL",
-      "category": "timing",
-      "priority": "normal",
-      "pilots": [
-        "Liapos"
-      ],
-      "pilot_ids": [
-        "liapos"
-      ],
-      "track": "SimRushWeek7",
-      "class": "5inch",
-      "week": 7,
-      "season": 2026,
-      "related_duel_id": null,
-      "metadata": {
-        "time": 97.461
-      },
-      "created_at": "2026-11-15T23:45:03+00:00",
-      "expires_at": null
-    },
-    {
-      "date": "2026-11-16T00:10:03+00:00",
-      "text": "[5inch] «SimRushWeek7»\n🪂 Ο **Liapos** έκοψε τόσο χαμηλά που ζήτησε άδεια από το δημοτικό: 97.077s!",
-      "tag": "announcement",
-      "id": "rd-651dfe988f",
-      "event_type": "PERSONAL",
-      "category": "timing",
-      "priority": "normal",
-      "pilots": [
-        "Liapos"
-      ],
-      "pilot_ids": [
-        "liapos"
-      ],
-      "track": "SimRushWeek7",
-      "class": "5inch",
-      "week": 7,
-      "season": 2026,
-      "related_duel_id": null,
-      "metadata": {
-        "time": 97.077
-      },
-      "created_at": "2026-11-16T00:10:03+00:00",
-      "expires_at": null
-    },
-    {
-      "date": "2026-11-16T20:00:02+00:00",
-      "text": "📺 ΡΕΠΟΡΤΑΖ ΑΓΩΝΙΣΤΙΚΗΣ — «SimRushWeek7»\n🥇 **DedalosFPV**  53.735s\n🥈 **Cbeikos**  65.128s  (+11.393s)\n🥉 **tomahok**  73.909s  (+20.174s)\n**4.** **dimbazus**  87.935s  (+34.200s)\n**5.** **Liapos**  97.077s  (+43.342s)\n**6.** **Agorastos**  99.853s  (+46.118s)\n**7.** **Bakarim**  244.432s  (+190.697s)\n\n📈 **Εβδομαδιαία στατιστικά:** 72 νέα ρεκόρ συνολικά - πιο ενεργός ο **Agorastos** (72).",
-      "tag": "announcement",
-      "id": "rd-e7aad9c9d2",
-      "event_type": "WEEK_RECAP",
-      "category": "championship",
-      "priority": "high",
-      "pilots": [],
-      "pilot_ids": [],
-      "track": "SimRushWeek7",
-      "class": null,
-      "week": 7,
-      "season": 2026,
-      "related_duel_id": null,
-      "metadata": {},
-      "created_at": "2026-11-16T20:00:02+00:00",
-      "expires_at": null
-    },
-    {
-      "date": "2026-11-16T20:00:03+00:00",
-      "text": "🏆 Βαθμολογία σεζόν [5inch]\n🥇 ZOUP — **108** πόντοι\n🥈 TettixPro — **97** πόντοι\n🥉 Exo_FPV — **86** πόντοι\n**4.** DedalosFPV — **79** πόντοι\n**5.** Cbeikos — **50** πόντοι\n**6.** tomahok — **48** πόντοι\n**7.** anthunder — **36** πόντοι\n**8.** dimbazus — **32** πόντοι\n**9.** Agorastos — **30** πόντοι\n**10.** Liapos — **28** πόντοι",
-      "tag": "announcement",
-      "id": "rd-9e8ae6a600",
-      "event_type": "SEASON_STANDINGS",
-      "category": "championship",
-      "priority": "high",
-      "pilots": [],
-      "pilot_ids": [],
-      "track": null,
-      "class": "5inch",
-      "week": null,
-      "season": 2026,
-      "related_duel_id": null,
-      "metadata": {},
-      "created_at": "2026-11-16T20:00:03+00:00",
-      "expires_at": null
-    },
-    {
       "date": "2026-11-17T17:55:05+00:00",
       "text": "[5inch] «SimRushWeek7»\n✂️ Κούρεμα δεκαδικών από τον **TettixPro**: 96.831s στην «SimRushWeek7»!",
       "tag": "announcement",
@@ -3866,6 +3889,82 @@ const FALLBACK = {
       },
       "created_at": "2026-11-21T15:40:03+00:00",
       "expires_at": null
+    },
+    {
+      "date": "2026-11-21T16:06:02+00:00",
+      "text": "🏆 Εβδομάδα ολοκληρώθηκε: «SimRushWeek7» [5inch]\n🥇 **DedalosFPV**  53.735s  (+25)\n🥈 **ZOUP**  64.174s  (+18)\n🥉 **Cbeikos**  65.128s  (+15)\n#4 **TettixPro**  67.038s  (+12)\n#5 **tomahok**  73.352s  (+10)\n#6 **dimbazus**  87.935s  (+8)\n#7 **Liapos**  88.461s  (+6)\n#8 **Agorastos**  96.311s  (+4)\n#9 **Pontikos**  130.113s  (+2)\n#10 **fpvchucky**  133.183s  (+1)\n#11 **Bakarim**  244.432s  (+0)",
+      "tag": "announcement",
+      "id": "rd-1e1e3c1ca8",
+      "event_type": "unknown",
+      "category": "general",
+      "priority": "normal",
+      "pilots": [],
+      "pilot_ids": [],
+      "track": null,
+      "class": null,
+      "week": null,
+      "season": 2026,
+      "related_duel_id": null,
+      "metadata": {},
+      "created_at": "2026-11-21T16:06:02+00:00",
+      "expires_at": null
+    },
+    {
+      "date": "2026-11-21T16:06:03+00:00",
+      "text": "📊 Βαθμολογία σεζόν [5inch]\n**1.** ZOUP — 126 βαθμοί\n**2.** TettixPro — 109 βαθμοί\n**3.** DedalosFPV — 104 βαθμοί\n**4.** Exo_FPV — 86 βαθμοί\n**5.** Cbeikos — 65 βαθμοί\n**6.** tomahok — 58 βαθμοί\n**7.** dimbazus — 40 βαθμοί\n**8.** anthunder — 36 βαθμοί\n**9.** Agorastos — 34 βαθμοί\n**10.** Liapos — 34 βαθμοί",
+      "tag": "announcement",
+      "id": "rd-5472315c43",
+      "event_type": "unknown",
+      "category": "general",
+      "priority": "normal",
+      "pilots": [],
+      "pilot_ids": [],
+      "track": null,
+      "class": null,
+      "week": null,
+      "season": 2026,
+      "related_duel_id": null,
+      "metadata": {},
+      "created_at": "2026-11-21T16:06:03+00:00",
+      "expires_at": null
+    },
+    {
+      "date": "2026-11-21T16:06:07+00:00",
+      "text": "🌟 Πιλότος της εβδομάδας\n**DedalosFPV** — μεγαλύτερη βελτίωση στην πίστα: **+51.6%** (110.979s → 53.735s)",
+      "tag": "announcement",
+      "id": "rd-43ba6d9501",
+      "event_type": "unknown",
+      "category": "general",
+      "priority": "normal",
+      "pilots": [],
+      "pilot_ids": [],
+      "track": null,
+      "class": null,
+      "week": null,
+      "season": 2026,
+      "related_duel_id": null,
+      "metadata": {},
+      "created_at": "2026-11-21T16:06:07+00:00",
+      "expires_at": null
+    },
+    {
+      "date": "2026-11-21T16:06:07+00:00",
+      "text": "🎖️ Τίτλοι εβδομάδας\n🏆 Week Champion — @DedalosFPV · η εβδομάδα του ανήκε απλώς\n🟢 PB Machine — @Cbeikos · κάθε πτήση, νέο ρεκόρ\n🔵 Rising Star — @TettixPro · η μεγαλύτερη άνοδος της εβδομάδας\n🔴 Gatekeeper — @dimbazus · κλείδωσε την πόρτα στον από πίσω\n🟣 Close Hunter — @Liapos · ένα δευτερόλεπτο από τη δόξα\n🟤 Consistent Threat — @ZOUP · μόνιμη απειλή στην κορυφή ⚡",
+      "tag": "announcement",
+      "id": "rd-bb03592c2b",
+      "event_type": "unknown",
+      "category": "general",
+      "priority": "normal",
+      "pilots": [],
+      "pilot_ids": [],
+      "track": null,
+      "class": null,
+      "week": null,
+      "season": 2026,
+      "related_duel_id": null,
+      "metadata": {},
+      "created_at": "2026-11-21T16:06:07+00:00",
+      "expires_at": null
     }
   ],
   "avatars": {},
@@ -3899,6 +3998,48 @@ const FALLBACK = {
           "desc": "κυνήγησε την κορυφή — gap ≤1s"
         }
       ]
+    },
+    {
+      "week": "SimRushWeek7",
+      "awarded_at": "2026-11-21T18:06:07.635111+02:00",
+      "titles": [
+        {
+          "pilot": "DedalosFPV",
+          "pilot_id": "414751212458606593",
+          "title": "Week Champion",
+          "desc": "πρωταθλητής εβδομάδας"
+        },
+        {
+          "pilot": "Cbeikos",
+          "pilot_id": "1324697735185698839",
+          "title": "PB Machine",
+          "desc": "5+ βελτιώσεις στην πίστα"
+        },
+        {
+          "pilot": "TettixPro",
+          "pilot_id": "1313555867513389117",
+          "title": "Rising Star",
+          "desc": "βελτίωση 15%+ στην πίστα"
+        },
+        {
+          "pilot": "dimbazus",
+          "pilot_id": "440828298269032448",
+          "title": "Gatekeeper",
+          "desc": "αμύνθηκε τη θέση του — gap ≤1s"
+        },
+        {
+          "pilot": "Liapos",
+          "pilot_id": "908743374704611368",
+          "title": "Close Hunter",
+          "desc": "κυνήγησε την κορυφή — gap ≤1s"
+        },
+        {
+          "pilot": "ZOUP",
+          "pilot_id": "693407689119891466",
+          "title": "Consistent Threat",
+          "desc": "σταθερά στο top-3 της εβδομάδας"
+        }
+      ]
     }
   ],
   "pilots": {
@@ -3910,16 +4051,16 @@ const FALLBACK = {
       "user_id": 128161,
       "season": {
         "class": "5inch",
-        "points": 30,
+        "points": 34,
         "wins": 0,
         "podiums": 0,
         "best": 54.528,
         "position": 9,
-        "previous_position": 8,
-        "position_change": -1,
-        "points_change": 6,
+        "previous_position": 9,
+        "position_change": 0,
+        "points_change": 4,
         "comparison_period": "previous_completed_week",
-        "comparison_reference": "SimRushWeek6"
+        "comparison_reference": "SimRushWeek7"
       },
       "current_week": {
         "track": "SimRushWeek7",
@@ -3951,12 +4092,12 @@ const FALLBACK = {
         "wins": 0,
         "podiums": 2,
         "best": 37.39,
-        "position": 7,
+        "position": 8,
         "previous_position": 7,
-        "position_change": 0,
+        "position_change": -1,
         "points_change": 0,
         "comparison_period": "previous_completed_week",
-        "comparison_reference": "SimRushWeek6"
+        "comparison_reference": "SimRushWeek7"
       },
       "current_week": null,
       "stats": {
@@ -3982,7 +4123,7 @@ const FALLBACK = {
         "position_change": 0,
         "points_change": 0,
         "comparison_period": "previous_completed_week",
-        "comparison_reference": "SimRushWeek6"
+        "comparison_reference": "SimRushWeek7"
       },
       "current_week": {
         "track": "SimRushWeek7",
@@ -4010,16 +4151,16 @@ const FALLBACK = {
       "user_id": 258063,
       "season": {
         "class": "5inch",
-        "points": 50,
+        "points": 65,
         "wins": 0,
-        "podiums": 0,
+        "podiums": 1,
         "best": 50.665,
         "position": 5,
-        "previous_position": 6,
-        "position_change": 1,
-        "points_change": 12,
+        "previous_position": 5,
+        "position_change": 0,
+        "points_change": 15,
         "comparison_period": "previous_completed_week",
-        "comparison_reference": "SimRushWeek6"
+        "comparison_reference": "SimRushWeek7"
       },
       "current_week": {
         "track": "SimRushWeek7",
@@ -4047,16 +4188,16 @@ const FALLBACK = {
       "user_id": 387184,
       "season": {
         "class": "5inch",
-        "points": 79,
-        "wins": 0,
-        "podiums": 2,
+        "points": 104,
+        "wins": 1,
+        "podiums": 3,
         "best": 38.398,
-        "position": 4,
+        "position": 3,
         "previous_position": 4,
-        "position_change": 0,
-        "points_change": 18,
+        "position_change": 1,
+        "points_change": 25,
         "comparison_period": "previous_completed_week",
-        "comparison_reference": "SimRushWeek6"
+        "comparison_reference": "SimRushWeek7"
       },
       "current_week": {
         "track": "SimRushWeek7",
@@ -4084,16 +4225,16 @@ const FALLBACK = {
       "user_id": 309918,
       "season": {
         "class": "5inch",
-        "points": 32,
+        "points": 40,
         "wins": 0,
         "podiums": 0,
         "best": 61.365,
-        "position": 8,
-        "previous_position": 10,
-        "position_change": 2,
+        "position": 7,
+        "previous_position": 8,
+        "position_change": 1,
         "points_change": 8,
         "comparison_period": "previous_completed_week",
-        "comparison_reference": "SimRushWeek6"
+        "comparison_reference": "SimRushWeek7"
       },
       "current_week": {
         "track": "SimRushWeek7",
@@ -4125,12 +4266,12 @@ const FALLBACK = {
         "wins": 2,
         "podiums": 4,
         "best": 38.31,
-        "position": 3,
-        "previous_position": 1,
-        "position_change": -2,
+        "position": 4,
+        "previous_position": 3,
+        "position_change": -1,
         "points_change": 0,
         "comparison_period": "previous_completed_week",
-        "comparison_reference": "SimRushWeek6"
+        "comparison_reference": "SimRushWeek7"
       },
       "current_week": null,
       "stats": {
@@ -4147,7 +4288,7 @@ const FALLBACK = {
       "user_id": 451407,
       "season": {
         "class": "5inch",
-        "points": 3,
+        "points": 4,
         "wins": 0,
         "podiums": 0,
         "best": 104.257,
@@ -4156,7 +4297,7 @@ const FALLBACK = {
         "position_change": 0,
         "points_change": 1,
         "comparison_period": "previous_completed_week",
-        "comparison_reference": "SimRushWeek6"
+        "comparison_reference": "SimRushWeek7"
       },
       "current_week": {
         "track": "SimRushWeek7",
@@ -4193,7 +4334,7 @@ const FALLBACK = {
         "position_change": 0,
         "points_change": 0,
         "comparison_period": "previous_completed_week",
-        "comparison_reference": "SimRushWeek6"
+        "comparison_reference": "SimRushWeek7"
       },
       "current_week": null,
       "stats": {
@@ -4219,7 +4360,7 @@ const FALLBACK = {
         "position_change": 0,
         "points_change": 0,
         "comparison_period": "previous_completed_week",
-        "comparison_reference": "SimRushWeek6"
+        "comparison_reference": "SimRushWeek7"
       },
       "current_week": null,
       "stats": null
@@ -4232,16 +4373,16 @@ const FALLBACK = {
       "user_id": 155181,
       "season": {
         "class": "5inch",
-        "points": 28,
+        "points": 34,
         "wins": 0,
         "podiums": 0,
         "best": 56.973,
         "position": 10,
-        "previous_position": 9,
-        "position_change": -1,
-        "points_change": 4,
+        "previous_position": 10,
+        "position_change": 0,
+        "points_change": 6,
         "comparison_period": "previous_completed_week",
-        "comparison_reference": "SimRushWeek6"
+        "comparison_reference": "SimRushWeek7"
       },
       "current_week": {
         "track": "SimRushWeek7",
@@ -4269,16 +4410,16 @@ const FALLBACK = {
       "user_id": 150985,
       "season": {
         "class": "5inch",
-        "points": 4,
+        "points": 6,
         "wins": 0,
         "podiums": 0,
         "best": 79.658,
-        "position": 12,
+        "position": 11,
         "previous_position": 12,
-        "position_change": 0,
+        "position_change": 1,
         "points_change": 2,
         "comparison_period": "previous_completed_week",
-        "comparison_reference": "SimRushWeek6"
+        "comparison_reference": "SimRushWeek7"
       },
       "current_week": {
         "track": "SimRushWeek7",
@@ -4306,16 +4447,16 @@ const FALLBACK = {
       "user_id": 372096,
       "season": {
         "class": "5inch",
-        "points": 97,
+        "points": 109,
         "wins": 1,
         "podiums": 5,
         "best": 34.337,
         "position": 2,
-        "previous_position": 3,
-        "position_change": 1,
-        "points_change": 15,
+        "previous_position": 2,
+        "position_change": 0,
+        "points_change": 12,
         "comparison_period": "previous_completed_week",
-        "comparison_reference": "SimRushWeek6"
+        "comparison_reference": "SimRushWeek7"
       },
       "current_week": {
         "track": "SimRushWeek7",
@@ -4343,16 +4484,16 @@ const FALLBACK = {
       "user_id": 17641,
       "season": {
         "class": "5inch",
-        "points": 48,
+        "points": 58,
         "wins": 0,
         "podiums": 0,
         "best": 49.423,
         "position": 6,
-        "previous_position": 5,
-        "position_change": -1,
+        "previous_position": 6,
+        "position_change": 0,
         "points_change": 10,
         "comparison_period": "previous_completed_week",
-        "comparison_reference": "SimRushWeek6"
+        "comparison_reference": "SimRushWeek7"
       },
       "current_week": {
         "track": "SimRushWeek7",
@@ -4384,12 +4525,12 @@ const FALLBACK = {
         "wins": 0,
         "podiums": 0,
         "best": 70.324,
-        "position": 11,
+        "position": 12,
         "previous_position": 11,
-        "position_change": 0,
+        "position_change": -1,
         "points_change": 0,
         "comparison_period": "previous_completed_week",
-        "comparison_reference": "SimRushWeek6"
+        "comparison_reference": "SimRushWeek7"
       },
       "current_week": null,
       "stats": {
@@ -4406,16 +4547,16 @@ const FALLBACK = {
       "user_id": 35025,
       "season": {
         "class": "5inch",
-        "points": 108,
+        "points": 126,
         "wins": 3,
-        "podiums": 5,
+        "podiums": 6,
         "best": 40.165,
         "position": 1,
-        "previous_position": 2,
-        "position_change": 1,
-        "points_change": 25,
+        "previous_position": 1,
+        "position_change": 0,
+        "points_change": 18,
         "comparison_period": "previous_completed_week",
-        "comparison_reference": "SimRushWeek6"
+        "comparison_reference": "SimRushWeek7"
       },
       "current_week": {
         "track": "SimRushWeek7",
@@ -4440,14 +4581,15 @@ const FALLBACK = {
     "period": {
       "type": "season",
       "season": 2026,
-      "weeks_completed": 6,
+      "weeks_completed": 7,
       "tracks": [
         "SimRush Week1",
         "SimRushWeek-4",
         "SimRushWeek-5",
         "SimRushWeek2",
         "SimRushWeek3",
-        "SimRushWeek6"
+        "SimRushWeek6",
+        "SimRushWeek7"
       ],
       "note": "Υπολογίζεται από τα season_standings/history/pilot_stats του ίδιου export — όχι χειροκίνητες διακρίσεις."
     },
@@ -4460,7 +4602,7 @@ const FALLBACK = {
             {
               "pilot_id": "zoup",
               "callsign": "ZOUP",
-              "value": 108
+              "value": 126
             }
           ]
         },
@@ -4480,14 +4622,9 @@ const FALLBACK = {
           "title": "Περισσότερα βάθρα",
           "holders": [
             {
-              "pilot_id": "tettixpro",
-              "callsign": "TettixPro",
-              "value": 5
-            },
-            {
               "pilot_id": "zoup",
               "callsign": "ZOUP",
-              "value": 5
+              "value": 6
             }
           ]
         },

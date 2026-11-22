@@ -1,6 +1,6 @@
 {
   "schema_version": "2.1",
-  "generated_at": "2026-11-22T18:10:03+00:00",
+  "generated_at": "2026-11-22T18:15:03+00:00",
   "season": 2026,
   "current_track": "SimRushWeek8",
   "week_no": 8,
@@ -10,7 +10,7 @@
     "5inch": [
       {
         "pilot": "DedalosFPV",
-        "time": 132.52,
+        "time": 128.009,
         "quad": "Bahamut",
         "pilot_id": "dedalosfpv"
       },
@@ -994,10 +994,10 @@
         "pilot": "DedalosFPV",
         "class": "5inch",
         "pos": 1,
-        "time": 132.52,
+        "time": 128.009,
         "first_time": 279.288,
-        "prev_time": 150.454,
-        "improvements": 7,
+        "prev_time": 132.52,
+        "improvements": 8,
         "user_id": 387184,
         "pos_24h": null,
         "pos_change_24h": null
@@ -1041,16 +1041,16 @@
     ],
     "hours_at_top": {
       "tomahok": 3.92,
-      "DedalosFPV": 5.17
+      "DedalosFPV": 7.17
     },
     "race_to_top": [
       {
-        "pilot": "Cbeikos",
+        "pilot": "DedalosFPV",
         "improvements": 8
       },
       {
-        "pilot": "DedalosFPV",
-        "improvements": 7
+        "pilot": "Cbeikos",
+        "improvements": 8
       },
       {
         "pilot": "Liapos",
@@ -1122,6 +1122,13 @@
     ]
   },
   "improvements": [
+    {
+      "pilot": "DedalosFPV",
+      "track": "SimRushWeek8",
+      "time": 128.009,
+      "delta": 4.511,
+      "date": "2026-11-22T20:10:02+00:00"
+    },
     {
       "pilot": "Cbeikos",
       "track": "SimRushWeek8",
@@ -3214,13 +3221,6 @@
       "time": 190.177,
       "delta": 20.243,
       "date": "2026-10-25T00:00:00+00:00"
-    },
-    {
-      "pilot": "dimbazus",
-      "track": "SimRushWeek-4",
-      "time": 177.71,
-      "delta": 12.467,
-      "date": "2026-10-25T00:00:00+00:00"
     }
   ],
   "pilot_stats": {
@@ -3255,7 +3255,7 @@
       "best_improvement_pct": 33.6
     },
     "DedalosFPV": {
-      "pbs": 75,
+      "pbs": 76,
       "tracks_improved": 9,
       "best_improvement_pct": 34.45
     },
@@ -3304,10 +3304,10 @@
     "pilot": "DedalosFPV",
     "track": "SimRushWeek8",
     "first_time": 279.288,
-    "best_time": 132.52,
-    "improvement_pct": 52.55,
+    "best_time": 128.009,
+    "improvement_pct": 54.17,
     "position": 1,
-    "pb_events": 7,
+    "pb_events": 8,
     "criteria": {
       "top_n": 8,
       "min_pb_events": 3,
@@ -3370,32 +3370,6 @@
     }
   },
   "race_director_messages": [
-    {
-      "date": "2026-11-22T07:15:04+00:00",
-      "text": "[5inch] «SimRushWeek8»\n🧨 Δυναμίτης στη στροφή: **tomahok** με 191.930s - άκουσαν τον κρότο στον Ελαιώνα!",
-      "tag": "announcement",
-      "id": "rd-5dc6ebd6ef",
-      "event_type": "NEW_TOP",
-      "category": "timing",
-      "priority": "high",
-      "pilots": [
-        "tomahok"
-      ],
-      "pilot_ids": [
-        "tomahok"
-      ],
-      "track": "SimRushWeek8",
-      "class": "5inch",
-      "week": 8,
-      "season": 2026,
-      "related_duel_id": null,
-      "metadata": {
-        "time": 191.93,
-        "position": 1
-      },
-      "created_at": "2026-11-22T07:15:04+00:00",
-      "expires_at": null
-    },
     {
       "date": "2026-11-22T07:25:04+00:00",
       "text": "[5inch] «SimRushWeek8»\nΚΑΛΑ ΚΡΑΣΙΑ! 190.021s στην «SimRushWeek8» - αυτά δεν τα βλέπεις ούτε στο σινεμά! 🍷\nΗ πρέσσα σε περιμένει! 📶",
@@ -3879,6 +3853,32 @@
       },
       "created_at": "2026-11-22T14:55:02+00:00",
       "expires_at": null
+    },
+    {
+      "date": "2026-11-22T18:10:04+00:00",
+      "text": "[5inch] «SimRushWeek8»\n🥇 Δεν παίζουμε πια: ο **DedalosFPV** έκλεισε το μαγαζί με 128.009s στην «SimRushWeek8»!\nΤα props δεν θα αντικατασταθούν μόνα τους! 🔧",
+      "tag": "announcement",
+      "id": "rd-bbc07d00a2",
+      "event_type": "NEW_TOP",
+      "category": "timing",
+      "priority": "high",
+      "pilots": [
+        "DedalosFPV"
+      ],
+      "pilot_ids": [
+        "dedalosfpv"
+      ],
+      "track": "SimRushWeek8",
+      "class": "5inch",
+      "week": 8,
+      "season": 2026,
+      "related_duel_id": null,
+      "metadata": {
+        "time": 128.009,
+        "position": 1
+      },
+      "created_at": "2026-11-22T18:10:04+00:00",
+      "expires_at": null
     }
   ],
   "avatars": {},
@@ -4098,13 +4098,13 @@
         "previous_position": null,
         "position_change": null,
         "comparison_period": null,
-        "best_time": 132.52,
-        "previous_best_time": 150.454,
-        "time_improvement": 17.934,
+        "best_time": 128.009,
+        "previous_best_time": 132.52,
+        "time_improvement": 4.511,
         "first_time": 279.288
       },
       "stats": {
-        "pbs": 75,
+        "pbs": 76,
         "tracks_improved": 9,
         "best_improvement_pct": 34.45
       }

@@ -1,6 +1,6 @@
 {
   "schema_version": "2.1",
-  "generated_at": "2026-11-22T11:15:02+00:00",
+  "generated_at": "2026-11-22T11:20:02+00:00",
   "season": 2026,
   "current_track": "SimRushWeek8",
   "week_no": 8,
@@ -10,7 +10,7 @@
     "5inch": [
       {
         "pilot": "DedalosFPV",
-        "time": 158.078,
+        "time": 152.316,
         "quad": "Bahamut",
         "pilot_id": "dedalosfpv"
       },
@@ -988,10 +988,10 @@
         "pilot": "DedalosFPV",
         "class": "5inch",
         "pos": 1,
-        "time": 158.078,
+        "time": 152.316,
         "first_time": 279.288,
-        "prev_time": 168.215,
-        "improvements": 4,
+        "prev_time": 158.078,
+        "improvements": 5,
         "user_id": 387184,
         "pos_24h": null,
         "pos_change_24h": null
@@ -1023,12 +1023,12 @@
     ],
     "hours_at_top": {
       "tomahok": 3.92,
-      "DedalosFPV": 0.17
+      "DedalosFPV": 0.25
     },
     "race_to_top": [
       {
         "pilot": "DedalosFPV",
-        "improvements": 4
+        "improvements": 5
       },
       {
         "pilot": "tomahok",
@@ -1100,6 +1100,13 @@
     ]
   },
   "improvements": [
+    {
+      "pilot": "DedalosFPV",
+      "track": "SimRushWeek8",
+      "time": 152.316,
+      "delta": 5.762,
+      "date": "2026-11-22T13:15:02+00:00"
+    },
     {
       "pilot": "DedalosFPV",
       "track": "SimRushWeek8",
@@ -3192,13 +3199,6 @@
       "time": 154.593,
       "delta": 3.788,
       "date": "2026-10-25T00:00:00+00:00"
-    },
-    {
-      "pilot": "DedalosFPV",
-      "track": "SimRushWeek-4",
-      "time": 130.528,
-      "delta": 24.065,
-      "date": "2026-10-25T00:00:00+00:00"
     }
   ],
   "pilot_stats": {
@@ -3233,7 +3233,7 @@
       "best_improvement_pct": 33.6
     },
     "DedalosFPV": {
-      "pbs": 72,
+      "pbs": 73,
       "tracks_improved": 9,
       "best_improvement_pct": 34.45
     },
@@ -3282,10 +3282,10 @@
     "pilot": "DedalosFPV",
     "track": "SimRushWeek8",
     "first_time": 279.288,
-    "best_time": 158.078,
-    "improvement_pct": 43.4,
+    "best_time": 152.316,
+    "improvement_pct": 45.46,
     "position": 1,
-    "pb_events": 4,
+    "pb_events": 5,
     "criteria": {
       "top_n": 8,
       "min_pb_events": 3,
@@ -3340,25 +3340,6 @@
     }
   },
   "race_director_messages": [
-    {
-      "date": "2026-11-18T20:00:03+00:00",
-      "text": "📊 ΑΝΑΣΚΟΠΗΣΗ ΕΒΔΟΜΑΔΑΣ — «SimRushWeek7»\n🥇 **DedalosFPV**  53.735s\n🥈 **Cbeikos**  65.128s  (+11.393s)\n🥉 **TettixPro**  67.038s  (+13.303s)\n**4.** **tomahok**  73.352s  (+19.617s)\n**5.** **dimbazus**  87.935s  (+34.200s)\n**6.** **Liapos**  88.461s  (+34.726s)\n**7.** **Agorastos**  96.311s  (+42.576s)\n**8.** **Bakarim**  244.432s  (+190.697s)\n\n📈 **Εβδομαδιαία στατιστικά:** 72 νέα ρεκόρ συνολικά - πιο ενεργός ο **Agorastos** (72).",
-      "tag": "announcement",
-      "id": "rd-286f16d0de",
-      "event_type": "WEEK_RECAP",
-      "category": "championship",
-      "priority": "high",
-      "pilots": [],
-      "pilot_ids": [],
-      "track": "SimRushWeek7",
-      "class": null,
-      "week": 7,
-      "season": 2026,
-      "related_duel_id": null,
-      "metadata": {},
-      "created_at": "2026-11-18T20:00:03+00:00",
-      "expires_at": null
-    },
     {
       "date": "2026-11-20T20:00:03+00:00",
       "text": "🏆 Βαθμολογία σεζόν [5inch]\n🥇 ZOUP — **108** πόντοι\n🥈 TettixPro — **97** πόντοι\n🥉 Exo_FPV — **86** πόντοι\n**4.** DedalosFPV — **79** πόντοι\n**5.** Cbeikos — **50** πόντοι\n**6.** tomahok — **48** πόντοι\n**7.** anthunder — **36** πόντοι\n**8.** dimbazus — **32** πόντοι\n**9.** Agorastos — **30** πόντοι\n**10.** Liapos — **28** πόντοι",
@@ -3799,6 +3780,32 @@
       },
       "created_at": "2026-11-22T11:10:09+00:00",
       "expires_at": null
+    },
+    {
+      "date": "2026-11-22T11:15:04+00:00",
+      "text": "[5inch] «SimRushWeek8»\nΜΑ ΚΑΛΑ! **DedalosFPV** με 152.316s - έχετε δει τίποτα πιο ωραίο απόψε; 📺",
+      "tag": "announcement",
+      "id": "rd-a2854aa2a6",
+      "event_type": "NEW_TOP",
+      "category": "timing",
+      "priority": "high",
+      "pilots": [
+        "DedalosFPV"
+      ],
+      "pilot_ids": [
+        "dedalosfpv"
+      ],
+      "track": "SimRushWeek8",
+      "class": "5inch",
+      "week": 8,
+      "season": 2026,
+      "related_duel_id": null,
+      "metadata": {
+        "time": 152.316,
+        "position": 1
+      },
+      "created_at": "2026-11-22T11:15:04+00:00",
+      "expires_at": null
     }
   ],
   "avatars": {},
@@ -4007,13 +4014,13 @@
         "previous_position": null,
         "position_change": null,
         "comparison_period": null,
-        "best_time": 158.078,
-        "previous_best_time": 168.215,
-        "time_improvement": 10.137,
+        "best_time": 152.316,
+        "previous_best_time": 158.078,
+        "time_improvement": 5.762,
         "first_time": 279.288
       },
       "stats": {
-        "pbs": 72,
+        "pbs": 73,
         "tracks_improved": 9,
         "best_improvement_pct": 34.45
       }

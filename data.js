@@ -9,7 +9,7 @@ const DATA_URL = "https://raw.githubusercontent.com/alefas9/velocidrone-bot-data
 
 const FALLBACK = {
   "schema_version": "2.1",
-  "generated_at": "2026-11-22T13:00:03+00:00",
+  "generated_at": "2026-11-22T13:05:03+00:00",
   "season": 2026,
   "current_track": "SimRushWeek8",
   "week_no": 8,
@@ -22,6 +22,12 @@ const FALLBACK = {
         "time": 152.316,
         "quad": "Bahamut",
         "pilot_id": "dedalosfpv"
+      },
+      {
+        "pilot": "Cbeikos",
+        "time": 180.451,
+        "quad": "Five33 Switchback",
+        "pilot_id": "cbeikos"
       },
       {
         "pilot": "tomahok",
@@ -1006,9 +1012,21 @@ const FALLBACK = {
         "pos_change_24h": null
       },
       {
-        "pilot": "tomahok",
+        "pilot": "Cbeikos",
         "class": "5inch",
         "pos": 2,
+        "time": 180.451,
+        "first_time": 180.451,
+        "prev_time": null,
+        "improvements": 1,
+        "user_id": 258063,
+        "pos_24h": null,
+        "pos_change_24h": null
+      },
+      {
+        "pilot": "tomahok",
+        "class": "5inch",
+        "pos": 3,
         "time": 190.021,
         "first_time": 235.014,
         "prev_time": 191.93,
@@ -1020,7 +1038,7 @@ const FALLBACK = {
       {
         "pilot": "Liapos",
         "class": "5inch",
-        "pos": 3,
+        "pos": 4,
         "time": 205.716,
         "first_time": 217.42,
         "prev_time": 217.42,
@@ -1032,7 +1050,7 @@ const FALLBACK = {
     ],
     "hours_at_top": {
       "tomahok": 3.92,
-      "DedalosFPV": 0.25
+      "DedalosFPV": 2.0
     },
     "race_to_top": [
       {
@@ -1046,6 +1064,10 @@ const FALLBACK = {
       {
         "pilot": "Liapos",
         "improvements": 2
+      },
+      {
+        "pilot": "Cbeikos",
+        "improvements": 1
       }
     ]
   },
@@ -1109,6 +1131,13 @@ const FALLBACK = {
     ]
   },
   "improvements": [
+    {
+      "pilot": "Cbeikos",
+      "track": "SimRushWeek8",
+      "time": 180.451,
+      "delta": null,
+      "date": "2026-11-22T15:00:02+00:00"
+    },
     {
       "pilot": "DedalosFPV",
       "track": "SimRushWeek8",
@@ -3201,13 +3230,6 @@ const FALLBACK = {
       "time": 158.381,
       "delta": 55.728,
       "date": "2026-10-25T00:00:00+00:00"
-    },
-    {
-      "pilot": "DedalosFPV",
-      "track": "SimRushWeek-4",
-      "time": 154.593,
-      "delta": 3.788,
-      "date": "2026-10-25T00:00:00+00:00"
     }
   ],
   "pilot_stats": {
@@ -3262,8 +3284,8 @@ const FALLBACK = {
       "best_improvement_pct": null
     },
     "Cbeikos": {
-      "pbs": 50,
-      "tracks_improved": 6,
+      "pbs": 51,
+      "tracks_improved": 7,
       "best_improvement_pct": 20.38
     },
     "Bakarim": {
@@ -3349,25 +3371,6 @@ const FALLBACK = {
     }
   },
   "race_director_messages": [
-    {
-      "date": "2026-11-20T20:00:03+00:00",
-      "text": "🏆 Βαθμολογία σεζόν [5inch]\n🥇 ZOUP — **108** πόντοι\n🥈 TettixPro — **97** πόντοι\n🥉 Exo_FPV — **86** πόντοι\n**4.** DedalosFPV — **79** πόντοι\n**5.** Cbeikos — **50** πόντοι\n**6.** tomahok — **48** πόντοι\n**7.** anthunder — **36** πόντοι\n**8.** dimbazus — **32** πόντοι\n**9.** Agorastos — **30** πόντοι\n**10.** Liapos — **28** πόντοι",
-      "tag": "announcement",
-      "id": "rd-45b6018ce0",
-      "event_type": "SEASON_STANDINGS",
-      "category": "championship",
-      "priority": "high",
-      "pilots": [],
-      "pilot_ids": [],
-      "track": null,
-      "class": "5inch",
-      "week": null,
-      "season": 2026,
-      "related_duel_id": null,
-      "metadata": {},
-      "created_at": "2026-11-20T20:00:03+00:00",
-      "expires_at": null
-    },
     {
       "date": "2026-11-20T19:45:03+00:00",
       "text": "[5inch] «SimRushWeek7»\n🏗️ Ο **fpvchucky** χτίζει: 133.183s - το επόμενο τούβλο πότε;",
@@ -3815,6 +3818,31 @@ const FALLBACK = {
       },
       "created_at": "2026-11-22T11:15:04+00:00",
       "expires_at": null
+    },
+    {
+      "date": "2026-11-22T13:00:04+00:00",
+      "text": "[5inch] «SimRushWeek8»\n🏺 Σπάνιο εύρημα: χρόνος του **Cbeikos** στα 180.451s — οι αρχαιολόγοι συγκλονίστηκαν! 🏛️\nΗ πίστα γελάει με τους διστακτικούς! 😏",
+      "tag": "announcement",
+      "id": "rd-68d6b12a42",
+      "event_type": "PERSONAL",
+      "category": "timing",
+      "priority": "normal",
+      "pilots": [
+        "Cbeikos"
+      ],
+      "pilot_ids": [
+        "cbeikos"
+      ],
+      "track": "SimRushWeek8",
+      "class": "5inch",
+      "week": 8,
+      "season": 2026,
+      "related_duel_id": null,
+      "metadata": {
+        "time": 180.451
+      },
+      "created_at": "2026-11-22T13:00:04+00:00",
+      "expires_at": null
     }
   ],
   "avatars": {},
@@ -3990,10 +4018,21 @@ const FALLBACK = {
         "comparison_period": "previous_completed_week",
         "comparison_reference": "SimRushWeek7"
       },
-      "current_week": null,
+      "current_week": {
+        "track": "SimRushWeek8",
+        "class": "5inch",
+        "current_position": 2,
+        "previous_position": null,
+        "position_change": null,
+        "comparison_period": null,
+        "best_time": 180.451,
+        "previous_best_time": null,
+        "time_improvement": null,
+        "first_time": 180.451
+      },
       "stats": {
-        "pbs": 50,
-        "tracks_improved": 6,
+        "pbs": 51,
+        "tracks_improved": 7,
         "best_improvement_pct": 20.38
       }
     },
@@ -4182,7 +4221,7 @@ const FALLBACK = {
       "current_week": {
         "track": "SimRushWeek8",
         "class": "5inch",
-        "current_position": 3,
+        "current_position": 4,
         "previous_position": null,
         "position_change": null,
         "comparison_period": null,
@@ -4271,7 +4310,7 @@ const FALLBACK = {
       "current_week": {
         "track": "SimRushWeek8",
         "class": "5inch",
-        "current_position": 2,
+        "current_position": 3,
         "previous_position": null,
         "position_change": null,
         "comparison_period": null,

@@ -1,6 +1,6 @@
 {
   "schema_version": "2.1",
-  "generated_at": "2026-11-22T14:50:02+00:00",
+  "generated_at": "2026-11-22T14:55:02+00:00",
   "season": 2026,
   "current_track": "SimRushWeek8",
   "week_no": 8,
@@ -16,7 +16,7 @@
       },
       {
         "pilot": "Cbeikos",
-        "time": 149.29,
+        "time": 147.735,
         "quad": "Five33 Switchback",
         "pilot_id": "cbeikos"
       },
@@ -1006,10 +1006,10 @@
         "pilot": "Cbeikos",
         "class": "5inch",
         "pos": 2,
-        "time": 149.29,
+        "time": 147.735,
         "first_time": 180.451,
-        "prev_time": 161.119,
-        "improvements": 6,
+        "prev_time": 149.29,
+        "improvements": 7,
         "user_id": 258063,
         "pos_24h": null,
         "pos_change_24h": null
@@ -1041,7 +1041,7 @@
     ],
     "hours_at_top": {
       "tomahok": 3.92,
-      "DedalosFPV": 3.25
+      "DedalosFPV": 3.83
     },
     "race_to_top": [
       {
@@ -1050,7 +1050,7 @@
       },
       {
         "pilot": "Cbeikos",
-        "improvements": 6
+        "improvements": 7
       },
       {
         "pilot": "Liapos",
@@ -1122,6 +1122,13 @@
     ]
   },
   "improvements": [
+    {
+      "pilot": "Cbeikos",
+      "track": "SimRushWeek8",
+      "time": 147.735,
+      "delta": 1.555,
+      "date": "2026-11-22T16:50:02+00:00"
+    },
     {
       "pilot": "Cbeikos",
       "track": "SimRushWeek8",
@@ -3214,13 +3221,6 @@
       "time": 164.272,
       "delta": 13.438,
       "date": "2026-10-25T00:00:00+00:00"
-    },
-    {
-      "pilot": "dimbazus",
-      "track": "SimRushWeek-4",
-      "time": 156.768,
-      "delta": 7.504,
-      "date": "2026-10-25T00:00:00+00:00"
     }
   ],
   "pilot_stats": {
@@ -3275,7 +3275,7 @@
       "best_improvement_pct": null
     },
     "Cbeikos": {
-      "pbs": 56,
+      "pbs": 57,
       "tracks_improved": 7,
       "best_improvement_pct": 20.38
     },
@@ -3370,25 +3370,6 @@
     }
   },
   "race_director_messages": [
-    {
-      "date": "2026-11-21T18:23:01+00:00",
-      "text": "📢 Νέα εβδομάδα = νέο κυνήγι! Χάρτης: «SimRushWeek8» - καλό κυνήγι σε όλους! 🦅\n(Auto Leaderboard Upload: ON)",
-      "tag": "announcement",
-      "id": "rd-0a74678d39",
-      "event_type": "WEEK_ANNOUNCE",
-      "category": "track_reveal",
-      "priority": "high",
-      "pilots": [],
-      "pilot_ids": [],
-      "track": "SimRushWeek8",
-      "class": null,
-      "week": 8,
-      "season": 2026,
-      "related_duel_id": null,
-      "metadata": {},
-      "created_at": "2026-11-21T18:23:01+00:00",
-      "expires_at": null
-    },
     {
       "date": "2026-11-22T07:05:06+00:00",
       "text": "[5inch] «SimRushWeek8»\n🥊 Νοκ άουτ στο πρώτο γύρο: ο **tomahok** με 211.777s - ο αντίπαλος μετράει αστέρια!",
@@ -3874,6 +3855,31 @@
       },
       "created_at": "2026-11-22T14:15:04+00:00",
       "expires_at": null
+    },
+    {
+      "date": "2026-11-22T14:50:03+00:00",
+      "text": "[5inch] «SimRushWeek8»\n🪂 Ο **Cbeikos** έκοψε τόσο χαμηλά που ζήτησε άδεια από το δημοτικό: 147.735s!\nΤο #1 έχει μοναξιά - πήγαινέ το! 🫂",
+      "tag": "announcement",
+      "id": "rd-d836eb38c3",
+      "event_type": "PERSONAL",
+      "category": "timing",
+      "priority": "normal",
+      "pilots": [
+        "Cbeikos"
+      ],
+      "pilot_ids": [
+        "cbeikos"
+      ],
+      "track": "SimRushWeek8",
+      "class": "5inch",
+      "week": 8,
+      "season": 2026,
+      "related_duel_id": null,
+      "metadata": {
+        "time": 147.735
+      },
+      "created_at": "2026-11-22T14:50:03+00:00",
+      "expires_at": null
     }
   ],
   "avatars": {},
@@ -4056,13 +4062,13 @@
         "previous_position": null,
         "position_change": null,
         "comparison_period": null,
-        "best_time": 149.29,
-        "previous_best_time": 161.119,
-        "time_improvement": 11.829,
+        "best_time": 147.735,
+        "previous_best_time": 149.29,
+        "time_improvement": 1.555,
         "first_time": 180.451
       },
       "stats": {
-        "pbs": 56,
+        "pbs": 57,
         "tracks_improved": 7,
         "best_improvement_pct": 20.38
       }

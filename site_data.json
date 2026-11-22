@@ -1,6 +1,6 @@
 {
   "schema_version": "2.1",
-  "generated_at": "2026-11-22T07:05:02+00:00",
+  "generated_at": "2026-11-22T07:10:02+00:00",
   "season": 2026,
   "current_track": "SimRushWeek8",
   "week_no": 8,
@@ -10,7 +10,7 @@
     "5inch": [
       {
         "pilot": "tomahok",
-        "time": 235.014,
+        "time": 211.777,
         "quad": "Five33 Switchback",
         "pilot_id": "tomahok"
       }
@@ -976,17 +976,22 @@
         "pilot": "tomahok",
         "class": "5inch",
         "pos": 1,
-        "time": 235.014,
+        "time": 211.777,
         "first_time": 235.014,
-        "prev_time": null,
-        "improvements": 0,
+        "prev_time": 235.014,
+        "improvements": 1,
         "user_id": 17641,
         "pos_24h": null,
         "pos_change_24h": null
       }
     ],
     "hours_at_top": {},
-    "race_to_top": []
+    "race_to_top": [
+      {
+        "pilot": "tomahok",
+        "improvements": 1
+      }
+    ]
   },
   "duels": {
     "active": [],
@@ -1048,6 +1053,13 @@
     ]
   },
   "improvements": [
+    {
+      "pilot": "tomahok",
+      "track": "SimRushWeek8",
+      "time": 211.777,
+      "delta": 23.237,
+      "date": "2026-11-22T09:05:02+00:00"
+    },
     {
       "pilot": "ZOUP",
       "track": "SimRushWeek7",
@@ -3140,13 +3152,6 @@
       "time": 39.312,
       "delta": 1.285,
       "date": "2026-10-23T00:00:00+00:00"
-    },
-    {
-      "pilot": "dimbazus",
-      "track": "SimRushWeek3",
-      "time": 68.305,
-      "delta": 0.887,
-      "date": "2026-10-23T00:00:00+00:00"
     }
   ],
   "pilot_stats": {
@@ -3176,8 +3181,8 @@
       "best_improvement_pct": 11.76
     },
     "tomahok": {
-      "pbs": 36,
-      "tracks_improved": 7,
+      "pbs": 37,
+      "tracks_improved": 8,
       "best_improvement_pct": 33.6
     },
     "DedalosFPV": {
@@ -3274,31 +3279,6 @@
     }
   },
   "race_director_messages": [
-    {
-      "date": "2026-11-17T17:55:11+00:00",
-      "text": "📏 Μετρημένα δευτερόλεπτα: @Liapos vs TettixPro - 0.246s!",
-      "tag": "announcement",
-      "id": "rd-c4e7041313",
-      "event_type": "TEASER",
-      "category": "rivalries",
-      "priority": "normal",
-      "pilots": [
-        "TettixPro",
-        "Liapos"
-      ],
-      "pilot_ids": [
-        "tettixpro",
-        "liapos"
-      ],
-      "track": "SimRushWeek7",
-      "class": "5inch",
-      "week": 7,
-      "season": 2026,
-      "related_duel_id": null,
-      "metadata": {},
-      "created_at": "2026-11-17T17:55:11+00:00",
-      "expires_at": null
-    },
     {
       "date": "2026-11-17T18:10:05+00:00",
       "text": "[5inch] «SimRushWeek7»\n🏗️ Νέα πτήση στον χάρτη: ο **TettixPro** ανακοίνωσε 67.038s — τα εγκαίνια δικά σας! 🏗️\nΗ πίστα γελάει με τους διστακτικούς! 😏",
@@ -3727,6 +3707,32 @@
       "related_duel_id": null,
       "metadata": {},
       "created_at": "2026-11-21T18:23:01+00:00",
+      "expires_at": null
+    },
+    {
+      "date": "2026-11-22T07:05:06+00:00",
+      "text": "[5inch] «SimRushWeek8»\n🥊 Νοκ άουτ στο πρώτο γύρο: ο **tomahok** με 211.777s - ο αντίπαλος μετράει αστέρια!",
+      "tag": "announcement",
+      "id": "rd-5118f91173",
+      "event_type": "NEW_TOP",
+      "category": "timing",
+      "priority": "high",
+      "pilots": [
+        "tomahok"
+      ],
+      "pilot_ids": [
+        "tomahok"
+      ],
+      "track": "SimRushWeek8",
+      "class": "5inch",
+      "week": 8,
+      "season": 2026,
+      "related_duel_id": null,
+      "metadata": {
+        "time": 211.777,
+        "position": 1
+      },
+      "created_at": "2026-11-22T07:05:06+00:00",
       "expires_at": null
     }
   ],
@@ -4166,14 +4172,14 @@
         "previous_position": null,
         "position_change": null,
         "comparison_period": null,
-        "best_time": 235.014,
-        "previous_best_time": null,
-        "time_improvement": null,
+        "best_time": 211.777,
+        "previous_best_time": 235.014,
+        "time_improvement": 23.237,
         "first_time": 235.014
       },
       "stats": {
-        "pbs": 36,
-        "tracks_improved": 7,
+        "pbs": 37,
+        "tracks_improved": 8,
         "best_improvement_pct": 33.6
       }
     },

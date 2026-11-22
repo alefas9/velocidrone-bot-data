@@ -1,6 +1,6 @@
 {
   "schema_version": "2.1",
-  "generated_at": "2026-11-22T07:25:02+00:00",
+  "generated_at": "2026-11-22T07:30:02+00:00",
   "season": 2026,
   "current_track": "SimRushWeek8",
   "week_no": 8,
@@ -10,7 +10,7 @@
     "5inch": [
       {
         "pilot": "tomahok",
-        "time": 191.93,
+        "time": 190.021,
         "quad": "Five33 Switchback",
         "pilot_id": "tomahok"
       }
@@ -976,22 +976,22 @@
         "pilot": "tomahok",
         "class": "5inch",
         "pos": 1,
-        "time": 191.93,
+        "time": 190.021,
         "first_time": 235.014,
-        "prev_time": 211.777,
-        "improvements": 2,
+        "prev_time": 191.93,
+        "improvements": 3,
         "user_id": 17641,
         "pos_24h": null,
         "pos_change_24h": null
       }
     ],
     "hours_at_top": {
-      "tomahok": 0.17
+      "tomahok": 0.33
     },
     "race_to_top": [
       {
         "pilot": "tomahok",
-        "improvements": 2
+        "improvements": 3
       }
     ]
   },
@@ -1055,6 +1055,13 @@
     ]
   },
   "improvements": [
+    {
+      "pilot": "tomahok",
+      "track": "SimRushWeek8",
+      "time": 190.021,
+      "delta": 1.909,
+      "date": "2026-11-22T09:25:02+00:00"
+    },
     {
       "pilot": "tomahok",
       "track": "SimRushWeek8",
@@ -3147,13 +3154,6 @@
       "time": 121.773,
       "delta": null,
       "date": "2026-10-23T00:00:00+00:00"
-    },
-    {
-      "pilot": "Torque72",
-      "track": "SimRushWeek3",
-      "time": 110.281,
-      "delta": 11.492,
-      "date": "2026-10-23T00:00:00+00:00"
     }
   ],
   "pilot_stats": {
@@ -3183,7 +3183,7 @@
       "best_improvement_pct": 11.76
     },
     "tomahok": {
-      "pbs": 38,
+      "pbs": 39,
       "tracks_improved": 8,
       "best_improvement_pct": 33.6
     },
@@ -3233,7 +3233,21 @@
       "best_improvement_pct": 33.61
     }
   },
-  "pilot_of_the_week": null,
+  "pilot_of_the_week": {
+    "pilot": "tomahok",
+    "track": "SimRushWeek8",
+    "first_time": 235.014,
+    "best_time": 190.021,
+    "improvement_pct": 19.14,
+    "position": 1,
+    "pb_events": 3,
+    "criteria": {
+      "top_n": 8,
+      "min_pb_events": 3,
+      "rule": "Μεγαλύτερη % βελτίωση μεταξύ πιλότων του top-8 με >= 3 PBs στην πίστα."
+    },
+    "week": 8
+  },
   "hot_battles": [
     {
       "leader": "dimbazus",
@@ -3281,31 +3295,6 @@
     }
   },
   "race_director_messages": [
-    {
-      "date": "2026-11-17T19:50:04+00:00",
-      "text": "[5inch] «SimRushWeek7»\n🍳 Τηγάνισμα χρόνων συνεχίζεται: **Agorastos** -> 96.311s!",
-      "tag": "announcement",
-      "id": "rd-abb24075b2",
-      "event_type": "PERSONAL",
-      "category": "timing",
-      "priority": "normal",
-      "pilots": [
-        "Agorastos"
-      ],
-      "pilot_ids": [
-        "agorastos"
-      ],
-      "track": "SimRushWeek7",
-      "class": "5inch",
-      "week": 7,
-      "season": 2026,
-      "related_duel_id": null,
-      "metadata": {
-        "time": 96.311
-      },
-      "created_at": "2026-11-17T19:50:04+00:00",
-      "expires_at": null
-    },
     {
       "date": "2026-11-17T20:55:03+00:00",
       "text": "[5inch] «SimRushWeek7»\n😏 Ωραία, ο **Liapos** έπιασε 95.934s... Θα το πω στη μάνα μου, αυτή καταλαβαίνει!",
@@ -3736,6 +3725,32 @@
         "position": 1
       },
       "created_at": "2026-11-22T07:15:04+00:00",
+      "expires_at": null
+    },
+    {
+      "date": "2026-11-22T07:25:04+00:00",
+      "text": "[5inch] «SimRushWeek8»\nΚΑΛΑ ΚΡΑΣΙΑ! 190.021s στην «SimRushWeek8» - αυτά δεν τα βλέπεις ούτε στο σινεμά! 🍷\nΗ πρέσσα σε περιμένει! 📶",
+      "tag": "announcement",
+      "id": "rd-e6d585ce31",
+      "event_type": "NEW_TOP",
+      "category": "timing",
+      "priority": "high",
+      "pilots": [
+        "tomahok"
+      ],
+      "pilot_ids": [
+        "tomahok"
+      ],
+      "track": "SimRushWeek8",
+      "class": "5inch",
+      "week": 8,
+      "season": 2026,
+      "related_duel_id": null,
+      "metadata": {
+        "time": 190.021,
+        "position": 1
+      },
+      "created_at": "2026-11-22T07:25:04+00:00",
       "expires_at": null
     }
   ],
@@ -4175,13 +4190,13 @@
         "previous_position": null,
         "position_change": null,
         "comparison_period": null,
-        "best_time": 191.93,
-        "previous_best_time": 211.777,
-        "time_improvement": 19.847,
+        "best_time": 190.021,
+        "previous_best_time": 191.93,
+        "time_improvement": 1.909,
         "first_time": 235.014
       },
       "stats": {
-        "pbs": 38,
+        "pbs": 39,
         "tracks_improved": 8,
         "best_improvement_pct": 33.6
       }

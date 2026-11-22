@@ -9,7 +9,7 @@ const DATA_URL = "https://raw.githubusercontent.com/alefas9/velocidrone-bot-data
 
 const FALLBACK = {
   "schema_version": "2.1",
-  "generated_at": "2026-11-22T13:25:03+00:00",
+  "generated_at": "2026-11-22T13:30:03+00:00",
   "season": 2026,
   "current_track": "SimRushWeek8",
   "week_no": 8,
@@ -25,7 +25,7 @@ const FALLBACK = {
       },
       {
         "pilot": "Cbeikos",
-        "time": 168.469,
+        "time": 165.474,
         "quad": "Five33 Switchback",
         "pilot_id": "cbeikos"
       },
@@ -1015,10 +1015,10 @@ const FALLBACK = {
         "pilot": "Cbeikos",
         "class": "5inch",
         "pos": 2,
-        "time": 168.469,
+        "time": 165.474,
         "first_time": 180.451,
-        "prev_time": 180.451,
-        "improvements": 2,
+        "prev_time": 168.469,
+        "improvements": 3,
         "user_id": 258063,
         "pos_24h": null,
         "pos_change_24h": null
@@ -1050,7 +1050,7 @@ const FALLBACK = {
     ],
     "hours_at_top": {
       "tomahok": 3.92,
-      "DedalosFPV": 2.17
+      "DedalosFPV": 2.42
     },
     "race_to_top": [
       {
@@ -1058,12 +1058,12 @@ const FALLBACK = {
         "improvements": 5
       },
       {
-        "pilot": "tomahok",
+        "pilot": "Cbeikos",
         "improvements": 3
       },
       {
-        "pilot": "Cbeikos",
-        "improvements": 2
+        "pilot": "tomahok",
+        "improvements": 3
       },
       {
         "pilot": "Liapos",
@@ -1131,6 +1131,13 @@ const FALLBACK = {
     ]
   },
   "improvements": [
+    {
+      "pilot": "Cbeikos",
+      "track": "SimRushWeek8",
+      "time": 165.474,
+      "delta": 2.995,
+      "date": "2026-11-22T15:25:02+00:00"
+    },
     {
       "pilot": "Cbeikos",
       "track": "SimRushWeek8",
@@ -3223,13 +3230,6 @@ const FALLBACK = {
       "time": 85.938,
       "delta": 4.04,
       "date": "2026-10-25T00:00:00+00:00"
-    },
-    {
-      "pilot": "DedalosFPV",
-      "track": "SimRushWeek-4",
-      "time": 214.109,
-      "delta": null,
-      "date": "2026-10-25T00:00:00+00:00"
     }
   ],
   "pilot_stats": {
@@ -3284,7 +3284,7 @@ const FALLBACK = {
       "best_improvement_pct": null
     },
     "Cbeikos": {
-      "pbs": 52,
+      "pbs": 53,
       "tracks_improved": 7,
       "best_improvement_pct": 20.38
     },
@@ -3371,25 +3371,6 @@ const FALLBACK = {
     }
   },
   "race_director_messages": [
-    {
-      "date": "2026-11-20T20:00:02+00:00",
-      "text": "📰 ΤΑ ΝΕΑ ΤΗΣ ΠΙΣΤΑΣ — «SimRushWeek7»\n🥇 **DedalosFPV**  53.735s\n🥈 **Cbeikos**  65.128s  (+11.393s)\n🥉 **TettixPro**  67.038s  (+13.303s)\n**4.** **tomahok**  73.352s  (+19.617s)\n**5.** **dimbazus**  87.935s  (+34.200s)\n**6.** **Liapos**  88.461s  (+34.726s)\n**7.** **Agorastos**  96.311s  (+42.576s)\n**8.** **fpvchucky**  133.183s  (+79.448s)\n**9.** **Bakarim**  244.432s  (+190.697s)\n\n📈 **Εβδομαδιαία στατιστικά:** 72 νέα ρεκόρ συνολικά - πιο ενεργός ο **Agorastos** (72).",
-      "tag": "announcement",
-      "id": "rd-860b8447f8",
-      "event_type": "WEEK_RECAP",
-      "category": "championship",
-      "priority": "high",
-      "pilots": [],
-      "pilot_ids": [],
-      "track": "SimRushWeek7",
-      "class": null,
-      "week": 7,
-      "season": 2026,
-      "related_duel_id": null,
-      "metadata": {},
-      "created_at": "2026-11-20T20:00:02+00:00",
-      "expires_at": null
-    },
     {
       "date": "2026-11-20T22:05:05+00:00",
       "text": "[5inch] «SimRushWeek7»\n🎰 Ο **Pontikos** ξαναχτύπησε: 130.113s! Τα λέει το ταμείο, όχι εγώ! 🧾",
@@ -3843,6 +3824,31 @@ const FALLBACK = {
       },
       "created_at": "2026-11-22T13:10:04+00:00",
       "expires_at": null
+    },
+    {
+      "date": "2026-11-22T13:25:03+00:00",
+      "text": "[5inch] «SimRushWeek8»\n🎯 Ακαριαίο χτύπημα: ο **Cbeikos** με 165.474s! Δεν το είδαμε καν να 'ρχεται!",
+      "tag": "announcement",
+      "id": "rd-605a4b4627",
+      "event_type": "PERSONAL",
+      "category": "timing",
+      "priority": "normal",
+      "pilots": [
+        "Cbeikos"
+      ],
+      "pilot_ids": [
+        "cbeikos"
+      ],
+      "track": "SimRushWeek8",
+      "class": "5inch",
+      "week": 8,
+      "season": 2026,
+      "related_duel_id": null,
+      "metadata": {
+        "time": 165.474
+      },
+      "created_at": "2026-11-22T13:25:03+00:00",
+      "expires_at": null
     }
   ],
   "avatars": {},
@@ -4025,13 +4031,13 @@ const FALLBACK = {
         "previous_position": null,
         "position_change": null,
         "comparison_period": null,
-        "best_time": 168.469,
-        "previous_best_time": 180.451,
-        "time_improvement": 11.982,
+        "best_time": 165.474,
+        "previous_best_time": 168.469,
+        "time_improvement": 2.995,
         "first_time": 180.451
       },
       "stats": {
-        "pbs": 52,
+        "pbs": 53,
         "tracks_improved": 7,
         "best_improvement_pct": 20.38
       }

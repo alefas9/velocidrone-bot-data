@@ -9,13 +9,22 @@ const DATA_URL = "https://raw.githubusercontent.com/alefas9/velocidrone-bot-data
 
 const FALLBACK = {
   "schema_version": "2.1",
-  "generated_at": "2026-11-22T07:00:02+00:00",
+  "generated_at": "2026-11-22T07:05:02+00:00",
   "season": 2026,
   "current_track": "SimRushWeek8",
   "week_no": 8,
   "rounds_completed": 7,
   "track_display": "Sim Rush Week 8",
-  "current_leaderboard": {},
+  "current_leaderboard": {
+    "5inch": [
+      {
+        "pilot": "tomahok",
+        "time": 235.014,
+        "quad": "Five33 Switchback",
+        "pilot_id": "tomahok"
+      }
+    ]
+  },
   "season_standings": {
     "5inch": [
       {
@@ -971,7 +980,20 @@ const FALLBACK = {
     }
   },
   "insights": {
-    "pilots": [],
+    "pilots": [
+      {
+        "pilot": "tomahok",
+        "class": "5inch",
+        "pos": 1,
+        "time": 235.014,
+        "first_time": 235.014,
+        "prev_time": null,
+        "improvements": 0,
+        "user_id": 17641,
+        "pos_24h": null,
+        "pos_change_24h": null
+      }
+    ],
     "hours_at_top": {},
     "race_to_top": []
   },
@@ -3214,7 +3236,35 @@ const FALLBACK = {
     }
   },
   "pilot_of_the_week": null,
-  "hot_battles": [],
+  "hot_battles": [
+    {
+      "leader": "dimbazus",
+      "chaser": "Liapos",
+      "gap": 0.332,
+      "days": 0,
+      "class": "5inch",
+      "opened": true,
+      "was_gap": 0.332
+    },
+    {
+      "leader": "ZOUP",
+      "chaser": "Cbeikos",
+      "gap": 0.954,
+      "days": 0,
+      "class": "5inch",
+      "opened": true,
+      "was_gap": 0.954
+    },
+    {
+      "leader": "Cbeikos",
+      "chaser": "TettixPro",
+      "gap": 1.91,
+      "days": 0,
+      "class": "5inch",
+      "opened": true,
+      "was_gap": 1.91
+    }
+  ],
   "track_reveal": {
     "track": "SimRushWeek8",
     "track_id": 41059,
@@ -4118,7 +4168,18 @@ const FALLBACK = {
         "comparison_period": "previous_completed_week",
         "comparison_reference": "SimRushWeek7"
       },
-      "current_week": null,
+      "current_week": {
+        "track": "SimRushWeek8",
+        "class": "5inch",
+        "current_position": 1,
+        "previous_position": null,
+        "position_change": null,
+        "comparison_period": null,
+        "best_time": 235.014,
+        "previous_best_time": null,
+        "time_improvement": null,
+        "first_time": 235.014
+      },
       "stats": {
         "pbs": 36,
         "tracks_improved": 7,

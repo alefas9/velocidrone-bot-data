@@ -9,7 +9,7 @@ const DATA_URL = "https://raw.githubusercontent.com/alefas9/velocidrone-bot-data
 
 const FALLBACK = {
   "schema_version": "2.1",
-  "generated_at": "2026-11-22T14:55:02+00:00",
+  "generated_at": "2026-11-22T15:00:02+00:00",
   "season": 2026,
   "current_track": "SimRushWeek8",
   "week_no": 8,
@@ -25,7 +25,7 @@ const FALLBACK = {
       },
       {
         "pilot": "Cbeikos",
-        "time": 147.735,
+        "time": 143.016,
         "quad": "Five33 Switchback",
         "pilot_id": "cbeikos"
       },
@@ -1015,10 +1015,10 @@ const FALLBACK = {
         "pilot": "Cbeikos",
         "class": "5inch",
         "pos": 2,
-        "time": 147.735,
+        "time": 143.016,
         "first_time": 180.451,
-        "prev_time": 149.29,
-        "improvements": 7,
+        "prev_time": 147.735,
+        "improvements": 8,
         "user_id": 258063,
         "pos_24h": null,
         "pos_change_24h": null
@@ -1050,15 +1050,15 @@ const FALLBACK = {
     ],
     "hours_at_top": {
       "tomahok": 3.92,
-      "DedalosFPV": 3.83
+      "DedalosFPV": 3.92
     },
     "race_to_top": [
       {
-        "pilot": "DedalosFPV",
-        "improvements": 7
+        "pilot": "Cbeikos",
+        "improvements": 8
       },
       {
-        "pilot": "Cbeikos",
+        "pilot": "DedalosFPV",
         "improvements": 7
       },
       {
@@ -1131,6 +1131,13 @@ const FALLBACK = {
     ]
   },
   "improvements": [
+    {
+      "pilot": "Cbeikos",
+      "track": "SimRushWeek8",
+      "time": 143.016,
+      "delta": 4.719,
+      "date": "2026-11-22T16:55:02+00:00"
+    },
     {
       "pilot": "Cbeikos",
       "track": "SimRushWeek8",
@@ -3223,13 +3230,6 @@ const FALLBACK = {
       "time": 177.71,
       "delta": 12.467,
       "date": "2026-10-25T00:00:00+00:00"
-    },
-    {
-      "pilot": "dimbazus",
-      "track": "SimRushWeek-4",
-      "time": 164.272,
-      "delta": 13.438,
-      "date": "2026-10-25T00:00:00+00:00"
     }
   ],
   "pilot_stats": {
@@ -3284,7 +3284,7 @@ const FALLBACK = {
       "best_improvement_pct": null
     },
     "Cbeikos": {
-      "pbs": 57,
+      "pbs": 58,
       "tracks_improved": 7,
       "best_improvement_pct": 20.38
     },
@@ -3379,32 +3379,6 @@ const FALLBACK = {
     }
   },
   "race_director_messages": [
-    {
-      "date": "2026-11-22T07:05:06+00:00",
-      "text": "[5inch] «SimRushWeek8»\n🥊 Νοκ άουτ στο πρώτο γύρο: ο **tomahok** με 211.777s - ο αντίπαλος μετράει αστέρια!",
-      "tag": "announcement",
-      "id": "rd-5118f91173",
-      "event_type": "NEW_TOP",
-      "category": "timing",
-      "priority": "high",
-      "pilots": [
-        "tomahok"
-      ],
-      "pilot_ids": [
-        "tomahok"
-      ],
-      "track": "SimRushWeek8",
-      "class": "5inch",
-      "week": 8,
-      "season": 2026,
-      "related_duel_id": null,
-      "metadata": {
-        "time": 211.777,
-        "position": 1
-      },
-      "created_at": "2026-11-22T07:05:06+00:00",
-      "expires_at": null
-    },
     {
       "date": "2026-11-22T07:15:04+00:00",
       "text": "[5inch] «SimRushWeek8»\n🧨 Δυναμίτης στη στροφή: **tomahok** με 191.930s - άκουσαν τον κρότο στον Ελαιώνα!",
@@ -3889,6 +3863,31 @@ const FALLBACK = {
       },
       "created_at": "2026-11-22T14:50:03+00:00",
       "expires_at": null
+    },
+    {
+      "date": "2026-11-22T14:55:02+00:00",
+      "text": "[5inch] «SimRushWeek8»\n🪛 Το ρεκόρ το πήρε με το στανιό ο **Cbeikos**: 143.016s - δεν ξαναγίνεται αυτό!\nΟ χάρτης φωνάζει το όνομά σου! 🗣️",
+      "tag": "announcement",
+      "id": "rd-2a6813a828",
+      "event_type": "PERSONAL",
+      "category": "timing",
+      "priority": "normal",
+      "pilots": [
+        "Cbeikos"
+      ],
+      "pilot_ids": [
+        "cbeikos"
+      ],
+      "track": "SimRushWeek8",
+      "class": "5inch",
+      "week": 8,
+      "season": 2026,
+      "related_duel_id": null,
+      "metadata": {
+        "time": 143.016
+      },
+      "created_at": "2026-11-22T14:55:02+00:00",
+      "expires_at": null
     }
   ],
   "avatars": {},
@@ -4071,13 +4070,13 @@ const FALLBACK = {
         "previous_position": null,
         "position_change": null,
         "comparison_period": null,
-        "best_time": 147.735,
-        "previous_best_time": 149.29,
-        "time_improvement": 1.555,
+        "best_time": 143.016,
+        "previous_best_time": 147.735,
+        "time_improvement": 4.719,
         "first_time": 180.451
       },
       "stats": {
-        "pbs": 57,
+        "pbs": 58,
         "tracks_improved": 7,
         "best_improvement_pct": 20.38
       }

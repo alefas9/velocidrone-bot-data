@@ -9,7 +9,7 @@ const DATA_URL = "https://raw.githubusercontent.com/alefas9/velocidrone-bot-data
 
 const FALLBACK = {
   "schema_version": "2.1",
-  "generated_at": "2026-11-22T19:45:02+00:00",
+  "generated_at": "2026-11-22T19:50:02+00:00",
   "season": 2026,
   "current_track": "SimRushWeek8",
   "week_no": 8,
@@ -49,7 +49,7 @@ const FALLBACK = {
       },
       {
         "pilot": "fpvchucky",
-        "time": 349.023,
+        "time": 344.457,
         "quad": "Carbix Zero",
         "pilot_id": "fpvchucky"
       }
@@ -1075,10 +1075,10 @@ const FALLBACK = {
         "pilot": "fpvchucky",
         "class": "5inch",
         "pos": 6,
-        "time": 349.023,
+        "time": 344.457,
         "first_time": 349.023,
-        "prev_time": null,
-        "improvements": 1,
+        "prev_time": 349.023,
+        "improvements": 2,
         "user_id": 451407,
         "pos_24h": null,
         "pos_change_24h": null
@@ -1086,7 +1086,7 @@ const FALLBACK = {
     ],
     "hours_at_top": {
       "tomahok": 3.92,
-      "DedalosFPV": 8.33
+      "DedalosFPV": 8.75
     },
     "race_to_top": [
       {
@@ -1111,7 +1111,7 @@ const FALLBACK = {
       },
       {
         "pilot": "fpvchucky",
-        "improvements": 1
+        "improvements": 2
       }
     ]
   },
@@ -1175,6 +1175,13 @@ const FALLBACK = {
     ]
   },
   "improvements": [
+    {
+      "pilot": "fpvchucky",
+      "track": "SimRushWeek8",
+      "time": 344.457,
+      "delta": 4.566,
+      "date": "2026-11-22T21:45:02+00:00"
+    },
     {
       "pilot": "fpvchucky",
       "track": "SimRushWeek8",
@@ -3267,13 +3274,6 @@ const FALLBACK = {
       "time": 103.202,
       "delta": 8.879,
       "date": "2026-10-25T00:00:00+00:00"
-    },
-    {
-      "pilot": "dimbazus",
-      "track": "SimRushWeek-4",
-      "time": 241.153,
-      "delta": null,
-      "date": "2026-10-25T00:00:00+00:00"
     }
   ],
   "pilot_stats": {
@@ -3313,7 +3313,7 @@ const FALLBACK = {
       "best_improvement_pct": 34.45
     },
     "fpvchucky": {
-      "pbs": 29,
+      "pbs": 30,
       "tracks_improved": 7,
       "best_improvement_pct": 16.59
     },
@@ -3396,32 +3396,6 @@ const FALLBACK = {
     }
   },
   "race_director_messages": [
-    {
-      "date": "2026-11-22T11:10:04+00:00",
-      "text": "[5inch] «SimRushWeek8»\n🌋 Η «SimRushWeek8» άναψε: **DedalosFPV** ξέσκισε τον χάρτη με 158.078s!",
-      "tag": "announcement",
-      "id": "rd-aafdbad325",
-      "event_type": "NEW_TOP",
-      "category": "timing",
-      "priority": "high",
-      "pilots": [
-        "DedalosFPV"
-      ],
-      "pilot_ids": [
-        "dedalosfpv"
-      ],
-      "track": "SimRushWeek8",
-      "class": "5inch",
-      "week": 8,
-      "season": 2026,
-      "related_duel_id": null,
-      "metadata": {
-        "time": 158.078,
-        "position": 1
-      },
-      "created_at": "2026-11-22T11:10:04+00:00",
-      "expires_at": null
-    },
     {
       "date": "2026-11-22T11:10:09+00:00",
       "text": "[5inch] «SimRushWeek8»\n🎁 Δώρο στον εαυτό του ο **Liapos**: 205.716s στην «SimRushWeek8»!\nΗ πρέσσα σε περιμένει! 📶",
@@ -3900,6 +3874,31 @@ const FALLBACK = {
       },
       "created_at": "2026-11-22T19:20:03+00:00",
       "expires_at": null
+    },
+    {
+      "date": "2026-11-22T19:45:03+00:00",
+      "text": "[5inch] «SimRushWeek8»\n🪁 Sent it! Ο **fpvchucky** το έστειλε: 344.457s στην «SimRushWeek8»!",
+      "tag": "announcement",
+      "id": "rd-8b8072d994",
+      "event_type": "PERSONAL",
+      "category": "timing",
+      "priority": "normal",
+      "pilots": [
+        "fpvchucky"
+      ],
+      "pilot_ids": [
+        "fpvchucky"
+      ],
+      "track": "SimRushWeek8",
+      "class": "5inch",
+      "week": 8,
+      "season": 2026,
+      "related_duel_id": null,
+      "metadata": {
+        "time": 344.457
+      },
+      "created_at": "2026-11-22T19:45:03+00:00",
+      "expires_at": null
     }
   ],
   "avatars": {},
@@ -4219,13 +4218,13 @@ const FALLBACK = {
         "previous_position": null,
         "position_change": null,
         "comparison_period": null,
-        "best_time": 349.023,
-        "previous_best_time": null,
-        "time_improvement": null,
+        "best_time": 344.457,
+        "previous_best_time": 349.023,
+        "time_improvement": 4.566,
         "first_time": 349.023
       },
       "stats": {
-        "pbs": 29,
+        "pbs": 30,
         "tracks_improved": 7,
         "best_improvement_pct": 16.59
       }

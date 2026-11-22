@@ -9,7 +9,7 @@ const DATA_URL = "https://raw.githubusercontent.com/alefas9/velocidrone-bot-data
 
 const FALLBACK = {
   "schema_version": "2.1",
-  "generated_at": "2026-11-22T10:50:02+00:00",
+  "generated_at": "2026-11-22T10:55:02+00:00",
   "season": 2026,
   "current_track": "SimRushWeek8",
   "week_no": 8,
@@ -22,6 +22,18 @@ const FALLBACK = {
         "time": 190.021,
         "quad": "Five33 Switchback",
         "pilot_id": "tomahok"
+      },
+      {
+        "pilot": "Liapos",
+        "time": 217.42,
+        "quad": "Bahamut",
+        "pilot_id": "liapos"
+      },
+      {
+        "pilot": "DedalosFPV",
+        "time": 279.288,
+        "quad": "Bahamut",
+        "pilot_id": "dedalosfpv"
       }
     ]
   },
@@ -992,15 +1004,47 @@ const FALLBACK = {
         "user_id": 17641,
         "pos_24h": null,
         "pos_change_24h": null
+      },
+      {
+        "pilot": "Liapos",
+        "class": "5inch",
+        "pos": 2,
+        "time": 217.42,
+        "first_time": 217.42,
+        "prev_time": null,
+        "improvements": 1,
+        "user_id": 155181,
+        "pos_24h": null,
+        "pos_change_24h": null
+      },
+      {
+        "pilot": "DedalosFPV",
+        "class": "5inch",
+        "pos": 3,
+        "time": 279.288,
+        "first_time": 279.288,
+        "prev_time": null,
+        "improvements": 1,
+        "user_id": 387184,
+        "pos_24h": null,
+        "pos_change_24h": null
       }
     ],
     "hours_at_top": {
-      "tomahok": 1.75
+      "tomahok": 3.75
     },
     "race_to_top": [
       {
         "pilot": "tomahok",
         "improvements": 3
+      },
+      {
+        "pilot": "Liapos",
+        "improvements": 1
+      },
+      {
+        "pilot": "DedalosFPV",
+        "improvements": 1
       }
     ]
   },
@@ -1064,6 +1108,20 @@ const FALLBACK = {
     ]
   },
   "improvements": [
+    {
+      "pilot": "Liapos",
+      "track": "SimRushWeek8",
+      "time": 217.42,
+      "delta": null,
+      "date": "2026-11-22T12:50:02+00:00"
+    },
+    {
+      "pilot": "DedalosFPV",
+      "track": "SimRushWeek8",
+      "time": 279.288,
+      "delta": null,
+      "date": "2026-11-22T12:50:02+00:00"
+    },
     {
       "pilot": "tomahok",
       "track": "SimRushWeek8",
@@ -3149,20 +3207,6 @@ const FALLBACK = {
       "time": 153.152,
       "delta": 3.607,
       "date": "2026-10-25T00:00:00+00:00"
-    },
-    {
-      "pilot": "ZOUP",
-      "track": "SimRushWeek3",
-      "time": 40.165,
-      "delta": 0.208,
-      "date": "2026-10-24T00:00:00+00:00"
-    },
-    {
-      "pilot": "Torque72",
-      "track": "SimRushWeek3",
-      "time": 121.773,
-      "delta": null,
-      "date": "2026-10-23T00:00:00+00:00"
     }
   ],
   "pilot_stats": {
@@ -3182,8 +3226,8 @@ const FALLBACK = {
       "best_improvement_pct": 30.77
     },
     "Liapos": {
-      "pbs": 30,
-      "tracks_improved": 8,
+      "pbs": 31,
+      "tracks_improved": 9,
       "best_improvement_pct": 11.06
     },
     "Agorastos": {
@@ -3197,8 +3241,8 @@ const FALLBACK = {
       "best_improvement_pct": 33.6
     },
     "DedalosFPV": {
-      "pbs": 68,
-      "tracks_improved": 8,
+      "pbs": 69,
+      "tracks_improved": 9,
       "best_improvement_pct": 29.25
     },
     "fpvchucky": {
@@ -3304,56 +3348,6 @@ const FALLBACK = {
     }
   },
   "race_director_messages": [
-    {
-      "date": "2026-11-17T20:55:03+00:00",
-      "text": "[5inch] «SimRushWeek7»\n😏 Ωραία, ο **Liapos** έπιασε 95.934s... Θα το πω στη μάνα μου, αυτή καταλαβαίνει!",
-      "tag": "announcement",
-      "id": "rd-5ab0cf71ec",
-      "event_type": "PERSONAL",
-      "category": "timing",
-      "priority": "normal",
-      "pilots": [
-        "Liapos"
-      ],
-      "pilot_ids": [
-        "liapos"
-      ],
-      "track": "SimRushWeek7",
-      "class": "5inch",
-      "week": 7,
-      "season": 2026,
-      "related_duel_id": null,
-      "metadata": {
-        "time": 95.934
-      },
-      "created_at": "2026-11-17T20:55:03+00:00",
-      "expires_at": null
-    },
-    {
-      "date": "2026-11-17T20:55:04+00:00",
-      "text": "📏 Μετρημένα δευτερόλεπτα: @Agorastos vs Liapos - 0.377s!",
-      "tag": "announcement",
-      "id": "rd-fca3440fa3",
-      "event_type": "TEASER",
-      "category": "rivalries",
-      "priority": "normal",
-      "pilots": [
-        "Liapos",
-        "Agorastos"
-      ],
-      "pilot_ids": [
-        "liapos",
-        "agorastos"
-      ],
-      "track": "SimRushWeek7",
-      "class": "5inch",
-      "week": 7,
-      "season": 2026,
-      "related_duel_id": null,
-      "metadata": {},
-      "created_at": "2026-11-17T20:55:04+00:00",
-      "expires_at": null
-    },
     {
       "date": "2026-11-17T21:10:04+00:00",
       "text": "[5inch] «SimRushWeek7»\nΤΙ ΤΡΑΒΑΜΕ! Ο **Liapos** με 89.941s - οι υπόλοιποι απλώς παρακολουθούν! 📺\nΟ χάρτης φωνάζει το όνομά σου! 🗣️",
@@ -3761,6 +3755,56 @@ const FALLBACK = {
       },
       "created_at": "2026-11-22T07:25:04+00:00",
       "expires_at": null
+    },
+    {
+      "date": "2026-11-22T10:50:04+00:00",
+      "text": "[5inch] «SimRushWeek8»\n🌲 Τα δέντρα της «SimRushWeek8» θρηνούν: ο **Liapos** πέρασε με 217.420s χωρίς χαιρετισμό!\nΠοιος θα τον καθίσει; 👀",
+      "tag": "announcement",
+      "id": "rd-a8acdad03e",
+      "event_type": "PERSONAL",
+      "category": "timing",
+      "priority": "normal",
+      "pilots": [
+        "Liapos"
+      ],
+      "pilot_ids": [
+        "liapos"
+      ],
+      "track": "SimRushWeek8",
+      "class": "5inch",
+      "week": 8,
+      "season": 2026,
+      "related_duel_id": null,
+      "metadata": {
+        "time": 217.42
+      },
+      "created_at": "2026-11-22T10:50:04+00:00",
+      "expires_at": null
+    },
+    {
+      "date": "2026-11-22T10:50:15+00:00",
+      "text": "[5inch] «SimRushWeek8»\n🗣️ Άκου να δεις: ο **DedalosFPV** έκανε 279.288s και δεν το παίζει καν! ΠΩΣ γίνεται αυτό;\nΤο τρένο δεν περιμένει! 🚂",
+      "tag": "announcement",
+      "id": "rd-22d0cc49a1",
+      "event_type": "PERSONAL",
+      "category": "timing",
+      "priority": "normal",
+      "pilots": [
+        "DedalosFPV"
+      ],
+      "pilot_ids": [
+        "dedalosfpv"
+      ],
+      "track": "SimRushWeek8",
+      "class": "5inch",
+      "week": 8,
+      "season": 2026,
+      "related_duel_id": null,
+      "metadata": {
+        "time": 279.288
+      },
+      "created_at": "2026-11-22T10:50:15+00:00",
+      "expires_at": null
     }
   ],
   "avatars": {},
@@ -3962,10 +4006,21 @@ const FALLBACK = {
         "comparison_period": "previous_completed_week",
         "comparison_reference": "SimRushWeek7"
       },
-      "current_week": null,
+      "current_week": {
+        "track": "SimRushWeek8",
+        "class": "5inch",
+        "current_position": 3,
+        "previous_position": null,
+        "position_change": null,
+        "comparison_period": null,
+        "best_time": 279.288,
+        "previous_best_time": null,
+        "time_improvement": null,
+        "first_time": 279.288
+      },
       "stats": {
-        "pbs": 68,
-        "tracks_improved": 8,
+        "pbs": 69,
+        "tracks_improved": 9,
         "best_improvement_pct": 29.25
       }
     },
@@ -4114,10 +4169,21 @@ const FALLBACK = {
         "comparison_period": "previous_completed_week",
         "comparison_reference": "SimRushWeek7"
       },
-      "current_week": null,
+      "current_week": {
+        "track": "SimRushWeek8",
+        "class": "5inch",
+        "current_position": 2,
+        "previous_position": null,
+        "position_change": null,
+        "comparison_period": null,
+        "best_time": 217.42,
+        "previous_best_time": null,
+        "time_improvement": null,
+        "first_time": 217.42
+      },
       "stats": {
-        "pbs": 30,
-        "tracks_improved": 8,
+        "pbs": 31,
+        "tracks_improved": 9,
         "best_improvement_pct": 11.06
       }
     },

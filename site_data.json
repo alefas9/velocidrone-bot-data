@@ -1,6 +1,6 @@
 {
   "schema_version": "2.1",
-  "generated_at": "2026-11-23T20:00:03+00:00",
+  "generated_at": "2026-11-23T20:05:03+00:00",
   "season": 2026,
   "current_track": "SimRushWeek8",
   "week_no": 8,
@@ -1077,7 +1077,7 @@
     ],
     "hours_at_top": {
       "tomahok": 3.92,
-      "DedalosFPV": 31.0
+      "DedalosFPV": 31.08
     },
     "race_to_top": [
       {
@@ -3388,31 +3388,6 @@
   },
   "race_director_messages": [
     {
-      "date": "2026-11-22T13:10:04+00:00",
-      "text": "[5inch] «SimRushWeek8»\n🗡️ Χρόνος κατά μέτωπο από τον **Cbeikos**: 168.469s στην «SimRushWeek8»!",
-      "tag": "announcement",
-      "id": "rd-c5b1f2e829",
-      "event_type": "PERSONAL",
-      "category": "timing",
-      "priority": "normal",
-      "pilots": [
-        "Cbeikos"
-      ],
-      "pilot_ids": [
-        "cbeikos"
-      ],
-      "track": "SimRushWeek8",
-      "class": "5inch",
-      "week": 8,
-      "season": 2026,
-      "related_duel_id": null,
-      "metadata": {
-        "time": 168.469
-      },
-      "created_at": "2026-11-22T13:10:04+00:00",
-      "expires_at": null
-    },
-    {
       "date": "2026-11-22T13:25:03+00:00",
       "text": "[5inch] «SimRushWeek8»\n🎯 Ακαριαίο χτύπημα: ο **Cbeikos** με 165.474s! Δεν το είδαμε καν να 'ρχεται!",
       "tag": "announcement",
@@ -3882,6 +3857,25 @@
       "track": "SimRushWeek8",
       "class": null,
       "week": 8,
+      "season": 2026,
+      "related_duel_id": null,
+      "metadata": {},
+      "created_at": "2026-11-23T20:00:03+00:00",
+      "expires_at": null
+    },
+    {
+      "date": "2026-11-23T20:00:03+00:00",
+      "text": "🏆 Βαθμολογία σεζόν [5inch]\n🥇 ZOUP — **126** πόντοι\n🥈 TettixPro — **109** πόντοι\n🥉 DedalosFPV — **104** πόντοι\n**4.** Exo_FPV — **86** πόντοι\n**5.** Cbeikos — **65** πόντοι\n**6.** tomahok — **58** πόντοι\n**7.** dimbazus — **40** πόντοι\n**8.** anthunder — **36** πόντοι\n**9.** Liapos — **34** πόντοι\n**10.** Agorastos — **34** πόντοι",
+      "tag": "announcement",
+      "id": "rd-a08eb4498a",
+      "event_type": "SEASON_STANDINGS",
+      "category": "championship",
+      "priority": "high",
+      "pilots": [],
+      "pilot_ids": [],
+      "track": null,
+      "class": "5inch",
+      "week": null,
       "season": 2026,
       "related_duel_id": null,
       "metadata": {},

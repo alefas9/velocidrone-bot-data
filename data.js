@@ -9,7 +9,7 @@ const DATA_URL = "https://raw.githubusercontent.com/alefas9/velocidrone-bot-data
 
 const FALLBACK = {
   "schema_version": "2.1",
-  "generated_at": "2026-11-23T23:50:03+00:00",
+  "generated_at": "2026-11-23T23:55:03+00:00",
   "season": 2026,
   "current_track": "SimRushWeek8",
   "week_no": 8,
@@ -43,7 +43,7 @@ const FALLBACK = {
       },
       {
         "pilot": "dimbazus",
-        "time": 200.412,
+        "time": 196.647,
         "quad": "Bahamut",
         "pilot_id": "dimbazus"
       },
@@ -1063,10 +1063,10 @@ const FALLBACK = {
         "pilot": "dimbazus",
         "class": "5inch",
         "pos": 5,
-        "time": 200.412,
+        "time": 196.647,
         "first_time": 305.526,
-        "prev_time": 201.992,
-        "improvements": 10,
+        "prev_time": 200.412,
+        "improvements": 11,
         "user_id": 309918,
         "pos_24h": 5,
         "pos_change_24h": 0
@@ -1086,12 +1086,12 @@ const FALLBACK = {
     ],
     "hours_at_top": {
       "tomahok": 3.92,
-      "DedalosFPV": 36.75
+      "DedalosFPV": 36.83
     },
     "race_to_top": [
       {
         "pilot": "dimbazus",
-        "improvements": 10
+        "improvements": 11
       },
       {
         "pilot": "DedalosFPV",
@@ -1175,6 +1175,13 @@ const FALLBACK = {
     ]
   },
   "improvements": [
+    {
+      "pilot": "dimbazus",
+      "track": "SimRushWeek8",
+      "time": 196.647,
+      "delta": 3.765,
+      "date": "2026-11-24T01:50:02+00:00"
+    },
     {
       "pilot": "dimbazus",
       "track": "SimRushWeek8",
@@ -3267,13 +3274,6 @@ const FALLBACK = {
       "time": 170.475,
       "delta": 35.823,
       "date": "2026-10-25T00:00:00+00:00"
-    },
-    {
-      "pilot": "Cbeikos",
-      "track": "SimRushWeek-4",
-      "time": 141.835,
-      "delta": 28.64,
-      "date": "2026-10-25T00:00:00+00:00"
     }
   ],
   "pilot_stats": {
@@ -3283,7 +3283,7 @@ const FALLBACK = {
       "best_improvement_pct": 5.43
     },
     "dimbazus": {
-      "pbs": 87,
+      "pbs": 88,
       "tracks_improved": 9,
       "best_improvement_pct": 17.57
     },
@@ -3396,31 +3396,6 @@ const FALLBACK = {
     }
   },
   "race_director_messages": [
-    {
-      "date": "2026-11-22T14:15:04+00:00",
-      "text": "[5inch] «SimRushWeek8»\n🎫 Κέρδισε το λαχείο ο **Cbeikos**: 149.290s! Τα νούμερα τα λένε όλα! 🍀",
-      "tag": "announcement",
-      "id": "rd-aa8217d3e6",
-      "event_type": "PERSONAL",
-      "category": "timing",
-      "priority": "normal",
-      "pilots": [
-        "Cbeikos"
-      ],
-      "pilot_ids": [
-        "cbeikos"
-      ],
-      "track": "SimRushWeek8",
-      "class": "5inch",
-      "week": 8,
-      "season": 2026,
-      "related_duel_id": null,
-      "metadata": {
-        "time": 149.29
-      },
-      "created_at": "2026-11-22T14:15:04+00:00",
-      "expires_at": null
-    },
     {
       "date": "2026-11-22T14:50:03+00:00",
       "text": "[5inch] «SimRushWeek8»\n🪂 Ο **Cbeikos** έκοψε τόσο χαμηλά που ζήτησε άδεια από το δημοτικό: 147.735s!\nΤο #1 έχει μοναξιά - πήγαινέ το! 🫂",
@@ -3888,6 +3863,31 @@ const FALLBACK = {
       },
       "created_at": "2026-11-23T23:45:04+00:00",
       "expires_at": null
+    },
+    {
+      "date": "2026-11-23T23:50:04+00:00",
+      "text": "[5inch] «SimRushWeek8»\n📻 ΕΚΤΑΚΤΟ: ο **dimbazus** μόλις έπεσε στα 196.647s! Μεταδίδουμε ζωντανά! 📡",
+      "tag": "announcement",
+      "id": "rd-24341a41c5",
+      "event_type": "PERSONAL",
+      "category": "timing",
+      "priority": "normal",
+      "pilots": [
+        "dimbazus"
+      ],
+      "pilot_ids": [
+        "dimbazus"
+      ],
+      "track": "SimRushWeek8",
+      "class": "5inch",
+      "week": 8,
+      "season": 2026,
+      "related_duel_id": null,
+      "metadata": {
+        "time": 196.647
+      },
+      "created_at": "2026-11-23T23:50:04+00:00",
+      "expires_at": null
     }
   ],
   "avatars": {},
@@ -4144,13 +4144,13 @@ const FALLBACK = {
         "previous_position": 5,
         "position_change": 0,
         "comparison_period": "previous_24h",
-        "best_time": 200.412,
-        "previous_best_time": 201.992,
-        "time_improvement": 1.58,
+        "best_time": 196.647,
+        "previous_best_time": 200.412,
+        "time_improvement": 3.765,
         "first_time": 305.526
       },
       "stats": {
-        "pbs": 87,
+        "pbs": 88,
         "tracks_improved": 9,
         "best_improvement_pct": 17.57
       }
@@ -4518,7 +4518,7 @@ const FALLBACK = {
           {
             "pilot_id": "dimbazus",
             "callsign": "dimbazus",
-            "value": 87
+            "value": 88
           }
         ]
       },

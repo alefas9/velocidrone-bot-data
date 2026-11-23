@@ -1,6 +1,6 @@
 {
   "schema_version": "2.1",
-  "generated_at": "2026-11-23T22:45:02+00:00",
+  "generated_at": "2026-11-23T22:50:03+00:00",
   "season": 2026,
   "current_track": "SimRushWeek8",
   "week_no": 8,
@@ -34,7 +34,7 @@
       },
       {
         "pilot": "dimbazus",
-        "time": 231.034,
+        "time": 223.557,
         "quad": "Bahamut",
         "pilot_id": "dimbazus"
       },
@@ -1054,10 +1054,10 @@
         "pilot": "dimbazus",
         "class": "5inch",
         "pos": 5,
-        "time": 231.034,
+        "time": 223.557,
         "first_time": 305.526,
-        "prev_time": 247.167,
-        "improvements": 4,
+        "prev_time": 231.034,
+        "improvements": 5,
         "user_id": 309918,
         "pos_24h": 5,
         "pos_change_24h": 0
@@ -1077,7 +1077,7 @@
     ],
     "hours_at_top": {
       "tomahok": 3.92,
-      "DedalosFPV": 33.75
+      "DedalosFPV": 35.75
     },
     "race_to_top": [
       {
@@ -1090,7 +1090,7 @@
       },
       {
         "pilot": "dimbazus",
-        "improvements": 4
+        "improvements": 5
       },
       {
         "pilot": "Liapos",
@@ -1166,6 +1166,13 @@
     ]
   },
   "improvements": [
+    {
+      "pilot": "dimbazus",
+      "track": "SimRushWeek8",
+      "time": 223.557,
+      "delta": 7.477,
+      "date": "2026-11-24T00:45:02+00:00"
+    },
     {
       "pilot": "DedalosFPV",
       "track": "SimRushWeek8",
@@ -3258,13 +3265,6 @@
       "time": 112.081,
       "delta": null,
       "date": "2026-10-25T00:00:00+00:00"
-    },
-    {
-      "pilot": "Cbeikos",
-      "track": "SimRushWeek-4",
-      "time": 124.665,
-      "delta": 6.179,
-      "date": "2026-10-25T00:00:00+00:00"
     }
   ],
   "pilot_stats": {
@@ -3274,7 +3274,7 @@
       "best_improvement_pct": 5.43
     },
     "dimbazus": {
-      "pbs": 81,
+      "pbs": 82,
       "tracks_improved": 9,
       "best_improvement_pct": 17.57
     },
@@ -3387,31 +3387,6 @@
     }
   },
   "race_director_messages": [
-    {
-      "date": "2026-11-22T13:25:03+00:00",
-      "text": "[5inch] «SimRushWeek8»\n🎯 Ακαριαίο χτύπημα: ο **Cbeikos** με 165.474s! Δεν το είδαμε καν να 'ρχεται!",
-      "tag": "announcement",
-      "id": "rd-605a4b4627",
-      "event_type": "PERSONAL",
-      "category": "timing",
-      "priority": "normal",
-      "pilots": [
-        "Cbeikos"
-      ],
-      "pilot_ids": [
-        "cbeikos"
-      ],
-      "track": "SimRushWeek8",
-      "class": "5inch",
-      "week": 8,
-      "season": 2026,
-      "related_duel_id": null,
-      "metadata": {
-        "time": 165.474
-      },
-      "created_at": "2026-11-22T13:25:03+00:00",
-      "expires_at": null
-    },
     {
       "date": "2026-11-22T13:30:04+00:00",
       "text": "[5inch] «SimRushWeek8»\n🌬️ Τι ήταν αυτό που πέρασε; Α, ο **DedalosFPV** με 150.454s στην «SimRushWeek8»!",
@@ -3881,6 +3856,31 @@
       "metadata": {},
       "created_at": "2026-11-23T20:00:03+00:00",
       "expires_at": null
+    },
+    {
+      "date": "2026-11-23T22:45:04+00:00",
+      "text": "[5inch] «SimRushWeek8»\n✂️ Κούρεμα δεκαδικών από τον **dimbazus**: 223.557s στην «SimRushWeek8»!",
+      "tag": "announcement",
+      "id": "rd-fe62e94f86",
+      "event_type": "PERSONAL",
+      "category": "timing",
+      "priority": "normal",
+      "pilots": [
+        "dimbazus"
+      ],
+      "pilot_ids": [
+        "dimbazus"
+      ],
+      "track": "SimRushWeek8",
+      "class": "5inch",
+      "week": 8,
+      "season": 2026,
+      "related_duel_id": null,
+      "metadata": {
+        "time": 223.557
+      },
+      "created_at": "2026-11-23T22:45:04+00:00",
+      "expires_at": null
     }
   ],
   "avatars": {},
@@ -4137,13 +4137,13 @@
         "previous_position": 5,
         "position_change": 0,
         "comparison_period": "previous_24h",
-        "best_time": 231.034,
-        "previous_best_time": 247.167,
-        "time_improvement": 16.133,
+        "best_time": 223.557,
+        "previous_best_time": 231.034,
+        "time_improvement": 7.477,
         "first_time": 305.526
       },
       "stats": {
-        "pbs": 81,
+        "pbs": 82,
         "tracks_improved": 9,
         "best_improvement_pct": 17.57
       }
@@ -4511,7 +4511,7 @@
           {
             "pilot_id": "dimbazus",
             "callsign": "dimbazus",
-            "value": 81
+            "value": 82
           }
         ]
       },

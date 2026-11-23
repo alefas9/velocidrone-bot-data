@@ -1,6 +1,6 @@
 {
   "schema_version": "2.1",
-  "generated_at": "2026-11-23T14:05:03+00:00",
+  "generated_at": "2026-11-23T14:10:03+00:00",
   "season": 2026,
   "current_track": "SimRushWeek8",
   "week_no": 8,
@@ -1077,7 +1077,7 @@
     ],
     "hours_at_top": {
       "tomahok": 3.92,
-      "DedalosFPV": 25.08
+      "DedalosFPV": 25.17
     },
     "race_to_top": [
       {
@@ -3388,32 +3388,6 @@
   },
   "race_director_messages": [
     {
-      "date": "2026-11-22T11:15:04+00:00",
-      "text": "[5inch] «SimRushWeek8»\nΜΑ ΚΑΛΑ! **DedalosFPV** με 152.316s - έχετε δει τίποτα πιο ωραίο απόψε; 📺",
-      "tag": "announcement",
-      "id": "rd-a2854aa2a6",
-      "event_type": "NEW_TOP",
-      "category": "timing",
-      "priority": "high",
-      "pilots": [
-        "DedalosFPV"
-      ],
-      "pilot_ids": [
-        "dedalosfpv"
-      ],
-      "track": "SimRushWeek8",
-      "class": "5inch",
-      "week": 8,
-      "season": 2026,
-      "related_duel_id": null,
-      "metadata": {
-        "time": 152.316,
-        "position": 1
-      },
-      "created_at": "2026-11-22T11:15:04+00:00",
-      "expires_at": null
-    },
-    {
       "date": "2026-11-22T13:00:04+00:00",
       "text": "[5inch] «SimRushWeek8»\n🏺 Σπάνιο εύρημα: χρόνος του **Cbeikos** στα 180.451s — οι αρχαιολόγοι συγκλονίστηκαν! 🏛️\nΗ πίστα γελάει με τους διστακτικούς! 😏",
       "tag": "announcement",
@@ -3890,6 +3864,34 @@
         "position": 1
       },
       "created_at": "2026-11-22T21:15:03+00:00",
+      "expires_at": null
+    },
+    {
+      "date": "2026-11-23T14:05:03+00:00",
+      "text": "😈 Η πίστα σπέρνει διχόνοιες: @Liapos vs @tomahok για 1 μέρες στα 0.675s! Duel time!",
+      "tag": "announcement",
+      "id": "rd-833df246c9",
+      "event_type": "DUEL_SUGGEST",
+      "category": "rivalries",
+      "priority": "normal",
+      "pilots": [
+        "Liapos",
+        "tomahok"
+      ],
+      "pilot_ids": [
+        "liapos",
+        "tomahok"
+      ],
+      "track": "SimRushWeek8",
+      "class": null,
+      "week": 8,
+      "season": 2026,
+      "related_duel_id": null,
+      "metadata": {
+        "gap": 0.674999999999983,
+        "days": 1
+      },
+      "created_at": "2026-11-23T14:05:03+00:00",
       "expires_at": null
     }
   ],

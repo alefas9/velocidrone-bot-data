@@ -1,6 +1,6 @@
 {
   "schema_version": "2.1",
-  "generated_at": "2026-11-23T20:25:02+00:00",
+  "generated_at": "2026-11-23T20:30:02+00:00",
   "season": 2026,
   "current_track": "SimRushWeek8",
   "week_no": 8,
@@ -1059,8 +1059,8 @@
         "prev_time": 247.167,
         "improvements": 4,
         "user_id": 309918,
-        "pos_24h": null,
-        "pos_change_24h": null
+        "pos_24h": 5,
+        "pos_change_24h": 0
       },
       {
         "pilot": "fpvchucky",
@@ -1077,7 +1077,7 @@
     ],
     "hours_at_top": {
       "tomahok": 3.92,
-      "DedalosFPV": 31.42
+      "DedalosFPV": 31.5
     },
     "race_to_top": [
       {
@@ -4134,9 +4134,9 @@
         "track": "SimRushWeek8",
         "class": "5inch",
         "current_position": 5,
-        "previous_position": null,
-        "position_change": null,
-        "comparison_period": null,
+        "previous_position": 5,
+        "position_change": 0,
+        "comparison_period": "previous_24h",
         "best_time": 231.034,
         "previous_best_time": 247.167,
         "time_improvement": 16.133,

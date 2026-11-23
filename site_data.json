@@ -1,6 +1,6 @@
 {
   "schema_version": "2.1",
-  "generated_at": "2026-11-23T19:55:03+00:00",
+  "generated_at": "2026-11-23T20:00:03+00:00",
   "season": 2026,
   "current_track": "SimRushWeek8",
   "week_no": 8,
@@ -1077,7 +1077,7 @@
     ],
     "hours_at_top": {
       "tomahok": 3.92,
-      "DedalosFPV": 30.92
+      "DedalosFPV": 31.0
     },
     "race_to_top": [
       {
@@ -3388,31 +3388,6 @@
   },
   "race_director_messages": [
     {
-      "date": "2026-11-22T13:00:04+00:00",
-      "text": "[5inch] «SimRushWeek8»\n🏺 Σπάνιο εύρημα: χρόνος του **Cbeikos** στα 180.451s — οι αρχαιολόγοι συγκλονίστηκαν! 🏛️\nΗ πίστα γελάει με τους διστακτικούς! 😏",
-      "tag": "announcement",
-      "id": "rd-68d6b12a42",
-      "event_type": "PERSONAL",
-      "category": "timing",
-      "priority": "normal",
-      "pilots": [
-        "Cbeikos"
-      ],
-      "pilot_ids": [
-        "cbeikos"
-      ],
-      "track": "SimRushWeek8",
-      "class": "5inch",
-      "week": 8,
-      "season": 2026,
-      "related_duel_id": null,
-      "metadata": {
-        "time": 180.451
-      },
-      "created_at": "2026-11-22T13:00:04+00:00",
-      "expires_at": null
-    },
-    {
       "date": "2026-11-22T13:10:04+00:00",
       "text": "[5inch] «SimRushWeek8»\n🗡️ Χρόνος κατά μέτωπο από τον **Cbeikos**: 168.469s στην «SimRushWeek8»!",
       "tag": "announcement",
@@ -3892,6 +3867,25 @@
         "days": 1
       },
       "created_at": "2026-11-23T14:05:03+00:00",
+      "expires_at": null
+    },
+    {
+      "date": "2026-11-23T20:00:03+00:00",
+      "text": "📺 ΡΕΠΟΡΤΑΖ ΑΓΩΝΙΣΤΙΚΗΣ — «SimRushWeek8»\n🥇 **DedalosFPV**  125.768s\n🥈 **Cbeikos**  143.016s  (+17.248s)\n🥉 **Liapos**  189.346s  (+63.578s)\n**4.** **tomahok**  190.021s  (+64.253s)\n**5.** **dimbazus**  231.034s  (+105.266s)\n**6.** **fpvchucky**  344.457s  (+218.689s)\n\n📈 **Εβδομαδιαία στατιστικά:** 69 νέα ρεκόρ συνολικά - πιο ενεργός ο **Agorastos** (69).",
+      "tag": "announcement",
+      "id": "rd-eaebb3e3e4",
+      "event_type": "WEEK_RECAP",
+      "category": "championship",
+      "priority": "high",
+      "pilots": [],
+      "pilot_ids": [],
+      "track": "SimRushWeek8",
+      "class": null,
+      "week": 8,
+      "season": 2026,
+      "related_duel_id": null,
+      "metadata": {},
+      "created_at": "2026-11-23T20:00:03+00:00",
       "expires_at": null
     }
   ],

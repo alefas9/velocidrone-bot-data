@@ -1,6 +1,6 @@
 {
   "schema_version": "2.1",
-  "generated_at": "2026-11-24T10:45:02+00:00",
+  "generated_at": "2026-11-24T10:50:02+00:00",
   "season": 2026,
   "current_track": "SimRushWeek8",
   "week_no": 8,
@@ -1077,7 +1077,7 @@
     ],
     "hours_at_top": {
       "tomahok": 3.92,
-      "DedalosFPV": 45.75
+      "DedalosFPV": 45.83
     },
     "race_to_top": [
       {

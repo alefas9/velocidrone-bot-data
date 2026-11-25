@@ -9,7 +9,7 @@ const DATA_URL = "https://raw.githubusercontent.com/alefas9/velocidrone-bot-data
 
 const FALLBACK = {
   "schema_version": "2.1",
-  "generated_at": "2026-11-25T17:55:03+00:00",
+  "generated_at": "2026-11-25T18:00:03+00:00",
   "season": 2026,
   "current_track": "SimRushWeek8",
   "week_no": 8,
@@ -18,16 +18,16 @@ const FALLBACK = {
   "current_leaderboard": {
     "5inch": [
       {
+        "pilot": "TettixPro",
+        "time": 118.917,
+        "quad": "Bahamut",
+        "pilot_id": "tettixpro"
+      },
+      {
         "pilot": "DedalosFPV",
         "time": 125.768,
         "quad": "Bahamut",
         "pilot_id": "dedalosfpv"
-      },
-      {
-        "pilot": "TettixPro",
-        "time": 127.365,
-        "quad": "Bahamut",
-        "pilot_id": "tettixpro"
       },
       {
         "pilot": "Cbeikos",
@@ -1018,28 +1018,28 @@ const FALLBACK = {
   "insights": {
     "pilots": [
       {
-        "pilot": "DedalosFPV",
+        "pilot": "TettixPro",
         "class": "5inch",
         "pos": 1,
+        "time": 118.917,
+        "first_time": 127.365,
+        "prev_time": 127.365,
+        "improvements": 2,
+        "user_id": 372096,
+        "pos_24h": null,
+        "pos_change_24h": null
+      },
+      {
+        "pilot": "DedalosFPV",
+        "class": "5inch",
+        "pos": 2,
         "time": 125.768,
         "first_time": 279.288,
         "prev_time": 128.009,
         "improvements": 9,
         "user_id": 387184,
         "pos_24h": 1,
-        "pos_change_24h": 0
-      },
-      {
-        "pilot": "TettixPro",
-        "class": "5inch",
-        "pos": 2,
-        "time": 127.365,
-        "first_time": 127.365,
-        "prev_time": null,
-        "improvements": 1,
-        "user_id": 372096,
-        "pos_24h": null,
-        "pos_change_24h": null
+        "pos_change_24h": -1
       },
       {
         "pilot": "Cbeikos",
@@ -1104,7 +1104,7 @@ const FALLBACK = {
     ],
     "hours_at_top": {
       "tomahok": 3.92,
-      "DedalosFPV": 76.92
+      "DedalosFPV": 78.92
     },
     "race_to_top": [
       {
@@ -1128,12 +1128,12 @@ const FALLBACK = {
         "improvements": 3
       },
       {
-        "pilot": "fpvchucky",
+        "pilot": "TettixPro",
         "improvements": 2
       },
       {
-        "pilot": "TettixPro",
-        "improvements": 1
+        "pilot": "fpvchucky",
+        "improvements": 2
       }
     ]
   },
@@ -1197,6 +1197,13 @@ const FALLBACK = {
     ]
   },
   "improvements": [
+    {
+      "pilot": "TettixPro",
+      "track": "SimRushWeek8",
+      "time": 118.917,
+      "delta": 8.448,
+      "date": "2026-11-25T19:55:02+00:00"
+    },
     {
       "pilot": "TettixPro",
       "track": "SimRushWeek8",
@@ -3289,13 +3296,6 @@ const FALLBACK = {
       "time": 150.967,
       "delta": 2.185,
       "date": "2026-10-26T00:00:00+00:00"
-    },
-    {
-      "pilot": "Cbeikos",
-      "track": "SimRushWeek-4",
-      "time": 293.952,
-      "delta": null,
-      "date": "2026-10-25T00:00:00+00:00"
     }
   ],
   "pilot_stats": {
@@ -3310,7 +3310,7 @@ const FALLBACK = {
       "best_improvement_pct": 17.57
     },
     "TettixPro": {
-      "pbs": 33,
+      "pbs": 34,
       "tracks_improved": 9,
       "best_improvement_pct": 30.77
     },
@@ -3381,7 +3381,7 @@ const FALLBACK = {
     "first_time": 279.288,
     "best_time": 125.768,
     "improvement_pct": 54.97,
-    "position": 1,
+    "position": 2,
     "pb_events": 9,
     "criteria": {
       "top_n": 8,
@@ -3403,9 +3403,10 @@ const FALLBACK = {
       "leader": "DedalosFPV",
       "chaser": "TettixPro",
       "gap": 1.597,
-      "days": 2,
+      "days": 0,
       "class": "5inch",
-      "opened": false
+      "opened": true,
+      "was_gap": 1.597
     }
   ],
   "track_reveal": {
@@ -3426,32 +3427,6 @@ const FALLBACK = {
     }
   },
   "race_director_messages": [
-    {
-      "date": "2026-11-22T18:10:04+00:00",
-      "text": "[5inch] «SimRushWeek8»\n🥇 Δεν παίζουμε πια: ο **DedalosFPV** έκλεισε το μαγαζί με 128.009s στην «SimRushWeek8»!\nΤα props δεν θα αντικατασταθούν μόνα τους! 🔧",
-      "tag": "announcement",
-      "id": "rd-bbc07d00a2",
-      "event_type": "NEW_TOP",
-      "category": "timing",
-      "priority": "high",
-      "pilots": [
-        "DedalosFPV"
-      ],
-      "pilot_ids": [
-        "dedalosfpv"
-      ],
-      "track": "SimRushWeek8",
-      "class": "5inch",
-      "week": 8,
-      "season": 2026,
-      "related_duel_id": null,
-      "metadata": {
-        "time": 128.009,
-        "position": 1
-      },
-      "created_at": "2026-11-22T18:10:04+00:00",
-      "expires_at": null
-    },
     {
       "date": "2026-11-22T18:30:04+00:00",
       "text": "[5inch] «SimRushWeek8»\n🪙 Ο **dimbazus** κάνει οικονομία στα δευτερόλεπτα: 305.526s - τσιγκούνης ως το τέρμα!\nΝταξ, το είδατε - τώρα πηγαίνετε να το φτιάξετε! 🛠️",
@@ -3918,6 +3893,34 @@ const FALLBACK = {
       },
       "created_at": "2026-11-25T14:40:04+00:00",
       "expires_at": null
+    },
+    {
+      "date": "2026-11-25T17:55:04+00:00",
+      "text": "[5inch] «SimRushWeek8»\n⚡ ΚΛΟΠΗ ΤΗΣ ΚΟΡΥΦΗΣ! Ο **DedalosFPV** κοιμόταν κι ο **TettixPro** πέρασε με 118.917s! Η εκδίκηση είναι γλυκιά... 🍿\nΤα props δεν θα αντικατασταθούν μόνα τους! 🔧",
+      "tag": "announcement",
+      "id": "rd-55aa58a36d",
+      "event_type": "CROWN_THEFT",
+      "category": "timing",
+      "priority": "breaking",
+      "pilots": [
+        "TettixPro",
+        "DedalosFPV"
+      ],
+      "pilot_ids": [
+        "tettixpro",
+        "dedalosfpv"
+      ],
+      "track": "SimRushWeek8",
+      "class": "5inch",
+      "week": 8,
+      "season": 2026,
+      "related_duel_id": null,
+      "metadata": {
+        "time": 118.917,
+        "position": 1
+      },
+      "created_at": "2026-11-25T17:55:04+00:00",
+      "expires_at": null
     }
   ],
   "avatars": {},
@@ -4133,9 +4136,9 @@ const FALLBACK = {
       "current_week": {
         "track": "SimRushWeek8",
         "class": "5inch",
-        "current_position": 1,
+        "current_position": 2,
         "previous_position": 1,
-        "position_change": 0,
+        "position_change": -1,
         "comparison_period": "previous_24h",
         "best_time": 125.768,
         "previous_best_time": 128.009,
@@ -4381,17 +4384,17 @@ const FALLBACK = {
       "current_week": {
         "track": "SimRushWeek8",
         "class": "5inch",
-        "current_position": 2,
+        "current_position": 1,
         "previous_position": null,
         "position_change": null,
         "comparison_period": null,
-        "best_time": 127.365,
-        "previous_best_time": null,
-        "time_improvement": null,
+        "best_time": 118.917,
+        "previous_best_time": 127.365,
+        "time_improvement": 8.448,
         "first_time": 127.365
       },
       "stats": {
-        "pbs": 33,
+        "pbs": 34,
         "tracks_improved": 9,
         "best_improvement_pct": 30.77
       }

@@ -1,6 +1,6 @@
 {
   "schema_version": "2.1",
-  "generated_at": "2026-11-25T19:55:02+00:00",
+  "generated_at": "2026-11-25T20:00:03+00:00",
   "season": 2026,
   "current_track": "SimRushWeek8",
   "week_no": 8,
@@ -3420,31 +3420,6 @@
   },
   "race_director_messages": [
     {
-      "date": "2026-11-22T18:50:03+00:00",
-      "text": "[5inch] «SimRushWeek8»\n🛝 Τσουλήθρα στον αέρα: **dimbazus** - 247.167s στην «SimRushWeek8»!",
-      "tag": "announcement",
-      "id": "rd-d2183212b6",
-      "event_type": "PERSONAL",
-      "category": "timing",
-      "priority": "normal",
-      "pilots": [
-        "dimbazus"
-      ],
-      "pilot_ids": [
-        "dimbazus"
-      ],
-      "track": "SimRushWeek8",
-      "class": "5inch",
-      "week": 8,
-      "season": 2026,
-      "related_duel_id": null,
-      "metadata": {
-        "time": 247.167
-      },
-      "created_at": "2026-11-22T18:50:03+00:00",
-      "expires_at": null
-    },
-    {
       "date": "2026-11-22T18:55:04+00:00",
       "text": "[5inch] «SimRushWeek8»\n🎤 Θα το πούμε στην αναμετάδοση: ο **dimbazus** με 231.034s! Όσο κι αν φωνάζουμε!",
       "tag": "announcement",
@@ -3912,6 +3887,25 @@
         "time": 125.23
       },
       "created_at": "2026-11-25T18:20:09+00:00",
+      "expires_at": null
+    },
+    {
+      "date": "2026-11-25T20:00:02+00:00",
+      "text": "🎬 ΕΝΔΙΑΜΕΣΟ ΣΗΜΕΙΩΜΑ — «SimRushWeek8»\n🥇 **TettixPro**  118.917s\n🥈 **DedalosFPV**  125.230s  (+6.313s)\n🥉 **Cbeikos**  143.016s  (+24.099s)\n**4.** **dimbazus**  184.423s  (+65.506s)\n**5.** **Liapos**  189.346s  (+70.429s)\n**6.** **tomahok**  190.021s  (+71.104s)\n**7.** **fpvchucky**  344.457s  (+225.540s)\n\n📈 **Εβδομαδιαία στατιστικά:** 77 νέα ρεκόρ συνολικά - πιο ενεργός ο **dimbazus** (77).",
+      "tag": "announcement",
+      "id": "rd-3a29c339bd",
+      "event_type": "WEEK_RECAP",
+      "category": "championship",
+      "priority": "high",
+      "pilots": [],
+      "pilot_ids": [],
+      "track": "SimRushWeek8",
+      "class": null,
+      "week": 8,
+      "season": 2026,
+      "related_duel_id": null,
+      "metadata": {},
+      "created_at": "2026-11-25T20:00:02+00:00",
       "expires_at": null
     }
   ],

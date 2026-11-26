@@ -9,7 +9,7 @@ const DATA_URL = "https://raw.githubusercontent.com/alefas9/velocidrone-bot-data
 
 const FALLBACK = {
   "schema_version": "2.1",
-  "generated_at": "2026-11-26T15:55:03+00:00",
+  "generated_at": "2026-11-26T16:00:03+00:00",
   "season": 2026,
   "current_track": "SimRushWeek8",
   "week_no": 8,
@@ -52,6 +52,12 @@ const FALLBACK = {
         "time": 190.021,
         "quad": "Five33 Switchback",
         "pilot_id": "tomahok"
+      },
+      {
+        "pilot": "Agorastos",
+        "time": 239.706,
+        "quad": "Bahamut",
+        "pilot_id": "agorastos"
       },
       {
         "pilot": "fpvchucky",
@@ -1090,22 +1096,34 @@ const FALLBACK = {
         "pos_change_24h": -1
       },
       {
-        "pilot": "fpvchucky",
+        "pilot": "Agorastos",
         "class": "5inch",
         "pos": 7,
+        "time": 239.706,
+        "first_time": 239.706,
+        "prev_time": null,
+        "improvements": 1,
+        "user_id": 128161,
+        "pos_24h": null,
+        "pos_change_24h": null
+      },
+      {
+        "pilot": "fpvchucky",
+        "class": "5inch",
+        "pos": 8,
         "time": 344.457,
         "first_time": 349.023,
         "prev_time": 349.023,
         "improvements": 2,
         "user_id": 451407,
         "pos_24h": 6,
-        "pos_change_24h": -1
+        "pos_change_24h": -2
       }
     ],
     "hours_at_top": {
       "tomahok": 3.92,
       "DedalosFPV": 78.92,
-      "TettixPro": 20.0
+      "TettixPro": 22.0
     },
     "race_to_top": [
       {
@@ -1135,6 +1153,10 @@ const FALLBACK = {
       {
         "pilot": "fpvchucky",
         "improvements": 2
+      },
+      {
+        "pilot": "Agorastos",
+        "improvements": 1
       }
     ]
   },
@@ -1198,6 +1220,13 @@ const FALLBACK = {
     ]
   },
   "improvements": [
+    {
+      "pilot": "Agorastos",
+      "track": "SimRushWeek8",
+      "time": 239.706,
+      "delta": null,
+      "date": "2026-11-26T17:55:02+00:00"
+    },
     {
       "pilot": "Liapos",
       "track": "SimRushWeek8",
@@ -3290,13 +3319,6 @@ const FALLBACK = {
       "time": 101.948,
       "delta": 8.552,
       "date": "2026-10-26T00:00:00+00:00"
-    },
-    {
-      "pilot": "Cbeikos",
-      "track": "SimRushWeek-4",
-      "time": 122.972,
-      "delta": 0.333,
-      "date": "2026-10-26T00:00:00+00:00"
     }
   ],
   "pilot_stats": {
@@ -3321,8 +3343,8 @@ const FALLBACK = {
       "best_improvement_pct": 11.06
     },
     "Agorastos": {
-      "pbs": 73,
-      "tracks_improved": 8,
+      "pbs": 74,
+      "tracks_improved": 9,
       "best_improvement_pct": 11.76
     },
     "tomahok": {
@@ -3437,31 +3459,6 @@ const FALLBACK = {
     }
   },
   "race_director_messages": [
-    {
-      "date": "2026-11-22T19:45:03+00:00",
-      "text": "[5inch] «SimRushWeek8»\n🪁 Sent it! Ο **fpvchucky** το έστειλε: 344.457s στην «SimRushWeek8»!",
-      "tag": "announcement",
-      "id": "rd-8b8072d994",
-      "event_type": "PERSONAL",
-      "category": "timing",
-      "priority": "normal",
-      "pilots": [
-        "fpvchucky"
-      ],
-      "pilot_ids": [
-        "fpvchucky"
-      ],
-      "track": "SimRushWeek8",
-      "class": "5inch",
-      "week": 8,
-      "season": 2026,
-      "related_duel_id": null,
-      "metadata": {
-        "time": 344.457
-      },
-      "created_at": "2026-11-22T19:45:03+00:00",
-      "expires_at": null
-    },
     {
       "date": "2026-11-22T21:15:03+00:00",
       "text": "[5inch] «SimRushWeek8»\n🚂 ΤΡΕΝΟ στην «SimRushWeek8»! Ο **DedalosFPV** με 125.768s δεν σταμάτησε σε καμία στάση!\nΤο τρένο δεν περιμένει! 🚂",
@@ -3919,6 +3916,31 @@ const FALLBACK = {
       },
       "created_at": "2026-11-26T00:20:04+00:00",
       "expires_at": null
+    },
+    {
+      "date": "2026-11-26T15:55:03+00:00",
+      "text": "[5inch] «SimRushWeek8»\n🎤 Θα το πούμε στην αναμετάδοση: ο **Agorastos** με 239.706s! Όσο κι αν φωνάζουμε!",
+      "tag": "announcement",
+      "id": "rd-0bb214d5ba",
+      "event_type": "PERSONAL",
+      "category": "timing",
+      "priority": "normal",
+      "pilots": [
+        "Agorastos"
+      ],
+      "pilot_ids": [
+        "agorastos"
+      ],
+      "track": "SimRushWeek8",
+      "class": "5inch",
+      "week": 8,
+      "season": 2026,
+      "related_duel_id": null,
+      "metadata": {
+        "time": 239.706
+      },
+      "created_at": "2026-11-26T15:55:03+00:00",
+      "expires_at": null
     }
   ],
   "avatars": {},
@@ -4016,10 +4038,21 @@ const FALLBACK = {
         "comparison_period": "previous_completed_week",
         "comparison_reference": "SimRushWeek7"
       },
-      "current_week": null,
+      "current_week": {
+        "track": "SimRushWeek8",
+        "class": "5inch",
+        "current_position": 7,
+        "previous_position": null,
+        "position_change": null,
+        "comparison_period": null,
+        "best_time": 239.706,
+        "previous_best_time": null,
+        "time_improvement": null,
+        "first_time": 239.706
+      },
       "stats": {
-        "pbs": 73,
-        "tracks_improved": 8,
+        "pbs": 74,
+        "tracks_improved": 9,
         "best_improvement_pct": 11.76
       }
     },
@@ -4234,9 +4267,9 @@ const FALLBACK = {
       "current_week": {
         "track": "SimRushWeek8",
         "class": "5inch",
-        "current_position": 7,
+        "current_position": 8,
         "previous_position": 6,
-        "position_change": -1,
+        "position_change": -2,
         "comparison_period": "previous_24h",
         "best_time": 344.457,
         "previous_best_time": 349.023,

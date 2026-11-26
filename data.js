@@ -9,7 +9,7 @@ const DATA_URL = "https://raw.githubusercontent.com/alefas9/velocidrone-bot-data
 
 const FALLBACK = {
   "schema_version": "2.1",
-  "generated_at": "2026-11-26T16:35:02+00:00",
+  "generated_at": "2026-11-26T16:40:02+00:00",
   "season": 2026,
   "current_track": "SimRushWeek8",
   "week_no": 8,
@@ -1032,8 +1032,8 @@ const FALLBACK = {
         "prev_time": 127.365,
         "improvements": 2,
         "user_id": 372096,
-        "pos_24h": null,
-        "pos_change_24h": null
+        "pos_24h": 2,
+        "pos_change_24h": 1
       },
       {
         "pilot": "DedalosFPV",
@@ -1056,8 +1056,8 @@ const FALLBACK = {
         "prev_time": 147.735,
         "improvements": 8,
         "user_id": 258063,
-        "pos_24h": 2,
-        "pos_change_24h": -1
+        "pos_24h": 3,
+        "pos_change_24h": 0
       },
       {
         "pilot": "Liapos",
@@ -1068,8 +1068,8 @@ const FALLBACK = {
         "prev_time": 189.346,
         "improvements": 4,
         "user_id": 155181,
-        "pos_24h": 4,
-        "pos_change_24h": 0
+        "pos_24h": 5,
+        "pos_change_24h": 1
       },
       {
         "pilot": "dimbazus",
@@ -1080,8 +1080,8 @@ const FALLBACK = {
         "prev_time": 196.647,
         "improvements": 12,
         "user_id": 309918,
-        "pos_24h": 3,
-        "pos_change_24h": -2
+        "pos_24h": 4,
+        "pos_change_24h": -1
       },
       {
         "pilot": "tomahok",
@@ -1092,8 +1092,8 @@ const FALLBACK = {
         "prev_time": 191.93,
         "improvements": 3,
         "user_id": 17641,
-        "pos_24h": 5,
-        "pos_change_24h": -1
+        "pos_24h": 6,
+        "pos_change_24h": 0
       },
       {
         "pilot": "Agorastos",
@@ -1116,8 +1116,8 @@ const FALLBACK = {
         "prev_time": 349.023,
         "improvements": 2,
         "user_id": 451407,
-        "pos_24h": 6,
-        "pos_change_24h": -2
+        "pos_24h": 7,
+        "pos_change_24h": -1
       }
     ],
     "hours_at_top": {
@@ -4133,8 +4133,8 @@ const FALLBACK = {
         "track": "SimRushWeek8",
         "class": "5inch",
         "current_position": 3,
-        "previous_position": 2,
-        "position_change": -1,
+        "previous_position": 3,
+        "position_change": 0,
         "comparison_period": "previous_24h",
         "best_time": 143.016,
         "previous_best_time": 147.735,
@@ -4207,8 +4207,8 @@ const FALLBACK = {
         "track": "SimRushWeek8",
         "class": "5inch",
         "current_position": 5,
-        "previous_position": 3,
-        "position_change": -2,
+        "previous_position": 4,
+        "position_change": -1,
         "comparison_period": "previous_24h",
         "best_time": 184.423,
         "previous_best_time": 196.647,
@@ -4270,8 +4270,8 @@ const FALLBACK = {
         "track": "SimRushWeek8",
         "class": "5inch",
         "current_position": 8,
-        "previous_position": 6,
-        "position_change": -2,
+        "previous_position": 7,
+        "position_change": -1,
         "comparison_period": "previous_24h",
         "best_time": 344.457,
         "previous_best_time": 349.023,
@@ -4355,8 +4355,8 @@ const FALLBACK = {
         "track": "SimRushWeek8",
         "class": "5inch",
         "current_position": 4,
-        "previous_position": 4,
-        "position_change": 0,
+        "previous_position": 5,
+        "position_change": 1,
         "comparison_period": "previous_24h",
         "best_time": 183.104,
         "previous_best_time": 189.346,
@@ -4418,9 +4418,9 @@ const FALLBACK = {
         "track": "SimRushWeek8",
         "class": "5inch",
         "current_position": 1,
-        "previous_position": null,
-        "position_change": null,
-        "comparison_period": null,
+        "previous_position": 2,
+        "position_change": 1,
+        "comparison_period": "previous_24h",
         "best_time": 118.917,
         "previous_best_time": 127.365,
         "time_improvement": 8.448,
@@ -4455,8 +4455,8 @@ const FALLBACK = {
         "track": "SimRushWeek8",
         "class": "5inch",
         "current_position": 6,
-        "previous_position": 5,
-        "position_change": -1,
+        "previous_position": 6,
+        "position_change": 0,
         "comparison_period": "previous_24h",
         "best_time": 190.021,
         "previous_best_time": 191.93,

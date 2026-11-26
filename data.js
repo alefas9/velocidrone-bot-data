@@ -9,7 +9,7 @@ const DATA_URL = "https://raw.githubusercontent.com/alefas9/velocidrone-bot-data
 
 const FALLBACK = {
   "schema_version": "2.1",
-  "generated_at": "2026-11-26T00:20:03+00:00",
+  "generated_at": "2026-11-26T00:25:03+00:00",
   "season": 2026,
   "current_track": "SimRushWeek8",
   "week_no": 8,
@@ -36,16 +36,16 @@ const FALLBACK = {
         "pilot_id": "cbeikos"
       },
       {
+        "pilot": "Liapos",
+        "time": 183.104,
+        "quad": "Bahamut",
+        "pilot_id": "liapos"
+      },
+      {
         "pilot": "dimbazus",
         "time": 184.423,
         "quad": "Bahamut",
         "pilot_id": "dimbazus"
-      },
-      {
-        "pilot": "Liapos",
-        "time": 189.346,
-        "quad": "Bahamut",
-        "pilot_id": "liapos"
       },
       {
         "pilot": "tomahok",
@@ -1054,28 +1054,28 @@ const FALLBACK = {
         "pos_change_24h": -1
       },
       {
-        "pilot": "dimbazus",
+        "pilot": "Liapos",
         "class": "5inch",
         "pos": 4,
+        "time": 183.104,
+        "first_time": 217.42,
+        "prev_time": 189.346,
+        "improvements": 4,
+        "user_id": 155181,
+        "pos_24h": 4,
+        "pos_change_24h": 0
+      },
+      {
+        "pilot": "dimbazus",
+        "class": "5inch",
+        "pos": 5,
         "time": 184.423,
         "first_time": 305.526,
         "prev_time": 196.647,
         "improvements": 12,
         "user_id": 309918,
         "pos_24h": 3,
-        "pos_change_24h": -1
-      },
-      {
-        "pilot": "Liapos",
-        "class": "5inch",
-        "pos": 5,
-        "time": 189.346,
-        "first_time": 217.42,
-        "prev_time": 205.716,
-        "improvements": 3,
-        "user_id": 155181,
-        "pos_24h": 4,
-        "pos_change_24h": -1
+        "pos_change_24h": -2
       },
       {
         "pilot": "tomahok",
@@ -1105,7 +1105,7 @@ const FALLBACK = {
     "hours_at_top": {
       "tomahok": 3.92,
       "DedalosFPV": 78.92,
-      "TettixPro": 4.42
+      "TettixPro": 6.42
     },
     "race_to_top": [
       {
@@ -1122,7 +1122,7 @@ const FALLBACK = {
       },
       {
         "pilot": "Liapos",
-        "improvements": 3
+        "improvements": 4
       },
       {
         "pilot": "tomahok",
@@ -1198,6 +1198,13 @@ const FALLBACK = {
     ]
   },
   "improvements": [
+    {
+      "pilot": "Liapos",
+      "track": "SimRushWeek8",
+      "time": 183.104,
+      "delta": 6.242,
+      "date": "2026-11-26T02:20:02+00:00"
+    },
     {
       "pilot": "DedalosFPV",
       "track": "SimRushWeek8",
@@ -3290,13 +3297,6 @@ const FALLBACK = {
       "time": 122.972,
       "delta": 0.333,
       "date": "2026-10-26T00:00:00+00:00"
-    },
-    {
-      "pilot": "Cbeikos",
-      "track": "SimRushWeek-4",
-      "time": 116.27,
-      "delta": 6.702,
-      "date": "2026-10-26T00:00:00+00:00"
     }
   ],
   "pilot_stats": {
@@ -3316,7 +3316,7 @@ const FALLBACK = {
       "best_improvement_pct": 30.77
     },
     "Liapos": {
-      "pbs": 33,
+      "pbs": 34,
       "tracks_improved": 9,
       "best_improvement_pct": 11.06
     },
@@ -3394,11 +3394,20 @@ const FALLBACK = {
   "hot_battles": [
     {
       "leader": "Liapos",
+      "chaser": "dimbazus",
+      "gap": 1.319,
+      "days": 0,
+      "class": "5inch",
+      "opened": false
+    },
+    {
+      "leader": "Liapos",
       "chaser": "tomahok",
       "gap": 0.675,
       "days": 0,
       "class": "5inch",
-      "opened": false
+      "opened": true,
+      "was_gap": 0.675
     },
     {
       "leader": "DedalosFPV",
@@ -3428,31 +3437,6 @@ const FALLBACK = {
     }
   },
   "race_director_messages": [
-    {
-      "date": "2026-11-22T19:20:03+00:00",
-      "text": "[5inch] «SimRushWeek8»\n🦅 Αετού μάτι: **fpvchucky** βρήκε την γραμμή στην «SimRushWeek8»: 349.023s!",
-      "tag": "announcement",
-      "id": "rd-adf222f85d",
-      "event_type": "PERSONAL",
-      "category": "timing",
-      "priority": "normal",
-      "pilots": [
-        "fpvchucky"
-      ],
-      "pilot_ids": [
-        "fpvchucky"
-      ],
-      "track": "SimRushWeek8",
-      "class": "5inch",
-      "week": 8,
-      "season": 2026,
-      "related_duel_id": null,
-      "metadata": {
-        "time": 349.023
-      },
-      "created_at": "2026-11-22T19:20:03+00:00",
-      "expires_at": null
-    },
     {
       "date": "2026-11-22T19:45:03+00:00",
       "text": "[5inch] «SimRushWeek8»\n🪁 Sent it! Ο **fpvchucky** το έστειλε: 344.457s στην «SimRushWeek8»!",
@@ -3910,6 +3894,31 @@ const FALLBACK = {
       "metadata": {},
       "created_at": "2026-11-25T20:00:03+00:00",
       "expires_at": null
+    },
+    {
+      "date": "2026-11-26T00:20:04+00:00",
+      "text": "[5inch] «SimRushWeek8»\n🪛 Το ρεκόρ το πήρε με το στανιό ο **Liapos**: 183.104s - δεν ξαναγίνεται αυτό!\nΤο τρένο δεν περιμένει! 🚂",
+      "tag": "announcement",
+      "id": "rd-0cd1c204cd",
+      "event_type": "PERSONAL",
+      "category": "timing",
+      "priority": "normal",
+      "pilots": [
+        "Liapos"
+      ],
+      "pilot_ids": [
+        "liapos"
+      ],
+      "track": "SimRushWeek8",
+      "class": "5inch",
+      "week": 8,
+      "season": 2026,
+      "related_duel_id": null,
+      "metadata": {
+        "time": 183.104
+      },
+      "created_at": "2026-11-26T00:20:04+00:00",
+      "expires_at": null
     }
   ],
   "avatars": {},
@@ -4162,9 +4171,9 @@ const FALLBACK = {
       "current_week": {
         "track": "SimRushWeek8",
         "class": "5inch",
-        "current_position": 4,
+        "current_position": 5,
         "previous_position": 3,
-        "position_change": -1,
+        "position_change": -2,
         "comparison_period": "previous_24h",
         "best_time": 184.423,
         "previous_best_time": 196.647,
@@ -4310,17 +4319,17 @@ const FALLBACK = {
       "current_week": {
         "track": "SimRushWeek8",
         "class": "5inch",
-        "current_position": 5,
+        "current_position": 4,
         "previous_position": 4,
-        "position_change": -1,
+        "position_change": 0,
         "comparison_period": "previous_24h",
-        "best_time": 189.346,
-        "previous_best_time": 205.716,
-        "time_improvement": 16.37,
+        "best_time": 183.104,
+        "previous_best_time": 189.346,
+        "time_improvement": 6.242,
         "first_time": 217.42
       },
       "stats": {
-        "pbs": 33,
+        "pbs": 34,
         "tracks_improved": 9,
         "best_improvement_pct": 11.06
       }

@@ -9,7 +9,7 @@ const DATA_URL = "https://raw.githubusercontent.com/alefas9/velocidrone-bot-data
 
 const FALLBACK = {
   "schema_version": "2.1",
-  "generated_at": "2026-11-28T09:30:03+00:00",
+  "generated_at": "2026-11-28T09:35:03+00:00",
   "season": 2026,
   "current_track": "SimRushWeek8",
   "week_no": 8,
@@ -43,7 +43,7 @@ const FALLBACK = {
       },
       {
         "pilot": "tomahok",
-        "time": 171.275,
+        "time": 168.493,
         "quad": "Five33 Switchback",
         "pilot_id": "tomahok"
       },
@@ -1081,10 +1081,10 @@ const FALLBACK = {
         "pilot": "tomahok",
         "class": "5inch",
         "pos": 5,
-        "time": 171.275,
+        "time": 168.493,
         "first_time": 235.014,
-        "prev_time": 190.021,
-        "improvements": 4,
+        "prev_time": 171.275,
+        "improvements": 5,
         "user_id": 17641,
         "pos_24h": 6,
         "pos_change_24h": 1
@@ -1142,7 +1142,7 @@ const FALLBACK = {
       "tomahok": 3.92,
       "DedalosFPV": 78.92,
       "TettixPro": 48.07,
-      "ZOUP": 15.51
+      "ZOUP": 15.59
     },
     "race_to_top": [
       {
@@ -1159,7 +1159,7 @@ const FALLBACK = {
       },
       {
         "pilot": "tomahok",
-        "improvements": 4
+        "improvements": 5
       },
       {
         "pilot": "Liapos",
@@ -1243,6 +1243,13 @@ const FALLBACK = {
     ]
   },
   "improvements": [
+    {
+      "pilot": "tomahok",
+      "track": "SimRushWeek8",
+      "time": 168.493,
+      "delta": 2.782,
+      "date": "2026-11-28T11:30:02+02:00"
+    },
     {
       "pilot": "ZOUP",
       "track": "SimRushWeek8",
@@ -3335,13 +3342,6 @@ const FALLBACK = {
       "time": 297.671,
       "delta": null,
       "date": "2026-10-26T00:00:00+02:00"
-    },
-    {
-      "pilot": "Torque72",
-      "track": "SimRushWeek-4",
-      "time": 266.231,
-      "delta": 31.44,
-      "date": "2026-10-26T00:00:00+02:00"
     }
   ],
   "pilot_stats": {
@@ -3371,7 +3371,7 @@ const FALLBACK = {
       "best_improvement_pct": 11.76
     },
     "tomahok": {
-      "pbs": 40,
+      "pbs": 41,
       "tracks_improved": 8,
       "best_improvement_pct": 33.6
     },
@@ -3464,31 +3464,6 @@ const FALLBACK = {
     }
   },
   "race_director_messages": [
-    {
-      "date": "2026-11-23T23:30:04+00:00",
-      "text": "[5inch] «SimRushWeek8»\n🧤 Με τα γάντια πιάστηκε: ο **dimbazus** έκανε 203.707s — καθαρή δουλειά! 🫧\nΑύριο κάποιος θα το μετανιώσει! 😈",
-      "tag": "announcement",
-      "id": "rd-b4cdc1af18",
-      "event_type": "PERSONAL",
-      "category": "timing",
-      "priority": "normal",
-      "pilots": [
-        "dimbazus"
-      ],
-      "pilot_ids": [
-        "dimbazus"
-      ],
-      "track": "SimRushWeek8",
-      "class": "5inch",
-      "week": 8,
-      "season": 2026,
-      "related_duel_id": null,
-      "metadata": {
-        "time": 203.707
-      },
-      "created_at": "2026-11-23T23:30:04+00:00",
-      "expires_at": null
-    },
     {
       "date": "2026-11-23T23:35:03+00:00",
       "text": "[5inch] «SimRushWeek8»\n🔦 Έκλειψη χρόνου: ο **dimbazus** σκέπασε τα δευτερόλεπτα — διάρκεια 201.992s! 🌑",
@@ -3944,6 +3919,31 @@ const FALLBACK = {
       "related_duel_id": null,
       "metadata": {},
       "created_at": "2026-11-27T20:00:03+00:00",
+      "expires_at": null
+    },
+    {
+      "date": "2026-11-28T09:30:03+00:00",
+      "text": "[5inch] «SimRushWeek8»\n🗞️ ΠΡΩΤΟΣΕΛΙΔΟ: «**tomahok** ΣΥΝΤΡΙΒΕΙ ΤΟ ΡΕΚΟΡ» — 168.493s με κεφαλαία! 📰",
+      "tag": "announcement",
+      "id": "rd-7c9a1a3cb2",
+      "event_type": "PERSONAL",
+      "category": "timing",
+      "priority": "normal",
+      "pilots": [
+        "tomahok"
+      ],
+      "pilot_ids": [
+        "tomahok"
+      ],
+      "track": "SimRushWeek8",
+      "class": "5inch",
+      "week": 8,
+      "season": 2026,
+      "related_duel_id": null,
+      "metadata": {
+        "time": 168.493
+      },
+      "created_at": "2026-11-28T09:30:03+00:00",
       "expires_at": null
     }
   ],
@@ -4460,13 +4460,13 @@ const FALLBACK = {
         "previous_position": 6,
         "position_change": 1,
         "comparison_period": "previous_24h",
-        "best_time": 171.275,
-        "previous_best_time": 190.021,
-        "time_improvement": 18.746,
+        "best_time": 168.493,
+        "previous_best_time": 171.275,
+        "time_improvement": 2.782,
         "first_time": 235.014
       },
       "stats": {
-        "pbs": 40,
+        "pbs": 41,
         "tracks_improved": 8,
         "best_improvement_pct": 33.6
       }

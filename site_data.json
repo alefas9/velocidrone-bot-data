@@ -1,6 +1,6 @@
 {
   "schema_version": "2.1",
-  "generated_at": "2026-11-28T19:40:02+00:00",
+  "generated_at": "2026-11-28T19:45:02+00:00",
   "season": 2026,
   "current_track": "SimRushWeek8",
   "week_no": 8,
@@ -1230,7 +1230,7 @@
       "tomahok": 3.92,
       "DedalosFPV": 78.92,
       "TettixPro": 48.07,
-      "ZOUP": 25.68
+      "ZOUP": 25.76
     },
     "race_to_top": [
       {
